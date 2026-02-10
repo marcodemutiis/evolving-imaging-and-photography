@@ -6,10 +6,4 @@ course_id: cameraless
 order: 1
 ---
 
-blablabla.
-
----
-
-## Lesson 1
-
-blabla
+course intro here.

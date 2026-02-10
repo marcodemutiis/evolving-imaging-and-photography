@@ -8,6 +8,4 @@ lesson_number: 1
 
 blablabla
 
-## Title
-
-blabla
+![an_image](assets/test.jpg)
