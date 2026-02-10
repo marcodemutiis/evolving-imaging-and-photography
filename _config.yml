@@ -1,0 +1,19 @@
+title: "Expanded Photography"
+description: "Courses and learning materials by Marco De Mutiis"
+url: "https://marcodemutiis.github.io"
+baseurl: "/expandedphotography"
+
+markdown: kramdown
+highlighter: rouge
+
+collections:
+  courses:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "courses"
+    values:
+      layout: "lesson"

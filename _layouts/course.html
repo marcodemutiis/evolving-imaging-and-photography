@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="breadcrumb">
+  <a href="{{ site.baseurl }}/">Courses</a> /
+</div>
+
+<h1>{{ page.title }}</h1>
+<p class="subtitle">{{ page.description }}</p>
+
+{{ content }}
+
+<h2>Lessons</h2>
+
+<ol class="lesson-list">
+{% assign lessons = site.courses | where: "course_id", page.course_id | where: "layout", "lesson" | sort: "lesson_number" %}
+{% for lesson in lessons %}
+  <li class="lesson-item">
+    <a href="{{ lesson.url | relative_url }}">
+      <span class="lesson-number">{{ lesson.lesson_number | prepend: '00' | slice: -2, 2 }}</span>
+      <span class="lesson-title">{{ lesson.title }}</span>
+    </a>
+  </li>
+{% endfor %}
+</ol>

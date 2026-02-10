@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h1>Courses</h1>
+<p class="subtitle">A collection of things I've learned and want to share. Pick a course, start reading.</p>
+
+{% comment %}
+  Group course files by course_id, then display each course.
+  The "index.md" of each course folder has layout: course and acts as the overview.
+{% endcomment %}
+
+<ul class="course-list">
+{% assign course_pages = site.courses | where: "layout", "course" | sort: "order" %}
+{% for course in course_pages %}
+  <li class="course-card">
+    <a href="{{ course.url | relative_url }}">
+      <div class="course-card-title">{{ course.title }}</div>
+      <div class="course-card-desc">{{ course.description }}</div>
+      {% assign lesson_count = site.courses | where: "course_id", course.course_id | where: "layout", "lesson" | size %}
+      <div class="course-card-meta">{{ lesson_count }} lessons</div>
+    </a>
+  </li>
+{% endfor %}
+</ul>
