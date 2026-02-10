@@ -8,4 +8,4 @@ lesson_number: 1
 
 blablabla
 
-![an_image](assets/test.jpg)
+![an_image](./assets/test.jpg)
