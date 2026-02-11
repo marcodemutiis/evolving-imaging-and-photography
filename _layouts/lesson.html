@@ -4,7 +4,8 @@ layout: default
 
 <div class="breadcrumb">
   <a href="{{ site.baseurl }}/">Courses</a> /
-  <a href="{{ site.baseurl }}/courses/{{ page.course_id }}/">{{ page.course_title }}</a> /
+  {% assign course_page = site.courses | where: "course_id", page.course_id | where: "layout", "course" | first %}
+  <a href="{{ course_page.url | relative_url }}">{{ page.course_title }}</a> /
 </div>
 
 <h1>{{ page.title }}</h1>
