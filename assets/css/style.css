@@ -163,7 +163,7 @@ p {
   font-size: 1.1rem;
   color: var(--color-text-secondary);
   line-height: 1.7;
-  margin-bottom: var(--space-xl);
+  margin-bottom: var(--space-lg);
   font-family: var(--font-display);
   font-style: italic;
 }
