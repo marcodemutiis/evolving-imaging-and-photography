@@ -251,7 +251,7 @@ img {
   max-width: 100%;
   height: auto;
   border-radius: 6px;
-  margin: var(--space-lg) 0;
+  margin-bottom: var(--space-xs);
 }
 
 /* ============================================
@@ -261,7 +261,7 @@ figcaption {
   font-family: var(--font-body);
   font-size: 0.8rem;
   color: var(--color-text-tertiary);
-  margin-top: calc(-1 * var(--space-md));
+  margin-top: calc(-1 * var(--space-lg) + 2px);
   margin-bottom: var(--space-lg);
   line-height: 1.5;
 }
