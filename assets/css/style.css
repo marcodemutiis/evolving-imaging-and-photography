@@ -261,7 +261,7 @@ figcaption {
   font-family: var(--font-body);
   font-size: 0.8rem;
   color: var(--color-text-tertiary);
-  margin-top: calc(-1 * var(--space-lg) + 5px);
+  margin-top: calc(-1 * var(--space-lg) + 8px);
   margin-bottom: var(--space-lg);
   line-height: 1.5;
 }
