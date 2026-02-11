@@ -8,4 +8,4 @@ lesson_number: 1
 
 blablabla
 
-![alt](/expandedphotography/assets/img/test.jpg)
+![alt](/expandedphotography//Users/demutiis/Dropbox/Git/expandedphotography/_courses/Cameraless/img/test.jpg)
