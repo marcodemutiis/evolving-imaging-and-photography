@@ -8,4 +8,4 @@ lesson_number: 1
 
 blablabla
 
-![alt](/expandedphotography/_courses/Haunted-Medium/img/test.jpg)
+![alt](/expandedphotography/_courses/Haunted-Medium/assets/img/test.jpg)
