@@ -8,4 +8,4 @@ lesson_number: 1
 
 blablabla
 
-![alt](/courses/assets/img/test.jpg)
+![alt](/expandedphotography/assets/img/test.jpg)
