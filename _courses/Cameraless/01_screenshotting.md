@@ -8,4 +8,4 @@ lesson_number: 1
 
 blablabla
 
-![alt]({{ site.baseurl }}/courses/Cameraless/assets/img/test.jpg) <em>caption test</em>
+![alt]({{ site.baseurl }}/courses/Cameraless/assets/img/test.jpg) <figcaption>caption test</figcaption>

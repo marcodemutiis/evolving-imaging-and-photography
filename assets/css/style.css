@@ -255,17 +255,19 @@ img {
 }
 
 /* ============================================
-   IMAGE CAPTIONS //add italics after image 
+   IMAGE CAPTIONS
    ============================================ */
-img + em,
-img + br + em {
-  display: block;
+figcaption {
   font-family: var(--font-body);
   font-size: 0.8rem;
   color: var(--color-text-tertiary);
   margin-top: calc(-1 * var(--space-md));
   margin-bottom: var(--space-lg);
   line-height: 1.5;
+}
+
+figcaption em {
+  font-style: italic;
 }
 
 /* ============================================
