@@ -50,6 +50,18 @@ to undermine Google’s emphasis on universal access to public culture. Santamar
 - Screen Walk with Mario Santamaria: <a href="https://www.youtube.com/watch?v=JAak7Fr5Aqk">youtube.com/watch?v=JAak7Fr5Aqk</a>
 
 
+### Jenny Odell, <em>Temporal Portraits of People on Streetview</em>, 2014
+![Temporal Portraits of People on Streetview]({{ site.baseurl }}/courses/Cameraless/assets/img/temporalportraits.jpg)
+<figcaption>Jenny Odell, from <em>Temporal Portraits of People on Streetview</em>, 2014</figcaption>
+
+<em>Temporal Portraits of People on Streetview</em> shows images "taken from screenshots of Google Street View. Inadvertently reminsicent of Muybridge's motion studies, the disorienting composites involve three sources of motion: the person walking, the Google Streetview car driving, and [the artist] turning in the Streetview browser in order to keep the subject in view."
+
+– Odell, J. Artist website
+
+
+- More about <em>Temporal Portraits of People on Streetview</em>: <a href="https://www.jennyodell.com/temporal-portraits.html">jennyodell.com/temporal-portraits.html</a>
+
+
 ### Mishka Henner, <em>No Man’s Land</em>, 2011– 2013
 
 Roberto Feijoo, Berlin Alexanderplatz, 2012 – 2013
@@ -65,7 +77,7 @@ Linus Suter, Google Street Car, 2011
 ### Jacqui Kenny, <em>Agoraphobic Traveller</em>, 2016 – ongoing
 
 GROUP D [Glitches]
-### Jenny Odell, <em>Temporal Portraits of People on Streetview</em>, 2014
+
 Greg Allen, Walking Man, 2010
 Andres Galeano, Google In View, 2014 – ongoing
 
