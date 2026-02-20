@@ -6,8 +6,6 @@ course_title: "Cameraless"
 lesson_number: 0
 ---
 
-![cameraless]({{ site.baseurl }}/courses/Cameraless/assets/img/camera_thumbnail.jpg)
-
 ## About the Course
 The course will explore several contemporary cameraless techniques and practices for digital image-making. 
 Each week a new tool, software or topic is introduced, inviting students to reflect upon current transformations of the idea of camera and the role of photographic apapratuses in digital and networked forms.
