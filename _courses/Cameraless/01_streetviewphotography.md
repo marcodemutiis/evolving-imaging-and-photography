@@ -10,7 +10,8 @@ Screenshotting can be technically understood as a 1:1 copy of the computer scree
 Among many online platforms that can be explored by photographers with out a camera, Google Street View has become one of the most popular destination for screenshotters. Drawing from different traditions such as street photography and photojournalism, many photographers and artists have explored Google Street View through screenshots, while bringing a photographic approach and mindset.
 
 
-## Jon Rafman, <em>Nine Eyes of Google Street View</em>, 2008 – ongoing
+## Study Cases
+### Jon Rafman, <em>Nine Eyes of Google Street View</em>, 2008 – ongoing
 ![9eyes]({{ site.baseurl }}/courses/Cameraless/assets/img/9eyes.jpg)
 <figcaption>Jon Rafman, from <em>Nine Eyes of Google Street View</em>, 2008 – ongoing</figcaption>
 
@@ -22,7 +23,7 @@ Rafman conducted a close reading of Google Street View and began to isolate imag
 – Michael Connor, Aria Dean, Dragan Espenschied (eds), <a href=*https://anthology.rhizome.org/9-eyes><em>The Art Happens Here: Net Art Anthology</em></a>, Rhizome, New York 2019.
 
 More about <em>Nine Eyes of Google Street View</em>: <a href="https://9-eyes.com/">9-eyes.com</a>
-
+Interview: <a hred="https://www.youtube.com/watch?v=vBWdYrO6y_E">Jon Rafman – We Can't Escape</a>
 
 
 
@@ -31,23 +32,23 @@ More about <em>Nine Eyes of Google Street View</em>: <a href="https://9-eyes.com
 Roberto Feijoo, Berlin Alexanderplatz, 2012 – 2013
 
 GROUP B [Performing for the StreetView Ca(me)r(a)]
-## Robin Hewlett and Ben Kinsley, Street with a view, 2008
+### Robin Hewlett and Ben Kinsley, Street with a view, 2008
 Matteo Bittanti, Google Street View Racing, 2017
 Aram Bartholl, 15 Seconds Of Fame, 2010
 Carlo Zanni, Self Portrait with Dog, 2008
 
 GROUP C [Virtual Travellers]
 Linus Suter, Google Street Car, 2011 
-## Jacqui Kenny, Agoraphobic Traveller, 2016 – ongoing
+### Jacqui Kenny, Agoraphobic Traveller, 2016 – ongoing
 
 GROUP D [Glitches]
-## Jenny Odell, Temporal Portraits of People on Streetview, 2014
+### Jenny Odell, Temporal Portraits of People on Streetview, 2014
 Greg Allen, Walking Man, 2010
 Andres Galeano, Google In View, 2014 – ongoing
-## Mario Santamaria, Trolling Google Art Project, 2013–ongoing 
+### Mario Santamaria, Trolling Google Art Project, 2013–ongoing 
 
 GROUP E [Street Photography]
-## Michael Wolf, A Series of Unfortunate Events, 2010
+### Michael Wolf, A Series of Unfortunate Events, 2010
 Alberto Salvan, [Uncommon places], 2013
 Sofie Groot Dengerink, Amstertram Maps, 2010
 
@@ -58,13 +59,13 @@ Ruben Torras, Road Movies, 2016?
 Daniel Mayrit, Suburban Scenes, 2012?
 
 GROUP G [Human vs Machinic Photographer]
-## Emilio Vavarella, The Driver and the Cameras, 2012
+### Emilio Vavarella, The Driver and the Cameras, 2012
 Amber Eve Anderson, Views from Paradise, 2017
-## Viktoria Binschtok, World of Details, 2013
+### Viktoria Binschtok, World of Details, 2013
 Sylvia Grace Borda in collaboration with John M Lynch, Mise en Scene: Farm Tableaux Finland, 2015
 
 GROUP H [Time Passing]
-## Azahara Cerezo, Paisajes digitales de una guerra, 2015
+### Azahara Cerezo, Paisajes digitales de una guerra, 2015
 Justin Blinder, Wikipedia Was Here, 2018
 Sasha R Gregor (AKA Roger Grasas), Beagle 2.0, 2017
 Alex Alsup, GooBing Detroit, 2014 – ongoing
