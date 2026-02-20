@@ -27,45 +27,45 @@ Interview: <a hred="https://www.youtube.com/watch?v=vBWdYrO6y_E">Jon Rafman – 
 
 
 
-### Mishka Henner, No Man’s Land, 2011– 2013
+### Mishka Henner, <em>No Man’s Land</em>, 2011– 2013
 
 Roberto Feijoo, Berlin Alexanderplatz, 2012 – 2013
 
 GROUP B [Performing for the StreetView Ca(me)r(a)]
-### Robin Hewlett and Ben Kinsley, Street with a view, 2008
+### Robin Hewlett and Ben Kinsley, <em>Street with a view</em>, 2008
 Matteo Bittanti, Google Street View Racing, 2017
 Aram Bartholl, 15 Seconds Of Fame, 2010
 Carlo Zanni, Self Portrait with Dog, 2008
 
 GROUP C [Virtual Travellers]
 Linus Suter, Google Street Car, 2011 
-### Jacqui Kenny, Agoraphobic Traveller, 2016 – ongoing
+### Jacqui Kenny, <em>Agoraphobic Traveller</em>, 2016 – ongoing
 
 GROUP D [Glitches]
-### Jenny Odell, Temporal Portraits of People on Streetview, 2014
+### Jenny Odell, <em>Temporal Portraits of People on Streetview</em>, 2014
 Greg Allen, Walking Man, 2010
 Andres Galeano, Google In View, 2014 – ongoing
-### Mario Santamaria, Trolling Google Art Project, 2013–ongoing 
+### Mario Santamaria, <em>Trolling Google Art Project</em>, 2013–ongoing 
 
 GROUP E [Street Photography]
-### Michael Wolf, A Series of Unfortunate Events, 2010
+### Michael Wolf, <em>A Series of Unfortunate Events</em>, 2010
 Alberto Salvan, [Uncommon places], 2013
 Sofie Groot Dengerink, Amstertram Maps, 2010
 
 GROUP F [Re/Enact]
 Halley Docherty, Street View series for The Guardian, 2014
-## Paolo Cirio, Street Ghosts, 2012–2017
+## Paolo Cirio, <em>Street Ghosts</em>, 2012–2017
 Ruben Torras, Road Movies, 2016?
 Daniel Mayrit, Suburban Scenes, 2012?
 
 GROUP G [Human vs Machinic Photographer]
-### Emilio Vavarella, The Driver and the Cameras, 2012
+### Emilio Vavarella, <em>The Driver and the Cameras</em>, 2012
 Amber Eve Anderson, Views from Paradise, 2017
-### Viktoria Binschtok, World of Details, 2013
+### Viktoria Binschtok, <em>World of Details</em>, 2013
 Sylvia Grace Borda in collaboration with John M Lynch, Mise en Scene: Farm Tableaux Finland, 2015
 
 GROUP H [Time Passing]
-### Azahara Cerezo, Paisajes digitales de una guerra, 2015
+### Azahara Cerezo, <em>Paisajes digitales de una guerra</em>, 2015
 Justin Blinder, Wikipedia Was Here, 2018
 Sasha R Gregor (AKA Roger Grasas), Beagle 2.0, 2017
 Alex Alsup, GooBing Detroit, 2014 – ongoing
