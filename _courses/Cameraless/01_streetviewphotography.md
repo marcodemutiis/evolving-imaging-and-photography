@@ -13,7 +13,8 @@ Among many online platforms that can be explored by photographers with out a cam
 
 ## Study Cases
 ### Jon Rafman, <em>Nine Eyes of Google Street View</em>, 2008 – ongoing
-![9eyes]({{ site.baseurl }}/courses/Cameraless/assets/img/9eyes.jpg)<figcaption>Jon Rafman, from <em>Nine Eyes of Google Street View</em>, 2008 – ongoing</figcaption>
+![9eyes]({{ site.baseurl }}/courses/Cameraless/assets/img/9eyes.jpg)
+<figcaption>Jon Rafman, from <em>Nine Eyes of Google Street View</em>, 2008 – ongoing</figcaption>
 
 "Nine Eyes of Google Street View is both an archival project and a conceptual meditation on the state of photography in a time of automated imagemaking on a massive scale.
 
@@ -29,7 +30,8 @@ Rafman conducted a close reading of Google Street View and began to isolate imag
 
 
 ### Mario Santamaria, <em>Non-Imaginary Museum</em>, 2013–ongoing 
-![non-imaginary museum]({{ site.baseurl }}/courses/Cameraless/assets/img/nonimaginarymuseum.png)<figcaption>Mario Santamaria, from <em>Non-Imaginary Museum</em>, 2013 – ongoing</figcaption>
+![non-imaginary museum]({{ site.baseurl }}/courses/Cameraless/assets/img/nonimaginarymuseum.png)
+<figcaption>Mario Santamaria, from <em>Non-Imaginary Museum</em>, 2013 – ongoing</figcaption>
 
 "Mario Santamaría is part of a growing canon of screenshot photographers drawn to the uncanny crash of interface, database, camera and screen produced by the ‘nine eyes’ of the Google Street View camera. In contrast with other artists who have heroically pointed their mouse at the dazzling vastness of the Google Street View landscape, Santamaría has weaponised the screenshot to probe Google’s scopic regime and the sociotechnical infrastructure that sustains it. 
 
