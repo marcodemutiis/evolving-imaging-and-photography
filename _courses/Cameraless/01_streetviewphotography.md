@@ -62,6 +62,18 @@ to undermine Google’s emphasis on universal access to public culture. Santamar
 - More about <em>Temporal Portraits of People on Streetview</em>: <a href="https://www.jennyodell.com/temporal-portraits.html">jennyodell.com/temporal-portraits.html</a>
 
 
+### Viktoria Binschtok, <em>World of Details</em>, 2013
+![World of Details]({{ site.baseurl }}/courses/Cameraless/assets/img/worldofdetails.webp)
+<figcaption>Viktoria Binschtok, from <em>World of Details</em>, 2013</figcaption>
+
+"Every time and generation has its own new sources of information. Today, for instance, with its pool of worldwide images, Google Street View is a kind of visual quarry that artists also dig around in, among them Viktoria Binschtok. Binschtok begins each of her works by appropriating images from this source. Her method is that of a two-part search: both for a fitting image to work from and an after-image to be finally realized on location. In this respect, a before-and-after effect exists not only in content, but also in terms of time. Yet both images, which Binschtok later arranges into an unequal diptych, seem removed from time, contemporary in a timeless way; it's impossible to determine the date the photographs were taken. 
+
+The artist does her research in Berlin, where she lives, and then she takes the actual photographs in New York. This gives rise to a fascinating exploration into time and the things that change or don't change between the taking of the first and second images. There are several interesting dualisms inscribed into the project; there is also the opposition between the systematic recording process of a machine meant to provide a documentation of the current urban situation that is as comprehensive as possible (and that becomes the past as soon as the photograph is taken), and the artistic, human camera eye that has another type of documentation as its intent. Technical differences in the types of photography used are also present: on the one hand, the anonymous, digital shot that theoretically anyone with access to the Internet anywhere in the world has access to, and on the other an artist's analogue camera image that is initially printed in a small edition and only becomes accessible to a wider audience for the first time through this publication. Thus, the reception of the world, the process of image recording, and the distribution of the image could hardly be more different from one another."
+
+– Harder, M. (2013). World of Details. DISTANZ Verlag.
+
+- More about <em>World of Details</em>: <a href="https://viktoriabinschtok.com/work-3/work-2/">viktoriabinschtok.com/work-3/work-2</a>
+
 ### Mishka Henner, <em>No Man’s Land</em>, 2011– 2013
 
 Roberto Feijoo, Berlin Alexanderplatz, 2012 – 2013
@@ -95,7 +107,6 @@ Daniel Mayrit, Suburban Scenes, 2012?
 GROUP G [Human vs Machinic Photographer]
 ### Emilio Vavarella, <em>The Driver and the Cameras</em>, 2012
 Amber Eve Anderson, Views from Paradise, 2017
-### Viktoria Binschtok, <em>World of Details</em>, 2013
 Sylvia Grace Borda in collaboration with John M Lynch, Mise en Scene: Farm Tableaux Finland, 2015
 
 GROUP H [Time Passing]
