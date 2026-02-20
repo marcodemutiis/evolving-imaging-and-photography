@@ -24,8 +24,8 @@ Rafman conducted a close reading of Google Street View and began to isolate imag
 
 – Michael Connor, Aria Dean, Dragan Espenschied (eds), <a href="https://anthology.rhizome.org/9-eyes"><em>The Art Happens Here: Net Art Anthology</em></a>, Rhizome, New York 2019.
 
-More about <em>Nine Eyes of Google Street View</em>: <a href="https://9-eyes.com/">9-eyes.com</a>
-Interview with Jon Rafman: <a href="https://www.youtube.com/watch?v=vBWdYrO6y_E">youtube.com/watch?v=vBWdYrO6y_E</a>
+- More about <em>Nine Eyes of Google Street View</em>: <a href="https://9-eyes.com/">9-eyes.com</a>
+- Interview with Jon Rafman: <a href="https://www.youtube.com/watch?v=vBWdYrO6y_E">youtube.com/watch?v=vBWdYrO6y_E</a>
 
 
 ### Mario Santamaria, <em>Non-Imaginary Museum</em>, 2013–ongoing 
@@ -45,8 +45,8 @@ to undermine Google’s emphasis on universal access to public culture. Santamar
 – Sluis, K. (2022). The Phantom of the Mirror: The Screenshots of Mario Santamaría. In W. Gerling, S. Möring, & M. De Mutiis (Eds.), <a href="https://www.kulturverlag-kadmos.de/programm/details/screen_images?file=/site/assets/files/4055/9783865995353.pdf"><em>Screen Images: In-Game Photography, Screenshot, Screencast</em></a> (pp. 289-293). Kulturverlag Kadmos. 
 
 
-More about <em>Non-Imaginary Museum</em>: <a href="https://righted-museum.tumblr.com/">righted-museum.tumblr.com</a>
-Screen Walk with Mario Santamaria: <a href="https://www.youtube.com/watch?v=JAak7Fr5Aqk">youtube.com/watch?v=JAak7Fr5Aqk</a>
+- More about <em>Non-Imaginary Museum</em>: <a href="https://righted-museum.tumblr.com/">righted-museum.tumblr.com</a>
+- Screen Walk with Mario Santamaria: <a href="https://www.youtube.com/watch?v=JAak7Fr5Aqk">youtube.com/watch?v=JAak7Fr5Aqk</a>
 
 ### Mishka Henner, <em>No Man’s Land</em>, 2011– 2013
 
