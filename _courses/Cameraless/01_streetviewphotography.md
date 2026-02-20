@@ -7,6 +7,7 @@ lesson_number: 1
 ---
 
 Screenshotting can be technically understood as a 1:1 copy of the computer screen. Yet it can also be seen as a photographic act, in a world that is increasingly rendered on the screen, mapped digitally in virtual maps. 
+
 Among many online platforms that can be explored by photographers with out a camera, Google Street View has become one of the most popular destination for screenshotters. Drawing from different traditions such as street photography and photojournalism, many photographers and artists have explored Google Street View through screenshots, while bringing a photographic approach and mindset.
 
 
