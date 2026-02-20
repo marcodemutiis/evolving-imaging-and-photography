@@ -6,10 +6,8 @@ permalink: /about/
 
 # About
 
-This site is a collection of courses and learning materials on topics related to evolving imaging and photography. 
+This site is a collection of courses and learning materials on topics related to evolving imaging and photography created by Marco De Mutiis for HTWG Konstanz. 
 
-
-Your name here. A brief description of your background, research interests, and teaching practice. Replace this with a paragraph or two about yourself.
 
 ## Contact
 

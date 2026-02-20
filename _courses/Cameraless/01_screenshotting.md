@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: "Screenshotting"
-course_id: cameraless
+title: "Street (View) Photography"
+course_id: streetviewphotography
 course_title: "Cameraless"
 lesson_number: 1
 ---
