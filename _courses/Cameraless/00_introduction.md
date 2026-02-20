@@ -6,10 +6,12 @@ course_title: "Cameraless"
 lesson_number: 0
 ---
 
-# Introduction
+## About the Course
+The course will explore several contemporary cameraless techniques and practices for digital image-making. 
+Each week a new tool, software or topic is introduced, inviting students to reflect upon current transformations of the idea of camera and the role of photographic apapratuses in digital and networked forms.
+The course is structured through weekly short assigments where students have to experiment with tools and practices explored in class.
 
-
-# Calendar
+## Calendar
 
 - 7.4.2026 . . . . . . . . Introduction
 - 14.4.2026. . . . . . . . Street (View) Photography (Google Street View) (Jon Rafman)
@@ -23,16 +25,16 @@ lesson_number: 0
 - 23.6.2026. . . . . . . . Machine Learning (Generative AI) 
 - 30.6.2026. . . . . . . . LoRA (Generative AI)
 
-# Tools and Resources
+## Tools and Resources
 
 - Google Street View
 - GTA V
 - 
 
-# Syllabus
+## Syllabus
 
-- https://gta5.photography/
-- https://www.howtowinat.photography/
+- <a href="https://gta5.photography/">The Photographer's Guide to Los Santos</a>
+- <a href="https://www.howtowinat.photography/">How to Win at Photography</a>
 - Shobeiri, A. & Westgeest H., Virtual Photography – Artificial Intelligence, In-game, and Extended Reality. Bielefeld: Transcript. https://www.transcript-publishing.com/media/pdf/89/ac/3f/oa9783839472033G4JN9uoyekMR0.pdf
 - Gerling, W., 2018. Photography in the digital. photographies, 11(2-3), pp. 149–167. https://doi.org/10.1080/17540763.2018.1445013.
 - Gerling, W., Möring, S., and De Mutiis, M., 2023. eds. Screen Images: In-Game Photography, Screenshot, Screencast. Berlin:Kadmos. https://doi.org/10.55309/c3ie61k5.
