@@ -13,17 +13,19 @@ The course is structured through weekly short assigments where students have to 
 
 ## Calendar
 
-- 7.4.2026 . . . . . . . . Introduction
-- 14.4.2026. . . . . . . . Street (View) Photography
-- 21.4.2026. . . . . . . . Conceptual Screenshotting
-- 28.4.2026. . . . . . . . Virtual World Photoreportages
-- 5.5.2026 . . . . . . . . Digital Architecture Photography
-- 12.5.2026. . . . . . . . Photo Modes and Virtual Landscapes
-- 2.6.2026 . . . . . . . . Game Cameras
-- 9.6.2026 . . . . . . . . Avatar Portrait Photography
-- 16.6.2026. . . . . . . . Photorealistic CGI
-- 23.6.2026. . . . . . . . Machine Learning Photography
-- 30.6.2026. . . . . . . . LoRA and Generative AI
+| Date       | Topic                               |
+|------------|-------------------------------------|
+| 7.4.2026   | Introduction                        |
+| 14.4.2026  | Street (View) Photography           |
+| 21.4.2026  | Conceptual Screenshotting           |
+| 28.4.2026  | Virtual World Photoreportages       |
+| 5.5.2026   | Digital Architecture Photography    |
+| 12.5.2026  | Photo Modes and Virtual Landscapes  |
+| 2.6.2026   | Game Cameras                        |
+| 9.6.2026   | Avatar Portrait Photography         |
+| 16.6.2026  | Photorealistic CGI                  |
+| 23.6.2026  | Machine Learning Photography        |
+| 30.6.2026  | LoRA and Generative AI              |
 
 ## Tools and Resources
 
