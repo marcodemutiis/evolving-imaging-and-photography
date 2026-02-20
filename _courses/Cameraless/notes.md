@@ -1,9 +1,9 @@
 ---
 layout: lesson
-title: "Street (View) Photography"
+title: ""
 course_id: cameraless
 course_title: "Cameraless"
-lesson_number: 1
+lesson_number: 0
 status: unpublished
 ---
 - 7.4.2026 . . . . . . . . Introduction
