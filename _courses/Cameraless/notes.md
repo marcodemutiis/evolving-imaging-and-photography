@@ -1,10 +1,10 @@
 ---
 layout: lesson
-title: ""
+title: "Notes"
 course_id: cameraless
 course_title: "Cameraless"
 lesson_number: 0
-status: unpublished
+published: false
 ---
 - 7.4.2026 . . . . . . . . Introduction
 - 14.4.2026. . . . . . . . Street (View) Photography (Google Street View) (Jon Rafman)
