@@ -1,7 +1,7 @@
 ---
 layout: course
 title: "The Lure of the Image"
-description: "Exploring contemporary forms of photography and their seductive powers"
+description: "Exploring the seductive powers of contemporary photographic images"
 course_id: the-lure-of-the-image
 order: 1
 ---
