@@ -169,8 +169,9 @@ p {
 }
 
 a {
-  color: var(--color-text);
-  text-decoration-color: var(--color-border);
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--color-text-tertiary);
   text-underline-offset: 3px;
   transition: text-decoration-color 0.2s;
 }
