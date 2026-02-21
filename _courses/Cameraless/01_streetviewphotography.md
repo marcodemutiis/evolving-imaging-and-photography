@@ -21,7 +21,7 @@ Among many online platforms that can be explored by photographers with out a cam
 In 2008, Jon Rafman began to collect screenshots of images from Google Street View. At the time, Street View was a relatively new initiative, an effort to document everything in the world that could be seen from a moving car. A massive, undiscerning machine for image-making whose purpose is to simply capture everything, Street View takes photographs without apparent concern for ethics or aesthetics, from a supposedly neutral point of view.
 
 Rafman conducted a close reading of Google Street View and began to isolate images from this massive database, publishing them on blogs, as PDFs, in books, and as large C-prints for gallery exhibition. In so doing, he reframed them within longer histories of photography and painting, raising questions about the meaning and function of these images and their implications for artists and image-makers."
-<br /><figcaption>– Michael Connor, Aria Dean, Dragan Espenschied (eds), <a href="https://anthology.rhizome.org/9-eyes"><em>The Art Happens Here: Net Art Anthology</em></a>, Rhizome, New York 2019.</figcaption>
+<figcaption>– Michael Connor, Aria Dean, Dragan Espenschied (eds), <a href="https://anthology.rhizome.org/9-eyes"><em>The Art Happens Here: Net Art Anthology</em></a>, Rhizome, New York 2019.</figcaption>
 
 
 - More about <em>Nine Eyes of Google Street View</em>: <a href="https://9-eyes.com/">9-eyes.com</a>
@@ -41,7 +41,7 @@ expose its representational paradigm.
 
 [...] <em>The Non-Imaginary Museum</em> (2013–ongoing), [...] presents artworks adorning the walls of the Google Art Project that have been obscured and rendered unintelligible by a Gaussian algorithm due to copyright restrictions. Probing the limits of Google’s reproductive paradigm, these screenshots appear
 to undermine Google’s emphasis on universal access to public culture. Santamaría draws attention to the way different values are encoded into the interface, arguing 'these works are blurred because their time of economic exploitation continues, because they are commercialised in another place or another format'. The screenshot captures a moment where analogue models of value are encoded into a computational environment: echoed by the remediation of the photographic act in the gesture of the screen capture itself."
-– Sluis, K. (2022). The Phantom of the Mirror: The Screenshots of Mario Santamaría. In W. Gerling, S. Möring, & M. De Mutiis (Eds.), <a href="https://www.kulturverlag-kadmos.de/programm/details/screen_images?file=/site/assets/files/4055/9783865995353.pdf"><em>Screen Images: In-Game Photography, Screenshot, Screencast</em></a> (pp. 289-293). Kulturverlag Kadmos. 
+<br />– Sluis, K. (2022). The Phantom of the Mirror: The Screenshots of Mario Santamaría. In W. Gerling, S. Möring, & M. De Mutiis (Eds.), <a href="https://www.kulturverlag-kadmos.de/programm/details/screen_images?file=/site/assets/files/4055/9783865995353.pdf"><em>Screen Images: In-Game Photography, Screenshot, Screencast</em></a> (pp. 289-293). Kulturverlag Kadmos. 
 
 
 - More about <em>Non-Imaginary Museum</em>: <a href="https://righted-museum.tumblr.com/">righted-museum.tumblr.com</a>
@@ -53,8 +53,7 @@ to undermine Google’s emphasis on universal access to public culture. Santamar
 <figcaption>Jenny Odell, from <em>Temporal Portraits of People on Streetview</em>, 2014</figcaption>
 
 <em>Temporal Portraits of People on Streetview</em> shows images "taken from screenshots of Google Street View. Inadvertently reminsicent of Muybridge's motion studies, the disorienting composites involve three sources of motion: the person walking, the Google Streetview car driving, and [the artist] turning in the Streetview browser in order to keep the subject in view."
-
-– Odell, J. Artist website
+<br />– Odell, J. Artist website
 
 
 - More about <em>Temporal Portraits of People on Streetview</em>: <a href="https://www.jennyodell.com/temporal-portraits.html">jennyodell.com/temporal-portraits.html</a>
@@ -67,7 +66,7 @@ to undermine Google’s emphasis on universal access to public culture. Santamar
 "Every time and generation has its own new sources of information. Today, for instance, with its pool of worldwide images, Google Street View is a kind of visual quarry that artists also dig around in, among them Viktoria Binschtok. Binschtok begins each of her works by appropriating images from this source. Her method is that of a two-part search: both for a fitting image to work from and an after-image to be finally realized on location. In this respect, a before-and-after effect exists not only in content, but also in terms of time. Yet both images, which Binschtok later arranges into an unequal diptych, seem removed from time, contemporary in a timeless way; it's impossible to determine the date the photographs were taken. 
 
 The artist does her research in Berlin, where she lives, and then she takes the actual photographs in New York. This gives rise to a fascinating exploration into time and the things that change or don't change between the taking of the first and second images. There are several interesting dualisms inscribed into the project; there is also the opposition between the systematic recording process of a machine meant to provide a documentation of the current urban situation that is as comprehensive as possible (and that becomes the past as soon as the photograph is taken), and the artistic, human camera eye that has another type of documentation as its intent. Technical differences in the types of photography used are also present: on the one hand, the anonymous, digital shot that theoretically anyone with access to the Internet anywhere in the world has access to, and on the other an artist's analogue camera image that is initially printed in a small edition and only becomes accessible to a wider audience for the first time through this publication. Thus, the reception of the world, the process of image recording, and the distribution of the image could hardly be more different from one another."
-– Harder, M. (2013). World of Details. DISTANZ Verlag.
+<br />– Harder, M. (2013). World of Details. DISTANZ Verlag.
 
 - More about <em>World of Details</em>: <a href="https://viktoriabinschtok.com/work-3/work-2/">viktoriabinschtok.com/work-3/work-2</a>
 
@@ -78,7 +77,7 @@ The artist does her research in Berlin, where she lives, and then she takes the 
 ### Azahara Cerezo, <em>Paisajes digitales de una guerra</em>, 2015
 "Paisajes digitales de una guerra (tr. Digital landscapes from a war) collects images of political graffiti found in areas known to have been sites of
 political unrest during the Spanish Civil War (1936−1939) through the lens of Google Street View. Messages appear on walls and surfaces in a temporary and rushed way: messages are written, crossed out, rewritten, erased, etc. Google captures sceneries in a similar manner, taking photographs in different moments and stitching them together to form panoramas and layers of time. The present selection includes three images found in the University City of Madrid, which was a Republican defensive line during the conflict. The project is an ongoing archive and extends to other settings, such as the port area of Cartagena, from which the Republican Navy made their escape, and the old town of Pamplona (Navarra), which came quickly under the control by the rebel side."
-– W. Gerling, S. Möring, & M. De Mutiis (Eds.), <a href="https://www.kulturverlag-kadmos.de/programm/details/screen_images?file=/site/assets/files/4055/9783865995353.pdf"><em>Screen Images: In-Game Photography, Screenshot, Screencast</em></a> (pp. 169). Kulturverlag Kadmos. 
+<br />– W. Gerling, S. Möring, & M. De Mutiis (Eds.), <a href="https://www.kulturverlag-kadmos.de/programm/details/screen_images?file=/site/assets/files/4055/9783865995353.pdf"><em>Screen Images: In-Game Photography, Screenshot, Screencast</em></a> (pp. 171). Kulturverlag Kadmos. 
 
 ### Mishka Henner, <em>No Man’s Land</em>, 2011– 2013
 
