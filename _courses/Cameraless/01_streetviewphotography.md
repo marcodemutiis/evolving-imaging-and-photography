@@ -18,11 +18,13 @@ Among many online platforms that can be explored by photographers with out a cam
 
 <blockquote>"Nine Eyes of Google Street View is both an archival project and a conceptual meditation on the state of photography in a time of automated imagemaking on a massive scale.
 
+
 In 2008, Jon Rafman began to collect screenshots of images from Google Street View. At the time, Street View was a relatively new initiative, an effort to document everything in the world that could be seen from a moving car. A massive, undiscerning machine for image-making whose purpose is to simply capture everything, Street View takes photographs without apparent concern for ethics or aesthetics, from a supposedly neutral point of view.
+
 
 Rafman conducted a close reading of Google Street View and began to isolate images from this massive database, publishing them on blogs, as PDFs, in books, and as large C-prints for gallery exhibition. In so doing, he reframed them within longer histories of photography and painting, raising questions about the meaning and function of these images and their implications for artists and image-makers."
 
-– Michael Connor, Aria Dean, Dragan Espenschied (eds), <a href="https://anthology.rhizome.org/9-eyes"><em>The Art Happens Here: Net Art Anthology</em></a>, Rhizome, New York 2019.</blockquote>
+<br />– Michael Connor, Aria Dean, Dragan Espenschied (eds), <a href="https://anthology.rhizome.org/9-eyes"><em>The Art Happens Here: Net Art Anthology</em></a>, Rhizome, New York 2019.</blockquote>
 
 
 - More about <em>Nine Eyes of Google Street View</em>: <a href="https://9-eyes.com/">9-eyes.com</a>
@@ -43,7 +45,7 @@ expose its representational paradigm.
 [...] <em>The Non-Imaginary Museum</em> (2013–ongoing), [...] presents artworks adorning the walls of the Google Art Project that have been obscured and rendered unintelligible by a Gaussian algorithm due to copyright restrictions. Probing the limits of Google’s reproductive paradigm, these screenshots appear
 to undermine Google’s emphasis on universal access to public culture. Santamaría draws attention to the way different values are encoded into the interface, arguing 'these works are blurred because their time of economic exploitation continues, because they are commercialised in another place or another format'. The screenshot captures a moment where analogue models of value are encoded into a computational environment: echoed by the remediation of the photographic act in the gesture of the screen capture itself."
 
-– Sluis, K. (2022). The Phantom of the Mirror: The Screenshots of Mario Santamaría. In W. Gerling, S. Möring, & M. De Mutiis (Eds.), <a href="https://www.kulturverlag-kadmos.de/programm/details/screen_images?file=/site/assets/files/4055/9783865995353.pdf"><em>Screen Images: In-Game Photography, Screenshot, Screencast</em></a> (pp. 289-293). Kulturverlag Kadmos. </blockquote>
+<br />– Sluis, K. (2022). The Phantom of the Mirror: The Screenshots of Mario Santamaría. In W. Gerling, S. Möring, & M. De Mutiis (Eds.), <a href="https://www.kulturverlag-kadmos.de/programm/details/screen_images?file=/site/assets/files/4055/9783865995353.pdf"><em>Screen Images: In-Game Photography, Screenshot, Screencast</em></a> (pp. 289-293). Kulturverlag Kadmos. </blockquote>
 
 
 - More about <em>Non-Imaginary Museum</em>: <a href="https://righted-museum.tumblr.com/">righted-museum.tumblr.com</a>
@@ -81,6 +83,7 @@ The artist does her research in Berlin, where she lives, and then she takes the 
 ### Azahara Cerezo, <em>Paisajes digitales de una guerra</em>, 2015
 <blockquote>"Paisajes digitales de una guerra (tr. Digital landscapes from a war) collects images of political graffiti found in areas known to have been sites of
 political unrest during the Spanish Civil War (1936−1939) through the lens of Google Street View. Messages appear on walls and surfaces in a temporary and rushed way: messages are written, crossed out, rewritten, erased, etc. Google captures sceneries in a similar manner, taking photographs in different moments and stitching them together to form panoramas and layers of time. The present selection includes three images found in the University City of Madrid, which was a Republican defensive line during the conflict. The project is an ongoing archive and extends to other settings, such as the port area of Cartagena, from which the Republican Navy made their escape, and the old town of Pamplona (Navarra), which came quickly under the control by the rebel side."
+
 – W. Gerling, S. Möring, & M. De Mutiis (Eds.), <a href="https://www.kulturverlag-kadmos.de/programm/details/screen_images?file=/site/assets/files/4055/9783865995353.pdf"><em>Screen Images: In-Game Photography, Screenshot, Screencast</em></a> (pp. 171). Kulturverlag Kadmos.</blockquote>
 
 
