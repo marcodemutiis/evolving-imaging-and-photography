@@ -32,9 +32,8 @@ More about *Arenae*: [marcocadioli.com/arenae](https://marcocadioli.com/arenae/)
 - Screen Walk with Roc Herms: [youtube.com/watch?v=\_T8ytKjhk1o](https://www.youtube.com/watch?v=_T8ytKjhk1o)
 
 ### Cao Fei, *RMB City*, 2007–2011
-![RMB City](/expandedphotography/courses/Cameraless/assets/img/rmbcity.jpg)
-<figcaption>Cao Fei, from <em>RMB City</em>, 2007–2011</figcaption>
-
+![RMB City](/expandedphotography/courses/Cameraless/assets/img/rmbcity.webp)
+<figcaption>Cao Fei, Video still from <em>Live in RMB City</em>, 2009</figcaption>
 
 > "Cao Fei's RMB City was a fictional Chinese city constructed in the online virtual world Second Life. RMB City opened to the public in 2009 and remained active until 2011, when Cao Fei ended the project. During its time in operation, the city attracted users from the art world as well as a broader virtual community within the Second Life platform, particularly for its events, which included artist projects, contests, and mayoral inaugurations.
 
