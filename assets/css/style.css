@@ -140,8 +140,7 @@ body {
     position: fixed;
     top: 120px;
     width: 200px;
-    max-height: calc(100vh - 160px);
-    overflow-y: auto;
+    /* position to the left of the main content */
     left: calc((100vw - var(--max-width)) / 2 - 230px);
   }
 
@@ -155,12 +154,10 @@ body {
     margin-bottom: 0;
   }
 
-  /* H2 links */
-  .toc-nav .toc-h2 > a {
+  .toc-nav a {
     display: block;
     padding: 0.3em 0;
     font-size: 0.75rem;
-    font-weight: 500;
     color: var(--color-text-secondary);
     text-decoration: none;
     border-left: 2px solid transparent;
@@ -169,40 +166,11 @@ body {
     line-height: 1.4;
   }
 
-  .toc-nav .toc-h2 > a:hover {
+  .toc-nav a:hover {
     color: var(--color-text);
   }
 
-  .toc-nav .toc-h2 > a.active {
-    color: var(--color-text);
-    border-left-color: var(--color-text);
-  }
-
-  /* H3 sublist */
-  .toc-nav .toc-sublist {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  .toc-nav .toc-h3 > a {
-    display: block;
-    padding: 0.2em 0;
-    font-size: 0.7rem;
-    font-weight: 400;
-    color: var(--color-text-tertiary);
-    text-decoration: none;
-    border-left: 2px solid transparent;
-    padding-left: calc(var(--space-md) + var(--space-sm));
-    transition: color 0.2s, border-color 0.2s;
-    line-height: 1.4;
-  }
-
-  .toc-nav .toc-h3 > a:hover {
-    color: var(--color-text-secondary);
-  }
-
-  .toc-nav .toc-h3 > a.active {
+  .toc-nav a.active {
     color: var(--color-text);
     border-left-color: var(--color-text);
   }
