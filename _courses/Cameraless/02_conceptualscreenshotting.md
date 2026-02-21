@@ -55,6 +55,57 @@ Sheffer uses this juxtaposition to show how users with large numbers of follower
 - Screen Walk with Emma Agnes Sheffer: <a href="https://www.youtube.com/watch?v=zitDqLvmG7U">youtube.com/watch?v=zitDqLvmG7U</a>
 
 
+## Tutorial
+
+### Scanography: Using a Flatbed Scanner as a Camera
+
+A flatbed scanner can be used as a cameraless photographic tool. By placing objects directly on the glass surface, the scanner captures them with a unique quality of light — soft, diffused, and directional — that is difficult to reproduce with a camera. This technique is called scanography, and it connects directly to the photographic and conceptual traditions explored in this lesson.
+
+### What You Need
+
+| Item | Notes |
+|---|---|
+| Flatbed scanner | Any model works. CCD scanners produce slightly more depth than CIS scanners |
+| Objects to scan | Flowers, leaves, fabrics, printed images, hands, everyday objects |
+| Background material | Black cloth or card for dramatic contrast, white for a clinical look |
+| Image editor | Any software for cropping and adjustments (Photoshop, GIMP, Preview) |
+
+### Basic Technique
+
+**1. Clean the glass.** Dust and fingerprints will appear in your scan. Wipe the glass surface with a soft cloth before each session.
+
+**2. Arrange objects on the glass.** Place them directly on the scanner surface. The area touching the glass will be sharpest — sharpness falls off rapidly with distance, giving scanography its characteristic shallow depth of field.
+
+**3. Control the background.** If you're scanning three-dimensional objects, the scanner lid won't close. What's behind and above your objects becomes the background:
+
+- **Black cloth or card** draped over the objects creates a dramatic, high-contrast look
+- **White card** gives a clean, clinical appearance
+- **Open lid in a dark room** produces a deep black void behind the subject
+- **Aluminium foil** creates unusual reflective effects
+
+**4. Scan at high resolution.** Set your scanner to at least 300 DPI for print-quality results. Higher resolutions (600–1200 DPI) capture extraordinary detail but produce very large files and take longer to scan.
+
+**5. Crop and adjust.** Open the resulting image in an editor to crop, adjust brightness/contrast, and clean up any remaining dust spots.
+
+### Creative Techniques
+
+**Movement during scanning.** Because the scanner head moves slowly across the glass, moving an object during the scan produces distorted, elongated, or ghostly effects — similar to long-exposure photography.
+
+**Layering and collage.** Scan objects individually, then combine them in an image editor. You can also layer translucent materials (lace, tissue paper, thin fabric) directly on the glass with objects on top for textural effects.
+
+**Rephotographing printed images.** Place printed photographs, postcards, or pages from books on the scanner to create high-resolution digital copies. This is the technique Mandiberg used for <em>AfterSherrieLevine.com</em> — the scan as a conceptual act of appropriation.
+
+### Scanning as Appropriation
+
+In the context of this lesson, the scanner is not just a reproduction tool but a means of recontextualizing images. Consider:
+
+- **What changes when you scan a photograph?** The physical object becomes a digital file. The context shifts from gallery wall or book page to screen and network.
+- **What is preserved, and what is lost?** Resolution, color, and detail may be faithfully captured, but the material qualities of the original — texture, size, weight, smell — are flattened.
+- **What is gained?** The digital copy can be freely distributed, modified, and reframed. It enters a different economy of images.
+
+These are the same questions raised by Mandiberg's scans of Levine's rephotographs of Walker Evans — a chain of copies where each act of reproduction adds a new layer of meaning.
+
+
 ## Assignment
 
 Explore the idea of image copy through digital or analogue cameraless techniques: screenshots, digital scans, photograms or cyanotypes. Create a new context for the original images you copy inspired by the artworks explored in class.
