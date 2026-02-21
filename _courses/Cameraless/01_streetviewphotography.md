@@ -113,12 +113,6 @@ Daniel Mayrit, Suburban Scenes, 2012?
 Amber Eve Anderson, Views from Paradise, 2017
 Sylvia Grace Borda in collaboration with John M Lynch, Mise en Scene: Farm Tableaux Finland, 2015
 
-
-### Azahara Cerezo, <em>Paisajes digitales de una guerra</em>, 2015
-"Paisajes digitales de una guerra (tr. Digital landscapes from a war) collects images of political graffiti found in areas known to have been sites of
-political unrest during the Spanish Civil War (1936−1939) through the lens of Google Street View. Messages appear on walls and surfaces in a temporary and rushed way: messages are written, crossed out, rewritten, erased, etc. Google captures sceneries in a similar manner, taking photographs in different moments and stitching them together to form panoramas and layers of time. The present selection includes three images found in the University City of Madrid, which was a Republican defensive line during the conflict. The project is an ongoing archive and extends to other settings, such as the port area of Cartagena, from which the Republican Navy made their escape, and the old town of Pamplona (Navarra), which came quickly under the control by the rebel side."
-– W. Gerling, S. Möring, & M. De Mutiis (Eds.), <a href="https://www.kulturverlag-kadmos.de/programm/details/screen_images?file=/site/assets/files/4055/9783865995353.pdf"><em>Screen Images: In-Game Photography, Screenshot, Screencast</em></a> (pp. 169). Kulturverlag Kadmos. 
-
 Justin Blinder, Wikipedia Was Here, 2018
 Sasha R Gregor (AKA Roger Grasas), Beagle 2.0, 2017
 Alex Alsup, GooBing Detroit, 2014 – ongoing
