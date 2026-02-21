@@ -119,6 +119,64 @@ body {
 }
 
 /* ============================================
+   PAGE WRAPPER (for sidebar layout)
+   ============================================ */
+.page-wrapper {
+  position: relative;
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+/* ============================================
+   TABLE OF CONTENTS SIDEBAR
+   ============================================ */
+.toc-sidebar {
+  display: none;
+}
+
+@media (min-width: 1200px) {
+  .toc-sidebar {
+    display: block;
+    position: fixed;
+    top: 120px;
+    width: 200px;
+    /* position to the left of the main content */
+    left: calc((100vw - var(--max-width)) / 2 - 230px);
+  }
+
+  .toc-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .toc-nav li {
+    margin-bottom: 0;
+  }
+
+  .toc-nav a {
+    display: block;
+    padding: 0.3em 0;
+    font-size: 0.75rem;
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    border-left: 2px solid transparent;
+    padding-left: var(--space-md);
+    transition: color 0.2s, border-color 0.2s;
+    line-height: 1.4;
+  }
+
+  .toc-nav a:hover {
+    color: var(--color-text);
+  }
+
+  .toc-nav a.active {
+    color: var(--color-text);
+    border-left-color: var(--color-text);
+  }
+}
+
+/* ============================================
    MAIN CONTENT CONTAINER
    ============================================ */
 .container {
