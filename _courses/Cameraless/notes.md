@@ -17,3 +17,7 @@ published: false
 - 16.6.2026. . . . . . . . CGI (Unity) (Akihiko Taniguchi)
 - 23.6.2026. . . . . . . . Machine Learning (Generative AI) 
 - 30.6.2026. . . . . . . . LoRA (Generative AI)
+
+### Ria Patricia Röder, <em>Scanograms</em>, 2015-2020
+![Scanograms]({{ site.baseurl }}/courses/Cameraless/assets/img/instarepeat.jpg)
+<figcaption>Ria Patricia Röder, <em>Nazareno</em>, 2018, from <em>Scanograms</em>, 2015 – 2020</figcaption>
