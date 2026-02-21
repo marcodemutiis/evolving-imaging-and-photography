@@ -77,9 +77,8 @@ A flatbed scanner can be used as a cameraless photographic tool. By placing obje
 | Item | Notes |
 |---|---|
 | Flatbed scanner | Any model works. CCD scanners produce slightly more depth than CIS scanners |
-| Objects to scan | Flowers, leaves, fabrics, printed images, hands, everyday objects |
+| Objects to scan | Printed images, hands, everyday objects, flowers, leaves, fabrics  |
 | Background material | Black cloth or card for dramatic contrast, white for a clinical look |
-| Image editor | Any software for cropping and adjustments (Photoshop, GIMP, Preview) |
 
 ### Basic Technique
 
@@ -96,13 +95,11 @@ A flatbed scanner can be used as a cameraless photographic tool. By placing obje
 
 **4. Scan at high resolution.** Set your scanner to at least 300 DPI for print-quality results. Higher resolutions (600–1200 DPI) capture extraordinary detail but produce very large files and take longer to scan.
 
-**5. Crop and adjust.** Open the resulting image in an editor to crop, adjust brightness/contrast, and clean up any remaining dust spots.
-
 ### Creative Techniques
 
 **Movement during scanning.** Because the scanner head moves slowly across the glass, moving an object during the scan produces distorted, elongated, or ghostly effects — similar to long-exposure photography.
 
-**Layering and collage.** Scan objects individually, then combine them in an image editor. You can also layer translucent materials (lace, tissue paper, thin fabric) directly on the glass with objects on top for textural effects.
+**Layering and collage.** Scan objects individually, then combine them in an image editor. You can also layer translucent materials (lace, tissue paper, thin fabric) directly on the glass with objects on top for textural effects. This is the technique Röder used for her <em>Scanigrams</em>.
 
 **Rephotographing printed images.** Place printed photographs, postcards, or pages from books on the scanner to create high-resolution digital copies. This is the technique Mandiberg used for <em>AfterSherrieLevine.com</em> — the scan as a conceptual act of appropriation.
 
