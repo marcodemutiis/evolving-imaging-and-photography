@@ -114,6 +114,7 @@ On Windows, VRChat saves photos to `C:/Users/[YourName]/Pictures/VRChat`, organi
 Beyond VRChat, several other virtual platforms offer opportunities for photographic exploration:
 
 - **[Second Life](https://secondlife.com/)** — The original social virtual world, still active with a photography community. It has a built-in snapshot tool with depth of field, lighting controls, and customizable resolution. Many of the artists discussed in this lesson worked extensively in Second Life.
+- **[IMVU](https://imvu.com/) 
 - **[Rec Room](https://recroom.com/)** — A free, cross-platform social game with simpler graphics but easy accessibility. Its camera tool allows basic photo capture in a wide variety of user-created environments.
 - **[Hubs (previously Mozilla Hubs)](https://hubsfoundation.org/)** — A web-based virtual world that runs directly in your browser. The service has been discontinued by the Mozilla Foundation but the Hubs Foundation has taken over. Setting up a new Hub requires time and resources, but joining an existing Hub is easy (try [https://hubs.hominidsoftware.com/](these) or check the Hubs Foundation Discord). Screenshots can be taken with standard screen capture tools. Its accessibility makes it a low-barrier entry point for virtual world exploration.
 
