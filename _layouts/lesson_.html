@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="breadcrumb">
+  <a href="{{ site.baseurl }}/">Courses</a> /
+  {% assign course_page = site.courses | where: "course_id", page.course_id | where: "layout", "course" | first %}
+  <a href="{{ course_page.url | relative_url }}">{{ page.course_title }}</a> /
+</div>
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+{% assign lessons = site.courses | where: "course_id", page.course_id | where: "layout", "lesson" | sort: "lesson_number" %}
+{% assign current_index = nil %}
+{% for lesson in lessons %}
+  {% if lesson.url == page.url %}
+    {% assign current_index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+<nav class="lesson-nav">
+  {% if current_index and current_index > 0 %}
+    {% assign prev_index = current_index | minus: 1 %}
+    <a href="{{ lessons[prev_index].url | relative_url }}" class="prev">← {{ lessons[prev_index].title }}</a>
+  {% endif %}
+
+  {% if current_index != nil %}
+    {% assign next_index = current_index | plus: 1 %}
+    {% if next_index < lessons.size %}
+      <a href="{{ lessons[next_index].url | relative_url }}" class="next">{{ lessons[next_index].title }} →</a>
+    {% endif %}
+  {% endif %}
+</nav>

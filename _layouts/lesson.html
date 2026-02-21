@@ -8,9 +8,18 @@ layout: default
   <a href="{{ course_page.url | relative_url }}">{{ page.course_title }}</a> /
 </div>
 
+<!-- Table of Contents Sidebar -->
+<aside class="toc-sidebar" id="toc-sidebar">
+  <nav class="toc-nav">
+    <ul id="toc-list"></ul>
+  </nav>
+</aside>
+
 <h1>{{ page.title }}</h1>
 
+<div class="lesson-body" id="lesson-body">
 {{ content }}
+</div>
 
 {% assign lessons = site.courses | where: "course_id", page.course_id | where: "layout", "lesson" | sort: "lesson_number" %}
 {% assign current_index = nil %}
@@ -33,3 +42,93 @@ layout: default
     {% endif %}
   {% endif %}
 </nav>
+
+<script>
+(function() {
+  var body = document.getElementById('lesson-body');
+  var tocList = document.getElementById('toc-list');
+  var sidebar = document.getElementById('toc-sidebar');
+  if (!body || !tocList) return;
+
+  var headings = body.querySelectorAll('h2, h3');
+  if (headings.length === 0) {
+    sidebar.style.display = 'none';
+    return;
+  }
+
+  var currentH2Li = null;
+  var currentSubUl = null;
+
+  headings.forEach(function(heading, index) {
+    if (!heading.id) {
+      heading.id = 'section-' + index;
+    }
+
+    var a = document.createElement('a');
+    a.href = '#' + heading.id;
+    a.textContent = heading.textContent;
+
+    var li = document.createElement('li');
+    li.appendChild(a);
+
+    if (heading.tagName === 'H2') {
+      li.className = 'toc-h2';
+      tocList.appendChild(li);
+      currentH2Li = li;
+      // Prepare a sublist for any h3s that follow
+      currentSubUl = document.createElement('ul');
+      currentSubUl.className = 'toc-sublist';
+      currentH2Li.appendChild(currentSubUl);
+    } else if (heading.tagName === 'H3') {
+      li.className = 'toc-h3';
+      if (currentSubUl) {
+        currentSubUl.appendChild(li);
+      } else {
+        // h3 before any h2, add at root level
+        tocList.appendChild(li);
+      }
+    }
+  });
+
+  // Remove empty sublists
+  tocList.querySelectorAll('.toc-sublist').forEach(function(sl) {
+    if (sl.children.length === 0) sl.remove();
+  });
+
+  // Scroll-based active highlighting
+  var allLinks = tocList.querySelectorAll('a');
+  var headingData = [];
+
+  function updateOffsets() {
+    headingData = [];
+    headings.forEach(function(h) {
+      headingData.push({ id: h.id, top: h.getBoundingClientRect().top + window.scrollY });
+    });
+  }
+
+  function setActive() {
+    var scrollPos = window.scrollY + 120;
+    var activeId = null;
+
+    for (var i = headingData.length - 1; i >= 0; i--) {
+      if (scrollPos >= headingData[i].top) {
+        activeId = headingData[i].id;
+        break;
+      }
+    }
+
+    allLinks.forEach(function(link) {
+      if (link.getAttribute('href') === '#' + activeId) {
+        link.classList.add('active');
+      } else {
+        link.classList.remove('active');
+      }
+    });
+  }
+
+  updateOffsets();
+  setActive();
+  window.addEventListener('scroll', setActive);
+  window.addEventListener('resize', function() { updateOffsets(); setActive(); });
+})();
+</script>
