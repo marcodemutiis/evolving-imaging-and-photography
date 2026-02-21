@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: "Conceptual Screenshotting"
+title: "Copy of a Copy of a Copy"
 course_id: cameraless
 course_title: "Cameraless"
 lesson_number: 2
@@ -40,6 +40,17 @@ While other artists have re-enacted the photographic series of Ed Ruscha in GTA 
 - More about <em>Little Books of Los Santos</em>: <a href="https://gta5.photography/artworks/little-books-of-los-santos">gta5.photography/artworks/little-books-of-los-santos</a>
 
 
+### Ria Patricia Röder, <em>Scanograms</em>, 2015-2020
+![Scanograms]({{ site.baseurl }}/courses/Cameraless/assets/img/instarepeat.jpg)
+<figcaption>Ria Patricia Röder, <em>Nazareno</em>, 2018, from <em>Scanograms</em>, 2015 – 2020</figcaption>
+<blockquote>"ia Patricia Röder (b. 1983) creates her motifs by capturing images not with a camera but with a scanner. In addition to found objects, the German artist also scans fragments of images that she has already scanned and printed as well as shapes cut out from paper and other materials. Accordingly, the motifs she selects crop up more than once in different variations: Röder sees them as ‘declinations’ of the real object. Nor does she make use of digital editing or image renderings in her carefully composed <em>Scanograms</em> (2015–2020).
+
+The narrative quality is created entirely through the analogue arrangement and the dynamic relationship of razor-sharp and blurred elements, which are attributable to the shallow depth of field in the scanning process. Röder’s ‘scanograms’ constitute an experiment with a medium that has certain similarities with the conventional photo camera – namely, the presence of a lens and the process of exposure – yet also enables other forms of imaging."
+– Marco De Mutiis, Matteo Bittanti, <a href="https://www.howtowinat.photography/en/post/insta_repeat"><em>How to Win at Photography – Image-making as Play</em></a>, Fotomuseum Winterthur, online publication, 2021.</blockquote>
+
+- More about <em>Scanograms</em>: <a href="http://patricia-roeder.com/scanograms/">patricia-roeder.com/scanograms</a>
+
+
 ### Emma Agnes Sheffer, <em>Insta Repeat</em>, 2018 – ongoing
 
 ![Insta Repeat]({{ site.baseurl }}/courses/Cameraless/assets/img/instarepeat.jpg)
@@ -49,7 +60,7 @@ While other artists have re-enacted the photographic series of Ed Ruscha in GTA 
 
 Sheffer uses this juxtaposition to show how users with large numbers of followers define how a 'successful' image should look like: the more likes, clicks and shares a picture gets, the more influence it has on visual idioms. This pictorial language is imitated by other users around the world and thus becomes an unwritten aesthetic rule, which ends up in a process of standardisation. In playing the 'attention' game, it is not originality that counts so much as how well it can be staked out and marketed."
 
-– Marco De Mutiis, Matteo Bittanti, <a href="https://www.howtowinat.photography/en/post/insta_repeat"><em>How to Win at Photography – Image-making as Play</em></a>, Fotomuseum Winterthur, online 2021.</blockquote>
+– Marco De Mutiis, Matteo Bittanti, <a href="https://www.howtowinat.photography/en/post/insta_repeat"><em>How to Win at Photography – Image-making as Play</em></a>, Fotomuseum Winterthur, online publication, 2021.</blockquote>
 
 - More about <em>Insta Repeat</em>: <a href="https://www.instagram.com/insta_repeat">instagram.com/insta_repeat</a>
 - Screen Walk with Emma Agnes Sheffer: <a href="https://www.youtube.com/watch?v=zitDqLvmG7U">youtube.com/watch?v=zitDqLvmG7U</a>
