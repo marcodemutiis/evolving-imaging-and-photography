@@ -6,7 +6,7 @@ course_id: playable-imaging
 order: 1
 ---
 
-![cameraless]({{ site.baseurl }}/courses/Cameraless/assets/img/camera_thumbnail.jpg)
+![cameraless]({{ site.baseurl }}/courses/4_Playable-Imaging/assets/img/camera_thumbnail.jpg)
 
 Photography is inherently playful. Nowadays, the production of images is indiscernible from interacting with a video game: after pressing buttons and modifying various options in a menu, we are rewarded with a visual representation of the world. Or, rather, a world. But it is not free play. There are rules that the photographer must master. Skills to conquer. Expectations to fulfil. The very circulation of images is now a trackable, surveilled, quantifiable process like everything else on the internet. Photographs receive a ‘score’ in the form of likes and reposts. They are instantly monetised, becoming part of a larger economic competition for attention in which gamified elements and score systems are increasingly influential.
 

@@ -6,7 +6,7 @@ course_id: the-lure-of-the-image
 order: 1
 ---
 
-![cameraless]({{ site.baseurl }}/courses/Cameraless/assets/img/camera_thumbnail.jpg)
+![The Lure of the Image]({{ site.baseurl }}/courses/2_The-Lure-of-the-Image/assets/img/AIASMR2.jpg)
 
 Why and how are we seduced by images today? What logic underpins this seduction and how does it influence current social, cultural and political developments?
 

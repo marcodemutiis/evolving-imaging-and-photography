@@ -6,7 +6,7 @@ course_id: cameraless
 order: 1
 ---
 
-![cameraless]({{ site.baseurl }}/courses/Cameraless/assets/img/camera_thumbnail.jpg)
+![cameraless]({{ site.baseurl }}/courses/1_Cameraless/assets/img/camera_thumbnail.jpg)
 
 The camera has been understood as the quintessential tool of the photographer for more than 200 years. Yet contemporary photographic images are increasingly created through cameraless processes—from screenshotting to photorealistic CGI, from generative AI to simulated cameras and photo modes in virtual worlds.
 

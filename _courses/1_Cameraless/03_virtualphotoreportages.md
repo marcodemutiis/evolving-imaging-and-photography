@@ -10,7 +10,7 @@ lesson_number: 3
 
 ### Marco Cadioli, *Arenae*, 2005
 
-![Arenae](/expandedphotography/courses/Cameraless/assets/img/arenae.jpg)
+![Arenae]({{ site.baseurl }}/courses/1_Cameraless/assets/img/arenae.jpg)
 <figcaption>Marco Cadioli, from <em>Arenae</em>, 2005</figcaption>
 
 <blockquote> "Arenae [...] is the title of Marco Cadioli's photographic reportages from the virtual battlefields scattered across the net. Cadioli investigates the notion of simulated combat in online multiplayer games such as Counter-Strike, Wolfenstein: Enemy Territory, and Quake III: Arena. As the title itself suggests, Cadioli sees today's ludic arenae as an extension of the traditional arena, where gladiators fought for their lives to entertain a blood-thirsty audience. Multiplayer first-person shooters allow thousands of players to engage in a violent game of cat-and-mouse. These virtual spaces have their own rules, conventions, and limitations: one must search and destroy, kill or be killed, fight or be finished, hide and seek.
@@ -25,7 +25,7 @@ More about *Arenae*: [marcocadioli.com/arenae](https://marcocadioli.com/arenae/)
 
 ### Roc Herms, *Postcards from Home*, 2016
 
-![Postcards from Home](/expandedphotography/courses/Cameraless/assets/img/postcardsfromhome.jpg)
+![Postcards from Home]({{ site.baseurl }}/courses/1_Cameraless/assets/img/postcardsfromhome.jpg)
 <figcaption>Roc Herms, from <em>Postcards from Home</em>, 2016</figcaption>
 
 <blockquote>"With Second Life and virtual reality platforms like PlayStation Home, the world has split in two. In it we have total freedom to invent our own personality and choose any lifestyle we want; on screen we can continue our everyday tedium or we can embark on intrepid adventures. We can decide which virtual urban tribes we want to subscribe to, and, logically, in this world of possibilities, we can become photographers and choose between creating reports in the style of Cartier-Bresson or Robert Frank, or styling portraits like Richard Avedon or Diane Arbus. These dilemmas are some that Barcelonan Roc Herms faces with his project "Postcards from Home". In his virtual life, Herms is always there, camera at the ready, seeking out defining moments that celebrate diversity, in both thematic fixations and stylistic approaches."
@@ -36,7 +36,7 @@ More about *Arenae*: [marcocadioli.com/arenae](https://marcocadioli.com/arenae/)
 - Screen Walk with Roc Herms: [youtube.com/watch?v=\_T8ytKjhk1o](https://www.youtube.com/watch?v=_T8ytKjhk1o)
 
 ### Cao Fei, *RMB City*, 2007–2011
-![RMB City](/expandedphotography/courses/Cameraless/assets/img/rmbcity.webp)
+![RMB City]({{ site.baseurl }}/courses/1_Cameraless/assets/img/rmbcity.webp)
 <figcaption>Cao Fei, Video still from <em>Live in RMB City</em>, 2009</figcaption>
 
 <blockquote>"Cao Fei's RMB City was a fictional Chinese city constructed in the online virtual world Second Life. RMB City opened to the public in 2009 and remained active until 2011, when Cao Fei ended the project. During its time in operation, the city attracted users from the art world as well as a broader virtual community within the Second Life platform, particularly for its events, which included artist projects, contests, and mayoral inaugurations.

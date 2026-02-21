@@ -6,7 +6,7 @@ course_id: experimental-publishing-for-image-makers
 order: 1
 ---
 
-![cameraless]({{ site.baseurl }}/courses/Cameraless/assets/img/camera_thumbnail.jpg)
+![Experimental Publishing for Image-Makers]({{ site.baseurl }}/courses/3_Experimental-Publishing-for-Image-Makers/assets/img/momar.webp)
 
 How is publishing transformed by contemporary digital and networked technologies, and can image-makers think about the role of image circulation? 
 

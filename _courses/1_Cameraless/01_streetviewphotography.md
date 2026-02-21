@@ -13,7 +13,7 @@ Among many online platforms that can be explored by photographers with out a cam
 
 ## Study Cases
 ### Jon Rafman, <em>Nine Eyes of Google Street View</em>, 2008 – ongoing
-![9eyes]({{ site.baseurl }}/courses/Cameraless/assets/img/9eyes.jpg)
+![9eyes]({{ site.baseurl }}/courses/1_Cameraless/assets/img/9eyes.jpg)
 <figcaption>Jon Rafman, from <em>Nine Eyes of Google Street View</em>, 2008 – ongoing</figcaption>
 
 <blockquote>"Nine Eyes of Google Street View is both an archival project and a conceptual meditation on the state of photography in a time of automated imagemaking on a massive scale.
@@ -31,13 +31,13 @@ Rafman conducted a close reading of Google Street View and began to isolate imag
 
 
 ### Jacqui Kenny, <em>Agoraphobic Traveller</em>, 2016 – ongoing
-![Agoraphobic Traveller]({{ site.baseurl }}/courses/Cameraless/assets/img/agoraphobictraveller.webp)
+![Agoraphobic Traveller]({{ site.baseurl }}/courses/1_Cameraless/assets/img/agoraphobictraveller.webp)
 <figcaption>Jacqui Kenny, from <em>Agoraphobic Traveller</em>, 2016 – ongoing</figcaption>
 
 
 
 ### Jenny Odell, <em>Temporal Portraits of People on Streetview</em>, 2014
-![Temporal Portraits of People on Streetview]({{ site.baseurl }}/courses/Cameraless/assets/img/temporalportraits.jpg)
+![Temporal Portraits of People on Streetview]({{ site.baseurl }}/courses/1_Cameraless/assets/img/temporalportraits.jpg)
 <figcaption>Jenny Odell, from <em>Temporal Portraits of People on Streetview</em>, 2014</figcaption>
 
 <blockquote><em>Temporal Portraits of People on Streetview</em> shows images "taken from screenshots of Google Street View. Inadvertently reminsicent of Muybridge's motion studies, the disorienting composites involve three sources of motion: the person walking, the Google Streetview car driving, and [the artist] turning in the Streetview browser in order to keep the subject in view."
@@ -51,7 +51,7 @@ Rafman conducted a close reading of Google Street View and began to isolate imag
 
 
 ### Viktoria Binschtok, <em>World of Details</em>, 2013
-![World of Details]({{ site.baseurl }}/courses/Cameraless/assets/img/worldofdetails.webp)
+![World of Details]({{ site.baseurl }}/courses/1_Cameraless/assets/img/worldofdetails.webp)
 <figcaption>Viktoria Binschtok, from <em>World of Details</em>, 2013</figcaption>
 
 <blockquote>"Every time and generation has its own new sources of information. Today, for instance, with its pool of worldwide images, Google Street View is a kind of visual quarry that artists also dig around in, among them Viktoria Binschtok. Binschtok begins each of her works by appropriating images from this source. Her method is that of a two-part search: both for a fitting image to work from and an after-image to be finally realized on location. In this respect, a before-and-after effect exists not only in content, but also in terms of time. Yet both images, which Binschtok later arranges into an unequal diptych, seem removed from time, contemporary in a timeless way; it's impossible to determine the date the photographs were taken. 
@@ -65,7 +65,7 @@ The artist does her research in Berlin, where she lives, and then she takes the 
 
 
 ### Mario Santamaria, <em>Non-Imaginary Museum</em>, 2013–ongoing 
-![non-imaginary museum]({{ site.baseurl }}/courses/Cameraless/assets/img/nonimaginarymuseum.png)
+![non-imaginary museum]({{ site.baseurl }}/courses/1_Cameraless/assets/img/nonimaginarymuseum.png)
 <figcaption>Mario Santamaria, from <em>Non-Imaginary Museum</em>, 2013 – ongoing</figcaption>
 
 <blockquote>"Mario Santamaría is part of a growing canon of screenshot photographers drawn to the uncanny crash of interface, database, camera and screen produced by the ‘nine eyes’ of the Google Street View camera. In contrast with other artists who have heroically pointed their mouse at the dazzling vastness of the Google Street View landscape, Santamaría has weaponised the screenshot to probe Google’s scopic regime and the sociotechnical infrastructure that sustains it. 
