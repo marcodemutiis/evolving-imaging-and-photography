@@ -15,10 +15,9 @@ In photography, a conceptual tradition of image appropriation emerged most promi
 ### Michael Mandiberg, <em>AfterSherrieLevine.com</em>, 2001
 ![AfterSherrieLevine.com]({{ site.baseurl }}/courses/Cameraless/assets/img/aftersherrielevine.jpg)
 <figcaption>Michael Mandiberg, from <em>AfterSherrieLevine.com</em>, 2001</figcaption>
-
 <blockquote>"In April 2001, I launched AfterWalkerEvans.com and AfterSherrieLevine.com, two identical websites on which I made freely available high-resolution scans of Walker Evans images rephotographed by Sherrie Levine. These digital images are accessible to anyone, andÂ while they accrue cultural value, they retain little to no economic value. The site links to high-resolution, exhibition-quality images and certificates of authenticity to be signed by the downloader, and includes framing and exhibition directions."
 
-#### – Michael Mandiberg, <a href="https://www.mandiberg.com/aftersherrielevine-com/"><em>artist website</em></a></blockquote>
+– Michael Mandiberg, <a href="https://www.mandiberg.com/aftersherrielevine-com/"><em>artist website</em></a></blockquote>
 
 
 - More about <em>AfterSherrieLevine.com</em>: <a href="https://aftersherrielevine.com/">aftersherrielevine.com</a>
@@ -40,7 +39,6 @@ While other artists have re-enacted the photographic series of Ed Ruscha in GTA 
 ### Emma Agnes Sheffer, <em>Insta Repeat</em>, 2018 – ongoing
 ![Insta Repeat]({{ site.baseurl }}/courses/Cameraless/assets/img/instarepeat.jpg)
 <figcaption>Emma Agnes Sheffer, from <em>Insta Repeat</em>, 2018 – ongoing</figcaption>
-
 <blockquote>On her profile @insta_repeat, Emma Agnes Sheffer posts "a collage of virtually identical motifs that the US American artist found on the profiles of different influencers.
 
 Sheffer uses this juxtaposition to show how users with large numbers of followers define how a ‘successful’ image should look like: the more likes, clicks and shares a picture gets, the more influence it has on visual idioms. This pictorial language is imitated by other users around the world and thus becomes an unwritten aesthetic rule, which ends up in a process of standardisation. In playing the ‘attention’ game, it is not originality that counts so much as how well it can be staked out and marketed."
