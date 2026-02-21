@@ -38,7 +38,7 @@ More about *Arenae*: [marcocadioli.com/arenae](https://marcocadioli.com/arenae/)
 
 > "Cao Fei's RMB City was a fictional Chinese city constructed in the online virtual world Second Life. RMB City opened to the public in 2009 and remained active until 2011, when Cao Fei ended the project. During its time in operation, the city attracted users from the art world as well as a broader virtual community within the Second Life platform, particularly for its events, which included artist projects, contests, and mayoral inaugurations.
 
-Over the course of the project, Cao Fei realized a number of installations and video works based on RMB City. She also catalogued RMB City and life within it via an extensive blog and several video works, which reflect the vast scale of the undertaking. Taking place at a time of rapid transformation of Chinese urban space, Cao Fei’s project of producing, maintaining, and inhabiting RMB City was a massive experiment in avant-garde urban planning, and in testing the relationship between the virtual and the real."
+> Over the course of the project, Cao Fei realized a number of installations and video works based on RMB City. She also catalogued RMB City and life within it via an extensive blog and several video works, which reflect the vast scale of the undertaking. Taking place at a time of rapid transformation of Chinese urban space, Cao Fei’s project of producing, maintaining, and inhabiting RMB City was a massive experiment in avant-garde urban planning, and in testing the relationship between the virtual and the real."
 > Michael Connor, Aria Dean, Dragan Espenschied (eds), <a href="https://anthology.rhizome.org/rmb-city"><em>The Art Happens Here: Net Art Anthology</em></a>, Rhizome, New York 2019.
 
 - More about *RMB City*: [caofei.com](https://www.caofei.com/works.aspx?id=56&year=-1&wtid=2)
@@ -50,7 +50,7 @@ Over the course of the project, Cao Fei realized a number of installations and v
 
 ### Virtual Cameras in VRChat
 
-VRChat offers a surprisingly full-featured camera system that mirrors many concepts from real-world photography. Here's how to access and use it.
+[VRChat](https://hello.vrchat.com/) offers a full-featured camera simulation that mirrors many concepts from real-world photography. Here's how to access and use it.
 
 **Opening the Camera**
 
