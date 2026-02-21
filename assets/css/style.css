@@ -241,7 +241,6 @@ blockquote {
   margin: var(--space-lg) 0;
   color: var(--color-text-secondary);
   font-family: var(--font-display);
-  font-style: italic;
 }
 
 /* ============================================

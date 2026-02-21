@@ -1,7 +1,7 @@
 ---
 layout: course
 title: "Cameraless"
-description: "A survival manual for photographers who have (voluntarily or accidentally) lost their camera."
+description: "*A survival manual for photographers who have (voluntarily or accidentally) lost their camera.*"
 course_id: cameraless
 order: 1
 ---
