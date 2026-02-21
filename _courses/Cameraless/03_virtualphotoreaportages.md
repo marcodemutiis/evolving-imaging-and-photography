@@ -23,8 +23,16 @@ lesson_number: 3
 - More about <em>Postcards from Home</em>: <a href="https://www.rocherms.com/projects/postcards-from-home/?lang=en">rocherms.com/projects/postcards-from-home</a>
 - Screen Walk with Roc Herms: [youtube.com/watch?v=\_T8ytKjhk1o](https://www.youtube.com/watch?v=_T8ytKjhk1o)
 
+### Marcio Cadioli, <em>Arenae</em>, 2005
+<blockquote>"Arenae [...] is the title of Marco Cadioli’s photographic reportages from the virtual battlefields scattered across the net. Cadioli investigates the notion of simulated combat in online multiplayer games such as Counter-Strike, Wolfenstein: Enemy Territory, and Quake III: Arena. As the title itself suggests, Cadioli sees today’s ludic arenae as an extension of the traditional arena, where gladiators fought for their lives to entertain a blood-thirsty audience. Multiplayer first-person shooters allow thousands of players to engage in a violent game of cat-and-mouse. These virtual spaces have their own rules, conventions, and limitations: one must search and destroy, kill or be killed, fight or be finished, hide and seek. Cadioli joins the servers, but only to play a peculiar role. He shoots, but does not kill. His weapon is a (virtual) camera. Like a modern-day Robert Capa, the Milanese photographer gets knee-deep in the trenches to capture the intensity of the fights. Under the guidance of an expert player, Gnj, Cadioli takes pictures of the soldiers. He captures their corpses lying on the ground for a few seconds, before melting away. Cadioli moves fast, afraid of turning around, waiting to be hit by a random bullet. He sees a severed head, tucked in a corner. An Easter egg? A souvenir? An act of terrorism? Avatars scream, in the distance… Explosions. Shrapnel. Cadioli cannot take the tension any longer: he activates a GOD cheat mode to become invulnerable. He ascends into the air and starts taking pictures from above. He is using a virtual zoom, specifically designed for the job. The resulting 35mm black and white digital photographs evoke the look-and-feel of the “real” war stock photos. The collusion between memory and media is striking. All images are staged and fabricated, Cadioli implicitly suggests, so there seems to be not a significant difference between the photographs of a “real” war and screenshots take during gameplay. Our notions of past, conflict, and violence are made up of images. Arenae exemplifies Cadioli’s fascination for what he calls “Internet Landscapes”, the vistas and panorama that modern day explorers encounter on the net. Cadioli’s goal is to document the transient, preserving these ephemeral moments form disappearing into oblivion. But the enclosed areas in which the fight takes place are also spaces of experimentation, interstitial zones between different planes of reality. Shooting avatars online becomes a pretext to socialize and interact."
+
+–Matteo Bittanti, 2005 - quoted on [https://marcocadioli.com/arenae/](artist website)</blockquote>
+More about <em>Arenae</em>: [marcocadioli.com/arenae](https://marcocadioli.com/arenae/)
 
 
+### Artist working with VRChat photography...?
+
+### Other artist prossibly a woman, working as photoreporter in virtual world
 
 ## Tutorial
 
