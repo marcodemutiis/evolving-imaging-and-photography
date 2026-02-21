@@ -29,6 +29,41 @@ Rafman conducted a close reading of Google Street View and began to isolate imag
 - Interview with Jon Rafman: <a href="https://www.youtube.com/watch?v=vBWdYrO6y_E">youtube.com/watch?v=vBWdYrO6y_E</a>
 
 
+
+### Jacqui Kenny, <em>Agoraphobic Traveller</em>, 2016 – ongoing
+![Agoraphobic Traveller]({{ site.baseurl }}/courses/Cameraless/assets/img/agoraphobictraveller.webp)
+<figcaption>Jacqui Kenny, from <em>Agoraphobic Traveller</em>, 2016 – ongoing</figcaption>
+
+
+
+### Jenny Odell, <em>Temporal Portraits of People on Streetview</em>, 2014
+![Temporal Portraits of People on Streetview]({{ site.baseurl }}/courses/Cameraless/assets/img/temporalportraits.jpg)
+<figcaption>Jenny Odell, from <em>Temporal Portraits of People on Streetview</em>, 2014</figcaption>
+
+<blockquote><em>Temporal Portraits of People on Streetview</em> shows images "taken from screenshots of Google Street View. Inadvertently reminsicent of Muybridge's motion studies, the disorienting composites involve three sources of motion: the person walking, the Google Streetview car driving, and [the artist] turning in the Streetview browser in order to keep the subject in view."
+
+– Odell, J. Artist website</blockquote>
+
+
+- More about <em>Temporal Portraits of People on Streetview</em>: <a href="https://www.jennyodell.com/temporal-portraits.html">jennyodell.com/temporal-portraits.html</a>
+
+
+
+
+### Viktoria Binschtok, <em>World of Details</em>, 2013
+![World of Details]({{ site.baseurl }}/courses/Cameraless/assets/img/worldofdetails.webp)
+<figcaption>Viktoria Binschtok, from <em>World of Details</em>, 2013</figcaption>
+
+<blockquote>"Every time and generation has its own new sources of information. Today, for instance, with its pool of worldwide images, Google Street View is a kind of visual quarry that artists also dig around in, among them Viktoria Binschtok. Binschtok begins each of her works by appropriating images from this source. Her method is that of a two-part search: both for a fitting image to work from and an after-image to be finally realized on location. In this respect, a before-and-after effect exists not only in content, but also in terms of time. Yet both images, which Binschtok later arranges into an unequal diptych, seem removed from time, contemporary in a timeless way; it's impossible to determine the date the photographs were taken. 
+
+The artist does her research in Berlin, where she lives, and then she takes the actual photographs in New York. This gives rise to a fascinating exploration into time and the things that change or don't change between the taking of the first and second images. There are several interesting dualisms inscribed into the project; there is also the opposition between the systematic recording process of a machine meant to provide a documentation of the current urban situation that is as comprehensive as possible (and that becomes the past as soon as the photograph is taken), and the artistic, human camera eye that has another type of documentation as its intent. Technical differences in the types of photography used are also present: on the one hand, the anonymous, digital shot that theoretically anyone with access to the Internet anywhere in the world has access to, and on the other an artist's analogue camera image that is initially printed in a small edition and only becomes accessible to a wider audience for the first time through this publication. Thus, the reception of the world, the process of image recording, and the distribution of the image could hardly be more different from one another."
+
+– Harder, M. (2013). World of Details. DISTANZ Verlag.</blockquote>
+
+- More about <em>World of Details</em>: <a href="https://viktoriabinschtok.com/work-3/work-2/">viktoriabinschtok.com/work-3/work-2</a>
+
+
+
 ### Mario Santamaria, <em>Non-Imaginary Museum</em>, 2013–ongoing 
 ![non-imaginary museum]({{ site.baseurl }}/courses/Cameraless/assets/img/nonimaginarymuseum.png)
 <figcaption>Mario Santamaria, from <em>Non-Imaginary Museum</em>, 2013 – ongoing</figcaption>
@@ -50,33 +85,6 @@ to undermine Google’s emphasis on universal access to public culture. Santamar
 - Screen Walk with Mario Santamaria: <a href="https://www.youtube.com/watch?v=JAak7Fr5Aqk">youtube.com/watch?v=JAak7Fr5Aqk</a>
 
 
-### Jenny Odell, <em>Temporal Portraits of People on Streetview</em>, 2014
-![Temporal Portraits of People on Streetview]({{ site.baseurl }}/courses/Cameraless/assets/img/temporalportraits.jpg)
-<figcaption>Jenny Odell, from <em>Temporal Portraits of People on Streetview</em>, 2014</figcaption>
-
-<blockquote><em>Temporal Portraits of People on Streetview</em> shows images "taken from screenshots of Google Street View. Inadvertently reminsicent of Muybridge's motion studies, the disorienting composites involve three sources of motion: the person walking, the Google Streetview car driving, and [the artist] turning in the Streetview browser in order to keep the subject in view."
-
-– Odell, J. Artist website</blockquote>
-
-
-- More about <em>Temporal Portraits of People on Streetview</em>: <a href="https://www.jennyodell.com/temporal-portraits.html">jennyodell.com/temporal-portraits.html</a>
-
-
-### Viktoria Binschtok, <em>World of Details</em>, 2013
-![World of Details]({{ site.baseurl }}/courses/Cameraless/assets/img/worldofdetails.webp)
-<figcaption>Viktoria Binschtok, from <em>World of Details</em>, 2013</figcaption>
-
-<blockquote>"Every time and generation has its own new sources of information. Today, for instance, with its pool of worldwide images, Google Street View is a kind of visual quarry that artists also dig around in, among them Viktoria Binschtok. Binschtok begins each of her works by appropriating images from this source. Her method is that of a two-part search: both for a fitting image to work from and an after-image to be finally realized on location. In this respect, a before-and-after effect exists not only in content, but also in terms of time. Yet both images, which Binschtok later arranges into an unequal diptych, seem removed from time, contemporary in a timeless way; it's impossible to determine the date the photographs were taken. 
-
-The artist does her research in Berlin, where she lives, and then she takes the actual photographs in New York. This gives rise to a fascinating exploration into time and the things that change or don't change between the taking of the first and second images. There are several interesting dualisms inscribed into the project; there is also the opposition between the systematic recording process of a machine meant to provide a documentation of the current urban situation that is as comprehensive as possible (and that becomes the past as soon as the photograph is taken), and the artistic, human camera eye that has another type of documentation as its intent. Technical differences in the types of photography used are also present: on the one hand, the anonymous, digital shot that theoretically anyone with access to the Internet anywhere in the world has access to, and on the other an artist's analogue camera image that is initially printed in a small edition and only becomes accessible to a wider audience for the first time through this publication. Thus, the reception of the world, the process of image recording, and the distribution of the image could hardly be more different from one another."
-
-– Harder, M. (2013). World of Details. DISTANZ Verlag.</blockquote>
-
-- More about <em>World of Details</em>: <a href="https://viktoriabinschtok.com/work-3/work-2/">viktoriabinschtok.com/work-3/work-2</a>
-
-### Jacqui Kenny, <em>Agoraphobic Traveller</em>, 2016 – ongoing
-![Agoraphobic Traveller]({{ site.baseurl }}/courses/Cameraless/assets/img/agoraphobictraveller.webp)
-<figcaption>Jacqui Kenny, from <em>Agoraphobic Traveller</em>, 2016 – ongoing</figcaption>
 
 ### Azahara Cerezo, <em>Paisajes digitales de una guerra</em>, 2015
 <blockquote>"Paisajes digitales de una guerra (tr. Digital landscapes from a war) collects images of political graffiti found in areas known to have been sites of
@@ -85,7 +93,7 @@ political unrest during the Spanish Civil War (1936−1939) through the lens of 
 – W. Gerling, S. Möring, & M. De Mutiis (Eds.), <a href="https://www.kulturverlag-kadmos.de/programm/details/screen_images?file=/site/assets/files/4055/9783865995353.pdf"><em>Screen Images: In-Game Photography, Screenshot, Screencast</em></a> (pp. 171). Kulturverlag Kadmos.</blockquote>
 
 
-### Emilio Vavarella, <em>The Driver and the Cameras</em>, 2012
+<!---### Emilio Vavarella, <em>The Driver and the Cameras</em>, 2012
 ### Paolo Cirio, <em>Street Ghosts</em>, 2012–2017
 ### Michael Wolf, <em>A Series of Unfortunate Events</em>, 2010
 
@@ -123,7 +131,7 @@ Sylvia Grace Borda in collaboration with John M Lynch, Mise en Scene: Farm Table
 
 Justin Blinder, Wikipedia Was Here, 2018
 Sasha R Gregor (AKA Roger Grasas), Beagle 2.0, 2017
-Alex Alsup, GooBing Detroit, 2014 – ongoing
+Alex Alsup, GooBing Detroit, 2014 – ongoing-->
 
 ## Assignment
 
