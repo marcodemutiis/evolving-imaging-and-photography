@@ -17,7 +17,7 @@ The course is structured through weekly short assigments where students have to 
 |------------|-------------------------------------|
 | 7.4.2026   | Introduction                        |
 | 14.4.2026  | Street (View) Photography           |
-| 21.4.2026  | Conceptual Screenshotting           |
+| 21.4.2026  | Copy of a Copy of a Copy           |
 | 28.4.2026  | Virtual World Photoreportages       |
 | 5.5.2026   | Digital Architecture Photography    |
 | 12.5.2026  | Photo Modes and Virtual Landscapes  |

@@ -41,7 +41,7 @@ While other artists have re-enacted the photographic series of Ed Ruscha in GTA 
 
 
 ### Ria Patricia Röder, <em>Scanograms</em>, 2015-2020
-![Scanograms]({{ site.baseurl }}/courses/Cameraless/assets/img/instarepeat.jpg)
+![Scanograms]({{ site.baseurl }}/courses/Cameraless/assets/img/scanograms.jpg)
 <figcaption>Ria Patricia Röder, <em>Nazareno</em>, 2018, from <em>Scanograms</em>, 2015 – 2020</figcaption>
 <blockquote>"ia Patricia Röder (b. 1983) creates her motifs by capturing images not with a camera but with a scanner. In addition to found objects, the German artist also scans fragments of images that she has already scanned and printed as well as shapes cut out from paper and other materials. Accordingly, the motifs she selects crop up more than once in different variations: Röder sees them as ‘declinations’ of the real object. Nor does she make use of digital editing or image renderings in her carefully composed <em>Scanograms</em> (2015–2020).
 
