@@ -234,6 +234,20 @@ pre code {
 }
 
 /* ============================================
+   KEYBOARD KEYS
+   ============================================ */
+kbd {
+  font-family: var(--font-mono);
+  font-size: 0.78em;
+  background: var(--color-code-bg);
+  border: 1px solid var(--color-border);
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  padding: 0.15em 0.45em;
+  white-space: nowrap;
+}
+
+/* ============================================
    BLOCKQUOTES
    ============================================ */
 blockquote {

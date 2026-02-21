@@ -133,6 +133,60 @@ Justin Blinder, Wikipedia Was Here, 2018
 Sasha R Gregor (AKA Roger Grasas), Beagle 2.0, 2017
 Alex Alsup, GooBing Detroit, 2014 – ongoing-->
 
+## Tutorial
+
+### How to Take a Screenshot
+
+Before exploring Google Street View as a photographic tool, you need to know how to capture what's on your screen. Below is a quick reference for every major platform.
+
+### Mac
+
+| Action | Shortcut |
+|---|---|
+| Capture entire screen | <kbd>⌘ Command</kbd> + <kbd>Shift</kbd> + <kbd>3</kbd> |
+| Capture a selected area | <kbd>⌘ Command</kbd> + <kbd>Shift</kbd> + <kbd>4</kbd>, then drag to select |
+| Capture a specific window | <kbd>⌘ Command</kbd> + <kbd>Shift</kbd> + <kbd>4</kbd>, then press <kbd>Spacebar</kbd> and click the window |
+| Copy screenshot to clipboard | Hold <kbd>Control</kbd> together with any shortcut above |
+| Open Screenshot app | <kbd>⌘ Command</kbd> + <kbd>Shift</kbd> + <kbd>5</kbd> |
+
+Screenshots are saved as PNG files on your Desktop by default. Use the Screenshot app (<kbd>⌘ Command</kbd> + <kbd>Shift</kbd> + <kbd>5</kbd>) for additional options like screen recording and changing the save location.
+
+### Windows
+
+| Action | Shortcut |
+|---|---|
+| Capture a selected area | <kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>, then drag to select |
+| Paste from clipboard | <kbd>Ctrl</kbd> + <kbd>V</kbd> into any application |
+
+After pressing <kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>, the screenshot is copied to your clipboard. You can paste it directly into a document, or open Paint to paste and save it as a file. For more options, search for "Snipping Tool" in the Start menu.
+
+### iOS / iPadOS
+
+| Action | Shortcut |
+|---|---|
+| iPhones and iPads without Home button | Hold <kbd>Sleep/Wake</kbd>, then press <kbd>Volume Up</kbd> |
+| iPhones and iPads with Home button | Hold <kbd>Sleep/Wake</kbd>, then press <kbd>Home</kbd> |
+
+The screen will flash white. Screenshots are saved in the Photos app.
+
+### Android
+
+| Action | Shortcut |
+|---|---|
+| Most Android devices | Hold <kbd>Volume Down</kbd> + <kbd>Power</kbd> for 1–2 seconds |
+| Older devices with Home button | Hold <kbd>Home</kbd> + <kbd>Power</kbd> for 1–2 seconds |
+
+The screen will flash white. Screenshots are saved in the Screenshots folder in your Gallery or Photos app.
+
+### Linux
+
+| Action | Shortcut |
+|---|---|
+| Capture entire screen | <kbd>PrtScn</kbd> |
+| Capture a single window | <kbd>Alt</kbd> + <kbd>PrtScn</kbd> |
+
+The <kbd>PrtScn</kbd> key is usually found in the upper right area of your keyboard. On most desktop environments (KDE, GNOME, XFCE), pressing it will either capture the screen directly or open a screenshot tool.
+
 ## Assignment
 
-Explore Google Street View with a photographic approach, and take a series of 5-10 screenshots. You can base your screenshots on a specific theme, geographic region, photographic tradition, or artistic practice from the examples seen in class.
+Explore Google Street View with a photographic approach, and take a series of 5-10 screenshots. You can base your screenshots on a specific theme, geographic region, photographic tradition, or artistic practice from the examples seen in class. 
