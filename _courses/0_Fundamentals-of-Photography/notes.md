@@ -23,7 +23,7 @@ Alphonse Bertillon's criminal identification system, Francis Galton's composite 
 
 - surveilling — aerial photography, urban photography, satellite imaging
 
-Nadar's aerial photographs of Paris, Berenice Abbott's Changing New York, Allan Sekula's Fish Story, Trevor Paglen's work on surveillance infrastructure and classified landscapes
+Nadar's aerial photographs of Paris, Berenice Abbott's Changing New York and Atget's Paris, Allan Sekula's Fish Story, Trevor Paglen's work on surveillance infrastructure and classified landscapes, Clement Valla's Postcards from Google Earth
 
 
 - archiving — ethnographic photography, natural history photography, typological series
@@ -33,7 +33,7 @@ Edward Curtis's The North American Indian, the Crimean War photographs of Roger 
 
 - indexing — typological photography, scientific series, landscape as survey
 
-Eadweard Muybridge's Animal Locomotion, Karl Blossfeldt's Urformen der Kunst, Bernd and Hilla Becher, the geological surveys of Timothy O'Sullivan, Ed Ruscha's Every Building on the Sunset Strip
+Anne Atkins Cynotypes of British Flora, Alan Butler Cynotypes of Virtual Flora, Eadweard Muybridge's Animal Locomotion, Karl Blossfeldt's Urformen der Kunst, Bernd and Hilla Becher, the geological surveys of Timothy O'Sullivan, Ed Ruscha's Every Building on the Sunset Strip
 
 
 
@@ -68,19 +68,20 @@ Edward Weston's peppers and shells in dialogue with modernist sculpture, Joel Me
 
 - seducing (advertisement and propaganda) — fashion photography, advertising photography, glamour and beauty photography, influencer and social media photography, propaganda, AI ASMR images, conspiracy theory low res images, cursed images
 
-Edward Steichen's fashion work for Vogue, Richard Avedon's Harper's Bazaar campaigns, Martha Rosler's Bringing the War Home (photomontage as ideological critique of advertising's domestic fantasy), Barbara Kruger's appropriation and deconstruction of advertising rhetoric, Guy Bourdin's surrealist fashion narratives, John Yuyi's tattoo-transfer body works and Instagram-native visual language as a new form of self-commodification and seduction
+Edward Steichen's fashion work for Vogue, Richard Avedon's Harper's Bazaar campaigns, Martha Rosler's Bringing the War Home (photomontage as ideological critique of advertising's domestic fantasy), Barbara Kruger's appropriation and deconstruction of advertising rhetoric, Guy Bourdin's surrealist fashion narratives, John Yuyi's tattoo-transfer body works and Instagram-native visual language as a new form of self-commodification and seduction, 
 
+Ellie Wyatt Cherrypicker, Jon Rafman
 
 - constructing (the staged and fabricated image) — conceptual photography, staged photography, pictorialism, fine art photography, photoshop and manipulation, re-enactment, analogue & digital collage
 
 Henry Peach Robinson's Fading Away, Oscar Gustav Rejlander's The Two Ways of Life, Cindy Sherman's Untitled Film Stills, Gregory Crewdson's cinematic suburban tableaux, Sandy Skoglund's elaborate constructed environments, Thomas Demand's paper reconstructions of crime scenes
 
 
+
 - simulating (the collapse of the photographic real) — post-photography, AI-generated images, CGI, composite and manipulated photography, bio-inspired generative imagery
 
 Joan Fontcuberta's fabricated natural history (Fauna, Herbarium), Andreas Gursky's digitally composited large-scale prints, Mishka Henner's satellite-sourced works, Anna Ridler's Mosaic VIrus, Sofia Crespo's neural zoo and Artificial Remnants series (generative AI trained on biological datasets, blurring nature photography, scientific illustration, and machine hallucination), recent debates around AI image generation and deepfakes, Holly Herndon and Mat Dryhurst's work on synthetic media
-
-
+Felicity Hammond, Nina Davies, Martyna Malcinak
 
 
 ### IV. Agency and Resistance
@@ -90,7 +91,7 @@ Joan Fontcuberta's fabricated natural history (Fauna, Herbarium), Andreas Gursky
 
 Joachim Schmid's Bilder von der Straße, Erik Kessels's 24 Hours in Photos, the found photograph collections of Peter Doig and Zoe Leonard, Penelope Umbrico's Sunsets from Flickr, the culture of the photobook (Martin Parr and Gerry Badger's The Photobook: A History)
 
-Sara Bezovsek, Noura Tafeche
+Sara Bezovsek, Noura Tafeche, Insta Repeat
 
 
 - circulating — press photography, social media photography, meme culture and poor images, networked images
