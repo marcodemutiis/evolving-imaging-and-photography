@@ -16,6 +16,9 @@ lesson_number: 0
 
 ### I. Power and Institution
 
+![I]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/bertillon.jpg)
+<figcaption>Class on the Bertillon system in France in 1911</figcaption>
+
 - *policing* — forensic photography, medical and scientific photography, aerial photography, architectural photography as survey, CCTV and machine vision, seeing machines
 
 - *surveilling* — aerial photography, urban photography, satellite imaging
@@ -26,6 +29,9 @@ lesson_number: 0
 
 
 ### II. Affect and Subjectivity
+
+![II]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/arbus.jpg)
+<figcaption>Diane Arbus, <em>Four people at a gallery opening, N.Y.C.</em>, 1968</figcaption>
 
 - *witnessing* — social documentary, photojournalism, war photography, street photography
 
@@ -39,6 +45,9 @@ lesson_number: 0
 
 ### III. Persuasion and Spectacle
 
+![III]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/rosler.webp)
+<figcaption>Martha Rosler, <em>Cargo Cult</em>, ca. 1966–72, photomontage</figcaption>
+
 - *seducing* — fashion photography, advertising photography, glamour and beauty photography, influencer and social media photography, propaganda, AI ASMR images, conspiracy theory low res images, cursed images
 
 - *constructing* — onceptual photography, staged photography, pictorialism, fine art photography, photoshop and manipulation, re-enactment, analogue & digital collage
@@ -47,7 +56,9 @@ lesson_number: 0
 
 
 ### IV. Agency and Resistance
-*resisting, collecting, circulating*
+
+![IV]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/bezovsek.webp)
+<figcaption>Sara Bezovšek, Deatil from <em>S-N-D</em>, 2024, digital collage</figcaption>
 
 - *collecting* — vernacular photography, found photography, appropriation art, photobook culture, screenshotting daries, 
 
