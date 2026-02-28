@@ -4,9 +4,11 @@ title: "Introduction"
 title_de: "Einführung"
 course_id: fundamentalsofphotography
 course_title: "Fundamentals of Photography"
-title_de: "Grundlagen der Fotografie"
+course_title_de: "Grundlagen der Fotografie"
 lesson_number: 0
 ---
+
+<div class="lang-en" markdown="1">
 
 ## About the Course
 
@@ -78,4 +80,8 @@ lesson_number: 0
 
 ## Syllabus
 
+</div>
 
+<div class="lang-de" markdown="1">
+
+</div>
