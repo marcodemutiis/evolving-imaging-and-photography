@@ -9,6 +9,7 @@ order: 0
 ---
 
 ![fundamentalsofphotography]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/niepce.jpg)
+<figcaption>Nicéphore Niépce, <em>Point de vue du Gras</em>, 1826</figcaption>
 
 <div class="lang-en" markdown="1">
 
