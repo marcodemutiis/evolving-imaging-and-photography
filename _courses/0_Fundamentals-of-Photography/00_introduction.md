@@ -105,14 +105,14 @@ The picture agencies (Magnum, Getty), the role of Life magazine in shaping publi
 | 7.4.2026   | Introduction                        |
 | 14.4.2026  | I. Power and Institution	           |
 | 21.4.2026  | 			           			  	   |
-| 28.4.2026  | 					       			   |
-| 5.5.2026   | II. Affect and Subjectivity		   |
-| 12.5.2026  | 									   |
+| 28.4.2026  | II. Affect and Subjectivity 		   |
+| 5.5.2026   | 		   							   |
+| 12.5.2026  | III. Persuasion and Spectacle	   |
 | 2.6.2026   | 	                       			   |
-| 9.6.2026   | III. Persuasion and Spectacle  	   |
+| 9.6.2026   | IV. Agency and Resistance	  	   |
 | 16.6.2026  |                  				   |
-| 23.6.2026  | 								       |
-| 30.6.2026  | IV. Agency and Resistance		   |
+| 23.6.2026  | Final Projects				       |
+| 30.6.2026  | 		   							   |
 
 
 ## Tools and Resources
