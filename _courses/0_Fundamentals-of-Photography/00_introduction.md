@@ -11,7 +11,7 @@ lesson_number: 0
 ## Topics and concepts
 
 ### I. Power and Institution
-policing, surveilling, archiving, indexing
+*policing, surveilling, archiving, indexing*
 
 - policing (scientific objectivity of the photographic as document) — forensic photography, medical and scientific photography, aerial photography, architectural photography as survey
 
@@ -36,7 +36,7 @@ Eadweard Muybridge's Animal Locomotion, Karl Blossfeldt's Urformen der Kunst, Be
 
 
 ### II. Affect and Subjectivity
-witnessing, mourning, remembering, translating
+*witnessing, mourning, remembering, translating*
 
 - witnessing (documentary photography) — social documentary, photojournalism, war photography, street photography
 
@@ -61,7 +61,7 @@ Edward Weston's peppers and shells in dialogue with modernist sculpture, Joel Me
 
 
 ### III. Persuasion and Spectacle
-seducing, constructing, simulating
+*seducing, constructing, simulating*
 
 - seducing (advertisement and propaganda) — fashion photography, advertising photography, glamour and beauty photography, influencer and social media photography
 
@@ -81,7 +81,7 @@ Joan Fontcuberta's fabricated natural history (Fauna, Herbarium), Andreas Gursky
 
 
 ### IV. Agency and Resistance
-resisting, collecting, circulating
+*resisting, collecting, circulating*
 
 - resisting — activist photography, feminist photography, decolonial documentary, community photography
 
