@@ -525,3 +525,9 @@ figcaption em {
     padding: var(--space-lg) var(--space-md);
   }
 }
+
+/* ============================================
+   LANGUAGE SELECTION
+   ============================================ */
+[data-lang="en"] .lang-de { display: none; }
+[data-lang="de"] .lang-en { display: none; }

@@ -8,6 +8,8 @@ order: 0
 
 ![fundamentalsofphotography]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/niepce.jpg)
 
+<div class="lang-en" markdown="1">
+
 ## Lecturer:
 Marco De Mutiis
 
@@ -30,3 +32,32 @@ Students demonstrate their learning through a self-directed final project, choos
 A. A photographic series of 5–10 prints  
 B. A photo book dummy (printed and as PDF)  
 C. A digital project (website, digital collage, or interactive documentary)
+
+</div>
+
+<div class="lang-de" markdown="1">
+	
+## Dozent:
+Marco De Mutiis
+
+## Termin und Ort:
+Dienstag, 11:00–13:15 Uhr – L102 (ab 7. April)
+
+## Inhalt:
+Dieses Modul vermittelt die Grundlagen der Fotografie und verfolgt ihre Entwicklung über die vergangenen 200 Jahre bis in die Gegenwart. Anstatt Fotografie als ein einheitliches Medium zu betrachten, öffnet es den Blick auf ein Feld konkurrierender Praktiken, Funktionen und Bedeutungen – geprägt durch Macht, Emotion, Überzeugung und Widerstand.
+
+Der Kurs ist in vier thematische Schwerpunkte gegliedert. Der erste, *Macht und Institution*, untersucht, wie Fotografie eingesetzt wurde, um zu kontrollieren, zu überwachen, zu archivieren und zu ordnen – von forensischer und wissenschaftlicher Dokumentation bis hin zu typologischen Serien und Landschaftsvermessungen. Der zweite, *Affekt und Subjektivität*, beleuchtet die Rolle der Fotografie beim Bezeugen, Trauern, Erinnern und im Dialog mit anderen Medien – von Kriegsfotografie und sozialem Dokumentarismus bis zu Familienalben und konzeptuellen Arbeiten. Der dritte Schwerpunkt, *Überzeugung und Spektakel*, befasst sich damit, wie Fotografie verführt, konstruiert und simuliert – von Werbung und Modefotografie über inszenierte und fabrizierte Bilder bis hin zur Auflösung fotografischer Wahrheit im Zeitalter von CGI und KI-generierten Bildern. Der vierte, *Handlungsmacht und Widerstand*, behandelt Fotografie als Werkzeug des Aktivismus, des kollektiven Gedächtnisses und der Bildverbreitung – von dekolonialer Dokumentarfotografie und feministischer Praxis bis zu Fotobuchkultur und sozialen Medien.
+
+Der Kurs stützt sich auf ein breites Spektrum historischer und zeitgenössischer Positionen und verortet diese in ihren kulturellen, politischen und technologischen Zusammenhängen.
+
+## Lernziele des Moduls:
+Die Studierenden entwickeln ein kritisches Verständnis der Geschichte und Vielfalt fotografischer Praxis – in dokumentarischen, künstlerischen, kommerziellen und computerbasierten Formen. Sie lernen, Bilder semiotisch zu analysieren und fotografische Arbeiten in ihre kulturellen, institutionellen und medialen Kontexte einzuordnen. Darüber hinaus sammeln sie praktische Erfahrungen in der Bildgestaltung – mit analogen und digitalen Ansätzen – und erarbeiten sich ein Vokabular, um über die sich wandelnde Rolle der Fotografie in der zeitgenössischen Bildkultur zu sprechen.
+
+## Leistungsnachweis:
+Die Studierenden weisen ihre Lernfortschritte durch ein eigenständiges Abschlussprojekt nach. Dabei wählen sie eines der folgenden Formate:
+
+A. Eine fotografische Serie von 5–10 Abzügen  
+B. Ein Fotobuch-Dummy (gedruckt und als PDF)  
+C. Ein digitales Projekt (Website, digitale Collage oder interaktiver Dokumentarfilm)
+
+</div>
