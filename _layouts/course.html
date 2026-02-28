@@ -3,15 +3,25 @@ layout: default
 ---
 
 <div class="breadcrumb">
-  <a href="{{ site.baseurl }}/">Courses</a> /
+  <span class="lang-en"><a href="{{ site.baseurl }}/">Courses</a> /</span>
+  <span class="lang-de"><a href="{{ site.baseurl }}/">Kurse</a> /</span>
 </div>
 
-<h1>{{ page.title }}</h1>
-<p class="subtitle">{{ page.description }}</p>
+<h1>
+  <span class="lang-en">{{ page.title }}</span>
+  <span class="lang-de">{{ page.title_de | default: page.title }}</span>
+</h1>
+<p class="subtitle">
+  <span class="lang-en">{{ page.description }}</span>
+  <span class="lang-de">{{ page.description_de | default: page.description }}</span>
+</p>
 
 {{ content }}
 
-<h2>Lessons</h2>
+<h2>
+  <span class="lang-en">Lessons</span>
+  <span class="lang-de">Lektionen</span>
+</h2>
 
 <ol class="lesson-list">
 {% assign lessons = site.courses | where: "course_id", page.course_id | where: "layout", "lesson" | sort: "lesson_number" %}
@@ -19,7 +29,10 @@ layout: default
   <li class="lesson-item">
     <a href="{{ lesson.url | relative_url }}">
       <span class="lesson-number">{{ lesson.lesson_number | prepend: '00' | slice: -2, 2 }}</span>
-      <span class="lesson-title">{{ lesson.title }}</span>
+      <span class="lesson-title">
+        <span class="lang-en">{{ lesson.title }}</span>
+        <span class="lang-de">{{ lesson.title_de | default: lesson.title }}</span>
+      </span>
     </a>
   </li>
 {% endfor %}

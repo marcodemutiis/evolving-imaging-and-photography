@@ -1,7 +1,9 @@
 ---
 layout: course
 title: "Fundamentals of Photography"
+title_de: "Grundlagen der Fotografie"
 description: "An introduction into the history and present of the photographic medium and its multiple forms"
+description_de: "Eine Einführung in die Geschichte und Gegenwart des Mediums Fotografie und seiner vielfältigen Formen"
 course_id: fundamentalsofphotography
 order: 0
 ---
@@ -36,7 +38,7 @@ C. A digital project (website, digital collage, or interactive documentary)
 </div>
 
 <div class="lang-de" markdown="1">
-	
+
 ## Dozent:
 Marco De Mutiis
 

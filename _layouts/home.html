@@ -17,10 +17,19 @@ layout: default
 {% for course in course_pages %}
   <li class="course-card">
     <a href="{{ course.url | relative_url }}">
-      <div class="course-card-title">{{ course.title }}</div>
-      <div class="course-card-desc">{{ course.description }}</div>
+      <div class="course-card-title">
+        <span class="lang-en">{{ course.title }}</span>
+        <span class="lang-de">{{ course.title_de | default: course.title }}</span>
+      </div>
+      <div class="course-card-desc">
+        <span class="lang-en">{{ course.description }}</span>
+        <span class="lang-de">{{ course.description_de | default: course.description }}</span>
+      </div>
       {% assign lesson_count = site.courses | where: "course_id", course.course_id | where: "layout", "lesson" | size %}
-      <div class="course-card-meta">{{ lesson_count }} lessons</div>
+      <div class="course-card-meta">
+        <span class="lang-en">{{ lesson_count }} lessons</span>
+        <span class="lang-de">{{ lesson_count }} Lektionen</span>
+      </div>
     </a>
   </li>
 {% endfor %}

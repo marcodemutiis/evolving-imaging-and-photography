@@ -1,8 +1,10 @@
 ---
 layout: lesson
 title: "Introduction"
+title_de: "Einführung"
 course_id: fundamentalsofphotography
 course_title: "Fundamentals of Photography"
+title_de: "Grundlagen der Fotografie"
 lesson_number: 0
 ---
 

@@ -3,12 +3,19 @@ layout: default
 ---
 
 <div class="breadcrumb">
-  <a href="{{ site.baseurl }}/">Courses</a> /
+  <span class="lang-en"><a href="{{ site.baseurl }}/">Courses</a> /</span>
+  <span class="lang-de"><a href="{{ site.baseurl }}/">Kurse</a> /</span>
   {% assign course_page = site.courses | where: "course_id", page.course_id | where: "layout", "course" | first %}
-  <a href="{{ course_page.url | relative_url }}">{{ page.course_title }}</a> /
+  <a href="{{ course_page.url | relative_url }}">
+    <span class="lang-en">{{ page.course_title }}</span>
+    <span class="lang-de">{{ page.course_title_de | default: page.course_title }}</span>
+  </a> /
 </div>
 
-<h1>{{ page.title }}</h1>
+<h1>
+  <span class="lang-en">{{ page.title }}</span>
+  <span class="lang-de">{{ page.title_de | default: page.title }}</span>
+</h1>
 
 {{ content }}
 
@@ -23,13 +30,19 @@ layout: default
 <nav class="lesson-nav">
   {% if current_index and current_index > 0 %}
     {% assign prev_index = current_index | minus: 1 %}
-    <a href="{{ lessons[prev_index].url | relative_url }}" class="prev">← {{ lessons[prev_index].title }}</a>
+    <a href="{{ lessons[prev_index].url | relative_url }}" class="prev">←
+      <span class="lang-en">{{ lessons[prev_index].title }}</span>
+      <span class="lang-de">{{ lessons[prev_index].title_de | default: lessons[prev_index].title }}</span>
+    </a>
   {% endif %}
 
   {% if current_index != nil %}
     {% assign next_index = current_index | plus: 1 %}
     {% if next_index < lessons.size %}
-      <a href="{{ lessons[next_index].url | relative_url }}" class="next">{{ lessons[next_index].title }} →</a>
+      <a href="{{ lessons[next_index].url | relative_url }}" class="next">
+        <span class="lang-en">{{ lessons[next_index].title }}</span>
+        <span class="lang-de">{{ lessons[next_index].title_de | default: lessons[next_index].title }}</span>
+       →</a>
     {% endif %}
   {% endif %}
 </nav>

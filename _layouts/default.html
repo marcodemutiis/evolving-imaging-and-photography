@@ -20,8 +20,18 @@
     <a href="{{ site.baseurl }}/" class="site-title">{{ site.title }}</a>
     <ul class="site-nav-links">
       <li><a href="#" onclick="toggleLang(event)" id="lang-toggle">DE</a></li>
-      <li><a href="{{ site.baseurl }}/">Courses</a></li>
-      <li><a href="{{ site.baseurl }}/about/">About</a></li>
+      <li>
+        <a href="{{ site.baseurl }}/">
+          <span class="lang-en">Courses</span>
+          <span class="lang-de">Kurse</span>
+        </a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/about/">
+          <span class="lang-en">About</span>
+          <span class="lang-de">Über</span>
+        </a>
+      </li>
     </ul>
   </nav>
 
@@ -93,21 +103,19 @@
       updateActive();
     })();
 
-    /*language switch script*/
-
-function toggleLang(e) {
-  e.preventDefault();
-  var current = document.documentElement.getAttribute('data-lang') || 'en';
-  var next = current === 'en' ? 'de' : 'en';
-  document.documentElement.setAttribute('data-lang', next);
-  document.getElementById('lang-toggle').textContent = next === 'en' ? 'DE' : 'EN';
-  localStorage.setItem('lang', next);
-}
-// Restore preference
-var saved = localStorage.getItem('lang') || 'en';
-document.documentElement.setAttribute('data-lang', saved);
-document.getElementById('lang-toggle').textContent = saved === 'en' ? 'DE' : 'EN';
-
+    /* language switch script */
+    function toggleLang(e) {
+      e.preventDefault();
+      var current = document.documentElement.getAttribute('data-lang') || 'en';
+      var next = current === 'en' ? 'de' : 'en';
+      document.documentElement.setAttribute('data-lang', next);
+      document.getElementById('lang-toggle').textContent = next === 'en' ? 'DE' : 'EN';
+      localStorage.setItem('lang', next);
+    }
+    // Restore preference
+    var saved = localStorage.getItem('lang') || 'en';
+    document.documentElement.setAttribute('data-lang', saved);
+    document.getElementById('lang-toggle').textContent = saved === 'en' ? 'DE' : 'EN';
   </script>
 
 </body>
