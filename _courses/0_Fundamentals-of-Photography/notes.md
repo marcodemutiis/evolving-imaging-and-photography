@@ -18,7 +18,11 @@ published: false
 
 - policing (scientific objectivity of the photographic as document) — forensic photography, medical and scientific photography, aerial photography, architectural photography as survey, CCTV and machine vision, seeing machines
 
+Niepce and origins of photography as scientific, producing a document.
+The first genre of photography is landscape and architecture photography, because of long exposure and siz eof camera.
+
 Alphonse Bertillon's criminal identification system, Francis Galton's composite portraits, The Normalizing Machine by Mushon Zer-Aviv, Eadweard Muybridge's motion studies, August Sander's People of the 20th Century, Lewis Hine's child labor documentation for the NCLC, 
+
 
 
 - surveilling — aerial photography, urban photography, satellite imaging
@@ -58,7 +62,7 @@ Jacques-Henri Lartigue's family albums, Nan Goldin's The Ballad of Sexual Depend
 
 - translating (photography in dialogue with other media) — still life, landscape, conceptual photography
 
-Edward Weston's peppers and shells in dialogue with modernist sculpture, Joel Meyerowitz's Cape Light in dialogue with Hopper and the painterly tradition, Victor Burgin's text-image works, Jeff Wall's lightboxes in dialogue with 19th-century painting, Hiroshi Sugimoto's Seascapes
+Edward Weston's peppers and shells in dialogue with modernist sculpture, Joel Meyerowitz's Cape Light in dialogue with Hopper and the painterly tradition, Victor Burgin's text-image works, Jeff Wall's lightboxes in dialogue with 19th-century painting, Hiroshi Sugimoto's Seascapes, Viktoria Binschtok classic photography and digital visual culture
 
 
 
