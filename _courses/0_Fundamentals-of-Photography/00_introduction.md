@@ -84,4 +84,56 @@ lesson_number: 0
 
 <div class="lang-de" markdown="1">
 
+# Über den Kurs
+
+## Themen und Konzepte
+
+### I. Macht und Institution
+
+- *Kontrollieren* — forensische Fotografie, medizinische und wissenschaftliche Fotografie, Luftfotografie, Architekturfotografie als Bestandsaufnahme
+- *Überwachen* — Luftfotografie, urbane Fotografie, Satellitenbilder
+- *Archivieren* — ethnografische Fotografie, naturhistorische Fotografie, typologische Serien
+- *Ordnen* — typologische Fotografie, wissenschaftliche Serien, Landschaft als Vermessung
+
+### II. Affekt und Subjektivität
+
+- *Bezeugen* — sozialer Dokumentarismus, Fotojournalismus, Kriegsfotografie, Straßenfotografie
+- *Trauern* — posthume Porträts, Gedenkfotografie, Geisterfotografie, vernaculare Fotografie
+- *Erinnern* — Reise- und Tourismsfotografie, Porträtfotografie, Familienalben und vernaculare Fotografie, Fotografie in virtuellen Welten
+- *Übersetzen* (Fotografie im Dialog mit anderen Medien) — Stillleben, Landschaft, konzeptuelle Fotografie
+
+### III. Überzeugung und Spektakel
+
+- *Verführen* — Modefotografie, Werbefotografie, Glamour- und Beautyfotografie, Influencer- und Social-Media-Fotografie, Propaganda
+- *Konstruieren* — konzeptuelle Fotografie, inszenierte Fotografie, Reenactment, Piktorialismus, Kunstfotografie
+- *Simulieren* — Post-Fotografie, KI-generierte Bilder, CGI, Compositing und Bildmanipulation, bioinspirierte generative Bildgebung
+
+### IV. Handlungsmacht und Widerstand
+
+*Widerstehen, Sammeln, Zirkulieren*
+
+- *Widerstehen* — Aktivismsfotografie, feministische Fotografie, dekolonialer Dokumentarismus, Community-Fotografie
+- *Sammeln* — vernaculare Fotografie, Found Photography, Appropriation Art, Fotobuchkultur
+- *Zirkulieren* — Pressefotografie, Social-Media-Fotografie, Meme-Kultur, vernetzte Bilder
+
+## Kursplan
+
+| Datum      | Thema                              |
+|------------|------------------------------------|
+| 7.4.2026   | Einführung                         |
+| 14.4.2026  | I. Macht und Institution           |
+| 21.4.2026  |                                    |
+| 28.4.2026  | II. Affekt und Subjektivität       |
+| 5.5.2026   |                                    |
+| 12.5.2026  | III. Überzeugung und Spektakel     |
+| 2.6.2026   |                                    |
+| 9.6.2026   | IV. Handlungsmacht und Widerstand  |
+| 16.6.2026  |                                    |
+| 23.6.2026  | Abschlussprojekte                  |
+| 30.6.2026  |                                    |
+
+## Werkzeuge und Ressourcen
+
+## Syllabus
+
 </div>
