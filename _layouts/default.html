@@ -52,14 +52,29 @@
   </footer>
 
   <script>
-    (function() {
-      var headings = document.querySelectorAll('.page-content h2');
+    /* ---- Table of Contents ---- */
+    function buildToc() {
       var tocList = document.getElementById('toc-list');
       var sidebar = document.getElementById('toc-sidebar');
+      if (!tocList) return;
+
+      // Clear existing ToC
+      tocList.innerHTML = '';
+
+      // Only pick up h2s that are currently visible (not hidden by language toggle)
+      var allH2s = document.querySelectorAll('.page-content h2');
+      var headings = [];
+      allH2s.forEach(function(h) {
+        if (h.offsetParent !== null && h.offsetHeight > 0) {
+          headings.push(h);
+        }
+      });
 
       if (headings.length < 2) {
         sidebar.style.display = 'none';
         return;
+      } else {
+        sidebar.style.display = '';
       }
 
       headings.forEach(function(h, i) {
@@ -78,6 +93,7 @@
         tocList.appendChild(li);
       });
 
+      // Update active heading on scroll
       var tocLinks = tocList.querySelectorAll('a');
 
       function updateActive() {
@@ -99,11 +115,19 @@
         });
       }
 
+      // Remove old listener if any
+      if (window._tocScrollHandler) {
+        window.removeEventListener('scroll', window._tocScrollHandler);
+      }
+      window._tocScrollHandler = updateActive;
       window.addEventListener('scroll', updateActive, { passive: true });
       updateActive();
-    })();
+    }
 
-    /* language switch script */
+    // Build ToC on load
+    buildToc();
+
+    /* ---- Language Switch ---- */
     function toggleLang(e) {
       e.preventDefault();
       var current = document.documentElement.getAttribute('data-lang') || 'en';
@@ -111,11 +135,18 @@
       document.documentElement.setAttribute('data-lang', next);
       document.getElementById('lang-toggle').textContent = next === 'en' ? 'DE' : 'EN';
       localStorage.setItem('lang', next);
+
+      // Rebuild ToC after language switch (small delay for CSS to hide/show elements)
+      setTimeout(buildToc, 50);
     }
+
     // Restore preference
     var saved = localStorage.getItem('lang') || 'en';
     document.documentElement.setAttribute('data-lang', saved);
     document.getElementById('lang-toggle').textContent = saved === 'en' ? 'DE' : 'EN';
+
+    // Rebuild ToC after language restore
+    setTimeout(buildToc, 50);
   </script>
 
 </body>
