@@ -84,7 +84,7 @@ lesson_number: 0
 
 <div class="lang-de" markdown="1">
 
-# Über den Kurs
+## Über den Kurs
 
 ## Themen und Konzepte
 
