@@ -161,6 +161,9 @@ lesson_number: 0
 
 ### I. Macht und Institution
 
+![I]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/bertillon.jpg)
+<figcaption>Class on the Bertillon system in France in 1911</figcaption>
+
 - *Kontrollieren* — forensische Fotografie, medizinische und wissenschaftliche Fotografie, Luftfotografie, Architekturfotografie als Bestandsaufnahme, Videoüberwachung und maschinelles Sehen, Seeing Machines
 
 - *Überwachen* — Luftfotografie, urbane Fotografie, Satellitenbilder
@@ -171,6 +174,9 @@ lesson_number: 0
 
 
 ### II. Affekt und Subjektivität
+
+![II]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/arbus.jpg)
+<figcaption>Diane Arbus, <em>Four people at a gallery opening, N.Y.C.</em>, 1968</figcaption>
 
 - *Bezeugen* — sozialer Dokumentarismus, Fotojournalismus, Kriegsfotografie, Straßenfotografie
 
@@ -183,6 +189,9 @@ lesson_number: 0
 
 ### III. Überzeugung und Spektakel
 
+![III]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/rosler.webp)
+<figcaption>Martha Rosler, <em>Cargo Cult</em>, ca. 1966–72, photomontage</figcaption>
+
 - *Verführen* — Modefotografie, Werbefotografie, Glamour- und Beautyfotografie, Influencer- und Social-Media-Fotografie, Propaganda, KI-ASMR-Bilder, Verschwörungstheorie-Bilder in niedriger Auflösung, Cursed Images
 
 - *Konstruieren* — konzeptuelle Fotografie, inszenierte Fotografie, Piktorialismus, Kunstfotografie, Photoshop und Bildmanipulation, Reenactment, analoge und digitale Collage
@@ -192,7 +201,8 @@ lesson_number: 0
 
 ### IV. Handlungsmacht und Widerstand
 
-*Widerstehen, Sammeln, Zirkulieren*
+![IV]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/bezovsek.webp)
+<figcaption>Sara Bezovšek, Deatil from <em>S-N-D</em>, 2024, digital collage</figcaption>
 
 - *Sammeln* — vernaculare Fotografie, Found Photography, Appropriation Art, Fotobuchkultur, Screenshot-Tagebücher
 
