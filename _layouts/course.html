@@ -18,10 +18,8 @@ layout: default
 
 {{ content }}
 
-<h2>
-  <span class="lang-en">Lessons</span>
-  <span class="lang-de">Lektionen</span>
-</h2>
+<h2 class="lang-en">Lessons</h2>
+<h2 class="lang-de">Lektionen</h2>
 
 <ol class="lesson-list">
 {% assign lessons = site.courses | where: "course_id", page.course_id | where: "layout", "lesson" | sort: "lesson_number" %}
