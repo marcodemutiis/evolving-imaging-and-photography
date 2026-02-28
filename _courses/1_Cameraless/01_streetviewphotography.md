@@ -34,6 +34,14 @@ Rafman conducted a close reading of Google Street View and began to isolate imag
 ![Agoraphobic Traveller]({{ site.baseurl }}/courses/1_Cameraless/assets/img/agoraphobictraveller.webp)
 <figcaption>Jacqui Kenny, from <em>Agoraphobic Traveller</em>, 2016 – ongoing</figcaption>
 
+<blockquote>"Jacqui Kenny, a New Zealander living in London, began exploring the world on Google Street View. At first, she would pick locales more or less at random, poking around the streets of faraway towns and taking screenshots whenever she stumbled upon a striking image. After a while, she began seeking out certain kinds of views: arid regions with clear horizons; latitudes where she found that the sunlight fell at a dramatic slant. She was soon spending many hours on the project, which became a kind of retreat. “I really didn’t know what I was going to do with my life,” she told me. “I wasn’t in the mood to face the world yet, and this absorbed a lot of my focus.” When she looked back after a year of taking screenshots, she had accumulated an archive of around twenty-six thousand photos.
+
+Kenny now posts photos from the collection on an Instagram account called Agoraphobic Traveller, a reference to another impetus behind the project: Kenny, who is friendly and witty in conversation, suffers from anxiety that, on a bad day, can make it difficult to leave the house. [...] The Street View project has become a way for Kenny to visit places that she could never go to herself—the more remote, the better, she said. It’s also a practice that involves a tension between control and surrender: she has the ability to parachute into anywhere in the world, but her views and angles and lighting are in Google’s hands. “So many times,” she said, “I’ll see something in the distance that looks amazing, but then the car stops or something gets in the way. It happens ninety per cent of the time. I always have to be prepared for that disappointment.”"
+– Andrea DenHoed, <a href="https://www.newyorker.com/culture/photo-booth/an-agoraphobic-photographers-virtual-travels-on-google-street-view">"An Agoraphobic Photographer’s Virtual Travels, on Google Street View"</a>, The New Yorker, June 29, 2017</blockquote>
+
+- More about <em>Agoraphobic Traveller</em>: <a href="https://www.instagram.com/streetview.portraits/?hl=en">instagram.com/streetview.portraits</a>
+- Ep 5: The Agoraphobic Traveller | SEARCH ON: <a href="https://www.youtube.com/watch?v=pSJoP0LR8CQ">youtube.com/watch?v=pSJoP0LR8CQ</a>
+
 
 
 ### Jenny Odell, <em>Temporal Portraits of People on Streetview</em>, 2014
@@ -87,6 +95,9 @@ to undermine Google’s emphasis on universal access to public culture. Santamar
 
 
 ### Azahara Cerezo, <em>Paisajes digitales de una guerra</em>, 2015
+![paisajes]({{ site.baseurl }}/courses/1_Cameraless/assets/img/paisajes.webp)
+<figcaption>zahara Cerezo, from <em>Paisajes digitales de una guerra</em>, 2015</figcaption>
+
 <blockquote>"Paisajes digitales de una guerra (tr. Digital landscapes from a war) collects images of political graffiti found in areas known to have been sites of
 political unrest during the Spanish Civil War (1936−1939) through the lens of Google Street View. Messages appear on walls and surfaces in a temporary and rushed way: messages are written, crossed out, rewritten, erased, etc. Google captures sceneries in a similar manner, taking photographs in different moments and stitching them together to form panoramas and layers of time. The present selection includes three images found in the University City of Madrid, which was a Republican defensive line during the conflict. The project is an ongoing archive and extends to other settings, such as the port area of Cartagena, from which the Republican Navy made their escape, and the old town of Pamplona (Navarra), which came quickly under the control by the rebel side."
 
