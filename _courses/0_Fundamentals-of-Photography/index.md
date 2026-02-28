@@ -8,18 +8,25 @@ order: 0
 
 ![fundamentalsofphotography]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/niepce.jpg)
 
-## Termin und Ort: 
-Dienstag, 11:00–13:15 Uhr – L102 (ab 7. April)
+## Lecturer:
+Marco De Mutiis
+
+## Date and Location:
+Tuesday, 11:00–13:15 – L102 (from 7 April)
 
 ## About
-This course explores the fundamentals of photography, tracing its development over the past 200 years to the present day. Rather than reducing photography to a single definition, it opens up the medium to a multiplicity of approaches — from architectural photography and photojournalism to social documentary, studio and product photography, conceptual art photography, and beyond. The course examines how these traditions continue to shape the way we create and read images today, and how photography has been transformed by digital and computational forms.
-Combining historical overview with hands-on practice, the course introduces students to analogue and digital image-making. Technical concepts such as lighting, focus, framing, and composition are covered alongside the relational dynamics between photographers and their subjects. Students also develop skills in semiotic image analysis, with attention to how images function across different forms of publishing and circulation.
+This course explores the fundamentals of photography, tracing its development over the past 200 years to the present day. Rather than approaching photography as a single, unified medium, it opens it up as a field of competing practices, functions, and meanings — shaped by power, emotion, persuasion, and resistance.
 
-## Lernziele des Moduls:
-Students will gain a broad understanding of the history and diversity of photographic practice. They will develop technical proficiency in both analogue and digital image-making, and will be able to critically analyse images using semiotic methods. By the end of the course, students will be equipped to situate their own photographic work within broader historical, cultural, and media contexts.
+The course is structured around four thematic clusters. The first, *Power and Institution*, examines how photography has been used to police, surveil, archive, and index — from forensic and scientific documentation to typological series and landscape surveys. The second, *Affect and Subjectivity*, explores photography's role in witnessing, mourning, remembering, and translating across media — from war photography and social documentary to family albums and conceptual work. The third cluster, *Persuasion and Spectacle*, looks at how photography seduces, constructs, and simulates — encompassing advertising and fashion, staged and fabricated imagery, and the collapse of photographic truth in the age of CGI and AI-generated images. The fourth, *Agency and Resistance*, addresses photography as a tool of activism, collective memory, and circulation — from decolonial documentary and feminist practice to photobook culture and social media.
 
-## Leistungsnachweis:
+Throughout, the course draws on a wide range of historical and contemporary practitioners and situates their work within broader cultural, political, and technological contexts.
+
+## Learning Objectives:
+Students will develop a critical understanding of the history and diversity of photographic practice across documentary, artistic, commercial, and computational forms. They will learn to analyse images semiotically and situate photographic work within its cultural, institutional, and media contexts. They will also gain practical experience in image-making, combining analogue and digital approaches, and develop a vocabulary for discussing photography's evolving role in contemporary visual culture.
+
+## Assessment:
 Students demonstrate their learning through a self-directed final project, choosing one of the following formats:
-A. A photographic series of 5–10 prints
-B. A photo book dummy (printed and as PDF)
+
+A. A photographic series of 5–10 prints  
+B. A photo book dummy (printed and as PDF)  
 C. A digital project (website, digital collage, or interactive documentary)
