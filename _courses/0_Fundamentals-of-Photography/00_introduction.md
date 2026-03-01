@@ -30,8 +30,8 @@ lesson_number: 0
 
 ### II. Affect and Subjectivity
 
-![II]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/arbus.jpg)
-<figcaption>Diane Arbus, <em>Four people at a gallery opening, N.Y.C.</em>, 1968</figcaption>
+![II]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/bresson.jpg)
+<figcaption>Henry Cartier-Bresson, <em>Derrière la gare Saint-Lazare</em>, 1932</figcaption>
 
 - *witnessing* — social documentary, photojournalism, war photography, street photography
 
@@ -179,8 +179,8 @@ lesson_number: 0
 
 ### II. Affekt und Subjektivität
 
-![II]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/arbus.jpg)
-<figcaption>Diane Arbus, <em>Four people at a gallery opening, N.Y.C.</em>, 1968</figcaption>
+![II]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/bresson.jpg)
+<figcaption>Henry Cartier-Bresson, <em>Derrière la gare Saint-Lazare</em>, 1932</figcaption>
 
 - *Bezeugen* — sozialer Dokumentarismus, Fotojournalismus, Kriegsfotografie, Straßenfotografie
 
