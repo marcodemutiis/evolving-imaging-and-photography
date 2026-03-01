@@ -25,7 +25,7 @@ lesson_number: 0
 
 - *archiving* — ethnographic photography, natural history photography, typological series
 
-- *indexing* — typological photography, scientific series, landscape as survey
+- *indexing* — typological photography, scientific series, landscape as survey, image annotators
 
 
 ### II. Affect and Subjectivity
@@ -48,23 +48,27 @@ lesson_number: 0
 ![III]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/rosler.webp)
 <figcaption>Martha Rosler, <em>Cargo Cult</em>, ca. 1966–72, photomontage</figcaption>
 
-- *seducing* — fashion photography, advertising photography, glamour and beauty photography, influencer and social media photography, propaganda, AI ASMR images, conspiracy theory low res images, cursed images
+- *feeling* — affect theory and photography, the punctum, humanitarian and empathy photography, filter culture and mood engineering, ASMR and lo-fi aesthetics, colour grading and the emotional preset, AI-generated emotional image types, grief and memorial images online, the affective logic of the feed
 
-- *constructing* — onceptual photography, staged photography, pictorialism, fine art photography, photoshop and manipulation, re-enactment, analogue & digital collage
+- *seducing* — fashion photography, advertising photography, glamour and beauty photography, influencer and social media photography, propaganda, AI ASMR images, conspiracy theory low-res images, cursed images
 
-- *simulating* — post-photography, AI-generated images, CGI, composite and manipulated photography, bio-inspired generative imagery
+- *constructing* — conceptual photography, staged photography, pictorialism, fine art photography, photoshop and manipulation, re-enactment, analogue & digital collage
+
+- *simulating* — post-photography, AI-generated images, photorealistic CGI, composite and manipulated photography, bio-inspired generative imagery, generative image platforms (Midjourney, Stable Diffusion), deepfakes
 
 
 ### IV. Agency and Resistance
 
 ![IV]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/bezovsek.webp)
-<figcaption>Sara Bezovšek, Deatil from <em>S-N-D</em>, 2024, digital collage</figcaption>
+<figcaption>Sara Bezovšek, Detail from <em>S-N-D</em>, 2024, digital collage</figcaption>
 
-- *collecting* — vernacular photography, found photography, appropriation art, photobook culture, screenshotting daries, 
+- *collecting* — vernacular photography, found photography, appropriation art, photobook culture, screenshot diaries
 
-- *circulating* — press photography, social media photography, meme culture and poor images, networked images and hashtag activism
+- *circulating* — press photography, social media photography, meme culture and poor images, networked images and hashtag activism, the screenshot as unit of circulation
 
-- *resisting* — activist photography, feminist photography, decolonial approaches, hacking and botbaiting, AI poisoning and adversarial attacks, digital reappropriating image infrastructures, custom datasets and activist machine learning imaging systems
+- *deoperationalising* — Harun Farocki's operational images, making machine vision visible, dataset aesthetics, latent space visualisation, intercepting automated image pipelines, explainability and the black box, bounding boxes and heat maps, artistic strategies for rendering invisible images legible
+
+- *resisting* — activist photography, feminist photography, decolonial approaches, hacking and botbaiting, AI poisoning and adversarial attacks, digital reappropriation of image infrastructures, custom datasets and activist machine learning imaging systems
 
 
 
@@ -150,7 +154,7 @@ lesson_number: 0
 - *The Genius of Photography* (BBC, 2007) — 6-part series; essential overview of photographic history from its origins to the digital age, [DailyMotion](https://www.dailymotion.com/playlist/x89kia)
 - *a_brief_history_of_the_digital_image_volume1* (Marco De Mutiis, 2017) – [Vimeo](https://vimeo.com/24444448)
 - *New Ways of Seeing* (James Bridle, 2019) [Soundcloud](https://soundcloud.com/listentosteve/sets/new-ways-of-seeing)
-
+- *Photographic Flux* (Fotomuseum Winterthur, 2020) [Website](https://www.photographic-flux.ch/)
 </div>
 
 <div class="lang-de" markdown="1">
@@ -170,7 +174,7 @@ lesson_number: 0
 
 - *Archivieren* — ethnografische Fotografie, naturhistorische Fotografie, typologische Serien
 
-- *Ordnen* — typologische Fotografie, wissenschaftliche Serien, Landschaft als Vermessung
+- *Ordnen* — typologische Fotografie, wissenschaftliche Serien, Landschaft als Vermessung, Bild-Annotatoren
 
 
 ### II. Affekt und Subjektivität
@@ -190,23 +194,27 @@ lesson_number: 0
 ### III. Überzeugung und Spektakel
 
 ![III]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/rosler.webp)
-<figcaption>Martha Rosler, <em>Cargo Cult</em>, ca. 1966–72, photomontage</figcaption>
+<figcaption>Martha Rosler, <em>Cargo Cult</em>, ca. 1966–72, Fotomontage</figcaption>
+
+- *Fühlen* — Affekttheorie und Fotografie, das Punctum, humanitäre Fotografie und Empathiebilder, Filterkultur und Stimmungsgestaltung, ASMR- und Lo-Fi-Ästhetik, Farbgebung und der emotionale Preset, KI-generierte emotionale Bildtypen, Trauer- und Gedenkbilder online, die affektive Logik des Feeds
 
 - *Verführen* — Modefotografie, Werbefotografie, Glamour- und Beautyfotografie, Influencer- und Social-Media-Fotografie, Propaganda, KI-ASMR-Bilder, Verschwörungstheorie-Bilder in niedriger Auflösung, Cursed Images
 
 - *Konstruieren* — konzeptuelle Fotografie, inszenierte Fotografie, Piktorialismus, Kunstfotografie, Photoshop und Bildmanipulation, Reenactment, analoge und digitale Collage
 
-- *Simulieren* — Post-Fotografie, KI-generierte Bilder, CGI, Compositing und Bildmanipulation, bioinspirierte generative Bildgebung
+- *Simulieren* — Post-Fotografie, KI-generierte Bilder, fotorealistisches CGI, Compositing und Bildmanipulation, bioinspirierte generative Bildgebung, generative Bildplattformen (Midjourney, Stable Diffusion), Deepfakes
 
 
 ### IV. Handlungsmacht und Widerstand
 
 ![IV]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/bezovsek.webp)
-<figcaption>Sara Bezovšek, Deatil from <em>S-N-D</em>, 2024, digital collage</figcaption>
+<figcaption>Sara Bezovšek, Detail aus <em>S-N-D</em>, 2024, digitale Collage</figcaption>
 
 - *Sammeln* — vernaculare Fotografie, Found Photography, Appropriation Art, Fotobuchkultur, Screenshot-Tagebücher
 
-- *Zirkulieren* — Pressefotografie, Social-Media-Fotografie, Meme-Kultur und Poor Images, vernetzte Bilder und Hashtag-Aktivismus
+- *Zirkulieren* — Pressefotografie, Social-Media-Fotografie, Meme-Kultur und Poor Images, vernetzte Bilder und Hashtag-Aktivismus, der Screenshot als Zirkulationseinheit
+
+- *Deoperationalisieren* — Harun Farockis operative Bilder, maschinelles Sehen sichtbar machen, Datensatz-Ästhetik, Latent-Space-Visualisierung, Eingriffe in automatisierte Bildpipelines, Erklärbarkeit und die Black Box, Bounding Boxes und Heatmaps, künstlerische Strategien zur Lesbarmachung unsichtbarer Bilder
 
 - *Widerstehen* — Aktivismsfotografie, feministische Fotografie, dekoloniale Ansätze, Hacking und Botbaiting, KI-Vergiftung und adversariale Angriffe, digitale Rückaneigung von Bildinfrastrukturen, eigene Datensätze und aktivistische maschinelle Bildgebungssysteme
 
@@ -290,5 +298,5 @@ lesson_number: 0
 - *The Genius of Photography* (BBC, 2007) — 6-teilige Reihe; grundlegender Überblick über die Geschichte der Fotografie von ihren Anfängen bis ins digitale Zeitalter, [DailyMotion](https://www.dailymotion.com/playlist/x89kia)
 - *a_brief_history_of_the_digital_image_volume1* (Marco De Mutiis, 2017) – [Vimeo](https://vimeo.com/24444448)
 - *New Ways of Seeing* (James Bridle, 2019) [Soundcloud](https://soundcloud.com/listentosteve/sets/new-ways-of-seeing)
-
+- *Photographic Flux* (Fotomuseum Winterthur, 2020) [Website](https://www.photographic-flux.ch/)
 </div>
