@@ -30,7 +30,7 @@ Throughout, the course draws on a wide range of historical and contemporary prac
 Students will develop a critical understanding of the history and diversity of photographic practice across documentary, artistic, commercial, and computational forms. They will learn to analyse images semiotically and situate photographic work within its cultural, institutional, and media contexts. They will also gain practical experience in image-making, combining analogue and digital approaches, and develop a vocabulary for discussing photography's evolving role in contemporary visual culture.
 
 ## Assessment
-Students demonstrate their learning through a self-directed final project, choosing one of the following formats:
+Students will submit a self-directed final project, choosing one of the following formats:
 
 A. A photographic series of 5–10 prints  
 B. A photo book dummy (printed and as PDF)  
