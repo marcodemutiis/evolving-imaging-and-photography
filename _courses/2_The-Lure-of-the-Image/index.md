@@ -15,7 +15,7 @@ order: 1
 Marco De Mutiis
 
 ## Date and Location
-Wednesday, 13:30–18:30 Uhr - L203 (from 7 April)
+Wednesday, 13:30–18:30 Uhr - L203 (from 8 April)
 
 ## About
 Why and how are we seduced by images today? What logic underpins this seduction, and how does it shape current social, cultural, and political developments? These questions sit at the heart of this course, which investigates the affective and persuasive dimensions of photographic images across a wide range of contemporary contexts.
