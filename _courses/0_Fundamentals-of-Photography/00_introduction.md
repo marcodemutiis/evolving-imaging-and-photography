@@ -95,6 +95,12 @@ lesson_number: 0
 
 ## Syllabus
 
+### Video Essays and Documentaries
+
+- *The Genius of Photography* (BBC, 2007) — 6-part series; essential overview of photographic history from its origins to the digital age, [DailyMotion](https://www.dailymotion.com/playlist/x89kia)
+- *a_brief_history_of_the_digital_image_volume1* (Marco De Mutiis, 2017) – [Vimeo](https://vimeo.com/24444448)
+- *New Ways of Seeing* (James Bridle, 2019) [Soundcloud](https://soundcloud.com/listentosteve/sets/new-ways-of-seeing)
+- *Photographic Flux* (Fotomuseum Winterthur, 2020) [Website](https://www.photographic-flux.ch/)
 
 ### Key Texts
 
@@ -148,13 +154,6 @@ lesson_number: 0
 - Trevor Paglen, "Operational Images" (2014), in *e-flux journal* 59
 - Trevor Paglen, "Invisible Images (Your Pictures Are Looking at You)" (2016), in *The New Inquiry*
 
-
-### Video Essays and Documentaries
-
-- *The Genius of Photography* (BBC, 2007) — 6-part series; essential overview of photographic history from its origins to the digital age, [DailyMotion](https://www.dailymotion.com/playlist/x89kia)
-- *a_brief_history_of_the_digital_image_volume1* (Marco De Mutiis, 2017) – [Vimeo](https://vimeo.com/24444448)
-- *New Ways of Seeing* (James Bridle, 2019) [Soundcloud](https://soundcloud.com/listentosteve/sets/new-ways-of-seeing)
-- *Photographic Flux* (Fotomuseum Winterthur, 2020) [Website](https://www.photographic-flux.ch/)
 </div>
 
 <div class="lang-de" markdown="1">
