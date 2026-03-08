@@ -1,7 +1,11 @@
 title: "Evolving Imaging and Photography"
 description: "Courses and learning materials by Marco De Mutiis"
 url: "https://www.evolving.photography"
-baseurl: "/evolving-imaging-and-photography"
+baseurl: ""
+
+# if you use github pages -> change settings in repository settings -> custom domain -> and change url and baseurl to the values below
+# url: "https://marcodemutiis.github.io"
+# baseurl: "/evolving-imaging-and-photography" 
 
 markdown: kramdown
 highlighter: rouge
