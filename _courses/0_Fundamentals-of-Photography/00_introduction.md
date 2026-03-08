@@ -104,21 +104,19 @@ lesson_number: 0
 
 ### Key Texts
 
-#### Foundational Readings
+#### Introductory Readings
 - Roland Barthes, *Camera Lucida: Reflections on Photography* (1980)
 - Susan Sontag, *On Photography* (1977)
 - John Berger, *Ways of Seeing* (1972) — esp. Chapter 1
 - Walter Benjamin, "The Work of Art in the Age of Mechanical Reproduction" (1935)
 - Allan Sekula, "On the Invention of Photographic Meaning" (1975), in *Artforum*
-
-
-#### History and Theory
 - Mary Warner Marien, *Photography: A Cultural History* (4th ed., 2014)
 - Geoffrey Batchen, *Burning with Desire: The Conception of Photography* (1997)
 - Rosalind Krauss, "Photography's Discursive Spaces" (1982), in *Art Journal*
 - Victor Burgin (ed.), *Thinking Photography* (1982)
-- Charlotte Cotton, *The Photograph as Contemporary Art* (3rd ed., 2014)
+- Charlotte Cotton, *The Photograph as Contemporary Art* (2004)
 
+<!---
 #### I. Power and Institution
 - Allan Sekula, "The Body and the Archive" (1986), in *October* 39
 - John Tagg, *The Burden of Representation: Essays on Photographies and Histories* (1988)
@@ -152,7 +150,7 @@ lesson_number: 0
 - Martin Parr & Gerry Badger, *The Photobook: A History*, Vol. I (2004) — Introduction
 - Hito Steyerl, "Documentary Uncertainty" (2008), in *A Prior* 15
 - Trevor Paglen, "Operational Images" (2014), in *e-flux journal* 59
-- Trevor Paglen, "Invisible Images (Your Pictures Are Looking at You)" (2016), in *The New Inquiry*
+- Trevor Paglen, "Invisible Images (Your Pictures Are Looking at You)" (2016), in *The New Inquiry* -->
 
 </div>
 

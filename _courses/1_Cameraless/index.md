@@ -16,7 +16,7 @@ order: 1
 Marco De Mutiis
 
 ## Date and Location
-Dienstag, 14:00–16:15 Uhr - L203 (from 7 April)
+Tuesday, 14:00–16:15 Uhr - L203 (from 7 April)
 
 ## About
 The camera has long been understood as the quintessential tool of the photographer. Yet contemporary photographic images are increasingly created through cameraless processes — from screenshotting and photorealistic CGI to generative AI, simulated cameras, and photo modes in virtual worlds. These shifts are not merely technical: they signal a fundamental transformation in what photography is, how it functions, and who (or what) makes images.
