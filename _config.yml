@@ -3,7 +3,7 @@ description: "Courses and learning materials by Marco De Mutiis"
 url: "https://www.evolving.photography"
 baseurl: ""
 
-# if you use github pages -> change settings in repository settings -> custom domain -> and change url and baseurl to the values below
+# if you use github pages -> change settings in repository settings -> pages -> custom domain -> and change url and baseurl to the values below
 # url: "https://marcodemutiis.github.io"
 # baseurl: "/evolving-imaging-and-photography" 
 
