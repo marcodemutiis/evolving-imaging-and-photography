@@ -9,6 +9,8 @@ order: 1
 ---
 
 ![cameraless]({{ site.baseurl }}/courses/1_Cameraless/assets/img/camera_thumbnail.jpg)
+<figcaption>Dorothée Elisa Baumann, <em>Take A Better Picture</em>, 2018</figcaption>
+
 
 <div class="lang-en" markdown="1">
 
