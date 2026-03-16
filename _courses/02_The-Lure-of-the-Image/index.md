@@ -9,7 +9,7 @@ order: 2
 published: true
 ---
 
-![The Lure of the Image]({{ site.baseurl }}/courses/2_The-Lure-of-the-Image/assets/img/AIASMR2.jpg)
+![The Lure of the Image]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/AIASMR2.jpg)
 
 <div class="lang-en" markdown="1">
 ## Lecturer

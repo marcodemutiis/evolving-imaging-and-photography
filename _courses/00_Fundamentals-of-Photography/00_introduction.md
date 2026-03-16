@@ -17,7 +17,7 @@ published: true
 
 ### I. Power and Institution
 
-![I]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/bertillon.jpg)
+![I]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/bertillon.jpg)
 <figcaption>Class on the Bertillon system in France in 1911</figcaption>
 
 - *policing* — forensic photography, medical and scientific photography, aerial photography, architectural photography as survey, CCTV and machine vision, seeing machines
@@ -31,7 +31,7 @@ published: true
 
 ### II. Affect and Subjectivity
 
-![II]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/bresson.jpg)
+![II]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/bresson.jpg)
 <figcaption>Henry Cartier-Bresson, <em>Derrière la gare Saint-Lazare</em>, 1932</figcaption>
 
 - *witnessing* — social documentary, photojournalism, war photography, street photography
@@ -46,7 +46,7 @@ published: true
 
 ### III. Persuasion and Spectacle
 
-![III]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/rosler.webp)
+![III]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/rosler.webp)
 <figcaption>Martha Rosler, <em>Cargo Cult</em>, ca. 1966–72, photomontage</figcaption>
 
 - *feeling* — affect theory and photography, the punctum, humanitarian and empathy photography, filter culture and mood engineering, ASMR and lo-fi aesthetics, colour grading and the emotional preset, AI-generated emotional image types, grief and memorial images online, the affective logic of the feed
@@ -60,7 +60,7 @@ published: true
 
 ### IV. Agency and Resistance
 
-![IV]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/bezovsek.webp)
+![IV]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/bezovsek.webp)
 <figcaption>Sara Bezovšek, Detail from <em>S-N-D</em>, 2024, digital collage</figcaption>
 
 - *collecting* — vernacular photography, found photography, appropriation art, photobook culture, screenshot diaries
@@ -175,7 +175,7 @@ It is my intent that students from all backgrounds and perspectives be well serv
 
 ### I. Macht und Institution
 
-![I]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/bertillon.jpg)
+![I]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/bertillon.jpg)
 <figcaption>Class on the Bertillon system in France in 1911</figcaption>
 
 - *Kontrollieren* — forensische Fotografie, medizinische und wissenschaftliche Fotografie, Luftfotografie, Architekturfotografie als Bestandsaufnahme, Videoüberwachung und maschinelles Sehen, Seeing Machines
@@ -189,7 +189,7 @@ It is my intent that students from all backgrounds and perspectives be well serv
 
 ### II. Affekt und Subjektivität
 
-![II]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/bresson.jpg)
+![II]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/bresson.jpg)
 <figcaption>Henry Cartier-Bresson, <em>Derrière la gare Saint-Lazare</em>, 1932</figcaption>
 
 - *Bezeugen* — sozialer Dokumentarismus, Fotojournalismus, Kriegsfotografie, Straßenfotografie
@@ -203,7 +203,7 @@ It is my intent that students from all backgrounds and perspectives be well serv
 
 ### III. Überzeugung und Spektakel
 
-![III]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/rosler.webp)
+![III]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/rosler.webp)
 <figcaption>Martha Rosler, <em>Cargo Cult</em>, ca. 1966–72, Fotomontage</figcaption>
 
 - *Fühlen* — Affekttheorie und Fotografie, das Punctum, humanitäre Fotografie und Empathiebilder, Filterkultur und Stimmungsgestaltung, ASMR- und Lo-Fi-Ästhetik, Farbgebung und der emotionale Preset, KI-generierte emotionale Bildtypen, Trauer- und Gedenkbilder online, die affektive Logik des Feeds
@@ -217,7 +217,7 @@ It is my intent that students from all backgrounds and perspectives be well serv
 
 ### IV. Handlungsmacht und Widerstand
 
-![IV]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/bezovsek.webp)
+![IV]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/bezovsek.webp)
 <figcaption>Sara Bezovšek, Detail aus <em>S-N-D</em>, 2024, digitale Collage</figcaption>
 
 - *Sammeln* — vernaculare Fotografie, Found Photography, Appropriation Art, Fotobuchkultur, Screenshot-Tagebücher
