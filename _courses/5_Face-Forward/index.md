@@ -7,4 +7,6 @@ order: 5
 published: true
 ---
 
+![Face Forward]({{ site.baseurl }}/courses/5_Face-Forward/assets/img/test.jpg)
+
 course intro here.
