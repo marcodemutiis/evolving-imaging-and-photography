@@ -2,9 +2,9 @@
 layout: lesson
 title: "Introduction"
 title_de: "Einführung"
-course_id: cameraless
-course_title: "Cameraless"
-course_title_de: "Kameralos"
+course_id: the-lure-of-the-image
+course_title: "The Lure of the Image"
+course_title_de: "The Lure of the Image"
 lesson_number: 0
 published: true
 ---
@@ -12,39 +12,32 @@ published: true
 <div class="lang-en" markdown="1">
 
 ## About the Course
-The course will explore several contemporary cameraless techniques and practices for digital image-making. 
-Each week a new tool, software or topic is introduced, inviting students to reflect upon current transformations of the idea of camera and the role of photographic apparatuses in digital and networked forms.
-The course is structured through weekly short assigments where students have to experiment with tools and practices explored in class.
+The Lure of the Image combines theoretical reflections with a practical approach, fostering collective discussions and project creation around the topics addressed in class. Students are required to develop a semester project, integrating and expanding practical knowledge and concepts from The Lure of the Image into a final work supported by a complete artist statement, technical statement, and documentation.
 
 ## Calendar
 
 | Date       | Topic                               |
 |------------|-------------------------------------|
-| 7.4.2026   | Introduction                        |
-| 14.4.2026  | Street (View) Photography           |
-| 21.4.2026  | Copy of a Copy of a Copy            |
-| 28.4.2026  | Virtual World Photoreportages       |
-| 5.5.2026   | Digital Architecture Photography & Virtual Landscapes|
-| 12.5.2026  | Photo Modes and Game Cameras.       |
-| 2.6.2026   | Avatar Portrait Photography         |
-| 9.6.2026   | Photorealistic CGI and Game Engine Photography          |
-| 16.6.2026  | Machine Vision Photography          |
-| 23.6.2026  | Machine Learning Photography        |
-| 30.6.2026  | LoRA and Generative AI              |
+| 8.4.2026   | Introduction                        |
+| 15.4.2026  | Cheated by an Image                 |
+| 22.4.2026  | Influencer Photography              |
+| 29.4.2026  | ASMR and Affective Images           |
+| 6.5.2026   | Operational Cuteness & Meme Politics|
+| 13.5.2026  | *Project Presentations              |
+| 3.6.2026   | Cursed Images and the Internet Subconscious        |
+| 10.6.2026  | Lowres Beliefs and Conspiracy Theories              |
+| 17.6.2026  | Slop Economies and AI Propaganda    |
+| 24.6.2026  | *Final Projects Development.        |
+| 1.7.2026   | *Final Projects Development         |
 
 <!--## Tools and Resources
 
-- Google Street View
-- GTA V
 - -->
 
 ## Syllabus
 
-- De Mutiis, M. and Bittanti, M. <a href="https://gta5.photography/">The Photographer's Guide to Los Santos</a>, Mimesis International, 2025
-- De Mutiis, M. and Bittanti M., <a href="https://www.howtowinat.photography/">How to Win at Photography</a>, Fotomuseum Winterthur, 2021
-- Shobeiri, A. & Westgeest H., <a href="https://www.transcript-publishing.com/media/pdf/89/ac/3f/oa9783839472033G4JN9uoyekMR0.pdf">Virtual Photography – Artificial Intelligence, In-game, and Extended Reality</a>. Bielefeld: Transcript. 2024 
-- Gerling, W., 2018. Photography in the digital. photographies, 11(2-3), pp. 149–167. https://doi.org/10.1080/17540763.2018.1445013.
-- Gerling, W., Möring, S., and De Mutiis, M. <a href="https://doi.org/10.55309/c3ie61k5">Screen Images: In-Game Photography, Screenshot, Screencast</a>. Berlin:Kadmos, 2023.
+- De Mutiis M., Fässler, G., Gassert D., Nappo A., <a href="https://www.spectorbooks.com/book/the-lure-of-the-image">The Lure of the Image</a>, Spector Books, 2025.
+- Fotomuseum Winterthur, <a href="https://permanentbeta-46uj9m2e3-unstated.vercel.app/">[permanent beta] The Lure of the Image</a>, 2022-2025
 
 
 ## Code of Conduct
@@ -63,39 +56,32 @@ It is my intent that students from all backgrounds and perspectives be well serv
 <div class="lang-de" markdown="1">
 
 ## Über den Kurs
-Der Kurs erkundet verschiedene zeitgenössische kameralose Techniken und Praktiken der digitalen Bildherstellung.
-Jede Woche wird ein neues Werkzeug, eine Software oder ein Thema eingeführt, das die Studierenden einlädt, über aktuelle Transformationen des Kamerabegriffs und die Rolle fotografischer Apparate in digitalen und vernetzten Formen nachzudenken.
-Der Kurs ist durch wöchentliche Kurzaufgaben strukturiert, bei denen die Studierenden mit den im Unterricht erkundeten Werkzeugen und Praktiken experimentieren.
+The Lure of the Image verbindet theoretische Reflexion mit einem praktischen Ansatz und fördert kollektive Diskussionen sowie die Entwicklung von Projekten rund um die im Kurs behandelten Themen. Die Studierenden sind aufgefordert, ein Semesterprojekt zu erarbeiten, das die praktischen Kenntnisse und Konzepte aus The Lure of the Image in eine abschließende Arbeit integriert und weiterentwickelt — unterstützt durch ein vollständiges Artist Statement, ein technisches Statement und eine Dokumentation.
 
 ## Kalender
 
 | Datum      | Thema                               |
 |------------|-------------------------------------|
-| 7.4.2026   | Einführung                          |
-| 14.4.2026  | Street (View) Photography           |
-| 21.4.2026  | Copy of a Copy of a Copy            |
-| 28.4.2026  | Virtuelle Welt-Fotoreportagen       |
-| 5.5.2026   | Digitale Architekturfotografie & Virtuelle Landschaften |
-| 12.5.2026  | Fotomodi und Spielkameras           |
-| 2.6.2026   | Avatar-Porträtfotografie            |
-| 9.6.2026   | Fotorealistische CGI und Game-Engine-Fotografie |
-| 16.6.2026  | Machine Vision Photography          |
-| 23.6.2026  | Machine Learning Photography        |
-| 30.6.2026  | LoRA und Generative KI              |
+| 8.4.2026   | Einführung                          |
+| 15.4.2026  | Cheated by an Image                 |
+| 22.4.2026  | Influencer Photography              |
+| 29.4.2026  | ASMR und affektive Bilder           |
+| 6.5.2026   | Operational Cuteness & Meme Politics|
+| 13.5.2026  | *Projektpräsentationen              |
+| 3.6.2026   | Cursed Images und das Internet-Unterbewusstsein |
+| 10.6.2026  | Lowres Beliefs und Verschwörungstheorien |
+| 17.6.2026  | Slop Economies und KI-Propaganda    |
+| 24.6.2026  | *Entwicklung der Abschlussprojekte  |
+| 1.7.2026   | *Entwicklung der Abschlussprojekte  |
 
 <!--## Tools and Resources
 
-- Google Street View
-- GTA V
 - -->
 
 ## Literatur
 
-- De Mutiis, M. and Bittanti, M. <a href="https://gta5.photography/">The Photographer's Guide to Los Santos</a>, Mimesis International, 2025
-- De Mutiis, M. and Bittanti M., <a href="https://www.howtowinat.photography/">How to Win at Photography</a>, Fotomuseum Winterthur, 2021
-- Shobeiri, A. & Westgeest H., <a href="https://www.transcript-publishing.com/media/pdf/89/ac/3f/oa9783839472033G4JN9uoyekMR0.pdf">Virtual Photography – Artificial Intelligence, In-game, and Extended Reality</a>. Bielefeld: Transcript. 2024 
-- Gerling, W., 2018. Photography in the digital. photographies, 11(2-3), pp. 149–167. https://doi.org/10.1080/17540763.2018.1445013.
-- Gerling, W., Möring, S., and De Mutiis, M. <a href="https://doi.org/10.55309/c3ie61k5">Screen Images: In-Game Photography, Screenshot, Screencast</a>. Berlin:Kadmos, 2023.
+- De Mutiis M., Fässler, G., Gassert D., Nappo A., <a href="https://www.spectorbooks.com/book/the-lure-of-the-image">The Lure of the Image</a>, Spector Books, 2025.
+- Fotomuseum Winterthur, <a href="https://permanentbeta-46uj9m2e3-unstated.vercel.app/">[permanent beta] The Lure of the Image</a>, 2022-2025
 
 ## Code of Conduct
 

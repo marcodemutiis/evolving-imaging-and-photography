@@ -13,8 +13,8 @@ published: false
 - 5.5.2026 . . . . . . . . Digital Architecture Photography (Google Earth, Virtual Photogrammetry) (Claire Hentschker, Clement Valla, Luke Caspar Pearson)
 - 12.5.2026. . . . . . . . Photo Modes and Virtual Landscapes (Games) (Thomas Hawranke, Raphael Brunk)
 - 2.6.2026 . . . . . . . . Game Cameras (GTA V Modding) (2girls1comp)
-- 9.6.2026 . . . . . . . . Avatar Portrait Photography (Metahuman) (Ed Atkins, lu yang)
-- 16.6.2026. . . . . . . . CGI (Unity) (Akihiko Taniguchi)
+- 9.6.2026 . . . . . . . . Avatar Portrait Photography (Metahuman) (Ed Atkins, lu yang) CGI (Unity) (Akihiko Taniguchi)
+- 16.6.2026. . . . . . . . Machine Vision Photography (kate rose t-shirt for SITUATIONS, using CCTV cameras and smart cameras)
 - 23.6.2026. . . . . . . . Machine Learning (Generative AI) 
 - 30.6.2026. . . . . . . . LoRA (Generative AI)
 
