@@ -23,11 +23,11 @@ The Lure of the Image combines theoretical reflections with a practical approach
 | 8.4.2026   | Introduction                        |
 | 15.4.2026  | Cheated by an Image                 |
 | 22.4.2026  | Influencer Photography              |
-| 29.4.2026  | ASMR and Affective Images           |
+| 29.4.2026  | Affective Images & Reaction Economies|
 | 6.5.2026   | Operational Cuteness & Meme Politics|
 | 13.5.2026  | *Project Presentations              |
-| 3.6.2026   | Cursed Images and the Internet Subconscious        |
-| 10.6.2026  | Lowres Beliefs and Conspiracy Theories              |
+| 3.6.2026   | Cursed Images and the Internet Subconscious|
+| 10.6.2026  | Lowres Beliefs and Conspiracy Theories|
 | 17.6.2026  | Slop Economies and AI Propaganda    |
 | 24.6.2026  | *Final Projects Development.        |
 | 1.7.2026   | *Final Projects Development         |
@@ -67,7 +67,7 @@ The Lure of the Image verbindet theoretische Reflexion mit einem praktischen Ans
 | 8.4.2026   | Einführung                          |
 | 15.4.2026  | Cheated by an Image                 |
 | 22.4.2026  | Influencer Photography              |
-| 29.4.2026  | ASMR und affektive Bilder           |
+| 29.4.2026  | Affektive Bilder & Reaction Economies|
 | 6.5.2026   | Operational Cuteness & Meme Politics|
 | 13.5.2026  | *Projektpräsentationen              |
 | 3.6.2026   | Cursed Images und das Internet-Unterbewusstsein |
