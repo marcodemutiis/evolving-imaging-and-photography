@@ -4,6 +4,7 @@ title: "Copy of a Copy of a Copy"
 course_id: cameraless
 course_title: "Cameraless"
 lesson_number: 2
+published: false
 ---
 
 A copy of an image can be understood as a photographic act that carries social and political meaning: to copy is to steal, but also to reclaim or reappropriate, and to critique representation through a simple gesture. What changes is not the content of the image, but its context.

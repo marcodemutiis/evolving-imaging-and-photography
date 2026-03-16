@@ -6,6 +6,7 @@ description: "A survival manual for photographers who have (voluntarily or accid
 description_de: "Ein Überlebenshandbuch für Fotograf_innen, die ihre Kamera (freiwillig oder unbeabsichtigt) verloren haben."
 course_id: cameraless
 order: 1
+published: true
 ---
 
 ![cameraless]({{ site.baseurl }}/courses/1_Cameraless/assets/img/camera_thumbnail.jpg)

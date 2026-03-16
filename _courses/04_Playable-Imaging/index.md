@@ -4,6 +4,7 @@ title: "Playable Imaging"
 description: "Photography in, as, and against Games"
 course_id: playable-imaging
 order: 4
+published: false
 ---
 
 ![Playable Imaging]({{ site.baseurl }}/courses/4_Playable-Imaging/assets/img/gekibo.png)

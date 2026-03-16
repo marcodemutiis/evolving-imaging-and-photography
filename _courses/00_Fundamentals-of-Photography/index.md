@@ -6,6 +6,7 @@ description: "An introduction into the history and present of the photographic m
 description_de: "Eine Einführung in die Geschichte und Gegenwart des Mediums Fotografie und seiner vielfältigen Formen"
 course_id: fundamentalsofphotography
 order: 0
+published: true
 ---
 
 ![fundamentalsofphotography]({{ site.baseurl }}/courses/0_Fundamentals-of-Photography/assets/img/niepce.jpg)

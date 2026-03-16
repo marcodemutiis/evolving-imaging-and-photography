@@ -4,6 +4,7 @@ title: "Introduction"
 course_id: cameraless
 course_title: "Cameraless"
 lesson_number: 0
+published: true
 ---
 
 ## About the Course

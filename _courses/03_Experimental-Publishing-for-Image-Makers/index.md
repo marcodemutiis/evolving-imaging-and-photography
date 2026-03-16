@@ -4,6 +4,7 @@ title: "Experimental Publishing for Image-Makers"
 description: "Experiments on Post-Digital Publishing and Networked Image Distribution"
 course_id: experimental-publishing-for-image-makers
 order: 3
+published: false
 ---
 
 ![Experimental Publishing for Image-Makers]({{ site.baseurl }}/courses/3_Experimental-Publishing-for-Image-Makers/assets/img/momar.webp)

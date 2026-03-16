@@ -4,6 +4,7 @@ title: "Virtual World Photoreportages"
 course_id: cameraless
 course_title: "Cameraless"
 lesson_number: 3
+published: false
 ---
 
 ## Study Cases
