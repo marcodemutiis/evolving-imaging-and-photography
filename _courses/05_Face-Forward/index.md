@@ -7,7 +7,7 @@ order: 5
 published: false
 ---
 
-![Face Forward]({{ site.baseurl }}/courses/5_Face-Forward/assets/img/test.jpg)
+![Face Forward]({{ site.baseurl }}/courses/05_Face-Forward/assets/img/test.jpg)
 <figcaption>Sheung Yiu, <em>Facial Landmarks</em>, 2017</figcaption>
 
 course intro here.

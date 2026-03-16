@@ -9,4 +9,4 @@ published: false
 
 blablabla
 
-![alt]({{ site.baseurl }}/courses/Haunted-Medium/assets/img/test.jpg)
+![alt]({{ site.baseurl }}/courses/06_Haunted-Medium/assets/img/test.jpg)
