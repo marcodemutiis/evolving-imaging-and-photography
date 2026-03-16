@@ -525,6 +525,7 @@ figcaption em {
 
   .site-footer {
     padding: var(--space-lg) var(--space-md);
+    opacity: 0.4;
   }
 }
 
