@@ -4,6 +4,7 @@ title: "Street (View) Photography"
 course_id: cameraless
 course_title: "Cameraless"
 lesson_number: 1
+status: draft
 ---
 
 Screenshotting can be technically understood as a 1:1 copy of the computer screen. Yet it can also be seen as a photographic act, in a world that is increasingly rendered on the screen, mapped digitally in virtual maps. 

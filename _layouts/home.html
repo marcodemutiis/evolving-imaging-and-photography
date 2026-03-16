@@ -25,7 +25,7 @@ layout: default
         <span class="lang-en">{{ course.description }}</span>
         <span class="lang-de">{{ course.description_de | default: course.description }}</span>
       </div>
-      {% assign lesson_count = site.courses | where: "course_id", course.course_id | where: "layout", "lesson" | size %}
+      {% assign lesson_count = site.courses | where: "course_id", course.course_id | where: "layout", "lesson" | where_exp: "item", "item.status != 'draft'" | size %}
       <div class="course-card-meta">
         <span class="lang-en">{{ lesson_count }} lessons</span>
         <span class="lang-de">{{ lesson_count }} Lektionen</span>

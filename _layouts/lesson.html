@@ -19,7 +19,7 @@ layout: default
 
 {{ content }}
 
-{% assign lessons = site.courses | where: "course_id", page.course_id | where: "layout", "lesson" | sort: "lesson_number" %}
+{% assign lessons = site.courses | where: "course_id", page.course_id | where: "layout", "lesson" | sort: "lesson_number" | where_exp: "item", "item.status != 'draft'" %}
 {% assign current_index = nil %}
 {% for lesson in lessons %}
   {% if lesson.url == page.url %}
