@@ -9,7 +9,7 @@ order: 1
 published: true
 ---
 
-![cameraless]({{ site.baseurl }}/courses/01_Cameraless/assets/img/camera_thumbnail.jpg)
+![cameraless]({{ site.baseurl }}/courses/01_Cameraless/assets/img/baumann.jpg)
 <figcaption>Dorothée Elisa Baumann, <em>Take A Better Picture</em>, 2018</figcaption>
 
 

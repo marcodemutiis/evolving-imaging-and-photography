@@ -9,6 +9,8 @@ lesson_number: 0
 published: true
 ---
 
+![cameraless]({{ site.baseurl }}/courses/01_Cameraless/assets/img/camera_thumbnail.jpg)
+
 <div class="lang-en" markdown="1">
 
 ## About the Course

@@ -9,6 +9,8 @@ lesson_number: 0
 published: true
 ---
 
+![The Lure of the Image]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/lure-map.jpg)
+
 <div class="lang-en" markdown="1">
 
 ## About the Course
