@@ -143,3 +143,5 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 - (Holstein, Mika - awaiting confirmation)
 
 - (All, Chiara)
+
+- (Moser, David)
