@@ -138,6 +138,6 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 - Stoffel, Felix
 
-- (Adrijana Veljkovic)
+- (Veljkovic, Adrijana)
 
-- (Emily Schindel)
+- (Schindel, Emily)
