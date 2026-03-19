@@ -137,3 +137,7 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 - Oschmann, Josephin
 
 - Stoffel, Felix
+
+- (Adrijana Veljkovic)
+
+- (Emily Schindel)
