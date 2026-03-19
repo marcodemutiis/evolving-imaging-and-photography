@@ -141,3 +141,5 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 - Pfeifer, Manuel
 
 - (Holstein, Mika - awaiting confirmation)
+
+- (All, Chiara)
