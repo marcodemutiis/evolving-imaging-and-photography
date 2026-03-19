@@ -53,6 +53,8 @@ Harassment may include, but is not limited to: offensive verbal comments, delibe
 Debate, critical inquiry, and the free exchange of ideas are not only permitted but actively encouraged. A great discussion involves real disagreement — what it does not involve is making anyone feel unsafe or unwelcome. If you experience or witness harassment, threatening behaviour, or any form of suppression, I encourage you to speak up directly or come to me immediately. Your voice in this room matters.
 
 It is my intent that students from all backgrounds and perspectives be well served by this course, and that the diversity you bring to the classroom be recognised as a genuine resource and strength. I will design activities that value and accommodate a diversity of experiences and viewpoints. I will gladly address you by the name and pronoun you specify. I am also committed to making individual arrangements for disabilities or religious needs — please let me know early in the semester so we can plan together.
+
+## Students
 </div>
 
 <div class="lang-de" markdown="1">
@@ -97,4 +99,41 @@ Debatten, kritisches Denken und der freie Austausch von Ideen sind nicht nur erl
 
 Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspektiven von diesem Kurs gleichermaßen profitieren und dass die Vielfalt, die ihr in den Unterricht einbringt, als echte Ressource und Stärke anerkannt wird. Ich werde Lehrformate gestalten, die eine Vielfalt von Erfahrungen und Standpunkten wertschätzen und einbeziehen. Ich werde euch gerne mit dem Namen und Pronomen ansprechen, das ihr mir mitteilt. Ich verpflichte mich auch dazu, individuelle Vereinbarungen bei Behinderungen oder religiösen Bedürfnissen zu treffen — bitte gebt mir möglichst früh im Semester Bescheid, damit wir gemeinsam planen können.
 
+## Student_innen
 </div>
+
+- Wilhelm, Theresa
+
+- Grill, Marten
+
+- Thobe, Lara
+
+- Schubert, Alexander
+
+- Bräutigam, Caroline
+
+- Stärk, Alica
+
+- Schneider, Kaya
+
+- Kilic, Merve
+
+- Lobo de Macedo, Rosa
+
+- Weinzierl, Paula
+
+- Ranftl, Felix
+
+- Burgard, Hanna
+
+- Parkhidko, Kateryna
+
+- Horst, Anna
+
+- Schmotz, Hanna
+
+- Heidemann, Anja
+
+- Oschmann, Josephin
+
+- Stoffel, Felix

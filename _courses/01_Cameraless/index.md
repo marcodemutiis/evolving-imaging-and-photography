@@ -36,6 +36,7 @@ Students will develop a critical understanding of contemporary digital image pro
 
 Students will complete weekly short assignments experimenting with a different cameraless technique each week (70%). Based on one of these experiments, students will develop a final project presented at the end of the semester, accompanied by a brief written reflection on the practice and its conceptual context (30%).
 
+3 SWS / 3 ECTS.
 </div>
 
 <div class="lang-de" markdown="1">
@@ -44,7 +45,7 @@ Students will complete weekly short assignments experimenting with a different c
 Marco De Mutiis
 
 ## Termin und Ort
-Dienstag, 14:00 bis 16:15 Uhr - L203(ab 7. April)
+Dienstag, 14:00 bis 16:15 Uhr - L203 (ab 7. April)
 
 ## Inhalt
 Die Kamera gilt seit je als das zentrale Werkzeug der Fotografie. Doch zeitgenössische fotografische Bilder entstehen zunehmend durch kameralose Prozesse — von Screenshots und fotorealistischen CGI-Darstellungen über generative KI bis hin zu simulierten Kameras und Fotomodi in virtuellen Welten. Diese Veränderungen sind nicht nur technischer Natur: Sie signalisieren eine grundlegende Transformation dessen, was Fotografie ist, wie sie funktioniert und wer (oder was) Bilder erzeugt.
@@ -58,4 +59,6 @@ Die Studierenden entwickeln ein kritisches Verständnis zeitgenössischer digita
 
 ## Leistungsnachweis
 Die Studierenden absolvieren wöchentliche Kurzaufgaben, bei denen sie jede Woche eine andere kameralose Technik erproben (70 %). Auf der Grundlage eines dieser Experimente entwickeln sie ein Abschlussprojekt, das am Ende des Semesters präsentiert wird und von einer kurzen schriftlichen Reflexion über die Praxis und ihren konzeptuellen Kontext begleitet wird (30 %).
+
+3 SWS / 3 ECTS.
 </div>
