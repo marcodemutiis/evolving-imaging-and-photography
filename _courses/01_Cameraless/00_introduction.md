@@ -118,7 +118,7 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 - Briesen, Karl v
 
-- Kemmler, Emma v
+- Kemmler, Em v
 
 - Frisch, Ursula x
 
