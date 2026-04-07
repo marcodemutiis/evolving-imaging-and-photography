@@ -21,6 +21,8 @@ Beauty standards
 MetaHumans, CGI Avatars and Virtual Influencers
 
 
+[alex quicho, Girl Intelligence - see chapter about the face](https://aksioma.org/pdf/aksioma_PostScriptUM_52_ENG_quicho.pdf)
+
 A History of Portrait Photography, [part i](https://www.blind-magazine.com/lab/a-history-of-portrait-photography-part-i/), [part ii](https://www.blind-magazine.com/lab/a-history-of-portrait-photography-part-ii/)
 
 
