@@ -18,6 +18,8 @@ The Lure of the Image combines theoretical reflections with a practical approach
 
 Reading: [THe Lure of the Image in Networked Visual Culture]({ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/texts/introduction_the-lure-of-the-image-in-networked-visual-culture.pdf)
 
+Listen: [Cheated by an Image](https://open.spotify.com/show/6nKqMZk9zmskT8NdvKAdXr)
+
 ## Calendar
 
 | Date       | Topic                               |
@@ -65,6 +67,8 @@ It is my intent that students from all backgrounds and perspectives be well serv
 The Lure of the Image verbindet theoretische Reflexion mit einem praktischen Ansatz und fördert kollektive Diskussionen sowie die Entwicklung von Projekten rund um die im Kurs behandelten Themen. Die Studierenden sind aufgefordert, ein Semesterprojekt zu erarbeiten, das die praktischen Kenntnisse und Konzepte aus The Lure of the Image in eine abschließende Arbeit integriert und weiterentwickelt — unterstützt durch ein vollständiges Artist Statement, ein technisches Statement und eine Dokumentation.
 
 Text: [THe Lure of the Image in Networked Visual Culture]({ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/texts/introduction_the-lure-of-the-image-in-networked-visual-culture.pdf)
+
+Anhören: [Cheated by an Image](https://open.spotify.com/show/6nKqMZk9zmskT8NdvKAdXr)
 
 ## Kalender
 
