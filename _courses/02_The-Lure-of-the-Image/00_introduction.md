@@ -22,6 +22,10 @@ Listen: [Cheated by an Image](https://open.spotify.com/show/6nKqMZk9zmskT8NdvKAd
 
 Think: "When was the last time you were cheated by an image?"
 
+Map: [Mapping the Lure](https://docs.google.com/drawings/d/1rb3RIXxP19VXAhkSxGJjLE3ect_rJxU1-RazRskKg8g/edit)
+
+Make: Create a collage of images that represent the different typologies of the lure of the image. Look at the examples from Sara Cwynar, Alina Frieske, Penelope Umbrico, Matilde Duarte
+
 ## Calendar
 
 | Date       | Topic                               |
