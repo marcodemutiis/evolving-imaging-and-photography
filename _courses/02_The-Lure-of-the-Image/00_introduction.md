@@ -16,7 +16,7 @@ published: true
 ## About the Course
 The Lure of the Image combines theoretical reflections with a practical approach, fostering collective discussions and project creation around the topics addressed in class. Students are required to develop a semester project, integrating and expanding practical knowledge and concepts from The Lure of the Image into a final work supported by a complete artist statement, technical statement, and documentation.
 
-Reading: [THe Lure of the Image in Networked Visual Culture]({ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/texts/introduction_the-lure-of-the-image-in-networked-visual-culture.pdf)
+Reading: [The Lure of the Image in Networked Visual Culture]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/texts/introduction_the-lure-of-the-image-in-networked-visual-culture.pdf)
 
 Listen: [Cheated by an Image](https://open.spotify.com/show/6nKqMZk9zmskT8NdvKAdXr)
 
@@ -66,7 +66,7 @@ It is my intent that students from all backgrounds and perspectives be well serv
 ## Über den Kurs
 The Lure of the Image verbindet theoretische Reflexion mit einem praktischen Ansatz und fördert kollektive Diskussionen sowie die Entwicklung von Projekten rund um die im Kurs behandelten Themen. Die Studierenden sind aufgefordert, ein Semesterprojekt zu erarbeiten, das die praktischen Kenntnisse und Konzepte aus The Lure of the Image in eine abschließende Arbeit integriert und weiterentwickelt — unterstützt durch ein vollständiges Artist Statement, ein technisches Statement und eine Dokumentation.
 
-Text: [THe Lure of the Image in Networked Visual Culture]({ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/texts/introduction_the-lure-of-the-image-in-networked-visual-culture.pdf)
+Text: [The Lure of the Image in Networked Visual Culture]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/texts/introduction_the-lure-of-the-image-in-networked-visual-culture.pdf)
 
 Anhören: [Cheated by an Image](https://open.spotify.com/show/6nKqMZk9zmskT8NdvKAdXr)
 
@@ -112,7 +112,7 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 - Wilhelm, Theresa v
 
-- Grill, (M) Louis
+- Grill, (M) Louis v
 
 - Thobe, Lara v
 
@@ -128,7 +128,7 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 - Lobo de Macedo, Rosa v
 
-- Weinzierl, Paula
+- Weinzierl, Paula x
 
 - Ranftl, Felix v
 
