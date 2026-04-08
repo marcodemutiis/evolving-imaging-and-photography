@@ -24,7 +24,7 @@ Think: "When was the last time you were cheated by an image?"
 
 Map: [Mapping the Lure](https://docs.google.com/drawings/d/1rb3RIXxP19VXAhkSxGJjLE3ect_rJxU1-RazRskKg8g/edit)
 
-Make: Create a collage of images that represent the different typologies of the lure of the image. Look at the examples from [Sara Cwynar](https://saracwynar.com/), [Alina Frieske](https://alinafrieske.com/), and [Penelope Umbrico](http://www.penelopeumbrico.net/).
+Make: Create a collage of images that represent the different typologies of the lure of the image. Look at the examples from [Sara Cwynar](https://saracwynar.com/), [Alina Frieske](https://alinafrieske.com/), [Jenny Odell] (https://www.jennyodell.com/satellite.html), and [Penelope Umbrico](http://www.penelopeumbrico.net/).
 
 ## Calendar
 
