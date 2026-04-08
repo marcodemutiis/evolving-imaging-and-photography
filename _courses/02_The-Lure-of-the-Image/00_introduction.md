@@ -20,6 +20,8 @@ Reading: [The Lure of the Image in Networked Visual Culture]({{ site.baseurl }}/
 
 Listen: [Cheated by an Image](https://open.spotify.com/show/6nKqMZk9zmskT8NdvKAdXr)
 
+Think: "When was the last time you were cheated by an image?"
+
 ## Calendar
 
 | Date       | Topic                               |
@@ -69,6 +71,8 @@ The Lure of the Image verbindet theoretische Reflexion mit einem praktischen Ans
 Text: [The Lure of the Image in Networked Visual Culture]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/texts/introduction_the-lure-of-the-image-in-networked-visual-culture.pdf)
 
 Anhören: [Cheated by an Image](https://open.spotify.com/show/6nKqMZk9zmskT8NdvKAdXr)
+
+Denke: „Wann wurdest du das letzte Mal von einem Bild getäuscht?“
 
 ## Kalender
 
