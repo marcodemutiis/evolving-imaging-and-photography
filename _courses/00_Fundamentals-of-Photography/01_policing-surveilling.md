@@ -11,9 +11,9 @@ published: true
 
 <div class="lang-en" markdown="1">
 
-# I. Power and Institution: Policing & Surveilling
+I. Power and Institution: Policing & Surveilling
 
-## SCIENTIFIC ORIGINS
+## Scientific Origins
 
 ### Nicéphore Niépce, <em>Point de vue du Gras</em>, 1826
 
@@ -52,7 +52,7 @@ On June 15, 1878, Muybridge demonstrated his technique to the press: using a ser
 Muybridge later took his experiments to the University of Pennsylvania, where between 1883 and 1886 he expanded his studies in a purpose-built outdoor studio. Using a multi-camera setup, he photographed athletes, local volunteers, and even animals borrowed from the Philadelphia Zoo, producing detailed sequences of motion. These images were eventually published in 1887 as Animal Locomotion: An Electro-Photographic Investigation of Consecutive Phases of Animal Movements, an eleven-volume collection containing 781 plates (and over 20000 images), documenting the movement of humans and animals in unprecedented detail.
 
 
-## FORENSIC PHOTOGRAPHY
+## Forensic Photography
 
 ### Arnold Odermatt, [*Karambolage*](https://www.youtube.com/watch?v=hHu8072SyRc), 1939 – 1993
 
@@ -78,7 +78,7 @@ In 1976, the Kriminalkommissariat (Criminal Investigation Department) III, the s
 Dann wurde das KK III im Zuge der Fichenaffäre und der Überprüfung durch eine parlamentarische Untersuchungskommission aufgelöst.*Schmieren / Kleben* zeigt 700 dieser Fotos und sämtliche Karteikarten. Ein Glossar erklärt die Zusammenhänge von Parolen, Symbolen und Personen. Es ist ein einmaliges Dokument der Stadt Zürich jener Jahre, von politischen Strömungen wie der Frauen- oder Antiatombewegung angefangen, über die Auseinandersetzung mit dem Terrorismus, internationalen Konflikten bis hin zu Subkulturen und Aktionen im öffentlichen Raum. Zudem lässt sich verfolgen, wie sich die Spannung zwischen der Stadt und ihren Jugendlichen aufbaute und schliesslich 1980 im Opernhaus-Krawall und den darauffolgenden Jugendunruhen entlud, die Zürich nachhaltig verändert haben.
 
 
-## MUG SHOT PHOTOGRAPHY AND PORTRAIT PHOTOGRAPHY AS SURVEY
+## Mug Shot Photography and Portraits as Survey
 
 ### Alphonse Bertillon, *Bertillon system*, 1880s
 
@@ -133,7 +133,7 @@ Gulu Real Art Studio is an installation of 90 studio portraits collected by phot
 Through the variations in clothing, pose, and expression, each portrait becomes a marker of self-definition, offering vivid insight into the identities and aspirations of individuals within a community long shaped by decades of violent conflict. The work highlights both the resilience of Gulu’s society and the enduring power of studio portraiture to tell personal and collective stories in the twenty-first century.
 
 
-## SURVEILLANCE, CCTV AND MACHINE VISION
+## Surveillance, CCTV and Machine Vision
 
 ### Jules Spinatsch, [*Surveillance Panorama Projects*](https://jules-spinatsch.ch/chapter-4/), 2003-2012
 
@@ -170,59 +170,109 @@ Beyond this project, Cirio has campaigned against facial recognition more broadl
 
 
 
-## AERIAL PHOTOGRAPHY, SATELLITE AND GOOGLE MAPS PHOTOGRAPHY
+## Aerial Photography, Satellite and Google Maps Photography
 
- - Nadar
-https://www.onverticality.com/blog/nadar-and-the-aerial-perspective
-The very first aerial photograph was taken in 1858 from a balloon by French photographer Gaspard-Félix ‘Nadar’ Tournachon, above the French village of Petit-Becetre. Nadar’s earliest photographs no longer exist, so the earliest aerial photograph that survives shows Boston in 1860, taken by [James Wallace Black and Samuel Archer King](https://www.geographyrealm.com/what-is-the-oldest-surviving-aerial-photograph/).
+### Nadar, *Paris vu en ballon*, 1858
 
-Other early experiments in aerial photography involved attaching cameras to kites and rockets. Perhaps the most remarkable early experiment in aerial photography came when German Julius Neubranner attached tiny cameras to pigeons. The resulting photographs were popular with the public but somewhat erratically taken.
+The very first aerial photograph was taken in 1858 from a balloon by French photographer Gaspard-Félix Tournachon, known as Nadar, above the French village of Petit-Bicêtre. None of Nadar's earliest aerial images survive; the oldest surviving aerial photograph shows Boston in 1860, taken by James Wallace Black and Samuel Archer King from a similar balloon vantage point. Nadar had secured a patent for aerial photography the previous year, anticipating its cartographic and military applications, and his ascents attracted considerable public attention in Paris.
 
-- Pigeon Photography, [Julius Neubronner](https://artsandculture.google.com/story/julius-neubronner-and-his-flying-photographers-deutsches-technikmuseum/uQXBawGRQxy5LQ?hl=en) and [Adrien Michel](https://www.fotomuseum.ch/en/situations-post/tauben-fotografie/)ʼs Instruments of Aerial Reconnaissance, 1900s – 1930s
+Other early experiments in aerial photography involved attaching cameras to kites and rockets. Perhaps the most remarkable came when the German pharmacist Julius Neubronner fitted miniature cameras to homing pigeons, engineering a breast-mounted harness with a pneumatic timer that triggered the shutter automatically during flight. The resulting photographs—oblique, unpredictable, and strangely intimate—were exhibited at international expositions from 1909 onward and became commercially popular as postcards, even as their operational usefulness remained limited by the pigeons' erratic trajectories.
 
-- Explorer VI, [First Earth Satellite View](https://www.fotomuseum.ch/en/situations-post/explorer-vi/), 1959
+### Pigeon Photography, [Julius Neubronner](https://artsandculture.google.com/story/julius-neubronner-and-his-flying-photographers-deutsches-technikmuseum/uQXBawGRQxy5LQ?hl=en) and [Adrien Michel](https://www.fotomuseum.ch/en/situations-post/tauben-fotografie/), *Instruments of Aerial Reconnaissance*, 1900s–1930s
 
-- Venera 13, [Venus](https://www.fotomuseum.ch/en/situations-post/venera-13/), 1982
+![Pigeon Camera]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/pigeon-camera.jpg)
+<figcaption>Julius Neubronner, pigeon-mounted camera and aerial photograph, c. 1908</figcaption>
 
-- James Bridle, [Dronestagram](https://jamesbridle.com/works/dronestagram), 2012
+Julius Neubronner's pigeon cameras and the later work documented by Adrien Michel represent an early chapter in the long entanglement of photography with reconnaissance and territorial control. By harnessing animals as involuntary platforms, these experiments anticipated the logic of automated, non-human imaging that would later define satellite and drone photography: images taken without a human eye at the viewfinder, from perspectives no human body could occupy. The photographs produced in this way were not composed but extracted—captured by a mechanism, shaped by chance, and interpreted after the fact.
 
-- Mishka Henner [Dutch Landscapes](https://mishkahenner.com/Selected-Dutch-Landscapes), 2011; [Feedlots](https://mishkahenner.com/Selected-Feedlots-1), 2012-13; [Fields](https://mishkahenner.com/Selected-Fields), 2012-13.
- 
-- Jenny Odell, [Satellite Collections](https://www.jennyodell.com/satellite.html), 2009–2015.
- 
-- Till Rückwrt, [Salty Glitches](https://tillrueckwart.com/work/salty-glitches/), 2022.
+The pigeon camera sits at the threshold between instrument and creature, science and spectacle. Its images belong to a tradition of imaging the earth from above that has consistently served the interests of power—military mapping, border surveillance, resource extraction—while simultaneously generating new aesthetic experiences of the world seen from a distance.
+
+### Explorer VI, [First Earth Satellite View](https://www.fotomuseum.ch/en/situations-post/explorer-vi/), 1959; Venera 13, [Venus](https://www.fotomuseum.ch/en/situations-post/venera-13/), 1982
+
+![Explorer VI]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/explorer-vi.jpg)
+<figcaption>Explorer VI, first satellite photograph of Earth, August 14, 1959</figcaption>
+
+On 14 August 1959, the American satellite Explorer VI transmitted the first photograph of Earth taken from orbit: a crude, grainy image of the Pacific Ocean and its cloud cover, assembled from a scanning photocell. More than two decades later, the Soviet probe Venera 13 transmitted the first colour photographs from the surface of Venus in 1982, surviving the planet's extreme heat and pressure for just over two hours before its instruments failed.
+
+These images mark decisive moments in the history of remote sensing—a practice in which the camera is fully separated from the human body and deployed as an instrument of planetary-scale observation. They inaugurated an era in which images of the earth and other worlds would be produced automatically, transmitted as data, and processed into pictures by machines. The aesthetic they established—the pixelated overview, the false-colour composite, the image reconstructed from signal—has become central to how photography operates in the age of satellites, drones, and machine vision.
+
+### James Bridle, [*Dronestagram*](https://jamesbridle.com/works/dronestagram), 2012
+
+![Dronestagram]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/dronestagram.jpg)
+<figcaption>James Bridle, from <em>Dronestagram</em>, 2012</figcaption>
+
+Beginning in 2012, British artist and writer James Bridle posted photographs to Instagram sourced from Google Maps satellite imagery, each depicting a location where a US drone strike had recently occurred. The project used one of the most popular image-sharing platforms of its time to redistribute a category of image almost entirely absent from public media coverage: views of the sites of targeted killings, presented in the same format as holiday snapshots and food photographs.
+
+*Dronestagram* draws attention to the infrastructural invisibility of drone warfare—the way in which strikes are carried out from remote locations, authorised through bureaucratic processes, and rarely depicted in any visual form accessible to the public. By inserting these coordinates into the stream of everyday social media imagery, Bridle made visible the gap between the intimacy of consumer photography and the anonymity of state violence conducted from the air. The work also reflects on the dual nature of satellite imagery: a technology simultaneously available for artistic appropriation and structurally embedded in military systems.
+
+### Mishka Henner, [*Dutch Landscapes*](https://mishkahenner.com/Selected-Dutch-Landscapes), 2011; [*Feedlots*](https://mishkahenner.com/Selected-Feedlots-1), 2012–13; [*Fields*](https://mishkahenner.com/Selected-Fields), 2012–13
+
+![Dutch Landscapes]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/dutch-landscapes.jpg)
+<figcaption>Mishka Henner, from <em>Dutch Landscapes</em>, 2011</figcaption>
+
+Belgian-British artist Mishka Henner works extensively with found imagery from Google Maps and satellite sources, using the platform's vast archive as both subject and raw material. In *Dutch Landscapes* (2011), Henner collected aerial views of classified Dutch military and government sites from which Google had redacted sensitive information—not by blurring, but by painting over the images with geometric blocks of flat colour, producing abstract compositions that recall the paintings of De Stijl. The censorship becomes a visual event, marking the boundary between what may and may not be seen from above.
+
+*Feedlots* (2012–13) and *Fields* (2012–13) take a different approach, presenting satellite views of American industrial agriculture—vast networks of cattle pens, irrigation circles, and monoculture fields—at a scale that renders the landscape as pure system. Stripped of human figures and narrative, these images reveal the land as an optimised surface: measured, monitored, and reconfigured for maximum yield. Together, Henner's bodies of work use the satellite image as a document of power over territory, making visible the structures of military secrecy, industrial production, and ecological transformation that organise the contemporary landscape.
+
+### Jenny Odell, [*Satellite Collections*](https://www.jennyodell.com/satellite.html), 2009–2015
+
+![Satellite Collections]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/satellite-collections.jpg)
+<figcaption>Jenny Odell, from <em>Satellite Collections</em>, 2009–2015</figcaption>
+
+Over six years, California-based artist Jenny Odell systematically collected and categorised objects found in Google satellite imagery—airports, golf courses, swimming pools, waste treatment facilities, sports stadiums, oil storage tanks—arranging them into typological grids. The method echoes the comparative taxonomies of Bernd and Hilla Becher, transposing their photographic survey of industrial structures into the visual register of machine-generated overhead imagery.
+
+*Satellite Collections* asks what kind of knowledge is produced by the bird's-eye view. Seen from above, the objects of everyday infrastructure become unfamiliar: stripped of ground-level context and arranged by formal similarity, they appear both absurd and systematic. The project also draws attention to the specific visual language of satellite imagery itself—compressed, flattened, rendered in the muted palette of remote sensing—and to the act of searching, sorting, and classifying as a form of artistic practice.
+
+### Till Rückwart, [*Salty Glitches*](https://tillrueckwart.com/work/salty-glitches/), 2022
+
+![Salty Glitches]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/salty-glitches.jpg)
+<figcaption>Till Rückwart, from <em>Salty Glitches</em>, 2022</figcaption>
+
+German artist Till Rückwart's *Salty Glitches* investigates the failures and artefacts that appear in satellite and aerial imagery when photogrammetric stitching algorithms encounter surfaces that confound them: salt flats, frozen lakes, snow fields, and other featureless or highly reflective terrains. These environments, which lack the visual texture that the software relies on to orient itself, produce spectacular errors—surfaces warped into impossible geometries, colours bleeding across seams, entire sections of landscape folded, duplicated, or dissolved.
+
+Rückwart treats these glitches not as technical defects to be corrected but as images in their own right: indices of the assumptions built into machine vision systems, made visible at the moment they fail. The project raises fundamental questions about satellite imagery as a form of representation. What does it mean when the image of a place is produced not by a single exposure but by an algorithm assembling thousands of overlapping frames? And what does the failure of that algorithm reveal about what the system expects the world to look like?
 
 
-## ARCHITECTURE PHOTOGRAPHY AS SURVEY
+## Architecture Photography as Survey
 
+### Joseph-Philibert Girault Prangey, *Facade and North Colonnade of the Parthenon on the Acropolis, Athens*, 1842.
 
 The first architectural photographer is considered to be Joseph-Philibert Girault de Prangey, who started to take daguerreotypes of iconic buildings like the Parthenon in Athens and Notre-Dame in Paris from 1841. Architectural photography evolved in two distinct approaches, namely Elevation and Perspective. The Elevation Approach focuses on representing a structure as a two-dimensional image, obtaining a viewpoint that is parallel to the building and aimed at showing as many details as possible. The Perspective Approach aims at depicting the structure within the space, focusing on the third dimension and often taken at an angle or from a vantage point from a corner.
 
-_Facade and North Colonnade of the Parthenon on the Acropolis, Athens_ by Joseph-Philibert Girault Prangey, 1842.
 
-With the reshaping of urban landscapes, modern architecture gradually became a more popular subject in photography. Around 1900, French photographer Eugène Atget started focusing on the disappearing architecture of “Old Paris”. He captured the alleys and buildings of pre-revolutionary Paris, which were going to be demolished as part of a huge modernization project. Many of Atget’s photographs were taken at dawn, which - combined with the urban solitude and emptiness he portrayed, created a special sense of space and ambience. Many photographers were greatly influenced by his images, including American photographer Berenice Abbott who bought most of Atget’s negatives and prints before moving back to New York from Paris.
+### Eugène Atget, *Coin rue de Seine*, 1924.
 
-_Coin rue de Seine_, by Eugène Atget, 1924.
+With the reshaping of urban landscapes, modern architecture gradually became a more popular subject in photography. Around 1900, French photographer Eugène Atget started focusing on the disappearing architecture of "Old Paris". He captured the alleys and buildings of pre-revolutionary Paris, which were going to be demolished as part of a huge modernization project. Many of Atget's photographs were taken at dawn, which - combined with the urban solitude and emptiness he portrayed, created a special sense of space and ambience. Many photographers were greatly influenced by his images, including American photographer Berenice Abbott who bought most of Atget's negatives and prints before moving back to New York from Paris.
 
-Back in New York, Abbott was confronted with a similar modernization process, with the old New York which was fast disappearing. “At almost any point on Manhattan Island, – she noticed – the sweep of one’s vision can take in the dramatic contrasts of the old and the new and the bold foreshadowing of the future. This dynamic quality should be caught and recorded immediately in a documentary interpretation of New York City. The city is in the making and unless this transition is crystalized now in permanent form, it will be forever lost […]. The camera alone can catch the swift surfaces of the cities today and speaks a language intelligible to all.”^[Abbott, Berenice, “Changing New York” (project proposal, New-York Historical Society, 1932); excerpted in O'Neal, Hank. Berenice Abbott: American Photographer. (New York: McGraw-Hill, 1982): 16–17.]
 
-_Chanin Building, New York_ by Berenice Abbott, about 1935.
+### Berenice Abbott, *Chanin Building, New York*, about 1935.
 
-The modernist project in architecture meant embracing a more minimalist approach and rejecting ornament. A rational use of material was combined with an analytical and functional approach. Similarly, modernist photography rejected formal images and the painterly qualities of the pictorialist tradition in favour of a sharp focus, crisp lines and repetition. It celebrated the apparatus as a mechanical tool, and called for a “straight photography”^[Sadakichi Hartmann, “A Plea for Straight Photography,” American Amateur Photographer 16 (Mar. 1904), pp. 101–09; reprinted in Beaumont Newhall, ed. Photography: Essays and Images (Museum of Modern Art, New York 1980), p. 186.]. The city played a major role in this relationship between urban spaces and their images, with radical architecture and modernist photography sharing an ideological connection. Architects and photographers started working as closely connected pairs in the second half of the XX century. Armando Salas Portugal for Luis Barragán, Bill Engdahl for Mies van der Rohe, Julius Shulman for Richard Neutra are some examples of this tightly connected relationship between the architecture and the image that shapes the space of the time.^[For more information about these three case studies see Lorenzo Rocha, _Photography and Modern Architecture_ ,"Concrete - Photography and Architecture", Scheidegger & Spiess, 2013.]
+Back in New York, Abbott was confronted with a similar modernization process, with the old New York which was fast disappearing. "At almost any point on Manhattan Island, – she noticed – the sweep of one's vision can take in the dramatic contrasts of the old and the new and the bold foreshadowing of the future. This dynamic quality should be caught and recorded immediately in a documentary interpretation of New York City. The city is in the making and unless this transition is crystalized now in permanent form, it will be forever lost […]. The camera alone can catch the swift surfaces of the cities today and speaks a language intelligible to all."^[Abbott, Berenice, "Changing New York" (project proposal, New-York Historical Society, 1932); excerpted in O'Neal, Hank. Berenice Abbott: American Photographer. (New York: McGraw-Hill, 1982): 16–17.]
 
+The modernist project in architecture meant embracing a more minimalist approach and rejecting ornament. A rational use of material was combined with an analytical and functional approach. Similarly, modernist photography rejected formal images and the painterly qualities of the pictorialist tradition in favour of a sharp focus, crisp lines and repetition. It celebrated the apparatus as a mechanical tool, and called for a "straight photography"^[Sadakichi Hartmann, "A Plea for Straight Photography," American Amateur Photographer 16 (Mar. 1904), pp. 101–09; reprinted in Beaumont Newhall, ed. Photography: Essays and Images (Museum of Modern Art, New York 1980), p. 186.]. The city played a major role in this relationship between urban spaces and their images, with radical architecture and modernist photography sharing an ideological connection. Architects and photographers started working as closely connected pairs in the second half of the XX century. Armando Salas Portugal for Luis Barragán, Bill Engdahl for Mies van der Rohe, Julius Shulman for Richard Neutra are some examples of this tightly connected relationship between the architecture and the image that shapes the space of the time.^[For more information about these three case studies see Lorenzo Rocha, _Photography and Modern Architecture_ ,"Concrete - Photography and Architecture", Scheidegger & Spiess, 2013.]
+
+
+### Bernd and Hilla Becher, [*Water Towers*](https://www.guggenheim.org/artwork/500), 1968–80
 
 ![Water Towers]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/water-towers.png)
 <figcaption>Bernd and Hilla Becher, from <em>Water Towers</em>, 1968–80</figcaption>
-- Bernd and Hilla Becher, [Water Towers](https://www.guggenheim.org/artwork/500), 1968–80
 
-Starting in 1957 the Bechers traveled throughout Europe and North America taking black-and-white photographs of industrial architecture: water towers, coal silos, blast furnaces, lime kilns, grain elevators, preparation plants, pithead gears, oil refineries, and the like. They organized their photographs into series based exclusively on functional typologies and arranged them into grids or rows. This served both to invoke and reinforce the sculptural properties of the architecture—they called the subjects of their photographs “anonymous sculptures”—the forms of which are primarily determined by function. Through this method the artists revealed the diverse structural and material variations found within specific kinds of edifices. The water towers comprising the sequence presented here, for example, are all constructed of metal, yet they differ vastly in form. Such differences are underscored by constants that prevail from series to series: the photographs are usually taken from the same angle, the light is evenly distributed, and the prints are identical in size.
+Starting in 1957, the Bechers travelled throughout Europe and North America taking black-and-white photographs of industrial architecture: water towers, coal silos, blast furnaces, lime kilns, grain elevators, preparation plants, pithead gears, oil refineries, and the like. They organised their photographs into series based exclusively on functional typologies and arranged them into grids or rows. This served both to invoke and reinforce the sculptural properties of the architecture—they called the subjects of their photographs "anonymous sculptures"—the forms of which are primarily determined by function. Through this method the artists revealed the diverse structural and material variations found within specific kinds of edifices. The water towers comprising the sequence presented here, for example, are all constructed of metal, yet they differ vastly in form. Such differences are underscored by constants that prevail from series to series: the photographs are usually taken from the same angle, the light is evenly distributed, and the prints are identical in size.
 
-The photographs, particularly those of now-demolished structures, refer to specific historical periods, particularly the late-19th-century shift to industry. When contemplated in our postindustrial society, these images can be interpreted as nostalgic ruminations on a lost era. But they do not lack a critical edge. The intense and obsessive nature of the Bechers’ project mirrors and discloses the relentless order of industrial production, a phenomenon that has had monumental implications for the economy and the environment.
+The photographs, particularly those of now-demolished structures, refer to specific historical periods, particularly the late-19th-century shift to industry. When contemplated in our postindustrial society, these images can be interpreted as nostalgic ruminations on a lost era. But they do not lack a critical edge. The intense and obsessive nature of the Bechers' project mirrors and discloses the relentless order of industrial production, a phenomenon that has had monumental implications for the economy and the environment.
 
-- Michael Wesely, [9 August 2001 - 2 May 2003 The Museum of Modern Art, New York](https://www.moma.org/collection/works/98507?artist_id=8194&page=1&sov_referrer=artist), 2001–2003
+### - Michael Wesely, [*9 August 2001 – 2 May 2003, The Museum of Modern Art, New York*](https://www.moma.org/collection/works/98507?artist_id=8194&page=1&sov_referrer=artist), 2001–2003
+
+![Michael Wesely]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/wesely-moma.jpg)
+<figcaption>Michael Wesely, <em>9 August 2001 – 2 May 2003, The Museum of Modern Art, New York</em>, 2001–2003</figcaption>
+
+German photographer Michael Wesely is known for his extreme long-exposure photographs, produced using custom-built cameras capable of keeping their shutters open for periods of months or even years. For his project at the Museum of Modern Art, Wesely installed cameras on buildings overlooking the museum during its major expansion and renovation, leaving them to accumulate light from August 2001 to May 2003—nearly two years. The resulting images show the entire arc of construction collapsed into a single exposure: the old building's demolition, the rising steel structure, and the completed museum all appear simultaneously, overlaid in a dense, ghostly palimpsest of time.
+
+Where architectural photography has traditionally sought to fix and idealise the finished building, Wesely's work records architecture as process—as duration, change, and labour made visible. The photograph becomes less a document of a building than a document of time itself, held within a frame. The project also carries an unintended historical resonance: because the exposure began in August 2001 and the cameras were still running on 11 September of that year, traces of the World Trade Center's destruction are embedded within the image, though the site lay outside the frame.
 
 
-Assignment: create between 1 and 5 portraits in a neutral setting and with a scientific photography approach.
+## Assignment: 
+Create between 1 and 5 portraits in a neutral setting and with a scientific photography approach.
 
 
 
