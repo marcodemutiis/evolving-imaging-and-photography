@@ -54,19 +54,20 @@ Muybridge later took his experiments to the University of Pennsylvania, where be
 
 ### FORENSIC PHOTOGRAPHY
 
+- Arnold Odermatt, [Karambolage](https://www.youtube.com/watch?v=hHu8072SyRc), 1939 – 1993
+
 ![Karambolage]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/arnold-odermatt-karambolage-01.jpg)
 <figcaption>Arnold Odermatt, from <em>Karambolage</em>, 1939 – 1993</figcaption>
-- Arnold Odermatt, [Karambolage](https://www.youtube.com/watch?v=hHu8072SyRc), 1939 – 1993
 
 Between 1939 and 1993, Arnold Odermatt photographed automobile accidents on the streets of Nidwalden, Switzerland. Over four decades, the police officer documented the wreckage left by excessive speed, drunk driving, right-of-way violations, and other accidents. With the drivers and victims gone, the twisted metal of the vehicles became the focus—sometimes appearing sculptural or expressive, reflecting the sudden disruptions and unforeseen events in everyday life.
 
 Although Odermatt had no formal training in photography, his images combined the precision of police documentation with a careful sense of composition. They are often poignant, occasionally humorous, and consistently atmospheric, drawing comparisons to Weegee’s crime-scene photography and Andy Warhol’s exploration of disaster as spectacle. The work remained largely unseen until Harald Szeemann presented it at the 49th Venice Biennale.
 
 
+- Philipp Anz, Jules Spinatsch, Viola Zimmermann (Editors), <em>Schmieren / Kleben. Aus dem Archiv KKIII der Stadtpolizei Zürich 1976 – 1989</em>. Edition Patrick Frey, 2018
+
 ![Schmieren / Kleben]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/schmieren-kleben.jpg)
 <figcaption>Philipp Anz, Jules Spinatsch, Viola Zimmermann (Editors), from <em>Schmieren / Kleben. Aus dem Archiv KKIII der Stadtpolizei Zürich 1976 – 1989</em>. Edition Patrick Frey, 2018</figcaption>
-
-- Philipp Anz, Jules Spinatsch, Viola Zimmermann (Editors), <em>Schmieren / Kleben. Aus dem Archiv KKIII der Stadtpolizei Zürich 1976 – 1989</em>. Edition Patrick Frey, 2018
 
 In 1976, the Kriminalkommissariat (Criminal Investigation Department) III, the state security division of the Zurich City Police, began compiling a file called “Schmieren / Kleben" (Graffiti / Stickers). This file recorded political slogans, painted messages, spray-painted phrases, or illegal art actions—including works by Harald Naegeli—that all constituted property damage. Officers on duty photographed the “graffiti” and documented the incidents on index cards. The file contains around 2,000 black-and-white photographs from 1976 to 1981, along with the corresponding cards, and was continued until 1989. KK III was later dissolved as part of the “fiches affair” and a review by a parliamentary investigative committee.
 
@@ -79,10 +80,10 @@ Dann wurde das KK III im Zuge der Fichenaffäre und der Überprüfung durch ein
 
 ### MUG SHOT PHOTOGRAPHY AND PORTRAIT PHOTOGRAPHY AS SURVEY
 
+- Alphonse Bertillon, Bertillon system, 1880s
+
 ![Bertillon's self portrait]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/Bertillon_selfportrait.jpg)
 <figcaption>Self-portrait mug shot of Alphonse Bertillon, who developed and standardized this type of photograph, 22 August 1900</figcaption>
-
-- Alphonse Bertillon, Bertillon system, 1880s
 
 The practice of photographing criminals emerged in the mid-19th century as law enforcement sought more reliable ways to identify repeat offenders. During the 1840s and 1850s, police in Belgium, Britain, and the United States began systematically capturing images of suspects. These early efforts aimed to reduce the use of aliases and created “rogues’ galleries,” collections of criminal portraits that were sometimes displayed publicly to help authorities and citizens recognize offenders.
 
@@ -91,10 +92,10 @@ Bertillon’s system introduced standardization to criminal documentation. By re
 
 The Bertillon system quickly spread across Europe and North America, becoming a cornerstone of modern criminal identification and laying the groundwork for later developments in fingerprinting and forensic science. However, the method also intersected with pseudo-scientific ideas and deterministic approaches to criminality, such as those proposed by Cesare Lombroso, which sought to link physical traits to criminal behavior. This reinforced racist and class-based assumptions, contributing to the profiling and stigmatization of marginalized communities. Despite its practical innovations, the Bertillon system exemplifies how early forensic science could be misused to justify social prejudices.
 
+- August Sanders, [People of the 20th Century](https://artgallery.yale.edu/exhibitions/exhibition/august-sanders-people-20th-century), 1892–1952
+
 ![Aviator]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/aviator.jpg)
 <figcaption>August Sanders, <em>Aviator</em>, from <em>People of the 20th Century</em>, 1920</figcaption>
-
-- August Sanders, [People of the 20th Century](https://artgallery.yale.edu/exhibitions/exhibition/august-sanders-people-20th-century), 1892–1952 
 
 August Sander’s monumental photographic archive, People of the 20th Century, sought to capture a comprehensive portrait of German society. Beginning in the 1920s during the Weimar Republic—but incorporating images he had made as early as 1892—Sander photographed citizens from all walks of life, systematically organizing them into categories such as “The Skilled Tradesman,” “The Farmer,” “The Artist,” and “The Woman.” His work also included marginalized groups, including people with disabilities and the unemployed, granting visibility to those often excluded from public representation and drawing the disapproval of the Nazis.
 
@@ -103,29 +104,29 @@ Sander’s portraits are striking for their unflinching realism and sensitive at
 Through both its scope and methodology, Sander’s project not only documented the social diversity of Germany in the early 20th century but also engaged with contemporary artistic debates about realism, objectivity, and the role of photography in society. His work remains a landmark in documentary portraiture, providing an unparalleled window into the lives, professions, and identities of an era on the brink of monumental historical change.
 
 
+- Richard Avedon, [The Family](https://pier24.org/portfolio/richard-avedon-the-family/), 1976
+
 ![The Family]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/the-family.png)
 <figcaption>Richard Avedon, The Family, 1976</figcaption>
-
-- Richard Avedon, [The Family](https://pier24.org/portfolio/richard-avedon-the-family/), 1976
 
 In the lead-up to the U.S. presidential election during the Bicentennial year of 1976, American photographer Richard Avedon (1923–2004) set out to capture the figures who held the levers of political, economic, and cultural power in the United States. The project produced 69 portraits of 73 prominent individuals, eventually filling an entire issue of Rolling Stone magazine. Using his Deardorff 8-by-10-inch camera, Avedon photographed figures such as Henry Kissinger, George H. W. Bush, Jimmy Carter, and Ronald Reagan in his signature stark, frontal style, against a plain white background, with nothing but the edges of the negative to frame them.
 
 Titled *The Family*, the series resembles a quasi-family album, subtly emphasizing the interconnectedness of seemingly unrelated spheres of influence. While it included elected officials such as President Gerald Ford, the collection also featured leaders from other sectors—bankers, corporate executives, union organizers like César Chávez, media figures, and publishers—highlighting the diverse forces that shape American political life at its highest levels.
 
-![Thomas Ruff, Portraits, 1981-2001]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/Ruff_portraits.jpg)
-<figcaption>Thomas Ruff, from <em>Portraits</em>, 1981-2001</figcaption>
 
 - Thomas Ruff, [Portraits](https://www.thomasruff.com/en/works/portraits/), 1981-2001
+
+![Thomas Ruff, Portraits, 1981-2001]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/Ruff_portraits.jpg)
+<figcaption>Thomas Ruff, from <em>Portraits</em>, 1981-2001</figcaption>
 
 Around 1980, Thomas Ruff began to concern himself for the first time with the genre of “portraits”; it was a type of image that had, at the time, as good as vanished from the art of the day. Alongside portrait work for the Düsseldorf-based band EKG (Ruff was its Art Director), he experimented with the various opportunities portraits offered and made an intensive study of “portrait” as a genre. In the end, he chose a neutral image of the face and upper torso that emphasized the portrayed person’s facial features and avoided any psychologizing interpretation. 
 
 The idea was to photograph each person as if she or he were a plaster bust, because, according to Ruff, a photograph only reproduces the surface of things anyway. The portraits were taken with the sitters wearing their everyday clothes and with a calm and serious look on their faces. Any form of emotional involvement such as smiles, grins, or flirting with the camera was eschewed. Ruff intuitively chose as models for the portraits persons he actually knew: friends and acquaintances of his own age whom he had met at the academy or in Düsseldorf’s nightlife (on “Ratinger Strasse”).
 
+- Martina Bacigalupo, [Gulu Real Art Studio](https://www.walthercollection.com/en/new-york/exhibitions/martina-bacigalupo), 2011–2012
 
 ![Bacigalupo]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/Gulu-Real-Art-Studio.jpg)
 <figcaption>Martina Bacigalupo, from <em>Gulu Real Art Studio</em>, 2011-2012</figcaption>
-
-- Martina Bacigalupo, [Gulu Real Art Studio](https://www.walthercollection.com/en/new-york/exhibitions/martina-bacigalupo), 2011–2012
 
 Gulu Real Art Studio is an installation of 90 studio portraits collected by photographer Martina Bacigalupo, drawn from the Gulu Real Art Studio in Gulu, Uganda. The series was edited from hundreds of discarded images whose faces had originally been cut out for standardized ID photos, transforming fragments into a striking typological survey of the city’s residents. 
 
@@ -134,10 +135,10 @@ Through the variations in clothing, pose, and expression, each portrait becomes 
 
 ### Surveillance, CCTV and machine vision, seeing machines
 
+- Jules Spinatsch, [Surveillance Panorama Projects](https://jules-spinatsch.ch/chapter-4/), 2003-2012
+
 ![Surveillance panorama]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/surveillance-panorama.jpg)
 <figcaption>Jules Spinatsch, <em>Discontinuous Panorama A240635</em>, World Economic Forum, Davos, Switzerland. Camera A: Promenade, Congress-Center North and Middle Entry, 2176 single images recorded from 06:35 – 09:30, January 24, 2003</figcaption>
-
-- Jules Spinatsch, [Surveillance Panorama Projects](https://jules-spinatsch.ch/chapter-4/), 2003-2012
 
 Jule Spinatsch sought to engage with security systems on their own terms, subversively turning their technology against itself. Like a strategist in a high-tech battlefield, she aimed to capture images remotely, without being physically present.
 
@@ -145,20 +146,21 @@ Inspired by the panoramic ski-area feeds on the website www.davos.ch, which used
 
 On the day of the protest, the carefully calculated randomness of the cameras turned almost farcical. The system was activated without knowing when or from where the protest would begin. Although the cameras recorded continuously, only one protester appears in the final footage, as the movement of Camera B was out of sync with the demonstration.
 
-![Mushon Zer-Aviv, Dan Stavy, Eran Weissenstern, The Normalizing Machine, 2018]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/ZerAviv_normalizingmachine.jpg)
-<figcaption>Mushon Zer-Aviv, Dan Stavy, Eran Weissenstern, <em>The Normalizing Machine</em>, 2018</figcaption>
 
 - Mushon Zer-Aviv, Dan Stavy, Eran Weissenstern, [The Normalizing Machine](https://mushon.com/tnm/), 2018
+
+![Mushon Zer-Aviv, Dan Stavy, Eran Weissenstern, The Normalizing Machine, 2018]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/ZerAviv_normalizingmachine.jpg)
+<figcaption>Mushon Zer-Aviv, Dan Stavy, Eran Weissenstern, <em>The Normalizing Machine</em>, 2018</figcaption>
 
 The Normalizing Machine, an interactive installation developed by Israeli artist Mushon Zer-Aviv in collaboration with the software developers Dan Stavy and Eran Weissenstern, deals with visual notions of “normality” and the ways in which bias is inscribed into and reinforced by algorithms and machine learning systems. While being captured on camera, visitors have to decide from a collection of previously photographed visitor portraits which ones seem more “normal” to them. The datasets assembled in this way are evaluated in order to generate an algorithmic image of “normality”. 
 
 Zer-Aviv thus tracks face recognition techniques of the 21st century back to practices of facial measurement misused for propagandistic purposes under the Nazi regime as well as to the forensic image practices emerging as early as the 19th century. The Normalizing Machine examines how we perceive “normality” today, questioning whether we can do so beyond subjective categories – as well as the role of photographic technologies as supposedly “objective” techniques with regard to mechanisms of normalisation.
 
 
+- Paolo Cirio, [Capture](https://paolocirio.net/work/capture/), 2020
+
 ![Capture]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/capture.jpg)
 <figcaption>Paolo Cirio, from <em>Capture</em>, 2020</figcaption>
-
-- Paolo Cirio, [Capture](https://paolocirio.net/work/capture/), 2020
 
 Paolo Cirio’s series Capture focuses on the faces of French police officers. Cirio gathered 1,000 publicly available images of officers captured during protests in France and processed them using facial recognition software. From this, he generated a database of approximately 4,000 facial images and created an online platform inviting the public to help identify the officers by name. In addition, he printed the headshots as street art posters and displayed them across Paris, bringing the images into public space.
 
