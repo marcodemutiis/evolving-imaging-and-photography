@@ -14,10 +14,11 @@ published: true
 ## I. Power and Institution: Policing & Surveilling
 
 ### SCIENTIFIC ORIGINS
-![fundamentalsofphotography]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/niepce.jpg)
-<figcaption>Nicéphore Niépce, <em>Point de vue du Gras</em>, 1826</figcaption>
 
 - Nicéphore Niépce, <em>Point de vue du Gras</em>, 1826
+
+![fundamentalsofphotography]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/niepce.jpg)
+<figcaption>Nicéphore Niépce, <em>Point de vue du Gras</em>, 1826</figcaption>
 
 The origins of photography trace back to Joseph Nicéphore Niépce, who in 1826 or 1827 created what is widely recognized as the first permanent photograph, View from the Window at Le Gras. Using a process called heliography, Niépce exposed a pewter plate coated with bitumen to light for several hours, producing a faint but enduring image.
 
@@ -25,11 +26,10 @@ Niépce’s work laid the groundwork for Louis Daguerre, who refined the techniq
 
 [photographicflux](https://www.photographic-flux.ch/)
 
+#### - Anna Atkins, [Cyanotypes of British Algae](https://publicdomainreview.org/collection/cyanotypes-of-british-algae-by-anna-atkins-1843/), 1843
 
 ![Atkins]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/atkins.webp)
 <figcaption>Anna Atkins, from <em>Cyanotypes of British Algae </em></figcaption>
-
-- Anna Atkins, [Cyanotypes of British Algae](https://publicdomainreview.org/collection/cyanotypes-of-british-algae-by-anna-atkins-1843/), 1843
 
 The story of photography is deeply intertwined with science, especially chemistry and (later) optics. Early experiments by innovators such as Angelo Sala in 1614 and Johann Heinrich Schulze in 1717 revealed that compounds like silver nitrate darkened when exposed to light, laying the chemical foundation for photography. Meanwhile, the camera obscura had been used for centuries to project images, and combining this optical device with light-sensitive chemicals eventually allowed images to be permanently fixed—a process refined by scientists studying light and materials.
 
@@ -40,10 +40,10 @@ Atkins’ most notable contributions came through the cyanotype process, develop
 From early chemical experiments to the precise botanical cyanotypes of Anna Atkins, the evolution of photography reflects a unique fusion of scientific curiosity and artistic vision, demonstrating how innovation can transform both knowledge and the way we see the world.
 
 
+### - Eadweard Muybridge, [Animal Locomotion](http://www.laurencemillergallery.com/exhibitions/eadweard-muybridge2/selected-works?view=thumbnails)), 1887
+
 ![Muybridge]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/muybridge-plate626.jpg)
 <figcaption>Eadweard Muybridge, <em>Plate Number 626. Gallop, thoroughbred bay mare, Annie G.</em>, 1887</figcaption>
-
-- Eadweard Muybridge, [Animal Locomotion](http://www.laurencemillergallery.com/exhibitions/eadweard-muybridge2/selected-works?view=thumbnails)), 1887
 
 Eadweard Muybridge’s groundbreaking work in photography began with a horse. In 1872, Leland Stanford, former governor of California, commissioned Muybridge to capture an image of his racehorse, Occident, galloping at full speed—a challenge that had never been successfully photographed before. This project sparked Muybridge’s lifelong pursuit of high-speed photography capable of recording the precise movements of animals.
 
@@ -85,8 +85,11 @@ Dann wurde das KK III im Zuge der Fichenaffäre und der Überprüfung durch ein
 - Alphonse Bertillon, Bertillon system, 1880s
 
 The practice of photographing criminals emerged in the mid-19th century as law enforcement sought more reliable ways to identify repeat offenders. During the 1840s and 1850s, police in Belgium, Britain, and the United States began systematically capturing images of suspects. These early efforts aimed to reduce the use of aliases and created “rogues’ galleries,” collections of criminal portraits that were sometimes displayed publicly to help authorities and citizens recognize offenders.
+
 A major advancement came in the 1880s with Alphonse Bertillon, a clerk at the Paris Prefecture of Police. Bertillon devised a standardized system of forensic identification that combined photography with detailed physical measurements, a practice known as anthropometry. His approach required two photographs of each suspect—one frontal and one in profile—paired with precise measurements of the head, limbs, and other body features. This comprehensive record, called a portrait parlé or “speaking image,” could convey a great deal of identifying information at a glance.
-Bertillon’s system introduced standardization to criminal documentation. By recording repeat offenders with consistent photographic angles and body measurements, the police could reliably track individuals even if they attempted to change their appearance or use false names. The Bertillon system quickly spread across Europe and North America, becoming a cornerstone of modern criminal identification and laying the groundwork for later developments in fingerprinting and forensic science. However, the method also intersected with pseudo-scientific ideas and deterministic approaches to criminality, such as those proposed by Cesare Lombroso, which sought to link physical traits to criminal behavior. This reinforced racist and class-based assumptions, contributing to the profiling and stigmatization of marginalized communities. Despite its practical innovations, the Bertillon system exemplifies how early forensic science could be misused to justify social prejudices.
+Bertillon’s system introduced standardization to criminal documentation. By recording repeat offenders with consistent photographic angles and body measurements, the police could reliably track individuals even if they attempted to change their appearance or use false names. 
+
+The Bertillon system quickly spread across Europe and North America, becoming a cornerstone of modern criminal identification and laying the groundwork for later developments in fingerprinting and forensic science. However, the method also intersected with pseudo-scientific ideas and deterministic approaches to criminality, such as those proposed by Cesare Lombroso, which sought to link physical traits to criminal behavior. This reinforced racist and class-based assumptions, contributing to the profiling and stigmatization of marginalized communities. Despite its practical innovations, the Bertillon system exemplifies how early forensic science could be misused to justify social prejudices.
 
 ![Aviator]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/aviator.jpg)
 <figcaption>August Sanders, <em>Aviator</em>, from <em>People of the 20th Century</em>, 1920</figcaption>
@@ -119,7 +122,7 @@ Around 1980, Thomas Ruff began to concern himself for the first time with the ge
 The idea was to photograph each person as if she or he were a plaster bust, because, according to Ruff, a photograph only reproduces the surface of things anyway. The portraits were taken with the sitters wearing their everyday clothes and with a calm and serious look on their faces. Any form of emotional involvement such as smiles, grins, or flirting with the camera was eschewed. Ruff intuitively chose as models for the portraits persons he actually knew: friends and acquaintances of his own age whom he had met at the academy or in Düsseldorf’s nightlife (on “Ratinger Strasse”).
 
 
-[Bacigalupo]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/Gulu-Real-Art-Studio.jpg)
+![Bacigalupo]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/Gulu-Real-Art-Studio.jpg)
 <figcaption>Martina Bacigalupo, from <em>Gulu Real Art Studio</em>, 2011-2012</figcaption>
 
 - Martina Bacigalupo, [Gulu Real Art Studio](https://www.walthercollection.com/en/new-york/exhibitions/martina-bacigalupo), 2011–2012
@@ -145,7 +148,7 @@ On the day of the protest, the carefully calculated randomness of the cameras tu
 ![Mushon Zer-Aviv, Dan Stavy, Eran Weissenstern, The Normalizing Machine, 2018]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/ZerAviv_normalizingmachine.jpg)
 <figcaption>Mushon Zer-Aviv, Dan Stavy, Eran Weissenstern, <em>The Normalizing Machine</em>, 2018</figcaption>
 
-- [The Normalizing Machine](https://mushon.com/tnm/), 2018
+- Mushon Zer-Aviv, Dan Stavy, Eran Weissenstern, [The Normalizing Machine](https://mushon.com/tnm/), 2018
 
 The Normalizing Machine, an interactive installation developed by Israeli artist Mushon Zer-Aviv in collaboration with the software developers Dan Stavy and Eran Weissenstern, deals with visual notions of “normality” and the ways in which bias is inscribed into and reinforced by algorithms and machine learning systems. While being captured on camera, visitors have to decide from a collection of previously photographed visitor portraits which ones seem more “normal” to them. The datasets assembled in this way are evaluated in order to generate an algorithmic image of “normality”. 
 
@@ -188,7 +191,7 @@ Other early experiments in aerial photography involved attaching cameras to kite
 - Till Rückwrt, [Salty Glitches](https://tillrueckwart.com/work/salty-glitches/), 2022.
 
 
-### Architectural Photography as Survey
+### ARCHITECTURE PHOTOGRAPHY AS SURVEY
 
 
 The first architectural photographer is considered to be Joseph-Philibert Girault de Prangey, who started to take daguerreotypes of iconic buildings like the Parthenon in Athens and Notre-Dame in Paris from 1841. Architectural photography evolved in two distinct approaches, namely Elevation and Perspective. The Elevation Approach focuses on representing a structure as a two-dimensional image, obtaining a viewpoint that is parallel to the building and aimed at showing as many details as possible. The Perspective Approach aims at depicting the structure within the space, focusing on the third dimension and often taken at an angle or from a vantage point from a corner.
