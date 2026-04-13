@@ -5,7 +5,7 @@ title_de: "Kontrollieren & Überwachen"
 course_id: fundamentalsofphotography
 course_title: "Fundamentals of Photography"
 course_title_de: "Grundlagen der Fotografie"
-lesson_number: 1
+lesson_number: 2
 published: false
 ---
 
