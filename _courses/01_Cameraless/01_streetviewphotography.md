@@ -105,51 +105,29 @@ political unrest during the Spanish Civil War (1936−1939) through the lens of 
 – W. Gerling, S. Möring, & M. De Mutiis (Eds.), <a href="https://www.kulturverlag-kadmos.de/programm/details/screen_images?file=/site/assets/files/4055/9783865995353.pdf"><em>Screen Images: In-Game Photography, Screenshot, Screencast</em></a> (pp. 171). Kulturverlag Kadmos.</blockquote>
 
 
-### Emilio Vavarella, <em>The Driver and the Cameras</em>, 2012
-
-### Paolo Cirio, <em>Street Ghosts</em>, 2012–2017
-
-### Michael Wolf, <em>A Series of Unfortunate Events</em>, 2010
-
-### Mishka Henner, <em>No Man’s Land</em>, 2011– 2013
-
-### Roberto Feijoo, Berlin Alexanderplatz, 2012 – 2013
-
-### Robin Hewlett and Ben Kinsley, <em>Street with a view</em>, 2008
-
-### Matteo Bittanti, Google Street View Racing, 2017
-
-### Aram Bartholl, 15 Seconds Of Fame, 2010
-
-### Carlo Zanni, Self Portrait with Dog, 2008
-
-### Greg Allen, Walking Man, 2010
-
-### Andres Galeano, Google In View, 2014 – ongoing
-
-### Michael Wolf, <em>A Series of Unfortunate Events</em>, 2010
-
-### Alberto Salvan, [Uncommon places], 2013
-
-### Sofie Groot Dengerink, Amstertram Maps, 2010
-
-### Halley Docherty, Street View series for The Guardian, 2014
-
-### Ruben Torras, Road Movies, 2016?
-
-### Daniel Mayrit, Suburban Scenes, 2012?
-
-### Emilio Vavarella, <em>The Driver and the Cameras</em>, 2012
-
-### Amber Eve Anderson, Views from Paradise, 2017
-
-### Sylvia Grace Borda in collaboration with John M Lynch, Mise en Scene: Farm Tableaux Finland, 2015
-
-### Justin Blinder, Wikipedia Was Here, 2018
-
-### Sasha R Gregor (AKA Roger Grasas), Beagle 2.0, 2017
-
-### Alex Alsup, GooBing Detroit, 2014 – ongoing
+### Emilio Vavarella, [*The Driver and the Cameras*](https://emiliovavarella.com/google-trilogy/driver-and-cameras/), 2012
+### Paolo Cirio, [*Street Ghosts*](https://paolocirio.net/work/street-ghosts/), 2012–2017
+### Michael Wolf, [*A Series of Unfortunate Events*](https://www.lensculture.com/articles/michael-wolf-a-series-of-unfortunate-events), 2010
+### Mishka Henner, [*No Man's Land*](https://mishkahenner.com/No-Man-s-Land), 2011–2013
+### Roberto Feijoo, [Berlin Alexanderplatz](http://www.robertofeijoo.com/), 2012–2013
+### Robin Hewlett and Ben Kinsley, [*Street with a View*](https://benkinsley.com/street-with-a-view/), 2008
+### Matteo Bittanti, [Google Street View Racing](http://mattscape.org/blog/2017/4/14/google-streetview-racing), 2017
+### Aram Bartholl, [15 Seconds of Fame](https://arambartholl.com/15-seconds-of-fame/), 2010
+### Carlo Zanni, [Self Portrait with Dog](https://zanni.org/index.php/portfolio/), 2008
+### Greg Allen, [Walking Man](https://greg.org/archive/2010/04/10/walking-man-a-self-portrait-collaboration-with-google-street-view.html), 2010
+### Andres Galeano, [Google In View](https://andresgaleano.eu/google-in-view/), 2014–ongoing
+### Michael Wolf, [*A Series of Unfortunate Events*](https://www.lensculture.com/articles/michael-wolf-a-series-of-unfortunate-events), 2010
+### Alberto Salvan, [\[Uncommon places\]](https://saishoart.com/blog/fotografo-madrileno-alberto-salvan), 2013
+### Sofie Groot Dengerink, [Amstertram Maps](https://www.privacyfirst.eu/focus-areas/biometrics/tag/Photography.html), 2010
+### Halley Docherty, [Street View series for The Guardian](https://www.theguardian.com/cities/gallery/2014/mar/06/classic-paintings-of-world-cities-meet-google-street-view-in-pictures), 2014
+### Ruben Torras, [Road Movies](http://rubentorras.com/road-moview.html), 2016
+### Daniel Mayrit, [Suburban Scenes](https://www.danielmayrit.com/suburban-scenes), 2012
+### Emilio Vavarella, [*The Driver and the Cameras*](https://emiliovavarella.com/google-trilogy/driver-and-cameras/), 2012
+### Amber Eve Anderson, [Views from Paradise](https://ambereveanderson.com/views-from-paradise/), 2017
+### Sylvia Grace Borda in collaboration with John M Lynch, [Mise en Scene: Farm Tableaux Finland](http://www.sylviagborda.com/), 2015
+### Justin Blinder, [Wikipedia Was Here](https://justin.work/wikipedia-was-here), 2018
+### Sasha R Gregor (AKA Roger Grasas), [Beagle 2.0](http://www.sashargregor.com/?page_id=446), 2017
+### Alex Alsup, [GooBing Detroit](https://detroit.substack.com/p/goobing-detroit-2009-2022), 2014–ongoing
 
 
 ## Tutorial
