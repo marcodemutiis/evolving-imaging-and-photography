@@ -431,7 +431,7 @@ Die Idee war, jede Person so zu fotografieren, als wäre sie eine Gipsbüste —
 Durch die Variationen in Kleidung, Haltung und Ausdruck wird jedes Porträt zu einem Ausdruck von Selbstdefinition und gewährt lebhafte Einblicke in die Identitäten und Bestrebungen von Menschen in einer Gemeinschaft, die über Jahrzehnte von gewaltsamen Konflikten geprägt wurde. Das Werk verdeutlicht sowohl die Widerstandskraft der Gesellschaft von Gulu als auch die bleibende Kraft des Studioporträts, persönliche und kollektive Geschichten zu erzählen.
 
 
-## Überwachung, CCTV und maschinelles Sehen
+## Überwachung, CCTV und Machine Vision
 
 ### Jules Spinatsch, [*Surveillance Panorama Projects*](https://jules-spinatsch.ch/chapter-4/), 2003–2012
 
