@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: "Policing&Surveilling"
-title_de: "Kontrollieren&Überwachen"
+title: "Policing & Surveilling"
+title_de: "Kontrollieren & Überwachen"
 course_id: fundamentalsofphotography
 course_title: "Fundamentals of Photography"
 course_title_de: "Grundlagen der Fotografie"
@@ -25,7 +25,7 @@ Niépce’s work laid the groundwork for Louis Daguerre, who refined the techniq
 [photographicflux](https://www.photographic-flux.ch/)
 
 
-[Atkins]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/atkins.webp)
+![Atkins]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/atkins.webp)
 <figcaption>Anna Atkins, from <em>Cyanotypes of British Algae </em></figcaption>
 
 - Anna Atkins, [Cyanotypes of British Algae](https://publicdomainreview.org/collection/cyanotypes-of-british-algae-by-anna-atkins-1843/), 1843
@@ -36,7 +36,7 @@ Atkins’ most notable contributions came through the cyanotype process, develop
 From early chemical experiments to the precise botanical cyanotypes of Anna Atkins, the evolution of photography reflects a unique fusion of scientific curiosity and artistic vision, demonstrating how innovation can transform both knowledge and the way we see the world.
 
 
-[Muybridge]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/muybridge-plate626.jpg)
+![Muybridge]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/muybridge-plate626.jpg)
 <figcaption>Eadweard Muybridge, <em>Plate Number 626. Gallop, thoroughbred bay mare, Annie G.</em>, 1887</figcaption>
 
 - Eadweard Muybridge, [Animal Locomotion](http://www.laurencemillergallery.com/exhibitions/eadweard-muybridge2/selected-works?view=thumbnails)), 1887
