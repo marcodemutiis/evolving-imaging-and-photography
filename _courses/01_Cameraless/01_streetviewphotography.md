@@ -4,7 +4,7 @@ title: "Street (View) Photography"
 title_de: "Street (View) Fotografie"
 course_id: cameraless
 course_title: "Cameraless"
-course_title_de: "Kameralose Fotografie"
+course_title_de: "Kameralos"
 lesson_number: 1
 published: true
 ---
