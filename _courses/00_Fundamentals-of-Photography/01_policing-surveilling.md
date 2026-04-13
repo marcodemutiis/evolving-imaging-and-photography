@@ -211,7 +211,7 @@ Beginning in 2012, British artist and writer James Bridle posted photographs to 
 ### Mishka Henner, [*Dutch Landscapes*](https://mishkahenner.com/Selected-Dutch-Landscapes), 2011; [*Feedlots*](https://mishkahenner.com/Selected-Feedlots-1), 2012–13; [*Fields*](https://mishkahenner.com/Selected-Fields), 2012–13
 
 ![Dutch Landscapes]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/dutch-landscapes.jpg)
-<figcaption>Mishka Henner, from <em>Dutch Landscapes</em>, 2011</figcaption>
+<figcaption>Mishka Henner, <em>NATO Storage Annex, Coevorden, Drenthe</em> from <em>Dutch Landscapes</em>, 2011</figcaption>
 
 Belgian-British artist Mishka Henner works extensively with found imagery from Google Maps and satellite sources, using the platform's vast archive as both subject and raw material. In *Dutch Landscapes* (2011), Henner collected aerial views of classified Dutch military and government sites from which Google had redacted sensitive information—not by blurring, but by painting over the images with geometric blocks of flat colour, producing abstract compositions that recall the paintings of De Stijl. The censorship becomes a visual event, marking the boundary between what may and may not be seen from above.
 
