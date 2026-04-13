@@ -11,8 +11,6 @@ published: true
 
 <div class="lang-en" markdown="1">
 
-## About the Course
-
 ## Topics and concepts
 
 ### I. Power and Institution
@@ -169,7 +167,6 @@ It is my intent that students from all backgrounds and perspectives be well serv
 
 <div class="lang-de" markdown="1">
 
-## Über den Kurs
 
 ## Themen und Konzepte
 

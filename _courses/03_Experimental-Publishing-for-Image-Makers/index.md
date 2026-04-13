@@ -7,7 +7,7 @@ order: 3
 published: false
 ---
 
-![Experimental Publishing for Image-Makers]({{ site.baseurl }}/courses/3_Experimental-Publishing-for-Image-Makers/assets/img/momar.webp)
+![Experimental Publishing for Image-Makers]({{ site.baseurl }}/courses/03_Experimental-Publishing-for-Image-Makers/assets/img/momar.webp)
 
 How is publishing transformed by contemporary digital and networked technologies, and can image-makers think about the role of image circulation? 
 

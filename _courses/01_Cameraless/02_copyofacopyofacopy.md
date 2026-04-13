@@ -27,6 +27,21 @@ In photography, a conceptual tradition of image appropriation emerged most promi
 - Screen Walk with Emma Agnes Sheffer: <a href="https://www.youtube.com/watch?v=zitDqLvmG7U">youtube.com/watch?v=zitDqLvmG7U</a>
 
 
+### Emma Agnes Sheffer, <em>Insta Repeat</em>, 2018 – ongoing
+
+![Insta Repeat]({{ site.baseurl }}/courses/1_Cameraless/assets/img/instarepeat.jpg)
+<figcaption>Emma Agnes Sheffer, from <em>Insta Repeat</em>, 2018 – ongoing</figcaption>
+
+<blockquote>On her profile @insta_repeat, Emma Agnes Sheffer posts "a collage of virtually identical motifs that the US American artist found on the profiles of different influencers.
+
+Sheffer uses this juxtaposition to show how users with large numbers of followers define how a 'successful' image should look like: the more likes, clicks and shares a picture gets, the more influence it has on visual idioms. This pictorial language is imitated by other users around the world and thus becomes an unwritten aesthetic rule, which ends up in a process of standardisation. In playing the 'attention' game, it is not originality that counts so much as how well it can be staked out and marketed."
+
+– Marco De Mutiis, Matteo Bittanti, <a href="https://www.howtowinat.photography/en/post/insta_repeat"><em>How to Win at Photography – Image-making as Play</em></a>, Fotomuseum Winterthur, online publication, 2021.</blockquote>
+
+- More about <em>Insta Repeat</em>: <a href="https://www.instagram.com/insta_repeat">instagram.com/insta_repeat</a>
+- Screen Walk with Emma Agnes Sheffer: <a href="https://www.youtube.com/watch?v=zitDqLvmG7U">youtube.com/watch?v=zitDqLvmG7U</a>
+
+
 ### Luke Caspar Pearson, <em>Little Books of Los Santos</em>, 2015
 
 ![Little Books of Los Santos]({{ site.baseurl }}/courses/1_Cameraless/assets/img/littlebooksoflossantos.jpg)
@@ -52,19 +67,16 @@ The narrative quality is created entirely through the analogue arrangement and t
 - More about <em>Scanograms</em>: <a href="http://patricia-roeder.com/scanograms/">patricia-roeder.com/scanograms</a>
 
 
-### Emma Agnes Sheffer, <em>Insta Repeat</em>, 2018 – ongoing
+### Luke Shannon, <em>Replacement Character</em>, 2025
+![Scanograms]({{ site.baseurl }}/courses/1_Cameraless/assets/img/replacement-character.webp)
+<figcaption>Luke Shannon,<em>Saturday, September 20, 2025 at 3:35 PM (Reading)</em>, from <em>Replacement Character</em>, 2025</figcaption>
+<blockquote>"The plotter-scanner is a tool of simultaneous surveillance and witness. While the scanner suggests a clinical and impersonal perspective, the act of making images requires total closeness. The resulting prints are both precise and intimate, holding the body at scale, yet fractured at the seams. Shannon likens this to being online: an expansive presence stretched across windows and gridded feeds, pieced together from fragmentary, constantly updating views. Shannon’s engagement with the machine becomes a new form of self-portraiture: durational, ephemeral, and mirroring the artist’s own presence.
 
-![Insta Repeat]({{ site.baseurl }}/courses/1_Cameraless/assets/img/instarepeat.jpg)
-<figcaption>Emma Agnes Sheffer, from <em>Insta Repeat</em>, 2018 – ongoing</figcaption>
-
-<blockquote>On her profile @insta_repeat, Emma Agnes Sheffer posts "a collage of virtually identical motifs that the US American artist found on the profiles of different influencers.
-
-Sheffer uses this juxtaposition to show how users with large numbers of followers define how a 'successful' image should look like: the more likes, clicks and shares a picture gets, the more influence it has on visual idioms. This pictorial language is imitated by other users around the world and thus becomes an unwritten aesthetic rule, which ends up in a process of standardisation. In playing the 'attention' game, it is not originality that counts so much as how well it can be staked out and marketed."
-
+The exhibition’s title refers to the “�” symbol, a temporary placeholder used when a computer fails to recognize or render a character, exposed in anticipation of its own obsolescence. Shannon explores the idea of a replaceable, upgradeable persona in the information era, where the hyper-documentation of our selves predicates its own replacement. This work prompts viewers to reflect on what it means to be seen—not only by other people, but by our environments, technologies, and the ubiquitous systems we increasingly engage and inhabit. In doing so, it raises critical questions about how intelligent machines read or interpret us through images.
 – Marco De Mutiis, Matteo Bittanti, <a href="https://www.howtowinat.photography/en/post/insta_repeat"><em>How to Win at Photography – Image-making as Play</em></a>, Fotomuseum Winterthur, online publication, 2021.</blockquote>
 
-- More about <em>Insta Repeat</em>: <a href="https://www.instagram.com/insta_repeat">instagram.com/insta_repeat</a>
-- Screen Walk with Emma Agnes Sheffer: <a href="https://www.youtube.com/watch?v=zitDqLvmG7U">youtube.com/watch?v=zitDqLvmG7U</a>
+- More about <em>Replacement Characters</em>: <a href="https://heftgallery.com/exhibition/replacement-character">eftgallery.com/exhibition/replacement-character</a>
+
 
 
 ## Tutorial

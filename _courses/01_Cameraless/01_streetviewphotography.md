@@ -105,45 +105,52 @@ political unrest during the Spanish Civil War (1936−1939) through the lens of 
 – W. Gerling, S. Möring, & M. De Mutiis (Eds.), <a href="https://www.kulturverlag-kadmos.de/programm/details/screen_images?file=/site/assets/files/4055/9783865995353.pdf"><em>Screen Images: In-Game Photography, Screenshot, Screencast</em></a> (pp. 171). Kulturverlag Kadmos.</blockquote>
 
 
-<!---### Emilio Vavarella, <em>The Driver and the Cameras</em>, 2012
+### Emilio Vavarella, <em>The Driver and the Cameras</em>, 2012
+
 ### Paolo Cirio, <em>Street Ghosts</em>, 2012–2017
+
 ### Michael Wolf, <em>A Series of Unfortunate Events</em>, 2010
 
 ### Mishka Henner, <em>No Man’s Land</em>, 2011– 2013
 
-Roberto Feijoo, Berlin Alexanderplatz, 2012 – 2013
+### Roberto Feijoo, Berlin Alexanderplatz, 2012 – 2013
 
-GROUP B [Performing for the StreetView Ca(me)r(a)]
 ### Robin Hewlett and Ben Kinsley, <em>Street with a view</em>, 2008
-Matteo Bittanti, Google Street View Racing, 2017
-Aram Bartholl, 15 Seconds Of Fame, 2010
-Carlo Zanni, Self Portrait with Dog, 2008
 
-GROUP C [Virtual Travellers]
+### Matteo Bittanti, Google Street View Racing, 2017
 
+### Aram Bartholl, 15 Seconds Of Fame, 2010
 
-GROUP D [Glitches]
+### Carlo Zanni, Self Portrait with Dog, 2008
 
-Greg Allen, Walking Man, 2010
-Andres Galeano, Google In View, 2014 – ongoing
+### Greg Allen, Walking Man, 2010
 
-GROUP E [Street Photography]
+### Andres Galeano, Google In View, 2014 – ongoing
+
 ### Michael Wolf, <em>A Series of Unfortunate Events</em>, 2010
-Alberto Salvan, [Uncommon places], 2013
-Sofie Groot Dengerink, Amstertram Maps, 2010
 
-GROUP F [Re/Enact]
-Halley Docherty, Street View series for The Guardian, 2014
-Ruben Torras, Road Movies, 2016?
-Daniel Mayrit, Suburban Scenes, 2012?
+### Alberto Salvan, [Uncommon places], 2013
+
+### Sofie Groot Dengerink, Amstertram Maps, 2010
+
+### Halley Docherty, Street View series for The Guardian, 2014
+
+### Ruben Torras, Road Movies, 2016?
+
+### Daniel Mayrit, Suburban Scenes, 2012?
 
 ### Emilio Vavarella, <em>The Driver and the Cameras</em>, 2012
-Amber Eve Anderson, Views from Paradise, 2017
-Sylvia Grace Borda in collaboration with John M Lynch, Mise en Scene: Farm Tableaux Finland, 2015
 
-Justin Blinder, Wikipedia Was Here, 2018
-Sasha R Gregor (AKA Roger Grasas), Beagle 2.0, 2017
-Alex Alsup, GooBing Detroit, 2014 – ongoing-->
+### Amber Eve Anderson, Views from Paradise, 2017
+
+### Sylvia Grace Borda in collaboration with John M Lynch, Mise en Scene: Farm Tableaux Finland, 2015
+
+### Justin Blinder, Wikipedia Was Here, 2018
+
+### Sasha R Gregor (AKA Roger Grasas), Beagle 2.0, 2017
+
+### Alex Alsup, GooBing Detroit, 2014 – ongoing
+
 
 ## Tutorial
 
