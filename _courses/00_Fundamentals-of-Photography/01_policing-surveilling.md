@@ -13,13 +13,14 @@ published: true
 
 ## I. Power and Institution: Policing & Surveilling
 
-### Scientific Origins
+### SCIENTIFIC ORIGINS
 ![fundamentalsofphotography]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/niepce.jpg)
 <figcaption>Nicéphore Niépce, <em>Point de vue du Gras</em>, 1826</figcaption>
 
 - Nicéphore Niépce, <em>Point de vue du Gras</em>, 1826
 
 The origins of photography trace back to Joseph Nicéphore Niépce, who in 1826 or 1827 created what is widely recognized as the first permanent photograph, View from the Window at Le Gras. Using a process called heliography, Niépce exposed a pewter plate coated with bitumen to light for several hours, producing a faint but enduring image.
+
 Niépce’s work laid the groundwork for Louis Daguerre, who refined the technique into the daguerreotype in 1839. Daguerre’s process produced sharp, detailed images on silver-plated copper sheets and quickly became the first commercially successful photographic method. Around the same time, William Henry Fox Talbot developed a different approach: the calotype, which created paper negatives that could be used to make multiple positive prints, establishing the principle of reproducibility in photography.
 
 [photographicflux](https://www.photographic-flux.ch/)
@@ -31,8 +32,11 @@ Niépce’s work laid the groundwork for Louis Daguerre, who refined the techniq
 - Anna Atkins, [Cyanotypes of British Algae](https://publicdomainreview.org/collection/cyanotypes-of-british-algae-by-anna-atkins-1843/), 1843
 
 The story of photography is deeply intertwined with science, especially chemistry and (later) optics. Early experiments by innovators such as Angelo Sala in 1614 and Johann Heinrich Schulze in 1717 revealed that compounds like silver nitrate darkened when exposed to light, laying the chemical foundation for photography. Meanwhile, the camera obscura had been used for centuries to project images, and combining this optical device with light-sensitive chemicals eventually allowed images to be permanently fixed—a process refined by scientists studying light and materials.
+
 These early photographic methods quickly found scientific applications, offering more precise documentation than traditional sketches. Botanists, astronomers, and archaeologists began using photography to record their observations, preserving details with unprecedented accuracy. Among these pioneers was Anna Atkins (1799–1871), an English botanist often credited as the first female photographer. Growing up surrounded by science through her father, chemist and mineralogist John George Children, Atkins contributed to his work and absorbed a deep appreciation for scientific inquiry.
+
 Atkins’ most notable contributions came through the cyanotype process, developed by Sir John Herschel. This “sun-printing” method involved placing objects on paper treated with ferric ammonium citrate and potassium ferricyanide, exposing it to sunlight, and washing it in water, leaving striking dark-blue silhouettes. She applied this technique to plants, producing what is considered the first photographic book, Photographs of British Algae: Cyanotype Impressions (1843). Only thirteen handwritten copies survive today. Atkins later collaborated with botanist Anne Dixon on two further cyanotype volumes, documenting ferns and flowering plants. In 1839, she became one of the few women admitted to the Botanical Society in London, cementing her legacy at the intersection of science and photography.
+
 From early chemical experiments to the precise botanical cyanotypes of Anna Atkins, the evolution of photography reflects a unique fusion of scientific curiosity and artistic vision, demonstrating how innovation can transform both knowledge and the way we see the world.
 
 
@@ -40,12 +44,25 @@ From early chemical experiments to the precise botanical cyanotypes of Anna Atki
 <figcaption>Eadweard Muybridge, <em>Plate Number 626. Gallop, thoroughbred bay mare, Annie G.</em>, 1887</figcaption>
 
 - Eadweard Muybridge, [Animal Locomotion](http://www.laurencemillergallery.com/exhibitions/eadweard-muybridge2/selected-works?view=thumbnails)), 1887
+
 Eadweard Muybridge’s groundbreaking work in photography began with a horse. In 1872, Leland Stanford, former governor of California, commissioned Muybridge to capture an image of his racehorse, Occident, galloping at full speed—a challenge that had never been successfully photographed before. This project sparked Muybridge’s lifelong pursuit of high-speed photography capable of recording the precise movements of animals.
+
 On June 15, 1878, Muybridge demonstrated his technique to the press: using a series of twelve cameras along a Palo Alto racetrack, each triggered by a tripwire, he captured the individual phases of a galloping horse. The innovation made headlines worldwide. Because photographic reproduction in print was still limited, publications such as Scientific American translated the images into wood engravings for their readers.
+
 Muybridge later took his experiments to the University of Pennsylvania, where between 1883 and 1886 he expanded his studies in a purpose-built outdoor studio. Using a multi-camera setup, he photographed athletes, local volunteers, and even animals borrowed from the Philadelphia Zoo, producing detailed sequences of motion. These images were eventually published in 1887 as Animal Locomotion: An Electro-Photographic Investigation of Consecutive Phases of Animal Movements, an eleven-volume collection containing 781 plates (and over 20000 images), documenting the movement of humans and animals in unprecedented detail.
 
 
-### Forensic Photography
+### FORENSIC PHOTOGRAPHY
+
+![Karambolage]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/arnold-odermatt-karambolage-01.jpg)
+<figcaption>Arnold Odermatt, from <em>Karambolage</em>, 1939 – 1993</figcaption>
+- Arnold Odermatt, [Karambolage](https://www.youtube.com/watch?v=hHu8072SyRc), 1939 – 1993
+
+Between 1939 and 1993, Arnold Odermatt photographed automobile accidents on the streets of Nidwalden, Switzerland. Over four decades, the police officer documented the wreckage left by excessive speed, drunk driving, right-of-way violations, and other accidents. With the drivers and victims gone, the twisted metal of the vehicles became the focus—sometimes appearing sculptural or expressive, reflecting the sudden disruptions and unforeseen events in everyday life.
+
+Although Odermatt had no formal training in photography, his images combined the precision of police documentation with a careful sense of composition. They are often poignant, occasionally humorous, and consistently atmospheric, drawing comparisons to Weegee’s crime-scene photography and Andy Warhol’s exploration of disaster as spectacle. The work remained largely unseen until Harald Szeemann presented it at the 49th Venice Biennale.
+
+
 ![Schmieren / Kleben]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/schmieren-kleben.jpg)
 <figcaption>Philipp Anz, Jules Spinatsch, Viola Zimmermann (Editors), from <em>Schmieren / Kleben. Aus dem Archiv KKIII der Stadtpolizei Zürich 1976 – 1989</em>. Edition Patrick Frey, 2018</figcaption>
 
@@ -56,12 +73,6 @@ In 1976, the Kriminalkommissariat (Criminal Investigation Department) III, the s
 
 1976 begann das Kriminalkommissariat III, die Staatsschutz-Abteilung der Stadtpolizei Zürich, eine Kartei „Schmieren / Kleben‘ anzulegen. Darin wurden politische Parolen, Farbmalereien, gesprayte Sprüche oder illegale Kunstaktionen, unter anderem von Harald Naegeli, erfasst, die alle den Tatbestand der Sachbeschädigung erfüllten. Die Polizisten im Einsatz fotografierten die „Schmierereien“ und hielten die Taten auf Karteikarten fest. In der Kartei finden sich gegen 2000 Schwarz-Weiss-Fotos aus den Jahren 1976 bis 1981 und die dazugehörigen Karten; weitergeführt wurde sie noch bis 1989. Dann wurde das KK III im Zuge der Fichenaffäre und der Überprüfung durch eine parlamentarische Untersuchungskommission aufgelöst.*Schmieren / Kleben* zeigt 700 dieser Fotos und sämtliche Karteikarten. Ein Glossar erklärt die Zusammenhänge von Parolen, Symbolen und Personen. Es ist ein einmaliges Dokument der Stadt Zürich jener Jahre, von politischen Strömungen wie der Frauen- oder Antiatombewegung angefangen, über die Auseinandersetzung mit dem Terrorismus, internationalen Konflikten bis hin zu Subkulturen und Aktionen im öffentlichen Raum. Zudem lässt sich verfolgen, wie sich die Spannung zwischen der Stadt und ihren Jugendlichen aufbaute und schliesslich 1980 im Opernhaus-Krawall und den darauffolgenden Jugendunruhen entlud, die Zürich nachhaltig verändert haben.
 
-
-![Karambolage]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/arnold-odermatt-karambolage-01.jpg)
-<figcaption>Arnold Odermatt, from <em>Karambolage</em>, 1939 – 1993</figcaption>
-- Arnold Odermatt, [Karambolage](https://www.youtube.com/watch?v=hHu8072SyRc), 1939 – 1993
-
-With meticulous attention to detail, Arnold Odermatt photographed automobile accidents on the streets of Nidwalden, Switzerland, between 1939 and 1993. For forty years, the police officer documented the wrecked cars left behind by excessive speed, drunk driving, right-of-way violations, and simple carelessness. The drivers and victims were gone, leaving only twisted metal that, in Odermatt’s lens, became sculptural and expressive—testaments to sudden disruption, shattered plans, and the intrusion of the unforeseen into everyday life. Though he had no formal training in photography, Odermatt produced images that combined the clinical precision of police documentation with the compositional awareness of a romantic landscape photographer. Poignant, sometimes humorous, and always atmospheric, his photographs recall both Weegee’s crime-scene work and Andy Warhol’s fascination with disaster as spectacle. Wholly original, haunting, and visually compelling, these pictures remained largely unknown until Harald Szeemann introduced them at the 49th Venice Biennale.
 
 ### Mug Shot Photography and Portrait Photography as Survey
 
