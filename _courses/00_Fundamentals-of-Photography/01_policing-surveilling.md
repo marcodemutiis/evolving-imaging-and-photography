@@ -15,7 +15,7 @@ published: true
 
 ### SCIENTIFIC ORIGINS
 
-- Nicéphore Niépce, <em>Point de vue du Gras</em>, 1826
+### - Nicéphore Niépce, <em>Point de vue du Gras</em>, 1826
 
 ![fundamentalsofphotography]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/niepce.jpg)
 <figcaption>Nicéphore Niépce, <em>Point de vue du Gras</em>, 1826</figcaption>
@@ -26,7 +26,7 @@ Niépce’s work laid the groundwork for Louis Daguerre, who refined the techniq
 
 [photographicflux](https://www.photographic-flux.ch/)
 
-#### - Anna Atkins, [Cyanotypes of British Algae](https://publicdomainreview.org/collection/cyanotypes-of-british-algae-by-anna-atkins-1843/), 1843
+### - Anna Atkins, [*Cyanotypes of British Algae*](https://publicdomainreview.org/collection/cyanotypes-of-british-algae-by-anna-atkins-1843/), 1843
 
 ![Atkins]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/atkins.webp)
 <figcaption>Anna Atkins, from <em>Cyanotypes of British Algae </em></figcaption>
@@ -40,7 +40,7 @@ Atkins’ most notable contributions came through the cyanotype process, develop
 From early chemical experiments to the precise botanical cyanotypes of Anna Atkins, the evolution of photography reflects a unique fusion of scientific curiosity and artistic vision, demonstrating how innovation can transform both knowledge and the way we see the world.
 
 
-### - Eadweard Muybridge, [Animal Locomotion](http://www.laurencemillergallery.com/exhibitions/eadweard-muybridge2/selected-works?view=thumbnails)), 1887
+### - Eadweard Muybridge, [*Animal Locomotion*](http://www.laurencemillergallery.com/exhibitions/eadweard-muybridge2/selected-works?view=thumbnails), 1887
 
 ![Muybridge]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/muybridge-plate626.jpg)
 <figcaption>Eadweard Muybridge, <em>Plate Number 626. Gallop, thoroughbred bay mare, Annie G.</em>, 1887</figcaption>
@@ -54,7 +54,7 @@ Muybridge later took his experiments to the University of Pennsylvania, where be
 
 ### FORENSIC PHOTOGRAPHY
 
-- Arnold Odermatt, [Karambolage](https://www.youtube.com/watch?v=hHu8072SyRc), 1939 – 1993
+### - Arnold Odermatt, [*Karambolage*](https://www.youtube.com/watch?v=hHu8072SyRc), 1939 – 1993
 
 ![Karambolage]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/arnold-odermatt-karambolage-01.jpg)
 <figcaption>Arnold Odermatt, from <em>Karambolage</em>, 1939 – 1993</figcaption>
@@ -64,7 +64,7 @@ Between 1939 and 1993, Arnold Odermatt photographed automobile accidents on the 
 Although Odermatt had no formal training in photography, his images combined the precision of police documentation with a careful sense of composition. They are often poignant, occasionally humorous, and consistently atmospheric, drawing comparisons to Weegee’s crime-scene photography and Andy Warhol’s exploration of disaster as spectacle. The work remained largely unseen until Harald Szeemann presented it at the 49th Venice Biennale.
 
 
-- Philipp Anz, Jules Spinatsch, Viola Zimmermann (Editors), <em>Schmieren / Kleben. Aus dem Archiv KKIII der Stadtpolizei Zürich 1976 – 1989</em>. Edition Patrick Frey, 2018
+### - Philipp Anz, Jules Spinatsch, Viola Zimmermann (Editors), <em>Schmieren / Kleben. Aus dem Archiv KKIII der Stadtpolizei Zürich 1976 – 1989</em>. Edition Patrick Frey, 2018
 
 ![Schmieren / Kleben]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/schmieren-kleben.jpg)
 <figcaption>Philipp Anz, Jules Spinatsch, Viola Zimmermann (Editors), from <em>Schmieren / Kleben. Aus dem Archiv KKIII der Stadtpolizei Zürich 1976 – 1989</em>. Edition Patrick Frey, 2018</figcaption>
@@ -80,7 +80,7 @@ Dann wurde das KK III im Zuge der Fichenaffäre und der Überprüfung durch ein
 
 ### MUG SHOT PHOTOGRAPHY AND PORTRAIT PHOTOGRAPHY AS SURVEY
 
-- Alphonse Bertillon, Bertillon system, 1880s
+### - Alphonse Bertillon, *Bertillon system*, 1880s
 
 ![Bertillon's self portrait]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/Bertillon_selfportrait.jpg)
 <figcaption>Self-portrait mug shot of Alphonse Bertillon, who developed and standardized this type of photograph, 22 August 1900</figcaption>
@@ -92,7 +92,7 @@ Bertillon’s system introduced standardization to criminal documentation. By re
 
 The Bertillon system quickly spread across Europe and North America, becoming a cornerstone of modern criminal identification and laying the groundwork for later developments in fingerprinting and forensic science. However, the method also intersected with pseudo-scientific ideas and deterministic approaches to criminality, such as those proposed by Cesare Lombroso, which sought to link physical traits to criminal behavior. This reinforced racist and class-based assumptions, contributing to the profiling and stigmatization of marginalized communities. Despite its practical innovations, the Bertillon system exemplifies how early forensic science could be misused to justify social prejudices.
 
-- August Sanders, [People of the 20th Century](https://artgallery.yale.edu/exhibitions/exhibition/august-sanders-people-20th-century), 1892–1952
+### - August Sanders, [*People of the 20th Century*](https://artgallery.yale.edu/exhibitions/exhibition/august-sanders-people-20th-century), 1892–1952
 
 ![Aviator]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/aviator.jpg)
 <figcaption>August Sanders, <em>Aviator</em>, from <em>People of the 20th Century</em>, 1920</figcaption>
@@ -104,7 +104,7 @@ Sander’s portraits are striking for their unflinching realism and sensitive at
 Through both its scope and methodology, Sander’s project not only documented the social diversity of Germany in the early 20th century but also engaged with contemporary artistic debates about realism, objectivity, and the role of photography in society. His work remains a landmark in documentary portraiture, providing an unparalleled window into the lives, professions, and identities of an era on the brink of monumental historical change.
 
 
-- Richard Avedon, [The Family](https://pier24.org/portfolio/richard-avedon-the-family/), 1976
+### - Richard Avedon, [*The Family*](https://pier24.org/portfolio/richard-avedon-the-family/), 1976
 
 ![The Family]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/the-family.png)
 <figcaption>Richard Avedon, The Family, 1976</figcaption>
@@ -114,7 +114,7 @@ In the lead-up to the U.S. presidential election during the Bicentennial year of
 Titled *The Family*, the series resembles a quasi-family album, subtly emphasizing the interconnectedness of seemingly unrelated spheres of influence. While it included elected officials such as President Gerald Ford, the collection also featured leaders from other sectors—bankers, corporate executives, union organizers like César Chávez, media figures, and publishers—highlighting the diverse forces that shape American political life at its highest levels.
 
 
-- Thomas Ruff, [Portraits](https://www.thomasruff.com/en/works/portraits/), 1981-2001
+### - Thomas Ruff, [*Portraits*](https://www.thomasruff.com/en/works/portraits/), 1981-2001
 
 ![Thomas Ruff, Portraits, 1981-2001]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/Ruff_portraits.jpg)
 <figcaption>Thomas Ruff, from <em>Portraits</em>, 1981-2001</figcaption>
@@ -123,7 +123,7 @@ Around 1980, Thomas Ruff began to concern himself for the first time with the ge
 
 The idea was to photograph each person as if she or he were a plaster bust, because, according to Ruff, a photograph only reproduces the surface of things anyway. The portraits were taken with the sitters wearing their everyday clothes and with a calm and serious look on their faces. Any form of emotional involvement such as smiles, grins, or flirting with the camera was eschewed. Ruff intuitively chose as models for the portraits persons he actually knew: friends and acquaintances of his own age whom he had met at the academy or in Düsseldorf’s nightlife (on “Ratinger Strasse”).
 
-- Martina Bacigalupo, [Gulu Real Art Studio](https://www.walthercollection.com/en/new-york/exhibitions/martina-bacigalupo), 2011–2012
+### - Martina Bacigalupo, [*Gulu Real Art Studio*](https://www.walthercollection.com/en/new-york/exhibitions/martina-bacigalupo), 2011–2012
 
 ![Bacigalupo]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/Gulu-Real-Art-Studio.jpg)
 <figcaption>Martina Bacigalupo, from <em>Gulu Real Art Studio</em>, 2011-2012</figcaption>
@@ -135,7 +135,7 @@ Through the variations in clothing, pose, and expression, each portrait becomes 
 
 ### Surveillance, CCTV and machine vision, seeing machines
 
-- Jules Spinatsch, [Surveillance Panorama Projects](https://jules-spinatsch.ch/chapter-4/), 2003-2012
+### - Jules Spinatsch, [*Surveillance Panorama Projects*](https://jules-spinatsch.ch/chapter-4/), 2003-2012
 
 ![Surveillance panorama]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/surveillance-panorama.jpg)
 <figcaption>Jules Spinatsch, <em>Discontinuous Panorama A240635</em>, World Economic Forum, Davos, Switzerland. Camera A: Promenade, Congress-Center North and Middle Entry, 2176 single images recorded from 06:35 – 09:30, January 24, 2003</figcaption>
@@ -147,7 +147,7 @@ Inspired by the panoramic ski-area feeds on the website www.davos.ch, which used
 On the day of the protest, the carefully calculated randomness of the cameras turned almost farcical. The system was activated without knowing when or from where the protest would begin. Although the cameras recorded continuously, only one protester appears in the final footage, as the movement of Camera B was out of sync with the demonstration.
 
 
-- Mushon Zer-Aviv, Dan Stavy, Eran Weissenstern, [The Normalizing Machine](https://mushon.com/tnm/), 2018
+### - Mushon Zer-Aviv, Dan Stavy, Eran Weissenstern, [*The Normalizing Machine*](https://mushon.com/tnm/), 2018
 
 ![Mushon Zer-Aviv, Dan Stavy, Eran Weissenstern, The Normalizing Machine, 2018]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/ZerAviv_normalizingmachine.jpg)
 <figcaption>Mushon Zer-Aviv, Dan Stavy, Eran Weissenstern, <em>The Normalizing Machine</em>, 2018</figcaption>
@@ -157,7 +157,7 @@ The Normalizing Machine, an interactive installation developed by Israeli artist
 Zer-Aviv thus tracks face recognition techniques of the 21st century back to practices of facial measurement misused for propagandistic purposes under the Nazi regime as well as to the forensic image practices emerging as early as the 19th century. The Normalizing Machine examines how we perceive “normality” today, questioning whether we can do so beyond subjective categories – as well as the role of photographic technologies as supposedly “objective” techniques with regard to mechanisms of normalisation.
 
 
-- Paolo Cirio, [Capture](https://paolocirio.net/work/capture/), 2020
+### - Paolo Cirio, [*Capture*](https://paolocirio.net/work/capture/), 2020
 
 ![Capture]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/capture.jpg)
 <figcaption>Paolo Cirio, from <em>Capture</em>, 2020</figcaption>
