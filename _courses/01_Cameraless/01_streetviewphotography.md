@@ -14,6 +14,7 @@ Among many online platforms that can be explored by photographers with out a cam
 
 ## Study Cases
 ### Jon Rafman, <em>Nine Eyes of Google Street View</em>, 2008 – ongoing
+![cameraless]({{ site.baseurl }}/courses/01_Cameraless/assets/img/camera_thumbnail.jpg)
 
 ![9eyes]({{ site.baseurl }}/courses/1_Cameraless/assets/img/9eyes.jpg)
 <figcaption>Jon Rafman, from <em>Nine Eyes of Google Street View</em>, 2008 – ongoing</figcaption>
