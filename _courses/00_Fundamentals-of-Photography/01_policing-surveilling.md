@@ -172,7 +172,10 @@ Beyond this project, Cirio has campaigned against facial recognition more broadl
 
 ## Aerial Photography, Satellite and Google Maps Photography
 
-### Nadar, *Paris vu en ballon*, 1858
+### Nadar, Aerial view of Paris, 1868
+
+![Nadar]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/nadar.jpg)
+<figcaption>Nadar, <em>Aerial view of Paris</em>, 1868</figcaption>
 
 The very first aerial photograph was taken in 1858 from a balloon by French photographer Gaspard-Félix Tournachon, known as Nadar, above the French village of Petit-Bicêtre. None of Nadar's earliest aerial images survive; the oldest surviving aerial photograph shows Boston in 1860, taken by James Wallace Black and Samuel Archer King from a similar balloon vantage point. Nadar had secured a patent for aerial photography the previous year, anticipating its cartographic and military applications, and his ascents attracted considerable public attention in Paris.
 
@@ -180,7 +183,7 @@ Other early experiments in aerial photography involved attaching cameras to kite
 
 ### Pigeon Photography, [Julius Neubronner](https://artsandculture.google.com/story/julius-neubronner-and-his-flying-photographers-deutsches-technikmuseum/uQXBawGRQxy5LQ?hl=en) and [Adrien Michel](https://www.fotomuseum.ch/en/situations-post/tauben-fotografie/), *Instruments of Aerial Reconnaissance*, 1900s–1930s
 
-![Pigeon Camera]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/pigeon-camera.jpg)
+![Pigeon Camera]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/pigeon-camera.webp)
 <figcaption>Julius Neubronner, pigeon-mounted camera and aerial photograph, c. 1908</figcaption>
 
 Julius Neubronner's pigeon cameras and the later work documented by Adrien Michel represent an early chapter in the long entanglement of photography with reconnaissance and territorial control. By harnessing animals as involuntary platforms, these experiments anticipated the logic of automated, non-human imaging that would later define satellite and drone photography: images taken without a human eye at the viewfinder, from perspectives no human body could occupy. The photographs produced in this way were not composed but extracted—captured by a mechanism, shaped by chance, and interpreted after the fact.
@@ -235,21 +238,30 @@ Rückwart treats these glitches not as technical defects to be corrected but as 
 
 ## Architecture Photography as Survey
 
-### Joseph-Philibert Girault Prangey, *Facade and North Colonnade of the Parthenon on the Acropolis, Athens*, 1842.
+### Joseph-Philibert Girault de Prangey, *Facade and North Colonnade of the Parthenon on the Acropolis, Athens*, 1842
 
-The first architectural photographer is considered to be Joseph-Philibert Girault de Prangey, who started to take daguerreotypes of iconic buildings like the Parthenon in Athens and Notre-Dame in Paris from 1841. Architectural photography evolved in two distinct approaches, namely Elevation and Perspective. The Elevation Approach focuses on representing a structure as a two-dimensional image, obtaining a viewpoint that is parallel to the building and aimed at showing as many details as possible. The Perspective Approach aims at depicting the structure within the space, focusing on the third dimension and often taken at an angle or from a vantage point from a corner.
+![Girault de Prangey]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/girault-de-prangey.jpg)
+<figcaption>Joseph-Philibert Girault de Prangey, <em>Facade and North Colonnade of the Parthenon on the Acropolis, Athens</em>, 1842</figcaption>
 
-
-### Eugène Atget, *Coin rue de Seine*, 1924.
-
-With the reshaping of urban landscapes, modern architecture gradually became a more popular subject in photography. Around 1900, French photographer Eugène Atget started focusing on the disappearing architecture of "Old Paris". He captured the alleys and buildings of pre-revolutionary Paris, which were going to be demolished as part of a huge modernization project. Many of Atget's photographs were taken at dawn, which - combined with the urban solitude and emptiness he portrayed, created a special sense of space and ambience. Many photographers were greatly influenced by his images, including American photographer Berenice Abbott who bought most of Atget's negatives and prints before moving back to New York from Paris.
+The first architectural photographer is considered to be Joseph-Philibert Girault de Prangey, who from 1841 produced daguerreotypes of iconic buildings including the Parthenon in Athens and Notre-Dame in Paris. Architectural photography developed along two distinct approaches: the Elevation approach, which represents a structure as a two-dimensional image from a viewpoint parallel to the building, and the Perspective approach, which depicts the structure within space—often taken at an angle or from a corner—emphasising depth and the building's relationship to its surroundings.
 
 
-### Berenice Abbott, *Chanin Building, New York*, about 1935.
+### Eugène Atget, *Coin rue de Seine*, 1924
 
-Back in New York, Abbott was confronted with a similar modernization process, with the old New York which was fast disappearing. "At almost any point on Manhattan Island, – she noticed – the sweep of one's vision can take in the dramatic contrasts of the old and the new and the bold foreshadowing of the future. This dynamic quality should be caught and recorded immediately in a documentary interpretation of New York City. The city is in the making and unless this transition is crystalized now in permanent form, it will be forever lost […]. The camera alone can catch the swift surfaces of the cities today and speaks a language intelligible to all."^[Abbott, Berenice, "Changing New York" (project proposal, New-York Historical Society, 1932); excerpted in O'Neal, Hank. Berenice Abbott: American Photographer. (New York: McGraw-Hill, 1982): 16–17.]
+![Atget]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/atget-coin-rue-de-seine.jpg)
+<figcaption>Eugène Atget, <em>Coin rue de Seine</em>, 1924</figcaption>
 
-The modernist project in architecture meant embracing a more minimalist approach and rejecting ornament. A rational use of material was combined with an analytical and functional approach. Similarly, modernist photography rejected formal images and the painterly qualities of the pictorialist tradition in favour of a sharp focus, crisp lines and repetition. It celebrated the apparatus as a mechanical tool, and called for a "straight photography"^[Sadakichi Hartmann, "A Plea for Straight Photography," American Amateur Photographer 16 (Mar. 1904), pp. 101–09; reprinted in Beaumont Newhall, ed. Photography: Essays and Images (Museum of Modern Art, New York 1980), p. 186.]. The city played a major role in this relationship between urban spaces and their images, with radical architecture and modernist photography sharing an ideological connection. Architects and photographers started working as closely connected pairs in the second half of the XX century. Armando Salas Portugal for Luis Barragán, Bill Engdahl for Mies van der Rohe, Julius Shulman for Richard Neutra are some examples of this tightly connected relationship between the architecture and the image that shapes the space of the time.^[For more information about these three case studies see Lorenzo Rocha, _Photography and Modern Architecture_ ,"Concrete - Photography and Architecture", Scheidegger & Spiess, 2013.]
+Around 1900, French photographer Eugène Atget began systematically documenting the disappearing architecture of "Old Paris"—the alleys and buildings of the pre-Haussmann city that were being demolished as part of a vast modernisation project. Many of Atget's photographs were taken at dawn, and the urban solitude and emptiness he portrayed created a distinctive sense of space and atmosphere. His work influenced a generation of photographers, among them Berenice Abbott, who acquired most of Atget's negatives and prints before returning to New York from Paris.
+
+
+### Berenice Abbott, *Chanin Building, New York*, c. 1935
+
+![Abbott]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/abbott-chanin-building.jpg)
+<figcaption>Berenice Abbott, <em>Chanin Building, New York</em>, c. 1935</figcaption>
+
+Back in New York, Abbott was confronted with a similar process of rapid transformation. "At almost any point on Manhattan Island," she observed, "the sweep of one's vision can take in the dramatic contrasts of the old and the new and the bold foreshadowing of the future. This dynamic quality should be caught and recorded immediately in a documentary interpretation of New York City. The city is in the making and unless this transition is crystalized now in permanent form, it will be forever lost."^[Abbott, Berenice, "Changing New York" (project proposal, New-York Historical Society, 1932); excerpted in O'Neal, Hank. Berenice Abbott: American Photographer. (New York: McGraw-Hill, 1982): 16–17.]
+
+The modernist project in architecture combined a rational use of material with an analytical and functional approach, rejecting ornament. Modernist photography followed a parallel logic, turning away from the painterly pictorialist tradition in favour of sharp focus, crisp lines, and repetition—what Sadakichi Hartmann called "straight photography."^[Sadakichi Hartmann, "A Plea for Straight Photography," American Amateur Photographer 16 (Mar. 1904), pp. 101–09; reprinted in Beaumont Newhall, ed. Photography: Essays and Images (Museum of Modern Art, New York 1980), p. 186.] In the second half of the twentieth century, architects and photographers increasingly worked as closely connected pairs: Armando Salas Portugal with Luis Barragán, Bill Engdahl with Mies van der Rohe, Julius Shulman with Richard Neutra.^[For more information about these three case studies see Lorenzo Rocha, _Photography and Modern Architecture_, "Concrete - Photography and Architecture", Scheidegger & Spiess, 2013.]
 
 
 ### Bernd and Hilla Becher, [*Water Towers*](https://www.guggenheim.org/artwork/500), 1968–80
@@ -257,21 +269,21 @@ The modernist project in architecture meant embracing a more minimalist approach
 ![Water Towers]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/water-towers.png)
 <figcaption>Bernd and Hilla Becher, from <em>Water Towers</em>, 1968–80</figcaption>
 
-Starting in 1957, the Bechers travelled throughout Europe and North America taking black-and-white photographs of industrial architecture: water towers, coal silos, blast furnaces, lime kilns, grain elevators, preparation plants, pithead gears, oil refineries, and the like. They organised their photographs into series based exclusively on functional typologies and arranged them into grids or rows. This served both to invoke and reinforce the sculptural properties of the architecture—they called the subjects of their photographs "anonymous sculptures"—the forms of which are primarily determined by function. Through this method the artists revealed the diverse structural and material variations found within specific kinds of edifices. The water towers comprising the sequence presented here, for example, are all constructed of metal, yet they differ vastly in form. Such differences are underscored by constants that prevail from series to series: the photographs are usually taken from the same angle, the light is evenly distributed, and the prints are identical in size.
+Starting in 1957, the Bechers travelled throughout Europe and North America taking black-and-white photographs of industrial architecture: water towers, coal silos, blast furnaces, lime kilns, grain elevators, preparation plants, pithead gears, oil refineries, and the like. They organised their photographs into series based exclusively on functional typologies and arranged them into grids or rows. This served both to invoke and reinforce the sculptural properties of the architecture—they called the subjects of their photographs "anonymous sculptures"—the forms of which are primarily determined by function. Through this method the artists revealed the diverse structural and material variations found within specific kinds of edifices. Such differences are underscored by constants that prevail from series to series: the photographs are usually taken from the same angle, the light is evenly distributed, and the prints are identical in size.
 
-The photographs, particularly those of now-demolished structures, refer to specific historical periods, particularly the late-19th-century shift to industry. When contemplated in our postindustrial society, these images can be interpreted as nostalgic ruminations on a lost era. But they do not lack a critical edge. The intense and obsessive nature of the Bechers' project mirrors and discloses the relentless order of industrial production, a phenomenon that has had monumental implications for the economy and the environment.
+The photographs, particularly those of now-demolished structures, refer to specific historical periods—above all the late-nineteenth-century shift to industry. When contemplated in our postindustrial society, these images can be interpreted as nostalgic ruminations on a lost era. But they do not lack a critical edge: the intense and obsessive nature of the Bechers' project mirrors and discloses the relentless order of industrial production, a phenomenon that has had monumental implications for the economy and the environment.
 
-### - Michael Wesely, [*9 August 2001 – 2 May 2003, The Museum of Modern Art, New York*](https://www.moma.org/collection/works/98507?artist_id=8194&page=1&sov_referrer=artist), 2001–2003
+
+### Michael Wesely, [*9 August 2001 – 2 May 2003, The Museum of Modern Art, New York*](https://www.moma.org/collection/works/98507?artist_id=8194&page=1&sov_referrer=artist), 2001–2003
 
 ![Michael Wesely]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/wesely-moma.jpg)
 <figcaption>Michael Wesely, <em>9 August 2001 – 2 May 2003, The Museum of Modern Art, New York</em>, 2001–2003</figcaption>
 
-German photographer Michael Wesely is known for his extreme long-exposure photographs, produced using custom-built cameras capable of keeping their shutters open for periods of months or even years. For his project at the Museum of Modern Art, Wesely installed cameras on buildings overlooking the museum during its major expansion and renovation, leaving them to accumulate light from August 2001 to May 2003—nearly two years. The resulting images show the entire arc of construction collapsed into a single exposure: the old building's demolition, the rising steel structure, and the completed museum all appear simultaneously, overlaid in a dense, ghostly palimpsest of time.
+German photographer Michael Wesely is known for extreme long-exposure photographs made with custom-built cameras capable of keeping their shutters open for months or even years. For his project at the Museum of Modern Art, Wesely installed cameras on surrounding buildings during the museum's major expansion and renovation, accumulating light from August 2001 to May 2003—nearly two years. The resulting images collapse the entire arc of construction into a single exposure: the old building's demolition, the rising steel structure, and the completed museum appear simultaneously, overlaid in a dense, ghostly palimpsest of time.
 
 Where architectural photography has traditionally sought to fix and idealise the finished building, Wesely's work records architecture as process—as duration, change, and labour made visible. The photograph becomes less a document of a building than a document of time itself, held within a frame. The project also carries an unintended historical resonance: because the exposure began in August 2001 and the cameras were still running on 11 September of that year, traces of the World Trade Center's destruction are embedded within the image, though the site lay outside the frame.
 
-
-## Assignment: 
+## Assignment
 Create between 1 and 5 portraits in a neutral setting and with a scientific photography approach.
 
 
