@@ -16,7 +16,7 @@ In photography, a conceptual tradition of image appropriation emerged most promi
 
 ### Michael Mandiberg, <em>AfterSherrieLevine.com</em>, 2001
 
-![AfterSherrieLevine.com]({{ site.baseurl }}/courses/1_Cameraless/assets/img/aftersherrielevine.jpg)
+![AfterSherrieLevine.com]({{ site.baseurl }}/courses/01_Cameraless/assets/img/aftersherrielevine.jpg)
 <figcaption>Michael Mandiberg, from <em>AfterSherrieLevine.com</em>, 2001</figcaption>
 
 <blockquote>"In April 2001, I launched AfterWalkerEvans.com and AfterSherrieLevine.com, two identical websites on which I made freely available high-resolution scans of Walker Evans images rephotographed by Sherrie Levine. These digital images are accessible to anyone, and while they accrue cultural value, they retain little to no economic value. The site links to high-resolution, exhibition-quality images and certificates of authenticity to be signed by the downloader, and includes framing and exhibition directions."
@@ -29,7 +29,7 @@ In photography, a conceptual tradition of image appropriation emerged most promi
 
 ### Emma Agnes Sheffer, <em>Insta Repeat</em>, 2018 – ongoing
 
-![Insta Repeat]({{ site.baseurl }}/courses/1_Cameraless/assets/img/instarepeat.jpg)
+![Insta Repeat]({{ site.baseurl }}/courses/01_Cameraless/assets/img/instarepeat.jpg)
 <figcaption>Emma Agnes Sheffer, from <em>Insta Repeat</em>, 2018 – ongoing</figcaption>
 
 <blockquote>On her profile @insta_repeat, Emma Agnes Sheffer posts "a collage of virtually identical motifs that the US American artist found on the profiles of different influencers.
@@ -44,7 +44,7 @@ Sheffer uses this juxtaposition to show how users with large numbers of follower
 
 ### Luke Caspar Pearson, <em>Little Books of Los Santos</em>, 2015
 
-![Little Books of Los Santos]({{ site.baseurl }}/courses/1_Cameraless/assets/img/littlebooksoflossantos.jpg)
+![Little Books of Los Santos]({{ site.baseurl }}/courses/01_Cameraless/assets/img/littlebooksoflossantos.jpg)
 <figcaption>Luke Caspar Pearson, <em>Little Books of Los Santos</em>, 2015</figcaption>
 
 <blockquote>"Ed Ruscha's photo books from the 1960s and 1970s all documented specific typologies of the Californian environment of that time. From gasoline stations to pools to parking lots, most publications analyse the American landscape through an austere use of photography, employed as an almost scientific tool. Often referred to as New Topographics, this school of photographic documentation featured formal, black and white images of the urban landscape. Luke Caspar Pearson was inspired by Ed Ruscha's artist books to screenshot the game world of GTA V, attempting to reproduce the photographer's subjects and style. Pearson's game images are collected and published in little books that are direct reproductions of Ruscha's original publications, namely Twentysix Gasoline Stations, Thirtyfour Parking Lots in Los Angeles and Nine Swimming Pools and a Broken Glass.
@@ -57,7 +57,7 @@ While other artists have re-enacted the photographic series of Ed Ruscha in GTA 
 
 
 ### Ria Patricia Röder, <em>Scanograms</em>, 2015-2020
-![Scanograms]({{ site.baseurl }}/courses/1_Cameraless/assets/img/scanograms.jpg)
+![Scanograms]({{ site.baseurl }}/courses/01_Cameraless/assets/img/scanograms.jpg)
 <figcaption>Ria Patricia Röder, <em>Nazareno</em>, 2018, from <em>Scanograms</em>, 2015 – 2020</figcaption>
 <blockquote>"ia Patricia Röder (b. 1983) creates her motifs by capturing images not with a camera but with a scanner. In addition to found objects, the German artist also scans fragments of images that she has already scanned and printed as well as shapes cut out from paper and other materials. Accordingly, the motifs she selects crop up more than once in different variations: Röder sees them as ‘declinations’ of the real object. Nor does she make use of digital editing or image renderings in her carefully composed <em>Scanograms</em> (2015–2020).
 
@@ -68,7 +68,7 @@ The narrative quality is created entirely through the analogue arrangement and t
 
 
 ### Luke Shannon, <em>Replacement Character</em>, 2025
-![Scanograms]({{ site.baseurl }}/courses/1_Cameraless/assets/img/replacement-character.webp)
+![Scanograms]({{ site.baseurl }}/courses/01_Cameraless/assets/img/replacement-character.webp)
 <figcaption>Luke Shannon,<em>Saturday, September 20, 2025 at 3:35 PM (Reading)</em>, from <em>Replacement Character</em>, 2025</figcaption>
 <blockquote>"The plotter-scanner is a tool of simultaneous surveillance and witness. While the scanner suggests a clinical and impersonal perspective, the act of making images requires total closeness. The resulting prints are both precise and intimate, holding the body at scale, yet fractured at the seams. Shannon likens this to being online: an expansive presence stretched across windows and gridded feeds, pieced together from fragmentary, constantly updating views. Shannon’s engagement with the machine becomes a new form of self-portraiture: durational, ephemeral, and mirroring the artist’s own presence.
 

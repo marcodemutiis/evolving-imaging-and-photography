@@ -10,15 +10,12 @@ published: true
 ---
 
 <div class="lang-en" markdown="1">
-
-I. Power and Institution: Policing & Surveilling
-
 ## Scientific Origins
 
-### Nicéphore Niépce, <em>Point de vue du Gras</em>, 1826
+### Louis Daguerre, <em>Boulevard du Temple</em>, 1837
 
-![fundamentalsofphotography]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/niepce.jpg)
-<figcaption>Nicéphore Niépce, <em>Point de vue du Gras</em>, 1826</figcaption>
+![fundamentalsofphotography]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/Boulevard_du_Temple_by_Daguerre.jpg)
+<figcaption>Louis Daguerre, <em>PBoulevard du Temple</em>, 1837</figcaption>
 
 The origins of photography trace back to Joseph Nicéphore Niépce, who in 1826 or 1827 created what is widely recognized as the first permanent photograph, View from the Window at Le Gras. Using a process called heliography, Niépce exposed a pewter plate coated with bitumen to light for several hours, producing a faint but enduring image.
 
