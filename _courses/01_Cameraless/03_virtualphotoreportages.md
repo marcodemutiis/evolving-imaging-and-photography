@@ -48,6 +48,28 @@ Over the course of the project, Cao Fei realized a number of installations and v
 - More about *RMB City*: [caofei.com](https://www.caofei.com/works.aspx?id=56&year=-1&wtid=2)
 - Art21 artist profile: [art21.org/artist/cao-fei](https://art21.org/artist/cao-fei/)
 
+### Jenny Rova, [<em>Calling Philippe/Prove your love</em>](https://www.images.ch/archives/en/artiste/jenny-rova/). 2024
+
+![Rova]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/rova-prove-your-love.jpg)
+<figcaption>Jenny Rova, from <em>Calling Philippe/Prove your love</em>. 2024</figcaption>
+
+<blockquote>"When I met Philippe, he was staying illegally in Switzerland. He had applied for asylum but been refused. From the very beginning of our relationship, we had a conflict over photography. I thought he was very handsome and had a strong need to photograph him. He, in turn, wanted total control over any pictures taken of him because of his insecure living situation.
+
+I travelled a lot during that time. He couldn't go with me as he had no papers. When I traveled, we made video calls. I started taking screenshots of our conversations in secret so I would have some pictures of him. 
+
+After a few months of relationship we decided to get married so we could have an orderly life together. It was a three year long and complicated process as the authorities did not believe in our love because he was in the country illegally and needed papers. Marrying me would give him a residence and work permit. 
+
+During the process, we were asked by the Swiss Migration Board to present photo evidence that we were a loving couple. Suddenly, my secretly taken photos had a purpose. 
+
+The series consists of 900 screenshots taken over three years leading up to our wedding day on 16 September 2020."
+
+– Jenny Rova, <a href="https://www.jennyrova.net/works/calling-philippe-prove-your-love">artist website</a>.
+</blockquote>
+
+– More about *Calling Philippe/Prove your love*: [jennyrova.net](https://www.jennyrova.net/works/calling-philippe-prove-your-love)
+– Interview on Discarded Magazine: [discardedmagazine.com](https://www.discardedmagazine.com/portfolio/jenny-rova-interviews/)
+
+
 ---
 
 ## Tutorial
