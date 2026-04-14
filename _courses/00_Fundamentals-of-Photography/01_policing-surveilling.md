@@ -313,6 +313,19 @@ Joachim Schmid, Other People's Photographs, 2008-2011 https://everydayphotograph
 Dina Kelberman, I am google, 2011–ongoing
 -->
 
+<!--
+	PROPAGANDA
+	futurism
+	el lissitzky constructivist photography & photomontage
+	ganslmeier & zibelnik online manosphere
+	noura tafeche cute weaponisation
+
+	SURREALISM
+	Hanna Höch DADA (collage)
+	AI? Charlie Engman, Jared Madere
+
+-->
+
 
 </div>
 
