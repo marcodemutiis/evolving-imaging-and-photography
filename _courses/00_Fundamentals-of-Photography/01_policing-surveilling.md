@@ -75,9 +75,16 @@ In 1976, the Kriminalkommissariat (Criminal Investigation Department) III, the s
 
 *Schmieren / Kleben* presents 700 of these photographs along with all the index cards. A glossary explains the connections between slogans, symbols, and people. It is a unique record of Zurich during those years, covering political movements such as the women’s movement and the anti-nuclear movement, debates around terrorism, international conflicts, and the activities of subcultures in public spaces. It also traces the growing tension between the city and its youth, which ultimately erupted in the 1980 Opera House riots and subsequent youth unrest—events that had a lasting impact on Zurich.
 
-1976 begann das Kriminalkommissariat III, die Staatsschutz-Abteilung der Stadtpolizei Zürich, eine Kartei „Schmieren / Kleben‘ anzulegen. Darin wurden politische Parolen, Farbmalereien, gesprayte Sprüche oder illegale Kunstaktionen, unter anderem von Harald Naegeli, erfasst, die alle den Tatbestand der Sachbeschädigung erfüllten. Die Polizisten im Einsatz fotografierten die „Schmierereien“ und hielten die Taten auf Karteikarten fest. In der Kartei finden sich gegen 2000 Schwarz-Weiss-Fotos aus den Jahren 1976 bis 1981 und die dazugehörigen Karten; weitergeführt wurde sie noch bis 1989. 
+### Jenny Rova, <em>Calling Philippe/Prove your love</em>. 2024
 
-Dann wurde das KK III im Zuge der Fichenaffäre und der Überprüfung durch eine parlamentarische Untersuchungskommission aufgelöst.*Schmieren / Kleben* zeigt 700 dieser Fotos und sämtliche Karteikarten. Ein Glossar erklärt die Zusammenhänge von Parolen, Symbolen und Personen. Es ist ein einmaliges Dokument der Stadt Zürich jener Jahre, von politischen Strömungen wie der Frauen- oder Antiatombewegung angefangen, über die Auseinandersetzung mit dem Terrorismus, internationalen Konflikten bis hin zu Subkulturen und Aktionen im öffentlichen Raum. Zudem lässt sich verfolgen, wie sich die Spannung zwischen der Stadt und ihren Jugendlichen aufbaute und schliesslich 1980 im Opernhaus-Krawall und den darauffolgenden Jugendunruhen entlud, die Zürich nachhaltig verändert haben.
+![Rova]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/rova-prove-your-love.jpg)
+<figcaption>Jenny Rova, from <em>Calling Philippe/Prove your love</em>. 2024</figcaption>
+
+When Jenny Rova first met Philippe in Zurich, he was living in Switzerland without legal status after his asylum request had been denied. Concerned about potential consequences, he declined to be photographed. Nonetheless, Rova, wishing to preserve their shared moments, captured screenshots of their video calls without his awareness. 
+
+After several months together, they decided to marry, but navigating the process proved difficult, as officials suspected the union might be a marriage of convenience. What began as private images ultimately became crucial evidence of the authenticity of their relationship, with the screenshots becoming proof for the Swiss Migration Board. 
+
+*Calling Philippe/Prove Your Love* prompts reflection on the role of images between memory, nurturing a relationship, the ethics of consent, and the legal usage of the photograph as document and proof.
 
 
 ## Mug Shot Photography and Portraits as Survey
@@ -375,6 +382,18 @@ Obwohl Odermatt keine fotografische Ausbildung hatte, verbanden seine Bilder die
 1976 begann das Kriminalkommissariat III, die Staatsschutz-Abteilung der Stadtpolizei Zürich, eine Kartei „Schmieren / Kleben" anzulegen. Darin wurden politische Parolen, Farbmalereien, gesprayte Sprüche oder illegale Kunstaktionen — unter anderem von Harald Naegeli — erfasst, die alle den Tatbestand der Sachbeschädigung erfüllten. Die Polizisten im Einsatz fotografierten die „Schmierereien" und hielten die Taten auf Karteikarten fest. In der Kartei finden sich gegen 2.000 Schwarz-Weiss-Fotos aus den Jahren 1976 bis 1981 sowie die dazugehörigen Karten; weitergeführt wurde sie noch bis 1989. Das KK III wurde im Zuge der Fichenaffäre und der Überprüfung durch eine parlamentarische Untersuchungskommission aufgelöst.
 
 *Schmieren / Kleben* zeigt 700 dieser Fotos und sämtliche Karteikarten. Ein Glossar erklärt die Zusammenhänge von Parolen, Symbolen und Personen. Es ist ein einmaliges Dokument der Stadt Zürich jener Jahre — von politischen Strömungen wie der Frauen- oder Antiatombewegung über die Auseinandersetzung mit dem Terrorismus und internationalen Konflikten bis hin zu Subkulturen und Aktionen im öffentlichen Raum. Zudem lässt sich verfolgen, wie sich die Spannung zwischen der Stadt und ihren Jugendlichen aufbaute und schliesslich 1980 im Opernhaus-Krawall und den darauffolgenden Jugendunruhen entlud, die Zürich nachhaltig verändert haben.
+
+
+### Jenny Rova, <em>Calling Philippe/Prove your love</em>. 2024
+
+![Rova]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/rova-prove-your-love.jpg)
+<figcaption>Jenny Rova, from <em>Calling Philippe/Prove your love</em>. 2024</figcaption>
+
+Als Jenny Rova Philippe zum ersten Mal in Zürich traf, lebte er ohne legalen Status in der Schweiz, nachdem sein Asylantrag abgelehnt worden war. Besorgt über mögliche Konsequenzen, weigerte er sich, fotografiert zu werden. Dennoch, in dem Wunsch, ihre gemeinsamen Momente festzuhalten, machte Rova Screenshots ihrer Videoanrufe, ohne dass er es wusste.
+
+Nach mehreren Monaten zusammen beschlossen sie zu heiraten, doch der Prozess erwies sich als schwierig, da die Behörden vermuteten, dass die Ehe eine Scheinehe sein könnte. Was zunächst als private Bilder begann, wurde letztlich zu entscheidendem Beweismaterial für die Authentizität ihrer Beziehung, wobei die Screenshots als Beweis für das Schweizer Migrationsamt dienten.
+
+*Calling Philippe/Prove Your Love* regt zur Reflexion über die Rolle von Bildern zwischen Erinnerung, Beziehungspflege, der Ethik der Zustimmung und der rechtlichen Verwendung von Fotografien als Dokument und Beweismittel an.
 
 
 ## Verbrechensfotografie und Porträt als Inventar
