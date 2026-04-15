@@ -31,7 +31,7 @@ Make: Create a collage of images that represent the different typologies of the 
 | Date       | Topic                               |
 |------------|-------------------------------------|
 | 8.4.2026   | Introduction                        |
-| 15.4.2026  | Cheated by an Image                 |
+| 15.4.2026  | The self(ie)			                   |
 | 22.4.2026  | Influencer Photography              |
 | 29.4.2026  | Affective Images & Reaction Economies|
 | 6.5.2026   | Operational Cuteness & Meme Politics|

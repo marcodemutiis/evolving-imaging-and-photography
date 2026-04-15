@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: "The Self"
-title_de: "The Self"
+title: "The Self(ie)"
+title_de: "The Self(ie)"
 course_id: the-lure-of-the-image
 course_title: "The Lure of the Image"
 course_title_de: "The Lure of the Image"
