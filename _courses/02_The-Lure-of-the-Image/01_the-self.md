@@ -20,7 +20,7 @@ Create an image made of appropriated pictures or details, or a visual study thro
 Upload a screenshot of your assignment with your name and a caption on [this online document](https://docs.google.com/document/d/1Q0-m59lTLR5zSQ_QYVNXhEPrnJyhgbuKK2FWSr2wMrU/edit?usp=sharing)
 
 
-## Algorithmic selves: building identities through digital images" 
+## Algorithmic selves: building identities through digital images 
 
 ### Sophie, *Faceshopping*, 2018
 
