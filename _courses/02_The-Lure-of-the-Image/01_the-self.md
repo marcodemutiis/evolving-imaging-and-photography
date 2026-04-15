@@ -104,7 +104,7 @@ Cavalli Bastos also takes advantage of this mechanism by allowing users to ‘we
 Miller, L. A. (2025). Preserving the ephemeral: A visual typology of augmented reality filters on Instagram. Visual Studies, 40(3), 472–485. [https://doi.org/10.1080/1472586X.2024.2341296](https://doi.org/10.1080/1472586X.2024.2341296)
 
 
-![eamonn x lynski]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/01/eamonnxlynski.jpg)
+![eamonn x lynski]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/01/eamonnxlynski.jpeg)
 <figcaption>Eamonn Freel x Lynski, <em>In the future, everything will be a trend for 15 seconds</em>, 2025</figcaption>
 
 [In the future, everything will be a trend for 15 seconds](https://vimeo.com/1012792098/3a466ff1a0) by visual artist Éamonn Freel (b. 1987) and makeup artist Lynski (b. 1991) explores the fleeting nature of digital beauty trends. Ethereal faces with glittering highlights and intricate 3D elements morph in rapid succession, creating an alluring yet unsettling viewing experience. The video work mirrors the accelerated trend cycles of the digital age, whose aesthetics emerge and fade within weeks, driven by ALGORITHMS [→P.7] and a continuous need of global online communities for novelty.
