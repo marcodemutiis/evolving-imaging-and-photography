@@ -143,7 +143,7 @@ real-time through AUGMENTED REALITY (AR) FILTERS [→P.7]. Their work comments o
 
 ## Assignment
 
-Read: Gwendolyn Fàssler, [The Allure of the Unreal: The Rise and Fall of Digital Trends](01_Faesller_TheAllureOfTheUnreal.pdf), 2025
+Read: Gwendolyn Fàssler, [The Allure of the Unreal: The Rise and Fall of Digital Trends]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/texts/01_Faesller_TheAllureOfTheUnreal.pdf), 2025
 
 Make: Create a portrait that combines traditional photography and face filter techniques (or other digital forms of manipulation), and reflects on ideas of beauty, identity, and the role of digital and networked images in seducing through portrait photography and images of the face.
 
