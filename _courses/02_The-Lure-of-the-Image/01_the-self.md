@@ -71,7 +71,7 @@ In the photo series [*Alter Ego*](https://robbiecooper.com/project/alter-ego), p
 
 Through these pairings, Alter Ego explores how virtual spaces create opportunities for reinvention. Avatars can be idealised, exaggerated or used to express aspects of the self that may be hidden offline. The work examines the psychological distance between the body we have and the persona we build and asks whether our digital representations function as fantasies, projections or a more honest expression of who we are.
 
-![Miquela]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/01/image30.png)
+![Miquela]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/01/image3.png)
 <figcaption>Lil Miquela, from <em>Fluocéane</em></figcaption>
 
 [Lil Miquela](https://www.instagram.com/lilmiquela/) is a digital character and virtual influencer created using computer-generated imagery (CGI). She first appeared on social media in 2016, presenting herself as a 19-year-old Brazilian-American model and musician. Despite being entirely fictional, Lil Miquela blurs the line between reality and virtuality, often engaging with fans, endorsing brands, and participating in social activism campaigns just like a human influencer. Her presence raises intriguing questions about identity, authenticity, and the future of social media marketing, as she interacts with real people in ways that challenge traditional notions of celebrity and influence.
