@@ -116,30 +116,30 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 ## Student_innen
 </div>
 
-- Briesen, Karl v
+- Briesen, Karl vv
 
-- Kemmler, Em v
+- Kemmler, Em vx
 
-- Frisch, Ursula x
+- Frisch, Ursula xx
 
-- Winkler, Bastian v
+- Winkler, Bastian vx
 
-- Litterst, Lioba v
+- Litterst, Lioba vv
 
-- Higi, Xenia v
+- Higi, Xenia vv
 
-- Hildebrand, Sophie v 
+- Hildebrand, Sophie vv 
 
-- Amato, Vincent v
+- Amato, Vincent vv
 
-- Frank, Jule v
+- Frank, Jule vv
 
-- Deli´c, Mirella v
+- Deli´c, Mirella vv
 
-- Vay, Tamino v
+- Vay, Tamino vv
 
-- Pfeifer, Manuel x
+- Pfeifer, Manuel xv
 
-- All, Chiara v
+- All, Chiara vv
 
-- Moser, David v
+- Moser, David vx
