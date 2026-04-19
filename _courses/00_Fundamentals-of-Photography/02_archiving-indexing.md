@@ -157,8 +157,8 @@ Swiss photographer Barbara Davatz began photographing couples from Zurich's alte
 
 ### Before & After
 
-![Before and After]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/before-and-after.jpg)
-<figcaption>ADD CAPTION</figcaption>
+![Before and After]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/before-and-after.png)
+<figcaption>Excerpts from #beforeandafter on Instagram as shown on Kate Palmer Albers's blog</figcaption>
 
 The before-and-after is one of the most pervasive image formats in contemporary visual culture, and one of the most structurally revealing. In its basic form — two photographs of the same subject, made at different times — it appears to be the simplest possible instance of time-based seriality. But as the photography scholar Kate Palmer Albers has argued in [*#beforeandafter*](https://circulationexchange.org/articles/swimsuit_before_and_after.html) and the co-edited anthology [*Before-and-After Photography: Histories and Contexts*](http://www.bloomsbury.com/us/before-and-after-photography-9781474253116/) (Bloomsbury), the format does something fundamentally different from the works discussed above: rather than preserving the interval between images for examination, it actively erases it. The "before" only exists to be cancelled by the "after." Whatever process, labor, or duration lies between the two images is collapsed and hidden — presented as private, irrelevant, or too messy to show. The format has been deployed across medicine, disaster documentation, urban development, and environmental change, but its most culturally pervasive form is the beauty and weight-loss image, where the structure encodes a norm: the "after" is always the improvement, the "before" always a state of deficiency that can only be tolerated because redemption follows. Unlike Davatz's tender accumulation of change or Tomiyasu's patient record of duration, the before-and-after forecloses on time — it uses two photographs not to open up a passage through time but to assert a verdict about it.
 
