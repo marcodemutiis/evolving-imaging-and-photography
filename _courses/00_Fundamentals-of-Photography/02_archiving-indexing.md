@@ -19,7 +19,7 @@ Upload a screenshot of your assignment with your name and a caption on [this onl
 
 ***
 
-*What does it mean to photograph systematically? This session traces the impulse to classify, order, and accumulate images — from early twentieth-century movements that turned the camera into a tool of objective description, to contemporary artists who mine vast image repositories as both archive and raw material. Photography and the archive have long been entangled: the camera does not only capture individual moments but enables the construction of series, typologies, and taxonomies that claim to map the world. As that logic migrates from the photographer's contact sheet to the automated image database, questions of authorship, selection, and power become newly urgent.*
+*What does it mean to photograph systematically? This session traces the impulse to classify, order, and accumulate images — from early twentieth-century movements that turned the camera into a tool of objective description, to contemporary artists who mine vast image repositories as both archive and raw material. Photography and the archive have long been entangled: the camera does not only capture individual moments but enables the construction of series, [typologies](https://vimeo.com/1092446369?fl=pl&fe=vl), and taxonomies that claim to map the world. As that logic migrates from the photographer's contact sheet to the automated image database, questions of authorship, selection, and power become newly urgent.*
 
 
 ## Neue Sachlichkeit & Straight Photography
