@@ -243,14 +243,14 @@ Albert Renger-Patzschs *Die Welt ist Schön* (1928) ist ein konzises Manifest de
 
 ### Ursula Schulz-Dornburg, *Bus Stops in Armenia*, 1997–2011
 
-![Schulz-Dornburg]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/schulz-dornburg-bus-stops.webp)
+![Schulz-Dornburg]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/schulz-dornburg-bus-stops.jpg)
 <figcaption>Ursula Schulz-Dornburg, aus <em>Bus Stops in Armenia</em>, 1997–2011</figcaption>
 
 Zwischen 1997 und 2011 unternahm die Düsseldorfer Fotografin Ursula Schulz-Dornburg wiederholte Reisen nach Armenien, um die Bushaltestellenbauten aus der Sowjetzeit zu dokumentieren, die die Straßen und Dorfränder des Landes säumen. In den 1970er Jahren unter Breschnew als funktionale Infrastruktur mit ideologischer Aufladung errichtet — jede Haltestelle ein kleines Monument sozialistischer Moderne — befanden sich die Bauten zum Zeitpunkt von Schulz-Dornburgs Besuchen in unterschiedlichen Verfallsstadien; ihr ursprünglicher Anspruch stand in grotesker Diskrepanz zur Armut des postsowjetischen ländlichen Raums. In Schwarzweiß fotografiert, wird jede Haltestelle in strenger Isolation vor der Landschaft präsentiert — in einem Format, das eng an die typologischen Raster von Bernd und Hilla Becher erinnert. Der Vergleich ist erhellend: Wo die Bechers die Industriearchitektur kapitalistischer Produktion fotografierten, richtet Schulz-Dornburg denselben systematischen Blick auf die materiellen Überreste eines gescheiterten ideologischen Projekts. Das Ergebnis ist ein Archiv, das zugleich typologisch und elegisch ist — eine Bestandsaufnahme anonymer Architektur an der Grenze zur Lesbarkeit, in der die formale Logik der Serie und das historische Gewicht des Sujets in produktiver Spannung gehalten werden.
 
 ### Hiroshi Sugimoto, *Theaters*, 1978–laufend
 
-![Sugimoto]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/sugimoto-theaters.webp)
+![Sugimoto]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/sugimoto-theaters.png)
 <figcaption>Hiroshi Sugimoto, aus <em>Theaters</em>, 1978–laufend</figcaption>
 
 Hiroshi Sugimotos Serie *Theaters*, 1978 begonnen und noch immer laufend, fotografiert Kinos und Drive-in-Theater in den USA, Europa und Japan nach einer einzigen, unveränderlichen Methode: Der Kameraverschluss bleibt während der gesamten Dauer einer Filmvorführung geöffnet. Das Ergebnis ist, dass die Leinwand — das einzige Element, das sich während der Vorstellung kontinuierlich verändert — zu einem gleichmäßigen Rechteck aus weißem Licht ausbrennt, während die Architektur des Kinos in präzisem, leuchtendem Detail hervortritt. Die typologische Dimension der Serie ist unmittelbar erkennbar: Kino um Kino, Jahrzehnte voneinander entfernt, teilt jedes Bild dieselbe frontale Komposition, dieselbe Belichtungslogik, dasselbe Verhältnis zwischen der glühenden Leinwand und dem umgebenden Raum. Wie die Bechers, die Wassertürme inventarisierten, baut Sugimoto ein vergleichendes Inventar eines funktionalen Gebäudetyps auf — eines, das zufällig ein Raum kollektiver Erfahrung und geteilter Fiktion ist. Die zeitliche Dimension ist jedoch seltsamer und paradoxer. Jeder Film, der je in diesen Kinos gezeigt wurde, ist gewissermaßen aufgezeichnet: zusammengedrängt in ein einziges weißes Feld. Die Fotografie hält keinen Moment fest, sondern eine gesamte Dauer und verdichtet Stunden der Narration zu einem Bild, das nichts von dem zeigt, was gezeigt wurde. Zeit ist in Sugimotos Bildern nicht als lesbare Veränderung präsent — wie bei Davatz oder Tomiyasu —, sondern als Auslöschung: ein Übermaß an Belichtung, das genau das vernichtet, was es aufzeichnet.
@@ -262,14 +262,14 @@ Nicht alle typologische Fotografie stand im Dienst neutraler Beschreibung. Diese
 
 ### Marianne Wex, *Let's Take Back Our Space*, 1972–1977
 
-![Wex]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/wex-lets-take-back-our-space.webp)
+![Wex]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/wex-lets-take-back-our-space.jpg)
 <figcaption>Marianne Wex, aus <em>Let's Take Back Our Space</em>, 1972–1977</figcaption>
 
 Zwischen 1972 und 1977 fotografierte die deutsche feministische Künstlerin und Pädagogin Marianne Wex Menschen auf den Straßen Hamburgs und katalogisierte dabei systematisch ihre Haltungen und Gesten nach Geschlecht. Das daraus entstandene Archiv von über fünftausend Bildern wurde in großen Paste-up-Tafeln organisiert — getrennt nach männlichen und weiblichen Gruppen, dann nach der Positionierung von Armen, Beinen, Kopf und Füßen unterteilt — und 1977 erstmals unter dem Titel *'Weibliche' und 'männliche' Körpersprache als Folge patriarchalischer Machtverhältnisse* ausgestellt, ein Jahr später als [*Let's Take Back Our Space*](https://www.moma.org/collection/works/284789) veröffentlicht. Das zentrale Argument des Werks ist in seiner Struktur kodiert: Der unermüdliche visuelle Vergleich männlicher und weiblicher Haltungen — Männer ausladend, raumgreifend; Frauen zusammengezogen, minimiert — demonstriert, dass geschlechtsspezifische Körpersprache nicht biologisch, sondern erlernt ist, ein Produkt von Machtverhältnissen, die so allgegenwärtig sind, dass sie unsichtbar geworden sind. Indem Wex den strengen Apparat einer wissenschaftlichen Typologie auf dieses alltägliche Verhalten anwendet, macht sie die patriarchalische Organisation des Raums als System lesbar. Das Projekt steht an der Schnittstelle von konzeptueller Kunst, feministischem Aktivismus und soziologischer Dokumentation.
 
 ### Hal Fischer, *Gay Semiotics*, 1977
 
-![Fischer]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/fischer-gay-semiotics.webp)
+![Fischer]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/fischer-gay-semiotics.jpg)
 <figcaption>Hal Fischer, aus <em>Gay Semiotics</em>, 1977</figcaption>
 
 1977 produzierte der in San Francisco lebende Künstler Hal Fischer [*Gay Semiotics*](https://www.gaysemiotics.com/gay-semiotics), eine bahnbrechende Serie von vierundzwanzig Foto-Text-Arbeiten, die die visuellen Codes queerer männlicher Identität und des Begehrens in den Stadtvierteln Castro und Haight-Ashbury analysieren. Ausdrücklich von August Sanders Werk inspiriert — der die sozialen Typen der Weimarer Republik einem systematischen fotografischen Inventar unterzogen hatte — wandte Fischer dieselbe typologische Logik auf die subkulturellen Dresscodes des schwulen San Francisco der 1970er Jahre an: den „basic gay", den Jock, den Hippie, den Lederkerl sowie das detaillierte semiotische System aus Taschentucharben, Schlüsselplatzierungen und Ohrringen, durch das Männer sexuelle Vorlieben und Rollen signalisierten. Jedes Bild verbindet eine Fotografie mit analytischem Text auf eine Weise, die den neutralen Beschreibungsmodus wissenschaftlicher oder anthropologischer Dokumentation ironisch imitiert. Der Effekt ist zugleich feiernd und kritisch scharf: Fischer dokumentierte eine lebendige Gemeinschaft, theoretisierte ihre Selbstdarstellung und — indem er ihre Codes explizit und sichtbar machte — legte das Ausmaß frei, in dem Identität immer eine Form von Performance ist. Das Werk wird u. a. in der Sammlung des Fotomuseums Winterthur aufbewahrt.
@@ -288,55 +288,45 @@ Wenn Blossfeldt und Renger-Patzsch die Kamera auf Natur und Industrie richteten,
 
 ### Gehfotografen, 1927–1935
 
-![Gehfotografen]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/gehfotografen.webp)
+![Gehfotografen]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/gehfotografen.jpg)
 <figcaption>ADD CAPTION</figcaption>
 
 Die sogenannten [Gehfotografen](https://www.rorhof.com/der-grazer-gehfotograf/) waren itinerante Straßenfotografen, die in großen europäischen Städten — insbesondere Berlin — und an Touristenzielen wie Nizza von etwa 1927 bis 1935 aktiv waren. Ohne Wissen oder Zustimmung ihrer Sujets fotografierten sie Fußgänger auf der Straße und boten ihnen anschließend Abzüge zum Kauf an. Obwohl kommerziell motiviert, produzierte diese Praxis enorme Mengen an Bildern gewöhnlicher Menschen im öffentlichen Raum und bildete ein unbeabsichtigtes Archiv des städtischen Lebens in der Zwischenkriegszeit. Die Gehfotografen verfolgten keine taxonomischen Ambitionen, aber das kumulative Ergebnis ihrer Arbeit — Tausende anonymer Figuren, im selben straßenseitigen Ganzkörperformat festgehalten — funktioniert als De-facto-Typologie des modernen Fußgängers. Ihre Praxis antizipiert spätere automatisierte und algorithmische Formen der straßenseitigen Bilderfassung in ihrer systematischen, nicht-künstlerischen Akkumulation menschlicher Präsenz im öffentlichen Raum.
 
 ### Walker Evans, *Many Are Called*, 1938–1941
 
-![Walker Evans]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/walker-evans-many-are-called.webp)
+![Walker Evans]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/walker-evans-many-are-called.jpg)
 <figcaption>Walker Evans, aus <em>Many Are Called</em>, 1938–1941</figcaption>
 
 Zwischen 1938 und 1941 benutzte Walker Evans eine kleine, unter seinem Mantel versteckte Kamera, um Fahrgäste in der New Yorker U-Bahn ohne ihr Wissen zu fotografieren. Die daraus entstandene Serie, posthum als *Many Are Called* (1966) veröffentlicht, besteht aus Porträts, die eine strenge formale Einheitlichkeit teilen: Jedes Sujet blickt ungefähr nach vorn, gerahmt vom gleichen schwach beleuchteten Inneren des U-Bahnwagens, ungedeckt und ungestellt. Evans beschrieb das Projekt als Versuch, Menschen in einem Moment „nackter Unbewusstheit" zu fotografieren. Die Einheitlichkeit von Umgebung und Rahmung verwandelt die Serie in eine implizite Typologie der New Yorker Gesichter der Jahrhundertmitte, organisiert nicht nach Kategorie, sondern durch die Logik der Akkumulation selbst. Das Werk wirft auch Fragen auf, die für spätere Archiv- und Überwachungsfotografie zentral werden sollten: über die Ethik des Fotografierens ohne Einwilligung und darüber, was die Kamera erfasst, wenn Sujets nicht wissen, dass sie beobachtet werden.
 
 ### Ed Ruscha, *Every Building on the Sunset Strip*, 1966
 
-![Ruscha]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/ruscha-sunset-strip.webp)
+![Ruscha]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/ruscha-sunset-strip.jpg)
 <figcaption>Ed Ruscha, <em>Every Building on the Sunset Strip</em>, 1966</figcaption>
 
 Ed Ruschas [*Every Building on the Sunset Strip*](https://www.moma.org/collection/works/59751) (1966) ist ein Meilenstein der Konzeptfotografie und eines der frühesten Beispiele für die Straße als Gegenstand erschöpfender, mechanischer Dokumentation. Ruscha montierte eine motorgetriebene Kamera auf einen LKW und fuhr den Sunset Strip in beide Richtungen entlang, um ein lückenloses fotografisches Register aller Gebäude auf beiden Seiten der Straße zu produzieren. Das daraus entstandene Leporello-Buch präsentiert den Strip als ununterbrochenes Panorama: ein sachliches Inventar aus Fassaden, Parkplätzen, Schildern und Lücken. Es gibt keine Hierarchie der Sujets, keinen entscheidenden Moment — nur die methodische Erfassung eines definierten Raums. Das Werk antizipiert die Logik von Google Street View um vier Jahrzehnte und verwandelt die Straße von einem Ort der zufälligen Begegnung in eine Datenbank.
 
 ### Ari Versluis & Ellie Uyttenbroek, *Exactitudes*, 1994–laufend
 
-![Exactitudes]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/versluis-uyttenbroek-exactitudes.webp)
+![Exactitudes]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/versluis-uyttenbroek-exactitudes.jpg)
 <figcaption>Ari Versluis & Ellie Uyttenbroek, aus <em>Exactitudes</em>, 1994–laufend</figcaption>
 
 Seit 1994 dokumentieren der Rotterdamer Fotograf Ari Versluis und die Profilerin Ellie Uyttenbroek systematisch die Dresscodes sozialer Gruppen, denen sie auf den Straßen von Städten weltweit begegnen, beginnend in der multikulturellen Straßenszene ihrer Heimatstadt. Der Titel — eine Zusammensetzung aus *exact* und *attitude* — fasst die zentrale Beobachtung des Projekts zusammen: dass individueller Stil, wie sorgfältig er auch konstruiert sein mag, um Einzigartigkeit auszudrücken, fast immer den Codes einer erkennbaren Gruppe entspricht. Jede Episode von [*Exactitudes*](https://exactitudes.com/) präsentiert zwölf Individuen derselben Subkultur — Gabber, Skater, Hipster, Hells Angels, glamouröse Großmütter — in identischen Posen vor neutralem weißem Hintergrund, in einem Raster angeordnet. Das Format zitiert bewusst die Bechers und August Sander und überträgt die typologischen Traditionen der Industrie- und Sozialfotografie auf die zeitgenössische urbane Landschaft subkultureller Zugehörigkeit. Das Ergebnis ist zugleich liebevoll, analytisch und sanft ironisch: Je mehr diese Individuen versuchen, sich von der Masse abzuheben, desto präziser ähneln sie einander. *Exactitudes* steht an der Schnittstelle von Straßenfotografie, Modedokumentation und soziologischer Studie — ein kontinuierlich wachsendes Archiv der Spannung zwischen Individualität und Konformität im modernen Stadtleben.
 
 ### David Horvitz, *Public Access*, 2010–2011
 
-![Horvitz]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/horvitz-public-access.webp)
+![Horvitz]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/horvitz-public-access.jpeg)
 <figcaption>David Horvitz, aus <em>Public Access</em>, 2010–2011</figcaption>
 
 Ende Dezember 2010 und Anfang Januar 2011 fuhr der amerikanische Künstler David Horvitz die kalifornische Küste von der mexikanischen bis zur oregonischen Grenze entlang und hielt an fünfzig öffentlichen Strandabschnitten an, um sich mit dem Rücken zur Kamera und dem Blick aufs Meer zu fotografieren. Die Pose — eine einsame Figur, die einen offenen Horizont betrachtet — erinnert an die Romantik von Caspar David Friedrichs *Wanderer über dem Nebelmeer* und Bas Jan Aders *Farewell to Faraway Friends*, doch die Distributionsstrategie ist durch und durch zeitgenössisch: Horvitz lud jede Fotografie in den Wikipedia-Artikel des jeweiligen Küstenabschnitts hoch und schuf in einigen Fällen neue Artikel, um sie aufzunehmen. Die Bilder wurden bald von Wikipedias Redaktionsgemeinschaft bemerkt, die ihre Legitimität debattierte, Horvitz' Figur aus mehreren Aufnahmen herausschnitt und die meisten schließlich löschte. Dieser Konflikt, von Horvitz dokumentiert und als Teil des Werks republiziert, legt die Reibung zwischen dem Ideal des offenen öffentlichen Raums — sowohl an der kalifornischen Küste als auch im offenen Web — und der Realität unsichtbarer Governance-Strukturen frei, die bestimmen, was als gültige Information gilt. *Public Access* operiert als typologische Serie in Verkleidung: ein systematisches Inventar öffentlicher Küstenabschnitte, das in ein bestehendes Bildarchiv eindringt und die regulatorische Logik des Archivs durch den Widerstand, den es provoziert, sichtbar macht.
 
 ### The Encyclopedia of Kurt Caviezel
 
-![Caviezel]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/caviezel.webp)
+![Caviezel]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/caviezel.jpg)
 <figcaption>ADD CAPTION</figcaption>
 
 Der Schweizer Künstler [Kurt Caviezel](https://www.kurtcaviezel.ch/books.html) hat eine Reihe enzyklopädischer Fotobücher entwickelt, die auf Webcam- und Überwachungsfeeds aus dem Internet zurückgreifen. Anstatt Sujets selbst zu fotografieren, erfasst und klassifiziert Caviezel Bilder, die automatisch von vernetzten Kameras produziert werden — Bilder, die nie als Fotografien im künstlerischen Sinne gedacht waren und deren Sujets sich in der Regel nicht bewusst sind, aufgezeichnet zu werden. Er ordnet dieses Material in thematische Typologien: Bücher, die Katzen vor Sicherheitskameras gewidmet sind, Menschen, die in intimen Momenten vor ihren Computern aufgenommen wurden, oder wiederkehrende Gesten und Haltungen, die von statischen Feeds eingefangen wurden. Das enzyklopädische Format — mit seinen Konnotationen von Vollständigkeit, Neutralität und systematischer Erfassung — wird tief ironisch, wenn es auf die inhärent partielle und arbiträre Produktion von Always-on-Kameras angewendet wird. Caviezels Werk schließt den Bogen, den die Gehfotografen geöffnet haben: Wo diese die Straßen abgingen, um Bilder von Fremden anzuhäufen, erzeugt die zeitgenössische Bildumgebung solche Archive automatisch, im globalen Maßstab, ohne dass ein Fotograf anwesend ist.
-
-
-## Image Hoarding
-
-### Gerhard Richter, *Atlas*, 1962–laufend
-
-![Richter Atlas]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/richter-atlas.webp)
-<figcaption>Gerhard Richter, aus <em>Atlas</em>, 1962–laufend</figcaption>
-
-Gerhard Richters [*Atlas*](https://gerhard-richter-archiv.skd.museum/en/exhibitions/atlas/) ist eines der ambitioniertesten akkumulativen Bildprojekte der Nachkriegskunst: ein kontinuierlich expandierendes Werk, das Tausende von Fotografien, Zeitungsausschnitten, Skizzen und Fundbildern umfasst, die auf Tafeln montiert und in losen thematischen Gruppen angeordnet sind. Seit 1962 entstanden, umfasst das Werk nun über 800 Tafeln, die Familienfotos, Pornografie, Pressefotografien von Gräueltaten, Landschaften, Architekturbilder und Vorbereitungsmaterial für Richters Gemälde einschließen. Anders als ein konventionelles Archiv legt der *Atlas* keine strenge Klassifikationsordnung auf: Er akkumuliert, anstatt zu systematisieren, und seine Gruppierungen widersetzen sich einer definitiven Interpretation. Das Werk operiert als eine Art Bildschatz — ein Reservoir visuellen Materials aus dem kollektiven Bildstrom der Kultur — und wirft grundlegende Fragen darüber auf, wie Fotografien bedeuten, wenn sie en masse versammelt, ihres ursprünglichen Kontexts beraubt und in unmittelbarer Nachbarschaft zueinander platziert werden. Es ist auch, mittelbar, ein Werk über Deutschlands Verhältnis zu seiner jüngsten Geschichte: Bilder nationalsozialistischer Gewalt und Bilder der Nachkriegsnormalität sitzen in unbehaglicher Nachbarschaft. Ein aktuelles [Video-Essay](https://vimeo.com/1092446369) bietet eine Einführung in den Gesamtumfang des Projekts.
 
 
 ## Zeit-basierte Serialität
@@ -345,21 +335,21 @@ Typologie muss nicht nur den Raum organisieren — sie kann auch die Zeit organi
 
 ### Zhang Huan, *Family Tree*, 2001
 
-![Zhang Huan]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/zhang-huan.jpg)
+![Zhang Huan]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/zhang-huan.webp)
 <figcaption>Zhang Huan, <em>Family Tree</em>, 2001</figcaption>
 
 In [*Family Tree*](https://www.ngv.vic.gov.au/zhang-huan-shanghai-family-tree-2001/) (2001) lud der chinesische Künstler Zhang Huan Kalligraphen ein, sein Gesicht schrittweise mit Texten zu bedecken — Namen, Geschichten und Schriftzeichen aus seiner Familiengeschichte —, während ein Fotograf den Prozess über einen einzigen Tag dokumentierte. Die daraus entstandene Sequenz von neun Fotografien verfolgt die Verwandlung von Zhang Huans Gesicht von bloßer Haut zu einer dichten, unleserlichen Oberfläche aus schwarzer Tinte. Das Werk greift Ideen von Identität, Erbschaft und Auslöschung auf: das Gesicht als Oberfläche, auf die Geschichte eingeschrieben wird, bis das Individuum darunter verschwindet. Es operiert als zeitbasierte typologische Serie, in der jede Fotografie der Sequenz einen diskreten Zustand festhält und die Bedeutung des Werks erst im vollständigen Set verfügbar wird. Die archivarische Logik ist hier nicht Klassifikation, sondern Dauer: die Serie als Aufzeichnung eines durchlebten Prozesses.
 
 ### Hayahisa Tomiyasu, *TTP*, 2012–2016 (veröffentlicht 2018)
 
-![Tomiyasu]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/tomiyasu-ttp.webp)
+![Tomiyasu]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/tomiyasu-ttp.jpg)
 <figcaption>Hayahisa Tomiyasu, aus <em>TTP</em>, 2012–2016</figcaption>
 
 *TTP* — eine Abkürzung für *Tischtennisplatte* — ist eine Serie von Fotografien, die der japanischstämmige, in Leipzig lebende Fotograf Hayahisa Tomiyasu über fünf Jahre lang vom Fenster seines achtstöckigen Studentenappartements aufgenommen hat. Die Kamera war auf einem Stativ montiert, der Bildausschnitt blieb über den gesamten Zeitraum unverändert: ein einzelner öffentlicher Tischtennistisch in einer kleinen, unscheinbaren Grünfläche zwischen einem Parkplatz und Wohnblöcken. 2018 bei MACK veröffentlicht und Gewinner des MACK First Book Award, umfasst das Buch 260 Seiten und über hundert Fotografien. Darin wird der Tisch nie zum Tischtennisspielen benutzt. Stattdessen wird er, je nach Jahreszeit und Tageszeit, zur Sonnenliege, zur Wäscheleine, zum Klettergerüst für Kinder, zur Picknickfläche, zum Trainingsgerät, zur Regenunterkunft. Die formale Konsistenz der Serie — identischer Bildausschnitt, dasselbe Sujet, wechselndes Licht, Jahreszeit und Besetzung — verwandelt ein völlig banales Objekt in einen Index des sozialen Lebens in einem Leipziger Quartier. *TTP* steht an der Schnittstelle von zeitbasierter Serialität und der sachlichen typologischen Tradition: Es ist zugleich ein Dokument der Dauer und eine implizite Taxonomie menschlicher Improvisation rund um ein institutionelles Objekt.
 
 ### Barbara Davatz, *As Time Goes By*, 1982, 1988, 1997, 2014
 
-![Davatz]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/davatz-as-time-goes-by.webp)
+![Davatz]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/davatz-as-time-goes-by.png)
 <figcaption>Barbara Davatz, aus <em>As Time Goes By</em>, 1982–2014</figcaption>
 
 Die Schweizer Fotografin Barbara Davatz begann 1982, Paare aus Zürichs alternativen und subkulturellen Szenen zu fotografieren, und kehrte 1988, 1997 und erneut 2014 zurück, um dieselben Personen im selben Format zu fotografieren. Als [*As Time Goes By*](https://www.editionpatrickfrey.com/en/books/time-goes-1982-1988-1997-2014) bei Edition Patrick Frey erschienen, ist das Projekt eine intime Untersuchung dessen, wie sich Menschen, Beziehungen und Selbstdarstellung über die Zeit verändern. Die formale Konsistenz des Ansatzes — dieselben Sujets, dieselbe neutrale Studioumgebung, vergleichbares Framing — lässt die Unterschiede zwischen den Sitzungen umso deutlicher hervortreten. Was sich über die vier Bände akkumuliert, ist keine Typologie von Typen, sondern eine Typologie der Zeit: dieselben Gesichter und Körper in verschiedenen Lebensphasen, dieselben Paare zusammen oder getrennt, dieselben Individuen, verändert durch Alter, Umstand und Wahl.
@@ -378,14 +368,14 @@ Der letzte Abschnitt dieser Sitzung verschiebt den Fokus von Fotografierenden, d
 
 ### Erik Kessels, *In Almost Every Picture*, 2000–laufend
 
-![Kessels]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/kessels-in-almost-every-picture.webp)
+![Kessels]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/kessels-in-almost-every-picture.jpg)
 <figcaption>Erik Kessels, aus <em>In Almost Every Picture</em>, 2000–laufend</figcaption>
 
 Der niederländische Designer und Künstler [Erik Kessels](https://www.erikkessels.com/in-almost-every-picture) begann *In Almost Every Picture* im Jahr 2000 als laufende Reihe kleiner Fotobücher, von denen jedes einem einzigen gefundenen Archiv von vernaculären Fotografien gewidmet ist, die um ein obsessives oder wiederkehrendes Bild organisiert sind. Einzelne Bände zeigen unter anderem [eine Frau, die in Gewässern fotografiert wurde](https://www.photoeye.com/bookstore/citation/IB357), einen Hund, der auf Hunderten von Urlaubsschnappschüssen erscheint, und einen Ehemann, der seine Frau obsessiv in Pelzmänteln fotografierte. Kessels greift nicht in die Bilder selbst ein; sein redaktioneller Akt — Auswählen, Sequenzieren und Veröffentlichen — ist das Werk. Jeder Band erzeugt seine Bedeutung durch Akkumulation: Die Serialität enthüllt Muster, Verhaltensweisen und Zwänge, die kein einzelnes Bild vermitteln könnte. *In Almost Every Picture* gehört zu den einflussreichsten Modellen des Fotobuchs als archivarische und kuratorische Form.
 
 ### Joachim Schmid, *Other People's Photographs*, 2008–2011
 
-![Schmid]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/schmid-other-peoples-photographs.webp)
+![Schmid]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/schmid-other-peoples-photographs.jpg)
 <figcaption>Joachim Schmid, aus <em>Other People's Photographs</em>, 2008–2011</figcaption>
 
 Zwischen 2008 und 2011 lud der deutsche Künstler [Joachim Schmid](https://everydayphotography.org/journal/from-other-peoples-photographs-2008-2011) Millionen von Amateurfotos herunter, die auf Flickr hochgeladen worden waren, und ordnete sie nach Thema, um die Ergebnisse als 96 kleine Fotobücher in thematischen Bänden zu veröffentlichen. Die Kategorien, die er identifizierte — *Haustiere*, *Sonnenuntergänge*, *Teller mit Essen*, *Gesichter in Löchern* — entsprechen den wiederkehrenden Genres und Impulsen, die Amateurfotografie im großen Maßstab strukturieren. Schmids Methode ist rein archivarisch: Er macht keine Bilder, sondern wählt nur aus und sequenziert. Das Projekt operiert als Taxonomie kollektiven visuellen Verhaltens und enthüllt die gemeinsamen Konventionen, Wünsche und Rituale, die Millionen individuell gemachter Fotografien zugrunde liegen. Es ist auch ein Werk über das Internet als Bildrepositorium — ein Archiv ohne Intention, produziert von Millionen von Fotografierenden, die nicht wussten, dass sie kollaborierten.
