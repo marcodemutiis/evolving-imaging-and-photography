@@ -19,8 +19,6 @@ Upload a screenshot of your assignment with your name and a caption on [this onl
 
 ***
 
-
-
 *What does it mean to photograph systematically? This session traces the impulse to classify, order, and accumulate images — from early twentieth-century movements that turned the camera into a tool of objective description, to contemporary artists who mine vast image repositories as both archive and raw material. Photography and the archive have long been entangled: the camera does not only capture individual moments but enables the construction of series, typologies, and taxonomies that claim to map the world. As that logic migrates from the photographer's contact sheet to the automated image database, questions of authorship, selection, and power become newly urgent.*
 
 
@@ -55,6 +53,13 @@ Between 1997 and 2011, Düsseldorf-based photographer Ursula Schulz-Dornburg mad
 <figcaption>Hiroshi Sugimoto, from <em>Theaters</em>, 1978–ongoing</figcaption>
 
 Hiroshi Sugimoto's *Theaters* series, begun in 1978 and still ongoing, photographs movie theaters and drive-ins across the United States, Europe, and Japan using a single, unvarying method: the camera shutter is held open for the entire duration of a film screening. The result is that the screen — the one element that changes continuously throughout the sitting — burns out to a uniform rectangle of white light, while the architecture of the theater emerges in precise, luminous detail. The typological dimension of the series is immediately apparent: cinema after cinema, decades apart, each image shares the same frontal composition, the same exposure logic, the same relationship between the glowing screen and the surrounding space. Like the Bechers surveying water towers, Sugimoto is constructing a comparative inventory of a functional building type — one that happens to be a space of collective experience and shared fiction. But the temporal dimension is stranger and more paradoxical. Every film ever screened in these theaters has been, in a sense, recorded: collapsed into a single white field. The photograph does not capture a moment but an entire duration, compressing hours of narrative into an image that shows nothing of what was shown. Time is present in Sugimoto's pictures not as legible change — as in Davatz or Tomiyasu — but as erasure: an excess of exposure that destroys the very thing it records.
+
+### Idris Khan, *Homage to Bernd Becher*, 2007
+
+![Khan]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/khan-homage-to-bernd-becher.jpg)
+<figcaption>Idris Khan, <em>Homage to Bernd Becher</em>, 2007. Solomon R. Guggenheim Museum, New York</figcaption>
+
+British artist Idris Khan's [*Homage to Bernd Becher*](https://www.guggenheim.org/artwork/21637) (2007) takes an entire group of photographs from the Bechers' typological archive and digitally superimposes them into a single bromide print. The result is a ghostly palimpsest in which all the individual structures — water towers, gasholders, industrial facades — dissolve into one another, producing an image that resembles an impressionistic drawing or a long-exposure blur more than a photograph. The gesture is simultaneously an act of homage and of critical transformation: where the Bechers' method depended on keeping each specimen distinct — separated in the grid so that formal differences could be compared — Khan's superimposition destroys precisely those distinctions, collapsing the archive into a single dense, melancholy composite. The work raises a direct question about the logic of the typological series: what is lost, and what is revealed, when accumulation becomes compression? Khan had previously applied the same method to every page of the Qur'an, every Chopin nocturne, and every late Constable painting, treating the photographic or textual archive as a totality to be physically fused rather than sequentially compared. Read alongside Sugimoto's *Theaters* — where the entirety of a film is likewise collapsed into a single white field — the two works define a kind of counter-tradition within the archive: photography not as the accumulation of differences but as their annihilation.
 
 
 ## Typologies of Power: Body, Identity, Resistance
@@ -122,10 +127,10 @@ Since 1994, Rotterdam-based photographer Ari Versluis and profiler Ellie Uyttenb
 
 In late December 2010 and early January 2011, American artist David Horvitz drove the length of California's coastline from the Mexican border to the Oregon border, stopping at fifty public beach access points to photograph himself facing the ocean, his back to the camera. The pose — a solitary figure contemplating an open horizon — recalls the Romantic tradition of Caspar David Friedrich's *Wanderer Above the Sea of Fog* and Bas Jan Ader's *Farewell to Faraway Friends*, but the distribution strategy is entirely contemporary: Horvitz uploaded each photograph to the Wikipedia entry for the corresponding location, in some cases creating new articles to accommodate them. The images were soon noticed by Wikipedia's editorial community, who debated their legitimacy, cropped Horvitz's figure from several, and eventually deleted most and banned the artist from the platform. The conflict, documented by Horvitz and republished as part of the work, exposes the friction between the ideals of open public space — both on the California coast and on the open web — and the reality of invisible governance structures that determine what counts as valid information. *Public Access* operates as a typological series in disguise: a systematic inventory of public coastline that infiltrates an existing image archive rather than creating a new one, and makes the archive's own regulatory logic visible through the resistance it provokes.
 
-### The Encyclopedia of Kurt Caviezel
+### Kurt Caviezel, *The Encyclopedia of Kurt Caviezel*, 2015
 
 ![Caviezel]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/caviezel.jpg)
-<figcaption>ADD CAPTION</figcaption>
+<figcaption>Kurt Caviezel, from <em>The Encyclopedia of Kurt Caviezel</em>, 2015</figcaption>
 
 Swiss artist [Kurt Caviezel](https://www.kurtcaviezel.ch/books.html) has developed a series of encyclopedic photobooks drawn from webcam and surveillance feeds sourced from across the internet. Rather than photographing subjects himself, Caviezel captures and classifies images produced automatically by networked cameras — images that were never intended as photographs in the artistic sense, and whose subjects are generally unaware of being recorded. He organizes this material into thematic typologies: books devoted to cats appearing before security cameras, to people photographed in moments of intimate behavior in front of their computers, to recurring gestures and postures caught by static feeds. The encyclopedic format — with its connotations of completeness, neutrality, and systematic coverage — becomes deeply ironic when applied to the inherently partial and arbitrary outputs of always-on cameras. Caviezel's work closes the arc opened by the Gehfotografen: where they walked the streets to accumulate images of strangers, the contemporary image environment generates such archives automatically, at global scale, without a photographer present.
 
@@ -181,6 +186,13 @@ Dutch designer and artist [Erik Kessels](https://www.erikkessels.com/in-almost-e
 
 Between 2008 and 2011, German artist [Joachim Schmid](https://everydayphotography.org/journal/from-other-peoples-photographs-2008-2011) downloaded and sorted millions of amateur photographs uploaded to Flickr, organizing them by subject and publishing the results as ninety-six small photobooks grouped into thematic volumes. The categories he identified — *Pets*, *Sunsets*, *Plates of Food*, *Faces in Holes* — correspond to the recurrent genres and impulses that structure amateur photography at scale. Schmid's method is purely archival: he makes no images, only selects and sequences. The project operates as a taxonomy of collective visual behavior, revealing the shared conventions, desires, and rituals that underlie millions of individually made photographs. It is also a work about the internet as an image repository — an archive without intention, produced by millions of photographers who did not know they were collaborating.
 
+### Corinne Vionnet, *Photo Opportunities*, 2005–ongoing
+
+![Vionnet]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/vionnet-photo-opportunities.jpg)
+<figcaption>Corinne Vionnet, from <em>Photo Opportunities</em>, 2005–ongoing</figcaption>
+
+Beginning in 2005, Swiss-French artist Corinne Vionnet started conducting keyword searches of photo-sharing platforms for images of iconic tourist landmarks — the Eiffel Tower, the Taj Mahal, Stonehenge, the Giza Pyramids — and layering over a hundred of the resulting amateur snapshots into a single composite for each site. The results, published as [*Photo Opportunities*](https://corinnevionnet.com/Photo-Opportunities), are luminous, impressionistic images in which the landmark floats in a soft haze of superimposed blue sky and stone, tourists dissolving into one another like apparitions. What the layering reveals is that these millions of individually made photographs are not individual at all: almost every tourist has framed the same shot, from the same position, at the same angle — guided by decades of postcards, guidebooks, and social media images that have pre-determined the "correct" way to photograph each site. Vionnet's composites make that invisible convention suddenly visible as a form, exposing the degree to which tourist photography is less an act of personal vision than the reproduction of a collectively agreed-upon type. Placed alongside Schmid's taxonomy of Flickr uploads, *Photo Opportunities* represents a different approach to the same underlying phenomenon: not cataloguing what people photograph, but revealing the unconscious norm that governs *how* they photograph it.
+
 ### Sebastian Schmieg, *Search by Image*, 2011–ongoing
 
 ![Schmieg]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/schmieg-search-by-image.webp)
@@ -198,7 +210,7 @@ Between 2008 and 2011, German artist [Joachim Schmid](https://everydayphotograph
 ### Felix Heyes & Ben West, *Google, Volume 1*, 2013; *Google, Volume 2*, 2023
 
 ![Google Volume]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/heyes-west-google.webp)
-<figcaption>Felix Heyes & Ben West, from <em>Google, Volume 1</em>, 2013</figcaption>
+<figcaption>Felix Heyes & Ben West, from <em>Google, Volume 1-2</em>, 2013/2023</figcaption>
 
 In 2013, graphic designers Felix Heyes and Ben West published [*Google, Volume 1*](https://www.itsnicethat.com/articles/google-image-book) (JBE Books): a book in which every word in the English dictionary — all 21,110 of them — has had its definition replaced by the first image returned when that word is searched on Google Images. The result is a visual dictionary of the internet's consensus reality, running from "aardvark" to "zymurgy," in which the gap between word and image is sometimes obvious, often absurd, and occasionally disturbing. Some results confirm expectations; others reveal the biases and limitations of algorithmic ranking — the dominance of stock photography, the invisibility of entire categories of experience, the outsized presence of branded content. A decade later, Heyes and West published *Google, Volume 2* (JBE Books, 2023), running the same 21,110 words through the search engine again. Placed side by side, the two volumes function as a time-based comparison of how the internet's visual language has shifted across ten years — which images have migrated in or out of prominence, which concepts have been colonized by commercial imagery, and what the algorithm now considers most "relevant." Together they constitute both a typological survey and a form of longitudinal archiving: a before-and-after of the collective visual imagination of the web.
 
@@ -218,7 +230,6 @@ Choose a typology to survey photographically and create a series of 5-10 images.
 Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?usp=sharing) hoch.
 
 ***
-
 
 *Was bedeutet es, systematisch zu fotografieren? Diese Sitzung verfolgt den Impuls, Bilder zu klassifizieren, zu ordnen und anzuhäufen — von frühen Bewegungen des 20. Jahrhunderts, die die Kamera als Instrument objektiver Beschreibung einsetzten, bis hin zu zeitgenössischen Künstler:innen, die riesige Bildrepositorien als Archiv und Rohmaterial zugleich nutzen. Fotografie und Archiv sind seit Langem miteinander verwoben: Die Kamera hält nicht nur einzelne Momente fest, sondern ermöglicht die Konstruktion von Serien, Typologien und Taxonomien, die beanspruchen, die Welt zu kartieren. Je mehr diese Logik vom Kontaktbogen des Fotografen zur automatisierten Bilddatenbank migriert, werden Fragen der Autorschaft, Selektion und Macht neu dringlich.*
 
@@ -255,6 +266,13 @@ Zwischen 1997 und 2011 unternahm die Düsseldorfer Fotografin Ursula Schulz-Dorn
 
 Hiroshi Sugimotos Serie *Theaters*, 1978 begonnen und noch immer laufend, fotografiert Kinos und Drive-in-Theater in den USA, Europa und Japan nach einer einzigen, unveränderlichen Methode: Der Kameraverschluss bleibt während der gesamten Dauer einer Filmvorführung geöffnet. Das Ergebnis ist, dass die Leinwand — das einzige Element, das sich während der Vorstellung kontinuierlich verändert — zu einem gleichmäßigen Rechteck aus weißem Licht ausbrennt, während die Architektur des Kinos in präzisem, leuchtendem Detail hervortritt. Die typologische Dimension der Serie ist unmittelbar erkennbar: Kino um Kino, Jahrzehnte voneinander entfernt, teilt jedes Bild dieselbe frontale Komposition, dieselbe Belichtungslogik, dasselbe Verhältnis zwischen der glühenden Leinwand und dem umgebenden Raum. Wie die Bechers, die Wassertürme inventarisierten, baut Sugimoto ein vergleichendes Inventar eines funktionalen Gebäudetyps auf — eines, das zufällig ein Raum kollektiver Erfahrung und geteilter Fiktion ist. Die zeitliche Dimension ist jedoch seltsamer und paradoxer. Jeder Film, der je in diesen Kinos gezeigt wurde, ist gewissermaßen aufgezeichnet: zusammengedrängt in ein einziges weißes Feld. Die Fotografie hält keinen Moment fest, sondern eine gesamte Dauer und verdichtet Stunden der Narration zu einem Bild, das nichts von dem zeigt, was gezeigt wurde. Zeit ist in Sugimotos Bildern nicht als lesbare Veränderung präsent — wie bei Davatz oder Tomiyasu —, sondern als Auslöschung: ein Übermaß an Belichtung, das genau das vernichtet, was es aufzeichnet.
 
+### Idris Khan, *Homage to Bernd Becher*, 2007
+
+![Khan]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/khan-homage-to-bernd-becher.jpg)
+<figcaption>Idris Khan, <em>Homage to Bernd Becher</em>, 2007. Solomon R. Guggenheim Museum, New York</figcaption>
+
+Der britische Künstler Idris Khans [*Homage to Bernd Becher*](https://www.guggenheim.org/artwork/21637) (2007) nimmt eine gesamte Gruppe von Fotografien aus dem typologischen Archiv der Bechers und überlagert sie digital zu einem einzigen Bromsilberdruck. Das Ergebnis ist ein gespenstisches Palimpsest, in dem alle einzelnen Strukturen — Wassertürme, Gasometer, Industriefassaden — ineinander aufgehen und ein Bild erzeugen, das eher an eine impressionistische Zeichnung oder eine Langzeitbelichtung erinnert als an eine Fotografie. Die Geste ist zugleich Hommage und kritische Transformation: Während die Methode der Bechers darauf beruhte, jedes Exemplar klar voneinander zu trennen — im Raster, damit formale Unterschiede verglichen werden können —, zerstört Khans Überlagerung genau diese Unterschiede und verdichtet das Archiv zu einem einzigen dichten, melancholischen Komposit. Das Werk wirft eine direkte Frage an die Logik der typologischen Serie: Was geht verloren — und was wird sichtbar — wenn Akkumulation zur Verdichtung wird? Khan hatte zuvor dieselbe Methode auf jede Seite des Korans, jedes Chopin-Nocturne und jedes späte Constable-Gemälde angewandt und das fotografische oder textliche Archiv als ein Ganzes behandelt, das physisch verschmolzen statt sequenziell verglichen werden soll. Im Zusammenhang mit Sugimotos *Theaters* — wo die Gesamtheit eines Films ebenfalls in ein einziges weißes Feld zusammengedrängt wird — definieren die beiden Werke eine Art Gegentradition innerhalb des Archivs: Fotografie nicht als Akkumulation von Unterschieden, sondern als deren Vernichtung.
+
 
 ## Typologien der Macht: Körper, Identität, Widerstand
 
@@ -289,7 +307,7 @@ Wenn Blossfeldt und Renger-Patzsch die Kamera auf Natur und Industrie richteten,
 ### Gehfotografen, 1927–1935
 
 ![Gehfotografen]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/gehfotografen.jpg)
-<figcaption>ADD CAPTION</figcaption>
+<figcaption>Mila Palm (Hg.), aus <em>The Graz Street Photographer – A City in Motion 1929–1932</em>, Rorhof Verlag, 2023</figcaption>
 
 Die sogenannten [Gehfotografen](https://www.rorhof.com/der-grazer-gehfotograf/) waren itinerante Straßenfotografen, die in großen europäischen Städten — insbesondere Berlin — und an Touristenzielen wie Nizza von etwa 1927 bis 1935 aktiv waren. Ohne Wissen oder Zustimmung ihrer Sujets fotografierten sie Fußgänger auf der Straße und boten ihnen anschließend Abzüge zum Kauf an. Obwohl kommerziell motiviert, produzierte diese Praxis enorme Mengen an Bildern gewöhnlicher Menschen im öffentlichen Raum und bildete ein unbeabsichtigtes Archiv des städtischen Lebens in der Zwischenkriegszeit. Die Gehfotografen verfolgten keine taxonomischen Ambitionen, aber das kumulative Ergebnis ihrer Arbeit — Tausende anonymer Figuren, im selben straßenseitigen Ganzkörperformat festgehalten — funktioniert als De-facto-Typologie des modernen Fußgängers. Ihre Praxis antizipiert spätere automatisierte und algorithmische Formen der straßenseitigen Bilderfassung in ihrer systematischen, nicht-künstlerischen Akkumulation menschlicher Präsenz im öffentlichen Raum.
 
@@ -357,7 +375,7 @@ Die Schweizer Fotografin Barbara Davatz begann 1982, Paare aus Zürichs alternat
 ### Vorher & Nachher
 
 ![Before and After]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/before-and-after.png)
-<figcaption>ADD CAPTION</figcaption>
+<figcaption>Ausschnitte aus #beforeandafter auf Instagram, aus dem Blog von Kate Palmer Albers</figcaption>
 
 Das Vorher-Nachher-Bild ist eines der verbreitetsten Bildformate in der zeitgenössischen Bildkultur — und eines der strukturell aufschlussreichsten. In seiner Grundform — zwei Fotografien desselben Sujets zu unterschiedlichen Zeitpunkten — scheint es die denkbar einfachste Variante zeitbasierter Serialität zu sein. Doch wie die Fotografiewissenschaftlerin Kate Palmer Albers in [*#beforeandafter*](https://circulationexchange.org/articles/swimsuit_before_and_after.html) und dem von ihr mitherausgegebenen Band [*Before-and-After Photography: Histories and Contexts*](http://www.bloomsbury.com/us/before-and-after-photography-9781474253116/) (Bloomsbury) argumentiert hat, tut das Format etwas grundlegend anderes als die oben besprochenen Arbeiten: Anstatt das Intervall zwischen den Bildern zur Untersuchung zu bewahren, löscht es dieses aktiv aus. Das „Vorher" existiert nur, um vom „Nachher" aufgehoben zu werden. Welcher Prozess, welche Arbeit oder welche Dauer auch immer zwischen den beiden Bildern liegt, wird zusammengepresst und verborgen — als privat, irrelevant oder zu unordentlich für die Öffentlichkeit dargestellt. Das Format ist in Medizin, Katastrophendokumentation, Stadtentwicklung und Klimawandel eingesetzt worden, doch seine kulturell prägendste Form ist das Schönheits- und Gewichtsverlustbild: Dort kodiert die Struktur eine Norm — das „Nachher" ist stets die Verbesserung, das „Vorher" stets ein Zustand des Mangels, der nur toleriert werden kann, weil die Erlösung folgt. Anders als Davatz' behutsame Akkumulation von Veränderung oder Tomiyasus geduldige Aufzeichnung von Dauer schließt das Vorher-Nachher die Zeit ab — es nutzt zwei Fotografien nicht, um einen Durchgang durch die Zeit zu öffnen, sondern um ein Urteil über sie zu fällen.
 
@@ -379,6 +397,13 @@ Der niederländische Designer und Künstler [Erik Kessels](https://www.erikkesse
 <figcaption>Joachim Schmid, aus <em>Other People's Photographs</em>, 2008–2011</figcaption>
 
 Zwischen 2008 und 2011 lud der deutsche Künstler [Joachim Schmid](https://everydayphotography.org/journal/from-other-peoples-photographs-2008-2011) Millionen von Amateurfotos herunter, die auf Flickr hochgeladen worden waren, und ordnete sie nach Thema, um die Ergebnisse als 96 kleine Fotobücher in thematischen Bänden zu veröffentlichen. Die Kategorien, die er identifizierte — *Haustiere*, *Sonnenuntergänge*, *Teller mit Essen*, *Gesichter in Löchern* — entsprechen den wiederkehrenden Genres und Impulsen, die Amateurfotografie im großen Maßstab strukturieren. Schmids Methode ist rein archivarisch: Er macht keine Bilder, sondern wählt nur aus und sequenziert. Das Projekt operiert als Taxonomie kollektiven visuellen Verhaltens und enthüllt die gemeinsamen Konventionen, Wünsche und Rituale, die Millionen individuell gemachter Fotografien zugrunde liegen. Es ist auch ein Werk über das Internet als Bildrepositorium — ein Archiv ohne Intention, produziert von Millionen von Fotografierenden, die nicht wussten, dass sie kollaborierten.
+
+### Corinne Vionnet, *Photo Opportunities*, 2005–laufend
+
+![Vionnet]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/vionnet-photo-opportunities.jpg)
+<figcaption>Corinne Vionnet, aus <em>Photo Opportunities</em>, 2005–laufend</figcaption>
+
+Ab 2005 begann die schweizerisch-französische Künstlerin Corinne Vionnet, über Keyword-Suchen auf Bildplattformen Tausende von Touristenfotografien berühmter Wahrzeichen zu sammeln — Eiffelturm, Taj Mahal, Stonehenge, Gizeh-Pyramiden — und überlagerte jeweils über hundert der gefundenen Amateuraufnahmen zu einem einzigen Komposit. Die Ergebnisse, veröffentlicht als [*Photo Opportunities*](https://corinnevionnet.com/Photo-Opportunities), sind leuchtende, impressionistische Bilder, in denen das Wahrzeichen in einem weichen Dunst aus überlagerten blauen Himmeln und Steinoberflächen schwebt, Touristinnen und Touristen ineinander aufgehen wie Erscheinungen. Was die Überlagerung enthüllt, ist, dass diese Millionen individuell aufgenommener Fotografien gar nicht individuell sind: Fast alle Touristinnen und Touristen haben denselben Ausschnitt vom selben Standpunkt im selben Winkel gewählt — geleitet von Jahrzehnten von Postkarten, Reiseführern und Social-Media-Bildern, die die „richtige" Art, jeden Ort zu fotografieren, bereits festgelegt haben. Vionnets Komposite machen diese unsichtbare Konvention plötzlich als Form sichtbar und enthüllen, in welchem Maß Tourismusphotografie weniger ein Akt persönlicher Vision ist als die Reproduktion eines kollektiv vereinbarten Typs. Neben Schmids Taxonomie der Flickr-Uploads repräsentiert *Photo Opportunities* einen anderen Ansatz gegenüber demselben zugrundeliegenden Phänomen: nicht, was Menschen fotografieren, sondern die unbewusste Norm, die *wie* sie fotografieren, bestimmt.
 
 ### Sebastian Schmieg, *Search by Image*, 2011–laufend
 
@@ -404,6 +429,6 @@ Zwischen 2008 und 2011 lud der deutsche Künstler [Joachim Schmid](https://every
 
 ## Aufgabe
 
-Choose a typology to survey photographically and create a series of 5-10 images. You can take the pictures yourself or categorise existing found images.
+Wähle eine Typologie und erstelle eine fotografische Inventarisierung von 5–10 Bildern. Du kannst die Bilder selbst aufnehmen oder vorhandenes gefundenes Material kategorisieren.
 
 </div>
