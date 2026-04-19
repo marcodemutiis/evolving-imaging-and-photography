@@ -54,7 +54,7 @@ published: true
 - *constructing* — conceptual photography, staged photography, pictorialism, fine art photography, photoshop and manipulation, re-enactment, analogue & digital collage
 
 - *simulating* — post-photography, AI-generated images, photorealistic CGI, composite and manipulated photography, bio-inspired generative imagery, generative image platforms (Midjourney, Stable Diffusion), deepfakes
-
+<!-- performing - performing for the camera / and merge simulating with constructing-->
 
 ### IV. Agency and Resistance
 

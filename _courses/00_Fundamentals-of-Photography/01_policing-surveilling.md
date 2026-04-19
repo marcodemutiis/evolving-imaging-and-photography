@@ -10,6 +10,7 @@ published: true
 ---
 
 <div class="lang-en" markdown="1">
+	
 ## Scientific Origins
 
 ### Nicéphore Niépce, <em>Point de vue du Gras</em>, 1826
@@ -314,15 +315,36 @@ Dina Kelberman, I am google, 2011–ongoing
 -->
 
 <!--
+
+
+feeling & seducing
 	PROPAGANDA
 	futurism
 	el lissitzky constructivist photography & photomontage
 	ganslmeier & zibelnik online manosphere
 	noura tafeche cute weaponisation
 
+	FASHION PHOTOGRAPHY
+	Viviane Sassen
+
+	ADVERTISEMENT
+	Maxime Guyon
+
 	SURREALISM
 	Hanna Höch DADA (collage)
 	AI? Charlie Engman, Jared Madere
+
+constructing & simulating
+	
+	Thomas Demand?
+	Kasia Klimpel, 
+	Mario Santamaria cable google map
+
+	RE-ENACTMENT
+	Omer Fast, Casting
+
+	COMPUTER GAMES AND CGI
+	Roc herms & Ai Weiwei, Lorna Ruth Galloway & Ed Ruscha
 
 -->
 
