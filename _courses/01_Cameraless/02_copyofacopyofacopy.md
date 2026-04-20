@@ -15,18 +15,8 @@ A copy of an image can be understood as a photographic act that carries social a
 
 In photography, a conceptual tradition of image appropriation emerged most prominently in the 1980s, when the act of rephotographing was used to challenge the power structures embedded in advertising images and in the art world. Contemporary practices such as digital scanning and screenshotting can be understood within this photographic lineage, extending the inquiry into internet phenomena as well as the technical biases and social issues embedded in the infrastructures of image circulation.
 
-</div>
 
-<div class="lang-de">
-
-Eine Kopie eines Bildes lässt sich als fotografischer Akt verstehen, der soziale und politische Bedeutung trägt: Kopieren bedeutet stehlen, aber auch zurückfordern oder reappropriieren und Repräsentation durch eine einfache Geste zu kritisieren. Was sich verändert, ist nicht der Inhalt des Bildes, sondern sein Kontext.
-
-In der Fotografie entstand eine konzeptuelle Tradition der Bildaneignung, die in den 1980er Jahren besonders prominent wurde, als der Akt des Rephotografierens genutzt wurde, um die in Werbebildern und in der Kunstwelt eingebetteten Machtstrukturen zu hinterfragen. Zeitgenössische Praktiken wie das digitale Scannen und das Erstellen von Screenshots lassen sich in dieser fotografischen Tradition verorten und erweitern die Untersuchung auf Internetphänomene sowie auf die technischen Verzerrungen und sozialen Fragen, die in den Infrastrukturen der Bildverbreitung eingeschrieben sind.
-
-</div>
-
-
-## <span class="lang-en">Study Cases</span><span class="lang-de">Fallstudien</span>
+## Study Cases
 
 
 ### Michael Mandiberg, <em>AfterSherrieLevine.com</em>, 2001
@@ -38,19 +28,8 @@ In der Fotografie entstand eine konzeptuelle Tradition der Bildaneignung, die in
 
 – Michael Mandiberg, <a href="https://www.mandiberg.com/aftersherrielevine-com/"><em>artist website</em></a></blockquote>
 
-<div class="lang-en">
-
 - More about <em>AfterSherrieLevine.com</em>: <a href="https://aftersherrielevine.com/">aftersherrielevine.com</a>
 - Screen Walk with Emma Agnes Sheffer: <a href="https://www.youtube.com/watch?v=zitDqLvmG7U">youtube.com/watch?v=zitDqLvmG7U</a>
-
-</div>
-
-<div class="lang-de">
-
-- Mehr über <em>AfterSherrieLevine.com</em>: <a href="https://aftersherrielevine.com/">aftersherrielevine.com</a>
-- Screen Walk mit Emma Agnes Sheffer: <a href="https://www.youtube.com/watch?v=zitDqLvmG7U">youtube.com/watch?v=zitDqLvmG7U</a>
-
-</div>
 
 
 ### Emma Agnes Sheffer, <em>Insta Repeat</em>, 2018 – ongoing
@@ -64,19 +43,8 @@ Sheffer uses this juxtaposition to show how users with large numbers of follower
 
 – Marco De Mutiis, Matteo Bittanti, <a href="https://www.howtowinat.photography/en/post/insta_repeat"><em>How to Win at Photography – Image-making as Play</em></a>, Fotomuseum Winterthur, online publication, 2021.</blockquote>
 
-<div class="lang-en">
-
 - More about <em>Insta Repeat</em>: <a href="https://www.instagram.com/insta_repeat">instagram.com/insta_repeat</a>
 - Screen Walk with Emma Agnes Sheffer: <a href="https://www.youtube.com/watch?v=zitDqLvmG7U">youtube.com/watch?v=zitDqLvmG7U</a>
-
-</div>
-
-<div class="lang-de">
-
-- Mehr über <em>Insta Repeat</em>: <a href="https://www.instagram.com/insta_repeat">instagram.com/insta_repeat</a>
-- Screen Walk mit Emma Agnes Sheffer: <a href="https://www.youtube.com/watch?v=zitDqLvmG7U">youtube.com/watch?v=zitDqLvmG7U</a>
-
-</div>
 
 
 ### Luke Caspar Pearson, <em>Little Books of Los Santos</em>, 2015
@@ -90,17 +58,7 @@ While other artists have re-enacted the photographic series of Ed Ruscha in GTA 
 
 – Marco De Mutiis, Matteo Bittanti, <a href="https://gta5.photography/artworks/little-books-of-los-santos"><em>The Photographer's Guide to Los Santos</em></a>, Mimesis International, 2025</blockquote>
 
-<div class="lang-en">
-
 - More about <em>Little Books of Los Santos</em>: <a href="https://gta5.photography/artworks/little-books-of-los-santos">gta5.photography/artworks/little-books-of-los-santos</a>
-
-</div>
-
-<div class="lang-de">
-
-- Mehr über <em>Little Books of Los Santos</em>: <a href="https://gta5.photography/artworks/little-books-of-los-santos">gta5.photography/artworks/little-books-of-los-santos</a>
-
-</div>
 
 
 ### Ria Patricia Röder, <em>Scanograms</em>, 2015–2020
@@ -114,17 +72,7 @@ The narrative quality is created entirely through the analogue arrangement and t
 
 – Marco De Mutiis, Matteo Bittanti, <a href="https://www.howtowinat.photography/en/post/insta_repeat"><em>How to Win at Photography – Image-making as Play</em></a>, Fotomuseum Winterthur, online publication, 2021.</blockquote>
 
-<div class="lang-en">
-
 - More about <em>Scanograms</em>: <a href="http://patricia-roeder.com/scanograms/">patricia-roeder.com/scanograms</a>
-
-</div>
-
-<div class="lang-de">
-
-- Mehr über <em>Scanograms</em>: <a href="http://patricia-roeder.com/scanograms/">patricia-roeder.com/scanograms</a>
-
-</div>
 
 
 ### Luke Shannon, <em>Replacement Character</em>, 2025
@@ -138,38 +86,16 @@ The exhibition's title refers to the "&#65533;" symbol, a temporary placeholder 
 
 – Luke Shannon, <a href="https://heftgallery.com/exhibition/replacement-character"><em>Replacement Characters</em> at Heft Gallery</a>, 2025.</blockquote>
 
-<div class="lang-en">
-
 - More about <em>Replacement Characters</em>: <a href="https://heftgallery.com/exhibition/replacement-character">heftgallery.com/exhibition/replacement-character</a>
 
-</div>
 
-<div class="lang-de">
+## Tutorial
 
-- Mehr über <em>Replacement Characters</em>: <a href="https://heftgallery.com/exhibition/replacement-character">heftgallery.com/exhibition/replacement-character</a>
-
-</div>
-
-
-## <span class="lang-en">Tutorial</span><span class="lang-de">Tutorial</span>
-
-### <span class="lang-en">Scanography: Using a Flatbed Scanner as a Camera</span><span class="lang-de">Scanografie: Den Flachbettscanner als Kamera nutzen</span>
-
-<div class="lang-en">
+### Scanography: Using a Flatbed Scanner as a Camera
 
 A flatbed scanner can be used as a cameraless photographic tool. By placing objects directly on the glass surface, the scanner captures them with a unique quality of light — soft, diffused, and directional — that is difficult to reproduce with a camera. This technique is called scanography, and it connects directly to the photographic and conceptual traditions explored in this lesson.
 
-</div>
-
-<div class="lang-de">
-
-Ein Flachbettscanner kann als kameralose fotografische Technik eingesetzt werden. Indem Objekte direkt auf die Glasfläche gelegt werden, erfasst der Scanner sie mit einer einzigartigen Lichtqualität — weich, diffus und gerichtet — die mit einer Kamera schwer zu reproduzieren ist. Diese Technik wird als Scanografie bezeichnet und steht in direktem Zusammenhang mit den in dieser Lektion erkundeten fotografischen und konzeptuellen Traditionen.
-
-</div>
-
-### <span class="lang-en">What You Need</span><span class="lang-de">Was du brauchst</span>
-
-<div class="lang-en">
+### What You Need
 
 | Item | Notes |
 |---|---|
@@ -177,21 +103,7 @@ Ein Flachbettscanner kann als kameralose fotografische Technik eingesetzt werden
 | Objects to scan | Printed images, hands, everyday objects, flowers, leaves, fabrics |
 | Background material | Black cloth or card for dramatic contrast, white for a clinical look |
 
-</div>
-
-<div class="lang-de">
-
-| Gegenstand | Hinweise |
-|---|---|
-| Flachbettscanner | Jedes Modell funktioniert. CCD-Scanner erzeugen etwas mehr Tiefe als CIS-Scanner |
-| Zu scannende Objekte | Gedruckte Bilder, Hände, Alltagsgegenstände, Blumen, Blätter, Stoffe |
-| Hintergrundmaterial | Schwarzes Tuch oder schwarze Pappe für dramatischen Kontrast, Weiß für eine klinische Anmutung |
-
-</div>
-
-### <span class="lang-en">Basic Technique</span><span class="lang-de">Grundlegende Technik</span>
-
-<div class="lang-en">
+### Basic Technique
 
 **1. Clean the glass.** Dust and fingerprints will appear in your scan. Wipe the glass surface with a soft cloth before each session.
 
@@ -206,9 +118,127 @@ Ein Flachbettscanner kann als kameralose fotografische Technik eingesetzt werden
 
 **4. Scan at high resolution.** Set your scanner to at least 300 DPI for print-quality results. Higher resolutions (600–1200 DPI) capture extraordinary detail but produce very large files and take longer to scan.
 
+### Creative Techniques
+
+**Movement during scanning.** Because the scanner head moves slowly across the glass, moving an object during the scan produces distorted, elongated, or ghostly effects — similar to long-exposure photography.
+
+**Layering and collage.** Scan objects individually, then combine them in an image editor. You can also layer translucent materials (lace, tissue paper, thin fabric) directly on the glass with objects on top for textural effects. This is the technique Röder used for her <em>Scanograms</em>.
+
+**Rephotographing printed images.** Place printed photographs, postcards, or pages from books on the scanner to create high-resolution digital copies. This is the technique Mandiberg used for <em>AfterSherrieLevine.com</em> — the scan as a conceptual act of appropriation.
+
+### Scanning as Appropriation
+
+In the context of this lesson, the scanner is not just a reproduction tool but a means of recontextualizing images. Consider:
+
+- **What changes when you scan a photograph?** The physical object becomes a digital file. The context shifts from gallery wall or book page to screen and network.
+- **What is preserved, and what is lost?** Resolution, color, and detail may be faithfully captured, but the material qualities of the original — texture, size, weight, smell — are flattened.
+- **What is gained?** The digital copy can be freely distributed, modified, and reframed. It enters a different economy of images.
+
+These are the same questions raised by Mandiberg's scans of Levine's rephotographs of Walker Evans — a chain of copies where each act of reproduction adds a new layer of meaning.
+
+
+## Assignment
+
+Explore the idea of image copy through digital or analogue cameraless techniques: screenshots, digital scans, photograms or cyanotypes. Create a new context for the original images you copy inspired by the artworks explored in class.
+
 </div>
 
+
 <div class="lang-de">
+
+Eine Kopie eines Bildes lässt sich als fotografischer Akt verstehen, der soziale und politische Bedeutung trägt: Kopieren bedeutet stehlen, aber auch zurückfordern oder reappropriieren und Repräsentation durch eine einfache Geste zu kritisieren. Was sich verändert, ist nicht der Inhalt des Bildes, sondern sein Kontext.
+
+In der Fotografie entstand eine konzeptuelle Tradition der Bildaneignung, die in den 1980er Jahren besonders prominent wurde, als der Akt des Rephotografierens genutzt wurde, um die in Werbebildern und in der Kunstwelt eingebetteten Machtstrukturen zu hinterfragen. Zeitgenössische Praktiken wie das digitale Scannen und das Erstellen von Screenshots lassen sich in dieser fotografischen Tradition verorten und erweitern die Untersuchung auf Internetphänomene sowie auf die technischen Verzerrungen und sozialen Fragen, die in den Infrastrukturen der Bildverbreitung eingeschrieben sind.
+
+
+## Fallstudien
+
+
+### Michael Mandiberg, <em>AfterSherrieLevine.com</em>, 2001
+
+![AfterSherrieLevine.com]({{ site.baseurl }}/courses/01_Cameraless/assets/img/aftersherrielevine.jpg)
+<figcaption>Michael Mandiberg, from <em>AfterSherrieLevine.com</em>, 2001</figcaption>
+
+<blockquote>"In April 2001, I launched AfterWalkerEvans.com and AfterSherrieLevine.com, two identical websites on which I made freely available high-resolution scans of Walker Evans images rephotographed by Sherrie Levine. These digital images are accessible to anyone, and while they accrue cultural value, they retain little to no economic value. The site links to high-resolution, exhibition-quality images and certificates of authenticity to be signed by the downloader, and includes framing and exhibition directions."
+
+– Michael Mandiberg, <a href="https://www.mandiberg.com/aftersherrielevine-com/"><em>artist website</em></a></blockquote>
+
+- Mehr über <em>AfterSherrieLevine.com</em>: <a href="https://aftersherrielevine.com/">aftersherrielevine.com</a>
+- Screen Walk mit Emma Agnes Sheffer: <a href="https://www.youtube.com/watch?v=zitDqLvmG7U">youtube.com/watch?v=zitDqLvmG7U</a>
+
+
+### Emma Agnes Sheffer, <em>Insta Repeat</em>, 2018 – ongoing
+
+![Insta Repeat]({{ site.baseurl }}/courses/01_Cameraless/assets/img/instarepeat.jpg)
+<figcaption>Emma Agnes Sheffer, from <em>Insta Repeat</em>, 2018 – ongoing</figcaption>
+
+<blockquote>On her profile @insta_repeat, Emma Agnes Sheffer posts "a collage of virtually identical motifs that the US American artist found on the profiles of different influencers.
+
+Sheffer uses this juxtaposition to show how users with large numbers of followers define how a 'successful' image should look like: the more likes, clicks and shares a picture gets, the more influence it has on visual idioms. This pictorial language is imitated by other users around the world and thus becomes an unwritten aesthetic rule, which ends up in a process of standardisation. In playing the 'attention' game, it is not originality that counts so much as how well it can be staked out and marketed."
+
+– Marco De Mutiis, Matteo Bittanti, <a href="https://www.howtowinat.photography/en/post/insta_repeat"><em>How to Win at Photography – Image-making as Play</em></a>, Fotomuseum Winterthur, online publication, 2021.</blockquote>
+
+- Mehr über <em>Insta Repeat</em>: <a href="https://www.instagram.com/insta_repeat">instagram.com/insta_repeat</a>
+- Screen Walk mit Emma Agnes Sheffer: <a href="https://www.youtube.com/watch?v=zitDqLvmG7U">youtube.com/watch?v=zitDqLvmG7U</a>
+
+
+### Luke Caspar Pearson, <em>Little Books of Los Santos</em>, 2015
+
+![Little Books of Los Santos]({{ site.baseurl }}/courses/01_Cameraless/assets/img/littlebooksoflossantos.jpg)
+<figcaption>Luke Caspar Pearson, <em>Little Books of Los Santos</em>, 2015</figcaption>
+
+<blockquote>"Ed Ruscha's photo books from the 1960s and 1970s all documented specific typologies of the Californian environment of that time. From gasoline stations to pools to parking lots, most publications analyse the American landscape through an austere use of photography, employed as an almost scientific tool. Often referred to as New Topographics, this school of photographic documentation featured formal, black and white images of the urban landscape. Luke Caspar Pearson was inspired by Ed Ruscha's artist books to screenshot the game world of GTA V, attempting to reproduce the photographer's subjects and style. Pearson's game images are collected and published in little books that are direct reproductions of Ruscha's original publications, namely Twentysix Gasoline Stations, Thirtyfour Parking Lots in Los Angeles and Nine Swimming Pools and a Broken Glass.
+
+While other artists have re-enacted the photographic series of Ed Ruscha in GTA V, Pearson does not stop at the copy and playing with the blurry boundaries between photographic documentation and photorealistic simulation. The artist extends the work of Ruscha by imagining two new possible series within the game: Cars on Hills and Many Mission Markers. Here Pearson attempts to employ the same 'deadpan' photographic style to elements that are specific to GTA V and exist within a virtual world, and which would be improbable or impossible outside of the video game screen. Through this approach, the Little Books of Los Santos show the development of a photographic practice in relation to the game object, moving from the replica of the analogue medium to an approach and a mindset that investigates the specificities of the virtual world through image-making."
+
+– Marco De Mutiis, Matteo Bittanti, <a href="https://gta5.photography/artworks/little-books-of-los-santos"><em>The Photographer's Guide to Los Santos</em></a>, Mimesis International, 2025</blockquote>
+
+- Mehr über <em>Little Books of Los Santos</em>: <a href="https://gta5.photography/artworks/little-books-of-los-santos">gta5.photography/artworks/little-books-of-los-santos</a>
+
+
+### Ria Patricia Röder, <em>Scanograms</em>, 2015–2020
+
+![Scanograms]({{ site.baseurl }}/courses/01_Cameraless/assets/img/scanograms.jpg)
+<figcaption>Ria Patricia Röder, <em>Nazareno</em>, 2018, from <em>Scanograms</em>, 2015 – 2020</figcaption>
+
+<blockquote>"Ria Patricia Röder (b. 1983) creates her motifs by capturing images not with a camera but with a scanner. In addition to found objects, the German artist also scans fragments of images that she has already scanned and printed as well as shapes cut out from paper and other materials. Accordingly, the motifs she selects crop up more than once in different variations: Röder sees them as 'declinations' of the real object. Nor does she make use of digital editing or image renderings in her carefully composed <em>Scanograms</em> (2015–2020).
+
+The narrative quality is created entirely through the analogue arrangement and the dynamic relationship of razor-sharp and blurred elements, which are attributable to the shallow depth of field in the scanning process. Röder's 'scanograms' constitute an experiment with a medium that has certain similarities with the conventional photo camera – namely, the presence of a lens and the process of exposure – yet also enables other forms of imaging."
+
+– Marco De Mutiis, Matteo Bittanti, <a href="https://www.howtowinat.photography/en/post/insta_repeat"><em>How to Win at Photography – Image-making as Play</em></a>, Fotomuseum Winterthur, online publication, 2021.</blockquote>
+
+- Mehr über <em>Scanograms</em>: <a href="http://patricia-roeder.com/scanograms/">patricia-roeder.com/scanograms</a>
+
+
+### Luke Shannon, <em>Replacement Character</em>, 2025
+
+![Replacement Character]({{ site.baseurl }}/courses/01_Cameraless/assets/img/replacement-character.webp)
+<figcaption>Luke Shannon, <em>Saturday, September 20, 2025 at 3:35 PM (Reading)</em>, from <em>Replacement Character</em>, 2025</figcaption>
+
+<blockquote>"The plotter-scanner is a tool of simultaneous surveillance and witness. While the scanner suggests a clinical and impersonal perspective, the act of making images requires total closeness. The resulting prints are both precise and intimate, holding the body at scale, yet fractured at the seams. Shannon likens this to being online: an expansive presence stretched across windows and gridded feeds, pieced together from fragmentary, constantly updating views. Shannon's engagement with the machine becomes a new form of self-portraiture: durational, ephemeral, and mirroring the artist's own presence.
+
+The exhibition's title refers to the "&#65533;" symbol, a temporary placeholder used when a computer fails to recognize or render a character, exposed in anticipation of its own obsolescence. Shannon explores the idea of a replaceable, upgradeable persona in the information era, where the hyper-documentation of our selves predicates its own replacement. This work prompts viewers to reflect on what it means to be seen—not only by other people, but by our environments, technologies, and the ubiquitous systems we increasingly engage and inhabit. In doing so, it raises critical questions about how intelligent machines read or interpret us through images."
+
+– Luke Shannon, <a href="https://heftgallery.com/exhibition/replacement-character"><em>Replacement Characters</em> at Heft Gallery</a>, 2025.</blockquote>
+
+- Mehr über <em>Replacement Characters</em>: <a href="https://heftgallery.com/exhibition/replacement-character">heftgallery.com/exhibition/replacement-character</a>
+
+
+## Tutorial
+
+### Scanografie: Den Flachbettscanner als Kamera nutzen
+
+Ein Flachbettscanner kann als kameralose fotografische Technik eingesetzt werden. Indem Objekte direkt auf die Glasfläche gelegt werden, erfasst der Scanner sie mit einer einzigartigen Lichtqualität — weich, diffus und gerichtet — die mit einer Kamera schwer zu reproduzieren ist. Diese Technik wird als Scanografie bezeichnet und steht in direktem Zusammenhang mit den in dieser Lektion erkundeten fotografischen und konzeptuellen Traditionen.
+
+### Was du brauchst
+
+| Gegenstand | Hinweise |
+|---|---|
+| Flachbettscanner | Jedes Modell funktioniert. CCD-Scanner erzeugen etwas mehr Tiefe als CIS-Scanner |
+| Zu scannende Objekte | Gedruckte Bilder, Hände, Alltagsgegenstände, Blumen, Blätter, Stoffe |
+| Hintergrundmaterial | Schwarzes Tuch oder schwarze Pappe für dramatischen Kontrast, Weiß für eine klinische Anmutung |
+
+### Grundlegende Technik
 
 **1. Das Glas reinigen.** Staub und Fingerabdrücke werden im Scan sichtbar. Wische die Glasfläche vor jeder Sitzung mit einem weichen Tuch ab.
 
@@ -223,21 +253,7 @@ Ein Flachbettscanner kann als kameralose fotografische Technik eingesetzt werden
 
 **4. In hoher Auflösung scannen.** Stelle deinen Scanner auf mindestens 300 DPI ein, um druckqualitätstaugliche Ergebnisse zu erzielen. Höhere Auflösungen (600–1200 DPI) erfassen außerordentliche Details, erzeugen jedoch sehr große Dateien und benötigen mehr Zeit zum Scannen.
 
-</div>
-
-### <span class="lang-en">Creative Techniques</span><span class="lang-de">Kreative Techniken</span>
-
-<div class="lang-en">
-
-**Movement during scanning.** Because the scanner head moves slowly across the glass, moving an object during the scan produces distorted, elongated, or ghostly effects — similar to long-exposure photography.
-
-**Layering and collage.** Scan objects individually, then combine them in an image editor. You can also layer translucent materials (lace, tissue paper, thin fabric) directly on the glass with objects on top for textural effects. This is the technique Röder used for her <em>Scanograms</em>.
-
-**Rephotographing printed images.** Place printed photographs, postcards, or pages from books on the scanner to create high-resolution digital copies. This is the technique Mandiberg used for <em>AfterSherrieLevine.com</em> — the scan as a conceptual act of appropriation.
-
-</div>
-
-<div class="lang-de">
+### Kreative Techniken
 
 **Bewegung während des Scannens.** Da sich der Scannerkopf langsam über das Glas bewegt, erzeugt das Bewegen eines Objekts während des Scans verzerrte, gestreckte oder gespenstische Effekte — ähnlich der Langzeitbelichtungsfotografie.
 
@@ -245,23 +261,7 @@ Ein Flachbettscanner kann als kameralose fotografische Technik eingesetzt werden
 
 **Rephotografieren gedruckter Bilder.** Lege gedruckte Fotos, Postkarten oder Buchseiten auf den Scanner, um hochauflösende digitale Kopien zu erstellen. Das ist die Technik, die Mandiberg für <em>AfterSherrieLevine.com</em> verwendet hat — der Scan als konzeptueller Akt der Aneignung.
 
-</div>
-
-### <span class="lang-en">Scanning as Appropriation</span><span class="lang-de">Scannen als Aneignung</span>
-
-<div class="lang-en">
-
-In the context of this lesson, the scanner is not just a reproduction tool but a means of recontextualizing images. Consider:
-
-- **What changes when you scan a photograph?** The physical object becomes a digital file. The context shifts from gallery wall or book page to screen and network.
-- **What is preserved, and what is lost?** Resolution, color, and detail may be faithfully captured, but the material qualities of the original — texture, size, weight, smell — are flattened.
-- **What is gained?** The digital copy can be freely distributed, modified, and reframed. It enters a different economy of images.
-
-These are the same questions raised by Mandiberg's scans of Levine's rephotographs of Walker Evans — a chain of copies where each act of reproduction adds a new layer of meaning.
-
-</div>
-
-<div class="lang-de">
+### Scannen als Aneignung
 
 Im Kontext dieser Lektion ist der Scanner nicht nur ein Reproduktionswerkzeug, sondern ein Mittel zur Rekontextualisierung von Bildern. Überlege:
 
@@ -271,18 +271,8 @@ Im Kontext dieser Lektion ist der Scanner nicht nur ein Reproduktionswerkzeug, s
 
 Dies sind dieselben Fragen, die Mandibergs Scans von Levines Rephotografien von Walker Evans aufwerfen — eine Kette von Kopien, bei der jeder Reproduktionsakt eine neue Bedeutungsebene hinzufügt.
 
-</div>
 
-
-## <span class="lang-en">Assignment</span><span class="lang-de">Aufgabe</span>
-
-<div class="lang-en">
-
-Explore the idea of image copy through digital or analogue cameraless techniques: screenshots, digital scans, photograms or cyanotypes. Create a new context for the original images you copy inspired by the artworks explored in class.
-
-</div>
-
-<div class="lang-de">
+## Aufgabe
 
 Erkunde die Idee der Bildkopie durch digitale oder analoge kameralose Techniken: Screenshots, digitale Scans, Fotogramme oder Zyanotypien. Schaffe einen neuen Kontext für die Originalbilder, die du kopierst, inspiriert von den in der Lehrveranstaltung untersuchten Kunstwerken.
 
