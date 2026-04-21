@@ -158,6 +158,7 @@ Explore the idea of image copy through digital or analogue cameraless techniques
 
 ## Präsentationen
 Erkunde Google Street View mit einem fotografischen Ansatz und erstelle eine Serie von 5–10 Screenshots. Du kannst deine Screenshots auf einem bestimmten Thema, einer geografischen Region, einer fotografischen Tradition oder einer künstlerischen Praxis aus den in der Lehrveranstaltung gesehenen Beispielen basieren.
+
 Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [diesem Online-Dokument](https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?usp=sharing) hoch.
 
 ***
