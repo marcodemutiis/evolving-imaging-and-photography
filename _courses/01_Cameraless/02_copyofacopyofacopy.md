@@ -11,6 +11,14 @@ published: true
 
 <div class="lang-en" markdown="1">
 
+***
+## Presentations
+Explore Google Street View with a photographic approach, and take a series of 5-10 screenshots. You can base your screenshots on a specific theme, geographic region, photographic tradition, or artistic practice from the examples seen in class.
+
+Upload a screenshot of your assignment with your name and a caption on [this online document](https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?usp=sharing)
+
+***
+
 A copy of an image can be understood as a photographic act that carries social and political meaning: to copy is to steal, but also to reclaim or reappropriate, and to critique representation through a simple gesture. What changes is not the content of the image, but its context.
 
 In photography, a conceptual tradition of image appropriation emerged most prominently in the 1980s, when the act of rephotographing was used to challenge the power structures embedded in advertising images and in the art world. Contemporary practices such as digital scanning and screenshotting can be understood within this photographic lineage, extending the inquiry into internet phenomena as well as the technical biases and social issues embedded in the infrastructures of image circulation.
@@ -145,6 +153,14 @@ Explore the idea of image copy through digital or analogue cameraless techniques
 
 
 <div class="lang-de" markdown="1">
+
+***
+
+## Präsentationen
+Erkunde Google Street View mit einem fotografischen Ansatz und erstelle eine Serie von 5–10 Screenshots. Du kannst deine Screenshots auf einem bestimmten Thema, einer geografischen Region, einer fotografischen Tradition oder einer künstlerischen Praxis aus den in der Lehrveranstaltung gesehenen Beispielen basieren.
+Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [diesem Online-Dokument](https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?usp=sharing) hoch.
+
+***
 
 Eine Kopie eines Bildes lässt sich als fotografischer Akt verstehen, der soziale und politische Bedeutung trägt: Kopieren bedeutet stehlen, aber auch zurückfordern oder reappropriieren und Repräsentation durch eine einfache Geste zu kritisieren. Was sich verändert, ist nicht der Inhalt des Bildes, sondern sein Kontext.
 
