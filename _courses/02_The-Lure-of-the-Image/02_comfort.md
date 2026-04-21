@@ -14,7 +14,7 @@ published: false
 ## Presentations:
 Create a portrait that combines traditional photography and face filter techniques (or other digital forms of manipulation), and reflects on ideas of beauty, identity, and the role of digital and networked images in seducing through portrait photography and images of the face.
 
-Upload a screenshot of your assignment with your name and a caption on [this online document]()
+Upload a screenshot of your assignment with your name and a caption on [this online document](https://docs.google.com/document/d/1Q0-m59lTLR5zSQ_QYVNXhEPrnJyhgbuKK2FWSr2wMrU/edit?tab=t.dvnpj1o8puck)
 
 
 ## Feeling Good: from the Image as Comfort to Cute Propaganda
