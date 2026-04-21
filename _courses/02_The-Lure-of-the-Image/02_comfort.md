@@ -81,6 +81,13 @@ In *Annihilation Core Inherited Lore ٩(͡๏̯͡๏)۶*, Noura Tafeche (b. 1987
 
 Tafeche maps aesthetic forms from 'kawaii' (a Japanese cultural phenomenon which emphasises cuteness and innocence) to gaming, TikTok and fan art, illustrating how viral content like memes or online dance challenges can promote misogyny, supremacism and racism. The installation combines an immersive environment with interactive access to the artist's research archive, exposing how the seemingly most innocent forms of mainstream visual culture can be infiltrated by harmful propaganda.
 
+### Eriko Miyata, [*Chronicle Void*](https://ecal.ch/en/feed/projects/8399/chronicle-void/), 2025
+
+![Miyata]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/02/miyata.jpg)
+<figcaption>Eriko Miyata, <em>Chronicle Void</em>, 2025</figcaption>
+
+Chronicle Void explores how Japanese pop culture portrays women and shapes societal attitudes, especially around normalized sexual harassment. Growing up female in Japan and later moving to Europe revealed to the photographer how deep implicit biases run across cultures. This video installation blends personal memories with public symbols like anti-harassment signs. Using biased AI filters on childhood photos, she reveals how memory and identity are shaped by social bias. Referencing Japan's selfie culture, the photographer experiments with AI and video to critique identity, memory, and cultural influence.
+
 
 ## Tutorial
 
