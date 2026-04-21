@@ -147,7 +147,7 @@ These are the same questions raised by Mandiberg's scans of Levine's rephotograp
 
 ## Assignment
 
-Explore the idea of image copy through digital or analogue cameraless techniques: screenshots, digital scans, photograms or cyanotypes. Create a new context for the original images you copy inspired by the artworks explored in class.
+Explore the idea of image copy through digital or analogue cameraless techniques: screenshots, digital scans, photograms or cyanotypes. Create a new context for the original images you copy inspired by the artworks explored in class. Create a series of at least 3 images.
 
 </div>
 
@@ -291,6 +291,6 @@ Dies sind dieselben Fragen, die Mandibergs Scans von Levines Rephotografien von 
 
 ## Aufgabe
 
-Erkunde die Idee der Bildkopie durch digitale oder analoge kameralose Techniken: Screenshots, digitale Scans, Fotogramme oder Zyanotypien. Schaffe einen neuen Kontext für die Originalbilder, die du kopierst, inspiriert von den in der Lehrveranstaltung untersuchten Kunstwerken.
+Erkunde die Idee der Bildkopie durch digitale oder analoge kameralose Techniken: Screenshots, digitale Scans, Fotogramme oder Zyanotypien. Schaffe einen neuen Kontext für die Originalbilder, die du kopierst, inspiriert von den in der Lehrveranstaltung untersuchten Kunstwerken. Erstelle eine Serie von mindestens 3 Bildern.
 
 </div>
