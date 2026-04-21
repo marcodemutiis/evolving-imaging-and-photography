@@ -9,7 +9,7 @@ lesson_number: 2
 published: true
 ---
 
-<div class="lang-en">
+<div class="lang-en" markdown="1">
 
 A copy of an image can be understood as a photographic act that carries social and political meaning: to copy is to steal, but also to reclaim or reappropriate, and to critique representation through a simple gesture. What changes is not the content of the image, but its context.
 
@@ -144,7 +144,7 @@ Explore the idea of image copy through digital or analogue cameraless techniques
 </div>
 
 
-<div class="lang-de">
+<div class="lang-de" markdown="1">
 
 Eine Kopie eines Bildes lässt sich als fotografischer Akt verstehen, der soziale und politische Bedeutung trägt: Kopieren bedeutet stehlen, aber auch zurückfordern oder reappropriieren und Repräsentation durch eine einfache Geste zu kritisieren. Was sich verändert, ist nicht der Inhalt des Bildes, sondern sein Kontext.
 

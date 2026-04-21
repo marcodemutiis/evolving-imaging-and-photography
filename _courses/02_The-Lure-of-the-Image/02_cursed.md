@@ -18,7 +18,13 @@ Create a portrait that combines traditional photography and face filter techniqu
 Upload a screenshot of your assignment with your name and a caption on [this online document]()
 
 
-## Cursed Images: the seduction of the uncanny from appropriating Flickr to generative AI
+## Cursed Images: the seduction of the uncanny from photography to generative AI
+
+
+### Joel-Peter Witkin, *Still Life Marseilles*, 1992
+
+### Laurie Simmons, *Walking Objects*, 1987–1990
+https://www.lauriesimmons.net/artwork/talking-objects
 
 ### Anonymous, *Cursed* (Tumblr blog), 2015
 
@@ -28,6 +34,10 @@ Upload a screenshot of your assignment with your name and a caption on [this onl
 
 ### Jared Madere, 
 https://jaredmadere.ooo/
+https://www.instagram.com/p/DBbybG2RYro/
+
+### Andrey Lopatin, 
+
 
 ## Tutorial
 
