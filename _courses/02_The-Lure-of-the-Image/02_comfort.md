@@ -6,7 +6,7 @@ course_id: the-lure-of-the-image
 course_title: "The Lure of the Image"
 course_title_de: "The Lure of the Image"
 lesson_number: 2
-published: false
+published: true
 ---
 
 <div class="lang-en" markdown="1">
