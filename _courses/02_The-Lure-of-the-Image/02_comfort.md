@@ -81,7 +81,7 @@ In *Annihilation Core Inherited Lore ٩(͡๏̯͡๏)۶*, Noura Tafeche (b. 1987
 
 Tafeche maps aesthetic forms from 'kawaii' (a Japanese cultural phenomenon which emphasises cuteness and innocence) to gaming, TikTok and fan art, illustrating how viral content like memes or online dance challenges can promote misogyny, supremacism and racism. The installation combines an immersive environment with interactive access to the artist's research archive, exposing how the seemingly most innocent forms of mainstream visual culture can be infiltrated by harmful propaganda.
 
-### Eriko Miyata, [*My Soulgem is Dull Color*](https://drive.google.com/file/d/1QDGWpKZ3KnbxMYWkrpWa8QOJxpJ1zxXC/view), 2025
+### Eriko Miyata, [*My Soulgem is Dull Color*](vimeo.com/1056455014/6af9aefa6f), 2025
 
 ![Miyata]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/02/miyata.jpg)
 <figcaption>Eriko Miyata, <em>My Soulgem is Dull Color</em>, 2025</figcaption>
