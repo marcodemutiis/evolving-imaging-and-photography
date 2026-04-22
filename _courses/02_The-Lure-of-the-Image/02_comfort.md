@@ -81,12 +81,12 @@ In *Annihilation Core Inherited Lore ٩(͡๏̯͡๏)۶*, Noura Tafeche (b. 1987
 
 Tafeche maps aesthetic forms from 'kawaii' (a Japanese cultural phenomenon which emphasises cuteness and innocence) to gaming, TikTok and fan art, illustrating how viral content like memes or online dance challenges can promote misogyny, supremacism and racism. The installation combines an immersive environment with interactive access to the artist's research archive, exposing how the seemingly most innocent forms of mainstream visual culture can be infiltrated by harmful propaganda.
 
-### Eriko Miyata, [*Chronicle Void*](https://ecal.ch/en/feed/projects/8399/chronicle-void/), 2025
+### Eriko Miyata, [*My Soulgem is Dull Color*](https://drive.google.com/file/d/1QDGWpKZ3KnbxMYWkrpWa8QOJxpJ1zxXC/view), 2025
 
 ![Miyata]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/02/miyata.jpg)
-<figcaption>Eriko Miyata, <em>Chronicle Void</em>, 2025</figcaption>
+<figcaption>Eriko Miyata, <em>My Soulgem is Dull Color</em>, 2025</figcaption>
 
-Chronicle Void explores how Japanese pop culture portrays women and shapes societal attitudes, especially around normalized sexual harassment. Growing up female in Japan and later moving to Europe revealed to the photographer how deep implicit biases run across cultures. This video installation blends personal memories with public symbols like anti-harassment signs. Using biased AI filters on childhood photos, she reveals how memory and identity are shaped by social bias. Referencing Japan's selfie culture, the photographer experiments with AI and video to critique identity, memory, and cultural influence.
+*My Soulgem is Dull Color* interweaves childhood photographs from family albums with AI generated figures of militarised female characters based on the action figures of the Kantai Collection – a game where the representation of World War II warships is personified as teenage girls with personality characteristics reflecting the history of each ship. By morphing between personal memories and militarised cute female characters, the artist reflects on the role of kawaii culture in her native Japan and the role it has in shaping female subjects and identities.
 
 
 ## Tutorial
