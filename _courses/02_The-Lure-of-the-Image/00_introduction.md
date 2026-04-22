@@ -37,8 +37,8 @@ Make: Create a collage of images that represent the different typologies of the 
 | 6.5.2026   | The Lure of Belief                  |
 | 13.5.2026  | *Project Presentations*             |
 | 3.6.2026   | Cursed Images and the Internet Subconscious|
-| 10.6.2026  | Lowres Beliefs and Conspiracy Theories|
-| 17.6.2026  | Slop Economies and AI Propaganda    |
+| 10.6.2026  | Lowres Beliefs and Conspiracy Theories| <!-- clik bait, thirst traps, bot bait-->
+| 17.6.2026  | Slop Economies and AI Propaganda    | 
 | 24.6.2026  | *Final Projects Development*        |
 | 1.7.2026   | *Final Projects Development*        |
 
@@ -118,40 +118,40 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 ## Student_innen
 </div>
 
-- Wilhelm, Theresa vv
+- Wilhelm, Theresa vvv
 
-- Grill, (M) Louis vv
+- Grill, (M) Louis vvv
 
-- Thobe, Lara vx
+- Thobe, Lara vxx
 
-- Schubert, Alexander vv
+- Schubert, Alexander vvv
 
-- Bräutigam, Caro vv
+- Bräutigam, Caro vvv
 
-- Stärk, Alica vv
+- Stärk, Alica vvv
 
-- Schneider, Kaya vv
+- Schneider, Kaya vvv
 
-- Kilic, Merve vv
+- Kilic, Merve vvv
 
-- Lobo de Macedo, Rosa vv
+- Lobo de Macedo, Rosa vvv
 
-- Weinzierl, Paula xv
+- Weinzierl, Paula xvv
 
-- Ranftl, Felix vv
+- Ranftl, Felix vvx
 
-- Burgard, Hanna vv
+- Burgard, Hanna vvv
 
-- Parkhidko, Kati vv
+- Parkhidko, Kati vvx
 
-- Horst, Anna vv 
+- Horst, Anna vvv 
 
-- Heidemann, Anja vx
+- Heidemann, Anja vxv
 
-- Oschmann, Josephin vx
+- Oschmann, Josephin vxv
 
-- Stoffel, Felix vx
+- Stoffel, Felix vxx
 
-- Veljkovic, Adrijana vx
+- Veljkovic, Adrijana vxv
 
-- Schindel, Emily vx
+- Schindel, Emily vxv

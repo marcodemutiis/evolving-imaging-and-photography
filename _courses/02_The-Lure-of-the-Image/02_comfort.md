@@ -97,7 +97,7 @@ Tafeche maps aesthetic forms from 'kawaii' (a Japanese cultural phenomenon which
 
 Read: james taylor-foster, [*ASMRology*]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/texts/02_taylor-foster-ASMRology.pdf), 2025
 
-Make: Create a series of 5-10 images using some of the techniques explored in class to address the seductive powers of images to make us feel comfort, wholesome, or cute - and use them as strategies to address a specific topic (personal, social or political), inspired by the examples seen in class.
+Make: Create a small dataset of 10-20 photographs based on a specific style or subject. Create a LoRA in Replicate following the tutorial, or bring them to class to train the LoRA then. Think of some of the theme shown in class – animals, food, cuteness, ASMR – and try to think of what images you can photograph to create affective and emotional responses. You can bring an additional dataset of digital images from different sources to explore different aesthetics and meanings.
 
 </div>
 
