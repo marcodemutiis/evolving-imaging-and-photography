@@ -31,16 +31,16 @@ Make: Create a collage of images that represent the different typologies of the 
 | Date       | Topic                               |
 |------------|-------------------------------------|
 | 8.4.2026   | Introduction                        |
-| 15.4.2026  | The self(ie)			                   |
-| 22.4.2026  | Influencer Photography              |
-| 29.4.2026  | Affective Images & Reaction Economies|
-| 6.5.2026   | Operational Cuteness & Meme Politics|
-| 13.5.2026  | *Project Presentations              |
+| 15.4.2026  | The Lure of the Self(ie)			   |
+| 22.4.2026  | The Lure of Comfort                 |
+| 29.4.2026  | The Lure of Cursed Images           |
+| 6.5.2026   | The Lure of Belief                  |
+| 13.5.2026  | *Project Presentations*             |
 | 3.6.2026   | Cursed Images and the Internet Subconscious|
 | 10.6.2026  | Lowres Beliefs and Conspiracy Theories|
 | 17.6.2026  | Slop Economies and AI Propaganda    |
-| 24.6.2026  | *Final Projects Development.        |
-| 1.7.2026   | *Final Projects Development         |
+| 24.6.2026  | *Final Projects Development*        |
+| 1.7.2026   | *Final Projects Development*        |
 
 <!--## Tools and Resources
 
