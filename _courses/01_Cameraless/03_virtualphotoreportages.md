@@ -199,18 +199,14 @@ Beyond VRChat, several other virtual platforms offer opportunities for photograp
 ## Assignment
 
 Choose a virtual world — VRChat, Second Life, Rec Room, Mozilla Hubs, or another platform — and produce a photoreportage that documents a community, event, or aspect of daily life within it.
-
 Your reportage should go beyond simply capturing scenic environments. Approach the virtual world as a photojournalist would approach a physical location: observe how people behave, identify stories or social dynamics, and build a visual narrative around what you find.
 
 Specifically, your project should include:
 
 - **A series of 8–12 images** that together tell a coherent story or convey a specific theme.
-- **At least 2–3 images that include other avatars/users**, showing social interaction, gatherings, or individual portraits (with their permission when possible).
 - **A short written text (200–300 words)** that accompanies the images, contextualizing your reportage: Where did you go? What did you find? What story are you telling, and why?
 
 Think about the photographic decisions you're making: framing, timing, point of view, proximity to subjects. Consider how the conventions of documentary photography translate — or fail to translate — into a virtual context. What can you show in a virtual world that you couldn't in the physical one? What is lost?
-
-Look at the study cases above for inspiration: Cadioli embedded himself in war games as a non-combatant; Herms roamed Playstation Home like a street photographer; Cao Fei built an entire city and documented the society that formed within it. Find your own approach.
 
 </div>
 
@@ -412,11 +408,8 @@ Deine Reportage sollte über das bloße Erfassen malerischer Umgebungen hinausge
 Konkret sollte dein Projekt Folgendes umfassen:
 
 - **Eine Serie von 8–12 Bildern**, die gemeinsam eine kohärente Geschichte erzählen oder ein bestimmtes Thema vermitteln.
-- **Mindestens 2–3 Bilder, die andere Avatare/Nutzer:innen zeigen** — soziale Interaktionen, Zusammenkünfte oder Einzelporträts (wenn möglich mit deren Einverständnis).
 - **Einen kurzen schriftlichen Text (200–300 Wörter)**, der die Bilder begleitet und deine Reportage kontextualisiert: Wohin bist du gegangen? Was hast du vorgefunden? Welche Geschichte erzählst du, und warum?
 
 Denke über die fotografischen Entscheidungen nach, die du triffst: Bildausschnitt, Timing, Blickwinkel, Nähe zu den Motiven. Überlege, wie sich die Konventionen der Dokumentarfotografie in einen virtuellen Kontext übertragen lassen — oder eben nicht. Was kannst du in einer virtuellen Welt zeigen, was in der physischen Welt nicht möglich wäre? Was geht verloren?
-
-Lass dich von den Fallstudien oben inspirieren: Cadioli hat sich als Nicht-Kämpfer in Kriegsspiele eingebettet; Herms streifte durch PlayStation Home wie ein Straßenfotograf; Cao Fei baute eine ganze Stadt und dokumentierte die Gesellschaft, die sich darin bildete. Finde deinen eigenen Ansatz.
 
 </div>
