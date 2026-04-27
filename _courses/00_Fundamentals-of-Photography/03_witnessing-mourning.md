@@ -6,7 +6,7 @@ course_id: fundamentalsofphotography
 course_title: "Fundamentals of Photography"
 course_title_de: "Grundlagen der Fotografie"
 lesson_number: 3
-published: true
+published: false
 ---
 
 <div class="lang-en" markdown="1">
@@ -92,6 +92,13 @@ Robert Frank's [*The Americans*](https://www.moma.org/magazine/articles/346) (pu
 
 Diane Arbus photographed people who existed at the edges of social normativity — circus performers, nudists, transvestites, identical twins, people with developmental disabilities — using a direct, formal, often frontal approach that met her subjects face-on rather than catching them unaware. Her photographs are among the most debated in the history of the medium. Susan Sontag famously criticized them for aestheticizing the freakish, turning suffering and difference into objects of aesthetic contemplation for a bourgeois audience. Others have argued that Arbus's directness — the collaboration implied by the frontal pose, the lack of condescension — represents a form of respect. The debate has not been resolved and probably cannot be, because it touches on questions that cannot be settled by looking at photographs alone: Who has the right to photograph whom? What does the camera do to the social distance between photographer and subject? What is the viewer's relationship to images made of people who are vulnerable? Arbus remains indispensable precisely because her work makes these questions unavoidable.
 
+### *Provoke* Magazine and the *Are-Bure-Boke* Aesthetic, 1968–1969
+
+![Provoke]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/provoke.jpg)
+<figcaption>Daido Moriyama, from <em>Provoke</em>, 1968–1969</figcaption>
+
+*Provoke* was a Japanese photography magazine published between 1968 and 1969, produced in only three issues by a small collective that included photographers Takuma Nakahira and Daido Moriyama, poet Takahiko Okada, and critic Koji Taki. Its subtitle — *Provocative Materials for Thought* — announced a deliberate break with photography understood as clear, faithful description. The images in *Provoke* were grainy, blurred, and radically tilted — qualities the collective described with the term *are-bure-boke* (rough, blurred, out-of-focus) — and made at speed, with the camera treated as an instrument for registering raw physical sensation rather than composing legible scenes. The aesthetic was inseparable from its moment: Japan in the late 1960s was convulsed by student protest movements, the aftermath of rapid industrialization, and a profound crisis of collective identity in the shadow of defeat, Americanization, and the atom bomb. For the *Provoke* photographers, the controlled, well-exposed image felt like a lie — a form of false transparency that concealed the disorder of actual experience. Of the contributors, Daido Moriyama became the most internationally recognized, developing the *are-bure-boke* approach into a sustained body of work that continues today: street photographs of dogs, neon signs, torn posters, and bodies that feel less like documents of Tokyo than like fragments of a disintegrating perceptual field. Read alongside Frank's *The Americans* — equally grainy, equally attuned to exclusion and unease — *Provoke* represents an independent and more radical articulation of the same underlying conviction: that the subjective disturbance of the image is closer to truth than its technical mastery.
+
 
 ## Documentary & Its Discontents
 
@@ -152,7 +159,7 @@ Tomokichi Fukurai was a Japanese psychologist at Tokyo Imperial University who, 
 
 ## Assignment
 
-Photograph a person or place that is no longer as it appears in your image — someone who has since left, moved, or died; a space that has since been demolished, transformed, or abandoned. The photograph should be made now, but with knowledge of what has changed. Write a short caption (2–3 sentences) that describes the gap between what the image shows and what you know to be true.
+Produce a series of 3–5 photographs made in collaboration with your subject rather than at their expense. This means working with people you have a genuine relationship with, making your presence as photographer visible or acknowledged rather than concealed, and actively considering what the act of photographing does to the people and situations in front of your camera. The images do not need to show explicit signs of consent or collaboration — but the ethics of how they were made should be legible in them, or at least something you can account for. Write a short statement (3–5 sentences) reflecting on the decisions you made: who you photographed, why, and how the relationship between you shaped the images.
 
 </div>
 
@@ -239,6 +246,13 @@ Robert Franks [*The Americans*](https://www.moma.org/magazine/articles/346) (195
 
 Diane Arbus fotografierte Menschen, die an den Rändern sozialer Normalität existierten — Zirkusartist:innen, Nudist:innen, Transvestit:innen, eineiige Zwillinge, Menschen mit Behinderungen — mit einem direkten, formalen, oft frontalen Ansatz, der ihren Sujets von Angesicht zu Angesicht begegnete, anstatt sie unvorbereitet zu erwischen. Ihre Fotografien gehören zu den meistdiskutierten in der Geschichte des Mediums. Susan Sontag kritisierte sie bekanntermaßen dafür, das Fremdartige zu ästhetisieren und Leid und Andersartigkeit in Objekte ästhetischer Kontemplation für ein bürgerliches Publikum zu verwandeln. Andere haben argumentiert, dass Arbus' Direktheit — die durch die frontale Pose implizierte Zusammenarbeit, die fehlende Herablassung — eine Form des Respekts darstellt. Die Debatte wurde nicht beigelegt und kann es wahrscheinlich nicht, weil sie Fragen berührt, die sich nicht allein durch das Betrachten von Fotografien klären lassen: Wer hat das Recht, wen zu fotografieren? Was macht die Kamera mit der sozialen Distanz zwischen Fotografierenden und Sujet? Wie verhält sich die Betrachterin oder der Betrachter zu Bildern, die von vulnerablen Menschen gemacht wurden? Arbus bleibt unverzichtbar, weil ihr Werk diese Fragen unausweichlich macht.
 
+### Die Zeitschrift *Provoke* und die *Are-Bure-Boke*-Ästhetik, 1968–1969
+
+![Provoke]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/provoke.jpg)
+<figcaption>Daido Moriyama, aus <em>Provoke</em>, 1968–1969</figcaption>
+
+*Provoke* war eine japanische Fotografiezeitschrift, die zwischen 1968 und 1969 in nur drei Ausgaben erschien und von einem kleinen Kollektiv herausgegeben wurde, dem die Fotografen Takuma Nakahira und Daido Moriyama, der Dichter Takahiko Okada und der Kritiker Koji Taki angehörten. Der Untertitel — *Provozierende Materialien zum Denken* — kündigte einen bewussten Bruch mit der Fotografie als klarer, getreuer Beschreibung an. Die Bilder in *Provoke* waren körnig, unscharf und radikal geneigt — Qualitäten, die das Kollektiv mit dem Begriff *Are-Bure-Boke* (rau, verwackelt, unscharf) beschrieb — und wurden in hohem Tempo gemacht, wobei die Kamera als Instrument zur Erfassung roher körperlicher Empfindung eingesetzt wurde, anstatt lesbare Szenen zu komponieren. Die Ästhetik war untrennbar von ihrem Moment: Japan Ende der 1960er-Jahre wurde von Studentenbewegungen erschüttert, von den Nachwirkungen der raschen Industrialisierung und einer tiefen Identitätskrise im Schatten der Niederlage, der Amerikanisierung und der Atombombe. Für die *Provoke*-Fotografierenden wirkte das kontrollierte, gut belichtete Bild wie eine Lüge — eine Form falscher Transparenz, die die Unordnung der tatsächlichen Erfahrung verbarg. Von den Beteiligten wurde Daido Moriyama international am bekanntesten und entwickelte den *Are-Bure-Boke*-Ansatz zu einem anhaltenden Werkkorpus weiter, der bis heute andauert: Straßenfotografien von Hunden, Leuchtreklamen, zerrissenen Plakaten und Körpern, die weniger wie Dokumente Tokios wirken als wie Fragmente eines zerfallenden Wahrnehmungsfelds. Neben Franks *The Americans* — ebenso körnig, ebenso sensibel für Ausschluss und Unbehagen — stellt *Provoke* eine eigenständige und radikalere Artikulation derselben grundlegenden Überzeugung dar: dass die subjektive Erschütterung des Bildes der Wahrheit näher ist als seine technische Meisterschaft.
+
 
 ## Dokumentarfotografie und ihre Widersprüche
 
@@ -298,6 +312,6 @@ Tomokichi Fukurai war ein japanischer Psychologe an der Kaiserlichen Universitä
 
 ## Aufgabe
 
-Fotografiere eine Person oder einen Ort, der nicht mehr so ist, wie er auf deinem Bild erscheint — jemanden, der seitdem gegangen, umgezogen oder gestorben ist; einen Raum, der seitdem abgerissen, verändert oder verlassen wurde. Die Fotografie soll jetzt entstehen, aber mit dem Wissen darum, was sich verändert hat. Schreibe eine kurze Bildunterschrift (2–3 Sätze), die die Lücke zwischen dem beschreibt, was das Bild zeigt, und dem, was du weißt, dass es wahr ist.
+Erstelle eine Serie von 3–5 Fotografien, die in Zusammenarbeit mit deinem Sujet entstehen — nicht auf dessen Kosten. Das bedeutet: Fotografiere Menschen, zu denen du eine echte Beziehung hast; mach deine Anwesenheit als Fotografin oder Fotograf sichtbar oder zumindest anerkannt, anstatt sie zu verbergen; und bedenke aktiv, was der Akt des Fotografierens mit den Menschen und Situationen vor deiner Kamera macht. Die Bilder müssen keine expliziten Zeichen von Einverständnis oder Zusammenarbeit zeigen — aber die Ethik ihrer Entstehung sollte in ihnen lesbar sein oder zumindest von dir benannt werden können. Schreibe ein kurzes Statement (3–5 Sätze), in dem du deine Entscheidungen reflektierst: Wen hast du fotografiert, warum — und wie hat die Beziehung zwischen euch die Bilder geprägt?
 
 </div>
