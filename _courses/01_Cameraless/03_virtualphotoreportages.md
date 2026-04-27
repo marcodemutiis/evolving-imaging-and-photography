@@ -16,6 +16,7 @@ published: true
 Explore the idea of image copy through digital or analogue cameraless techniques: screenshots, digital scans, photograms or cyanotypes. Create a new context for the original images you copy inspired by the artworks explored in class. Create a series of at least 3 images.
 
 Upload a screenshot of your assignment with your name and a caption on [this online document](https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?usp=sharing)
+
 ***
 
 
@@ -217,10 +218,12 @@ Look at the study cases above for inspiration: Cadioli embedded himself in war g
 <div class="lang-de" markdown="1">
 
 ***
+
 ## Präsentationen
 Erkunde die Idee der Bildkopie durch digitale oder analoge kameralose Techniken: Screenshots, digitale Scans, Fotogramme oder Zyanotypien. Schaffe einen neuen Kontext für die Originalbilder, die du kopierst, inspiriert von den in der Lehrveranstaltung untersuchten Kunstwerken. Erstelle eine Serie von mindestens 3 Bildern.
 
 Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [diesem Online-Dokument](https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?usp=sharing) hoch.
+
 ***
 
 
