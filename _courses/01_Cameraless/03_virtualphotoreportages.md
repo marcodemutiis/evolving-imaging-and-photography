@@ -4,8 +4,16 @@ title: "Virtual World Photoreportages"
 course_id: cameraless
 course_title: "Cameraless"
 lesson_number: 3
-published: false
+published: true
 ---
+
+***
+## Presentations
+Explore the idea of image copy through digital or analogue cameraless techniques: screenshots, digital scans, photograms or cyanotypes. Create a new context for the original images you copy inspired by the artworks explored in class. Create a series of at least 3 images.
+
+Upload a screenshot of your assignment with your name and a caption on [this online document](https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?usp=sharing)
+***
+
 
 ## Study Cases
 
@@ -36,7 +44,43 @@ More about *Arenae*: [marcocadioli.com/arenae](https://marcocadioli.com/arenae/)
 - More about *Postcards from Home*: [rocherms.com/projects/postcards-from-home](https://www.rocherms.com/projects/postcards-from-home/?lang=en)
 - Screen Walk with Roc Herms: [youtube.com/watch?v=\_T8ytKjhk1o](https://www.youtube.com/watch?v=_T8ytKjhk1o)
 
-### Cao Fei, *RMB City*, 2007–2011
+
+### Robbie Cooper, *Alter Ego*, 2007
+
+![Alter Ego]({{ site.baseurl }}/courses/01_Cameraless/assets/img/cooper.jpg)
+<figcaption>Robbie Cooper, from <em>Alter Ego</em>, 2007</figcaption>
+
+<blockquote>In 2003 I was photographing the CEO of a company, when he told me that he used virtual world games to play with his children. He was divorced and had bad access to them, so he would meet them every evening in “Everquest”, where they would play and chat. I asked him, what did they talk about? He told me that they discussed things like homework, school, their mother; the normal stuff of humdrum reality. His description of this banal but emotionally important exchange, taking place in the vivid fantasy of the game, got me thinking about the nature of the game itself; it’s a world of surface appearances and symbols. Within that, their interaction had been reduced to text; it was a technological extension of psychological models- the imaginary, and the symbolic structure of language.
+
+Reading the work of the economist Edward Castronova, it was already obvious that these surface appearances were rapidly achieving significant real world value, as items for sale between players. Castronova’s 2001 paper “Virtual Worlds: A First Hand Account of Market and Society on the Cyberian Frontier” now seems quaint in how far it underestimated the rate of growth in this secondary market. But the level of demand was already climbing at an extraordinary rate. I spent the next three years, on and off, travelling to places like Korea, China, France and Germany to photograph people who use virtual world games. By recording the appearance of the real person, alongside that of their avatar, I wanted to compare each person with the identity that they’d created to interact with others online.
+
+– Robbie Cooper, [artist website](https://robbiecooper.com/project/alter-ego)
+</blockquote>
+
+
+More about *Alter Ego*: [robbiecooper.com/project/alter-ego](https://robbiecooper.com/project/alter-ego)
+
+
+### Eva and Franco Mattes, *Portraits*, 2006-2007
+![Portraits]({{ site.baseurl }}/courses/01_Cameraless/assets/img/mattes.jpg)
+<figcaption>Eva and Franco Mattes, <em>Portraits</em>, 2006-2007</figcaption>
+
+<blockquote>Portraits is an investigation into the construction of online identity through avatars, the virtual characters that we create as our proxy personas in video games and on online platforms.
+For their series of portraits, Eva & franco Mattes invited members of the Second Life community to virtual photo shootings, thus transferring the traditional photographic processes of sets, light and poses to an in-game environment. 
+Printed on large-format canvases, the screenshot portraits are emotionally charged by the way their gazes address each other through the arrangement in the space.
+Computer-generated and pixelated, these portraits manifest a somewhat dated digital aesthetic that is reflective of the mid-2000s, while emphasising technological imperfection in the pursuit of digital photorealism.
+At the same time, they also speak to the ambivalence of their creators' hidden desires: the choice of avatar is both a projection and a retreat behind the digital facade.
+However, the women's faces, full-lipped and photographically frozen in extreme close-up, are trapped in stereotypical ideals of beauty – an expression of how the conventional gaze is perpetuated online and in virtual worlds, along with sexualised and sexist gender roles.
+
+
+– Doris Gassert, Fabio Paris, Mona Schubert (eds.), *Eva and Franco Mattes: Dear Imaginary Audience*, Exhibition Catalogue, Fotomuseum Winterthur, 2021
+</blockquote>
+
+More about *Portraits*: [0100101110101101.org/portraits/](https://0100101110101101.org/portraits/)
+
+
+
+<!--### Cao Fei, *RMB City*, 2007–2011
 ![RMB City]({{ site.baseurl }}/courses/01_Cameraless/assets/img/rmbcity.webp)
 <figcaption>Cao Fei, Video still from <em>Live in RMB City</em>, 2009</figcaption>
 
@@ -68,7 +112,7 @@ The series consists of 900 screenshots taken over three years leading up to our 
 
 – More about *Calling Philippe/Prove your love*: [jennyrova.net](https://www.jennyrova.net/works/calling-philippe-prove-your-love)
 – Interview on Discarded Magazine: [discardedmagazine.com](https://www.discardedmagazine.com/portfolio/jenny-rova-interviews/)
-
+-->
 
 ---
 
@@ -135,6 +179,7 @@ The VRChat community has developed more advanced camera systems that can be embe
 **Where Are Photos Saved?**
 
 On Windows, VRChat saves photos to `C:/Users/[YourName]/Pictures/VRChat`, organized in folders by year and month. You can also open this folder directly from the Camera tab in the Quick Menu.
+
 
 ### Other Accessible Virtual Worlds for Photography
 
