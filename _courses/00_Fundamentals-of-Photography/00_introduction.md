@@ -56,6 +56,7 @@ published: true
 - *simulating* — post-photography, AI-generated images, photorealistic CGI, composite and manipulated photography, bio-inspired generative imagery, generative image platforms (Midjourney, Stable Diffusion), deepfakes
 <!-- performing - performing for the camera / and merge simulating with constructing-->
 
+
 ### IV. Agency and Resistance
 
 ![IV]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/bezovsek.webp)
