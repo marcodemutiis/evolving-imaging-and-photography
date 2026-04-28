@@ -14,7 +14,7 @@ published: true
 
 ## Presentations:
 
-If you have completed you LoRA and generated some images, upload your screenshot of your assignment with your name and a caption on [this online document]()
+If you have completed you LoRA and generated some images, upload your screenshot of your assignment with your name and a caption on [this online document](https://docs.google.com/document/d/1Q0-m59lTLR5zSQ_QYVNXhEPrnJyhgbuKK2FWSr2wMrU/edit?usp=sharing)
 
 If you have only created a dataset for training, airdrop your zipped folder with filename as follow: Name_Surname_Datasetname_style/subject (e.g. Marco_DeMutiis_ActionFigures_style.zip)
 
