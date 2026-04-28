@@ -126,7 +126,7 @@ The series consists of 900 screenshots taken over three years leading up to our 
 
 [VRChat](https://hello.vrchat.com/) offers a full-featured camera simulation that mirrors many concepts from real-world photography. Here's how to access and use it.
 
-**Opening the Camera**
+<!--**Opening the Camera**
 
 Open the Quick Menu and click on the Camera tab at the bottom. You can also open the Action Menu, select Tools, and then select Camera. Double-clicking the Camera button will quickly toggle the camera on and off.
 
@@ -182,8 +182,7 @@ The VRChat community has developed more advanced camera systems that can be embe
 
 **Where Are Photos Saved?**
 
-On Windows, VRChat saves photos to `C:/Users/[YourName]/Pictures/VRChat`, organized in folders by year and month. You can also open this folder directly from the Camera tab in the Quick Menu.
-
+On Windows, VRChat saves photos to `C:/Users/[YourName]/Pictures/VRChat`, organized in folders by year and month. You can also open this folder directly from the Camera tab in the Quick Menu.-->
 
 ### Other Accessible Virtual Worlds for Photography
 
@@ -329,7 +328,7 @@ The series consists of 900 screenshots taken over three years leading up to our 
 
 [VRChat](https://hello.vrchat.com/) bietet eine vollwertige Kamerasimulation, die viele Konzepte der realen Fotografie widerspiegelt. So kannst du darauf zugreifen und sie nutzen.
 
-**Die Kamera öffnen**
+<!--**Die Kamera öffnen**
 
 Öffne das Quick Menu und klicke unten auf den Reiter Camera. Du kannst auch das Action Menu öffnen, Tools auswählen und dann Camera wählen. Ein Doppelklick auf die Camera-Schaltfläche schaltet die Kamera schnell ein und aus.
 
@@ -385,7 +384,7 @@ Die VRChat-Community hat fortgeschrittenere Kamerasysteme entwickelt, die in Ava
 
 **Wo werden Fotos gespeichert?**
 
-Unter Windows speichert VRChat Fotos in `C:/Users/[DeinName]/Pictures/VRChat`, geordnet in Ordnern nach Jahr und Monat. Du kannst diesen Ordner auch direkt über den Camera-Reiter im Quick Menu öffnen.
+Unter Windows speichert VRChat Fotos in `C:/Users/[DeinName]/Pictures/VRChat`, geordnet in Ordnern nach Jahr und Monat. Du kannst diesen Ordner auch direkt über den Camera-Reiter im Quick Menu öffnen.-->
 
 
 ### Weitere zugängliche virtuelle Welten für die Fotografie
