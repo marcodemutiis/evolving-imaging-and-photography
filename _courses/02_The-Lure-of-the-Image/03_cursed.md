@@ -66,7 +66,9 @@ Charlie Engman: Cursed is a striking extension of the internet-born “cursed im
 Jon Rafman’s Egregores is a hypnotic, unsettling video work that blends internet culture, virtual worlds, and collective psychology into a dense visual experience. Drawing on the idea of “egregores” as shared thought-forms shaped by group consciousness, Rafman constructs a surreal digital landscape filled with avatars, online subcultures, and fragmented narratives. The piece builds on the aesthetics of so-called “cursed images”—eerily banal yet disturbing visuals that circulate online—using their low-resolution, uncanny, and contextless quality to evoke a sense of disorientation. Through this visual language, Rafman reflects on how identity, desire, and ideology are increasingly mediated through online spaces, creating a feedback loop between individuals and the collective digital psyche.
 
 ### [Jared Madere](https://jaredmadere.ooo/) 
+![Madere]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/03/madere.jpg)
 
+Jared Madere’s image practice blends internet-born aesthetics with a painterly sensibility, often reworking found visuals into something both familiar and disorienting. His work draws on memes, stock imagery, and commercial graphics, but through distortion, layering, and repetition, he transforms them into emotionally ambiguous compositions. There’s a tension between irony and sincerity in his images—they can feel playful at first glance, yet carry an undercurrent of unease or introspection. By embracing the visual language of the digital age while disrupting its usual clarity and function, Madere creates images that reflect the fragmented, overstimulated nature of contemporary visual culture
 
 ### Andrey Lopatin, *Worms*, 2026
 <!--https://www.youtube.com/watch?v=IicqhI0wHZk-->
