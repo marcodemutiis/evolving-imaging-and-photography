@@ -15,25 +15,26 @@ published: false
 
 ## Presentations
 
-Upload a screenshot of your assignment with your name and a caption on [this online document](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?usp=sharing)
+Upload a screenshot of your assignment with your name and a caption on [this online document]()
 
 ***
 
 
-Witnessing: Photography as a way of registering the world.
-An act of being present to events, people, and situations as they unfold. Often positioned between document and interpretation.
-Mourning: Photography as a relation to absence.
-Images that persist after the moment, often outlasting the people and contexts they depict. Closely tied to memory, loss, and time.
+
 
 <!--
-witnessing — social documentary, photojournalism, war photography, street photography
-Robert Capa, Don McCullin, Henri Cartier Bresson, Robert Frank, Vivian Meyer, Diane Arbus, 
-jon rafman, you the world and i https://youtheworldandi.com/
-Street Life Photography book 
+4
+remembering — travel and tourism photography, family albums and vernacular photography, virtual world photography
+Martin Parr, Pixy Liao, Roc Herms, Richard Billingham (Ray's a Laugh)
+Chosen Family book
+Sébastien Lifshitz Collection
 &
-mourning — posthumous portraiture, memorial photography, ghost photography, vernacular photography
+translating (photography in dialogue with other media) — 
+still life, landscape, conceptual photography
 
+Florence Henri, Still Life Composition, 1932 https://www.moma.org/collection/works/84002
 
+Chris Marker La Jetée, Hilliard, Sol Lewitt https://buffaloakg.org/artworks/p200822-sphere-lit-top-four-sides-and-all-their-combinations
 -->
 
 ## War Photography and the Embedded Photographer
@@ -44,57 +45,6 @@ mourning — posthumous portraiture, memorial photography, ghost photography, ve
 <figcaption>Robert Capa, <em>The Falling Soldier</em>, 1936</figcaption>
 
 
-### Don McCullin
-
-
-## Chance Encounters
-Unstaged images in public space. Chance encounters, gestures, fragments of everyday life.
-
-### Henri Cartier-Bresson
-
-### 
-
-### Helen Levitt
-
-
-## Subjective Observations
-Blurring observation and personal perspective. Images as interpretation rather than neutral record.
-
-### Robert Frank
-
-### Vivian Maier
-
-### Diane Arbus
-
-
-
-## Un/Ethical Witnessing & Social Documentary
-
-### Dorothea Lange
-Lange had little interest in classifying her photographs as art: she made them to effect social change. 
-https://www.moma.org/artists/3373-dorothea-lange
-
-### Steve McCurry controversy
-// question the ethics of aestheticising portraits of strangers
-writer Manuel Morales, asked McCurry why his photos “portray people who are suffering,” in photographs that are “aesthetic.” McCurry called it a trick question.
-
-“I object to the manipulation of suggesting that somehow I’m trying to beautify human suffering,” McCurry replied. “It’s totally legitimate for an artist or a photographer to document the world as it is, and whatever the human emotion is — joy, happiness, suffering, sadness.” source: https://petapixel.com/2025/08/07/steve-mccurry-abruptly-ends-interview-over-old-photoshop-scandal/
-
-### Doug Rickard, *A New American Picture*, 2012
-// highlight the ethical questions of taking pictures of strangers through google street view, not embedded in the situations and social contexts that are extrapolated from the screen
-https://davidcampany.com/doug-rickard-a-new-american-picture/
-
-
-## Posthumous portraiture
-
-
-
-
-## Ghost Photography
-
-### Mumler
-
-### Fukurai
 
 
 
