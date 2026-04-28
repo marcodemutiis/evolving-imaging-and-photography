@@ -35,6 +35,12 @@ Joel-Peter Witkin’s photographic practice is known for its provocative explora
 
 [Laurie Simmons](https://www.youtube.com/watch?v=lAhIBjA7sVM)' photographic practice delves into the eerie and surreal by staging meticulously crafted scenes where dolls, mannequins, and miniature figures inhabit worlds that blur the line between innocence and unsettling abstraction. Her use of these doll-like figures—often in domestic settings or theatrical environments—evokes a sense of the uncanny, where familiar objects and scenes are rendered disturbingly otherworldly. The deliberate artificiality of her subjects, combined with the unnerving stillness they project, generates a subtle tension that can evoke the sensation of a "cursed" image: something that feels almost real, yet deeply alien and disquieting. This unsettling atmosphere connects [Simmons](https://www.moma.org/artists/7015-laurie-simmons)’ work to the tradition of surrealism, where the ordinary becomes strange and the familiar invokes a sense of unease, suggesting a hidden, darker layer to the world we think we know. 
 
+### [Roger Ballen](https://www.youtube.com/watch?v=Hy1X8xkwkg0), *Devour*, 2013
+![Ballen]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/03/ballen.jpg)
+<figcaption>oger Ballen, <em>Devour</em>, 2013</figcaption>
+
+The work of Roger Ballen is deeply rooted in an exploration of the human psyche, using unsettling, staged scenes that blur the boundary between reality and imagination. His “Ballenesque” style deliberately embraces chaos, creating claustrophobic, dreamlike environments that confront viewers with the darker aspects of being human rather than offering comfort. These images function almost like visual metaphors for the mind itself—spaces where the conscious and unconscious collide, populated by fragmented figures, animals, and symbolic objects. By tapping into themes of absurdity, alienation, and existential uncertainty, Ballen’s work resonates on a subconscious level, prompting viewers to recognize hidden fears, instincts, and psychological tensions that are often repressed but remain fundamental to the human condition.
+
 ### Ryan Trecartin, [*I-BE AREA*](https://www.youtube.com/watch?v=ZR4sHDR-1XE), 2007
 ![Trecartin]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/03/trecartin.webp)
 <figcaption>Ryan Trecartin, still from <em>I-BE AREA</em>, 2007</figcaption>
