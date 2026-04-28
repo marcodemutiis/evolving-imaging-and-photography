@@ -27,6 +27,8 @@ If you have only created a dataset for training, airdrop your zipped folder with
 ![Witkin]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/03/witkin.webp)
 <figcaption>Joel-Peter Witkin, <em>Still Life Marseilles</em>, 1992</figcaption>
 
+Joel-Peter Witkin’s photographic practice is known for its provocative exploration of themes such as death, the body, and the boundaries of beauty. He often stages elaborate tableaux using unconventional subjects, including medical specimens, mannequins, and performers with atypical bodies, drawing inspiration from art history, religion, and classical painting. His work challenges viewers to confront discomfort and question societal norms around aesthetics and morality, blending the grotesque with the sacred in a highly controlled, almost painterly visual style.
+
 ### [Laurie Simmons](https://www.lauriesimmons.net/artwork/talking-objects), *Walking Objects*, 1987–1990
 ![Simmons]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/03/simmons.jpg)
 <figcaption>Laurie Simmons, <em>Still Life Marseilles</em>, 1992</figcaption>
