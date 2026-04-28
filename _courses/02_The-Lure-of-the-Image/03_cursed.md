@@ -5,49 +5,73 @@ title_de: "Cursed"
 course_id: the-lure-of-the-image
 course_title: "The Lure of the Image"
 course_title_de: "The Lure of the Image"
-lesson_number: 2
-published: false
+lesson_number: 3
+published: true
 ---
 
 
 <div class="lang-en" markdown="1">
 
 ## Presentations:
-Create a portrait that combines traditional photography and face filter techniques (or other digital forms of manipulation), and reflects on ideas of beauty, identity, and the role of digital and networked images in seducing through portrait photography and images of the face.
 
-Upload a screenshot of your assignment with your name and a caption on [this online document]()
+If you have completed you LoRA and generated some images, upload your screenshot of your assignment with your name and a caption on [this online document]()
+
+If you have only created a dataset for training, airdrop your zipped folder with filename as follow: Name_Surname_Datasetname_style/subject (e.g. Marco_DeMutiis_ActionFigures_style.zip)
+
 
 
 ## Cursed Images: the seduction of the uncanny from photography to generative AI
 
 
-### Joel-Peter Witkin, *Still Life Marseilles*, 1992
+### [Joel-Peter Witkin](https://fraenkelgallery.com/exhibitions/joel-peter-witkin-2), *Still Life Marseilles*, 1992
+![Witkin]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/02/witkin.webp)
+<figcaption>Joel-Peter Witkin, <em>Still Life Marseilles</em>, 1992</figcaption>
 
-### Laurie Simmons, *Walking Objects*, 1987–1990
-https://www.lauriesimmons.net/artwork/talking-objects
+### [Laurie Simmons](https://www.lauriesimmons.net/artwork/talking-objects), *Walking Objects*, 1987–1990
+![Simmons]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/02/simmons.jpg)
+<figcaption>Laurie Simmons, <em>Still Life Marseilles</em>, 1992</figcaption>
 
-### Anonymous, *Cursed* (Tumblr blog), 2015
+[Laurie Simmons](https://www.youtube.com/watch?v=lAhIBjA7sVM)' photographic practice delves into the eerie and surreal by staging meticulously crafted scenes where dolls, mannequins, and miniature figures inhabit worlds that blur the line between innocence and unsettling abstraction. Her use of these doll-like figures—often in domestic settings or theatrical environments—evokes a sense of the uncanny, where familiar objects and scenes are rendered disturbingly otherworldly. The deliberate artificiality of her subjects, combined with the unnerving stillness they project, generates a subtle tension that can evoke the sensation of a "cursed" image: something that feels almost real, yet deeply alien and disquieting. This unsettling atmosphere connects [Simmons](https://www.moma.org/artists/7015-laurie-simmons)’ work to the tradition of surrealism, where the ordinary becomes strange and the familiar invokes a sense of unease, suggesting a hidden, darker layer to the world we think we know. 
+
+### Ryan Trecartin, [*I-BE AREA*](https://www.youtube.com/watch?v=ZR4sHDR-1XE), 2007
+![Trecartin]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/02/trecartin.webp)
+<figcaption>Ryan Trecartin, still from <em>I-BE AREA</em>, 2007</figcaption>
+
+[Ryan Trecartin](https://whitney.org/artists/10226)’s practice sits at the chaotic intersection of performance, digital culture, and fragmented identity, and his 2007 video I-BE AREA captures this sensibility at full intensity. The work unfolds as a barrage of hyperactive characters, glitchy edits, and disorienting narratives that feel both surreal and faintly “cursed,” as if the logic of the internet has been pushed past coherence into something uncanny. Drawing heavily from early social media, DIY video aesthetics, and the accelerated rhythms of online self-presentation, Trecartin constructs a world where identity is unstable, language collapses into noise, and everything appears simultaneously artificial and disturbingly alive. The piece anticipates the overstimulated visual culture that would come to define the web in the years after its release, making its chaotic energy feel less like parody and more like prophecy.
+
+
+### Anonymous, [*Cursed*](https://web.archive.org/web/20260213154557/https://cursedimages.tumblr.com/) (Tumblr blog - archived), 2015
+![Cursed]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/02/cursed.jpg)
+
+The phenomenon of “cursed images” emerged from a 2015 Tumblr blog, where an anonymous curator collected strange, often forgotten photographs that seemed to carry an inexplicable, eerie mood. The images were sourced mostly from Flickr, and dated from the early 2000s, with a distinct low resolution, cheap digital camera, pre-iphone photography aesthetics.These images are typically mundane scenes transformed by context into something unsettling—producing a mix of dread, confusion, and fascination. The term “cursed” itself refers to images that feel mysteriously wrong or disturbing, often prompting viewers to question why the image exists at all, while resisting clear explanation. Aesthetically, cursed images are defined by ambiguity, low-quality or uncanny visuals, and an implied narrative that is never fully revealed; they inhabit a liminal space between humor and horror, where the ordinary becomes uncanny and the viewer is left suspended between curiosity and discomfort. Cursed images quickly become a genre, with many accounts on blogs and social media posting images in a similar vein.
 
 ### Charlie Engman, *Cursed*, 2024
+![Engman]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/02/engman.webp)
+<figcaption>Charlie Engman, from <em>Cursed</em>, 2024</figcaption>
 
-### Jon Rafman, *Egregore I, II and III*, 2021 
+Charlie Engman: Cursed is a striking extension of the internet-born “cursed images” aesthetic into the realm of contemporary photography. Created by Charlie Engman, the photobook assembles deliberately disorienting, often absurd images that blur the line between fashion, performance, and digital manipulation. In this body of work, Engman also employs generative AI systems to produce and distort visual elements, heightening the sense of unreality and dislocation that defines the “cursed” sensibility. Drawing on the visual language of online culture, his images amplify uncanny qualities—awkward poses, ambiguous scenarios, and a tension between humor and discomfort—while remaining carefully constructed. The result is a cohesive project that transforms a chaotic meme format into something more intentional and artful, using both photographic and AI-driven processes to explore how images circulate and acquire meaning in the digital age.
 
-### Jared Madere, 
-https://jaredmadere.ooo/
-https://www.instagram.com/p/DBbybG2RYro/
+### Jon Rafman, [*Egregore I, II and III*](https://jonrafman.com/egregores-jon-rafman/), 2021 
+![Rafman]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/02/rafman.webp)
+<figcaption>Jon Rafman, from <em>Egregores</em>, 2021</figcaption>
 
-### Andrey Lopatin, 
+Jon Rafman’s Egregores is a hypnotic, unsettling video work that blends internet culture, virtual worlds, and collective psychology into a dense visual experience. Drawing on the idea of “egregores” as shared thought-forms shaped by group consciousness, Rafman constructs a surreal digital landscape filled with avatars, online subcultures, and fragmented narratives. The piece builds on the aesthetics of so-called “cursed images”—eerily banal yet disturbing visuals that circulate online—using their low-resolution, uncanny, and contextless quality to evoke a sense of disorientation. Through this visual language, Rafman reflects on how identity, desire, and ideology are increasingly mediated through online spaces, creating a feedback loop between individuals and the collective digital psyche.
+
+### [Jared Madere](https://jaredmadere.ooo/) 
+
+
+### Andrey Lopatin, *Worms*, 2026
 
 
 ## Tutorial
 
-[LoRA Replicate Tutorial](https://docs.google.com/presentation/d/1SGO_G_wqXfvORp9BuhG3ytYtZOxCMfREncwk4nwGcrM/edit?usp=sharing)
+[LoRA Replicate Tutorial part II](https://docs.google.com/presentation/d/1SGO_G_wqXfvORp9BuhG3ytYtZOxCMfREncwk4nwGcrM/edit?usp=sharing)
 
 ## Assignment
 
-Read: Marco De Mutiis, [Summoning The Cursed Image: Jon Rafman's *Egregore*]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/texts/02_DeMutiis_SummoningTheCursedImage.pdf), 2025
+Read: Marco De Mutiis, [Summoning The Cursed Image: Jon Rafman's *Egregore*]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/texts/03_DeMutiis_SummoningTheCursedImage.pdf), 2025
 
-Make: 
+Make: Create a series of 3-5 images or a short video piece that revolves around the seduction of the abject, and the eerie feelings of cursed aesthetics
 
 
 

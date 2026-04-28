@@ -49,7 +49,7 @@ More about *Arenae*: [marcocadioli.com/arenae](https://marcocadioli.com/arenae/)
 
 - More about *Postcards from Home*: [rocherms.com/projects/postcards-from-home](https://www.rocherms.com/projects/postcards-from-home/?lang=en)
 - Screen Walk with Roc Herms: [youtube.com/watch?v=\_T8ytKjhk1o](https://www.youtube.com/watch?v=_T8ytKjhk1o)
-
+- Roc Herms' Guided Tour of Virtual Worlds: [youtube.com/watch?v=uzL4_bF9Ees](https://www.youtube.com/watch?v=uzL4_bF9Ees)
 
 ### Robbie Cooper, *Alter Ego*, 2007
 
@@ -83,6 +83,16 @@ However, the women's faces, full-lipped and photographically frozen in extreme c
 
 More about *Portraits*: [0100101110101101.org/portraits/](https://0100101110101101.org/portraits/)
 
+
+### Joe Hunting, [We met in VR Chat](https://www.youtube.com/watch?v=UMBxESl38o0), 2022
+![We met in VR Chat]({{ site.baseurl }}/courses/01_Cameraless/assets/img/vrchat.jpg)
+
+<blockquote>Filmed entirely inside the world of virtual reality, this immersive and revealing documentary roots itself in several unique communities within VRChat, a burgeoning social VR platform. Through observational scenes captured in real-time, in true documentary style, the film reveals the growing power and intimacy of several relationships formed in the virtual world, many of which began during the Covid-19 lockdown, while so many in the physical world were facing intense isolation. 
+
+Although remaining wholly within the VR domain of avatars and imagined worlds, the film has the same elements of humour, serendipitous interactions and unexpected events that characterise documentary films made in real life. WE MET IN VIRTUAL REALITY tenderly documents the stories of people experiencing love, loss, and unexpected connection, expressing vulnerability around mental health struggles and questions about identity, offering a hyper real journey into the human experience of an online world that may soon shape the future.
+
+– [Raindance Immersive](https://www.raindanceimmersive.com/we-met-in-vr)
+</blockquote>
 
 <!--### Cao Fei, *RMB City*, 2007–2011
 ![RMB City]({{ site.baseurl }}/courses/01_Cameraless/assets/img/rmbcity.webp)
@@ -120,13 +130,13 @@ The series consists of 900 screenshots taken over three years leading up to our 
 
 ---
 
-## Tutorial
+<!--## Tutorial
 
 ### Virtual Cameras in VRChat
 
 [VRChat](https://hello.vrchat.com/) offers a full-featured camera simulation that mirrors many concepts from real-world photography. Here's how to access and use it.
 
-<!--**Opening the Camera**
+**Opening the Camera**
 
 Open the Quick Menu and click on the Camera tab at the bottom. You can also open the Action Menu, select Tools, and then select Camera. Double-clicking the Camera button will quickly toggle the camera on and off.
 
