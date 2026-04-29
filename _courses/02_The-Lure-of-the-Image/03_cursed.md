@@ -81,7 +81,7 @@ Jared Madere’s image practice blends internet-born aesthetics with a painterly
 
 Read: Marco De Mutiis, [Summoning The Cursed Image: Jon Rafman's *Egregore*]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/texts/03_DeMutiis_SummoningTheCursedImage.pdf), 2025
 
-Make: Create a series of 3-5 images or a short video piece that revolves around the seduction of the abject, and the eerie feelings of cursed aesthetics
+Make: Create a series of 3-5 images or a short video piece that revolves around the seduction of the abject, and the eerie feelings of cursed aesthetics, or continue working on the lure of comfort, and ideas of haptic visuals.
 
 
 

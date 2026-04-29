@@ -36,9 +36,9 @@ Make: Create a collage of images that represent the different typologies of the 
 | 29.4.2026  | The Lure of Cursed Images           |
 | 6.5.2026   | The Lure of Belief                  |
 | 13.5.2026  | *Project Presentations*             |
-| 3.6.2026   | Cursed Images and the Internet Subconscious|
-| 10.6.2026  | Lowres Beliefs and Conspiracy Theories| <!-- clik bait, thirst traps, bot bait-->
-| 17.6.2026  | Slop Economies and AI Propaganda    | 
+| 3.6.2026   |  |
+| 10.6.2026  |  | <!-- clik bait, thirst traps, bot bait-->
+| 17.6.2026  |  | 
 | 24.6.2026  | *Final Projects Development*        |
 | 1.7.2026   | *Final Projects Development*        |
 
