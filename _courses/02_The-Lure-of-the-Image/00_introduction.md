@@ -148,7 +148,7 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 - Heidemann, Anja vxv
 
-- Oschmann, Josephin vxv
+- (Oschmann, Josephin vxv-)
 
 - Stoffel, Felix vxx
 
