@@ -118,40 +118,40 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 ## Student_innen
 </div>
 
-- Wilhelm, Theresa vvv
+- Wilhelm, Theresa vvvv
 
-- Grill, (M) Louis vvv
+- Grill, (M) Louis vvvv
 
-- Thobe, Lara vxx
+- Thobe, Lara vxxx
 
-- Schubert, Alexander vvv
+- Schubert, Alexander vvvv
 
-- Bräutigam, Caro vvv
+- Bräutigam, Caro vvvv
 
-- Stärk, Alica vvv
+- Stärk, Alica vvvv
 
-- Schneider, Kaya vvv
+- Schneider, Kaya vvvx
 
-- Kilic, Merve vvv
+- Kilic, Merve vvvv
 
-- Lobo de Macedo, Rosa vvv
+- Lobo de Macedo, Rosa vvvv
 
-- Weinzierl, Paula xvv
+- Weinzierl, Paula xvvv
 
-- Ranftl, Felix vvx
+- Ranftl, Felix vvvv
 
-- Burgard, Hanna vvv
+- Burgard, Hanna vvvx
 
-- Parkhidko, Kati vvx
+- Parkhidko, Kati vvxx
 
-- Horst, Anna vvv 
+- Horst, Anna vvvv 
 
-- Heidemann, Anja vxv
+- Heidemann, Anja vxvv
 
 - (Oschmann, Josephin vxv-)
 
-- Stoffel, Felix vxx
+- Stoffel, Felix vxvx
 
-- Veljkovic, Adrijana vxv
+- Veljkovic, Adrijana vxvv
 
-- Schindel, Emily vxv
+- Schindel, Emily vxvv

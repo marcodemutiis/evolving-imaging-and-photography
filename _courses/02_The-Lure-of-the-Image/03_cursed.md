@@ -75,7 +75,7 @@ Jared Madere’s image practice blends internet-born aesthetics with a painterly
 
 ## Tutorial
 
-[LoRA Replicate Tutorial part II](https://docs.google.com/presentation/d/1SGO_G_wqXfvORp9BuhG3ytYtZOxCMfREncwk4nwGcrM/edit?usp=sharing)
+[LoRA Replicate Tutorial part II](https://docs.google.com/presentation/d/1Kd54zJdkzJly171BNyRnxQh7mlIDyHSZjzUFMwUK5Fs/edit?usp=sharing)
 
 ## Assignment
 
