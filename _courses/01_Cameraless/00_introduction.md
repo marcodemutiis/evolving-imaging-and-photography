@@ -26,8 +26,8 @@ The course is structured through weekly short assigments where students have to 
 | 14.4.2026  | Street (View) Photography           |
 | 21.4.2026  | Copy of a Copy of a Copy            |
 | 28.4.2026  | Virtual World Photoreportages       |
-| 5.5.2026   | Digital Architecture Photography & Virtual Landscapes|
-| 12.5.2026  | Photo Modes and Game Cameras.       |
+| 5.5.2026   | Digital Architecture Photography		|
+| 12.5.2026  | Virtual Nature       |
 | 2.6.2026   | Avatar Portrait Photography         |
 | 9.6.2026   | Photorealistic CGI and Game Engine Photography          |
 | 16.6.2026  | Machine Vision Photography          |

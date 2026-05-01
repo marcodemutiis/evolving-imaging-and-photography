@@ -207,7 +207,7 @@ Beyond VRChat, several other virtual platforms offer opportunities for photograp
 
 ## Assignment
 
-Choose a virtual world — VRChat, Second Life, Rec Room, Mozilla Hubs, or another platform — and produce a photoreportage that documents a community, event, or aspect of daily life within it.
+Choose a virtual world — VRChat, Second Life, Rec Room, IMVU, Roblox or another platform — and produce a photoreportage that documents a community, event, or aspect of daily life within it.
 Your reportage should go beyond simply capturing scenic environments. Approach the virtual world as a photojournalist would approach a physical location: observe how people behave, identify stories or social dynamics, and build a visual narrative around what you find.
 
 Specifically, your project should include:
@@ -295,6 +295,15 @@ Die Gesichter der Frauen jedoch — vollippig und fotografisch eingefroren in ex
 
 Mehr über *Portraits*: [0100101110101101.org/portraits/](https://0100101110101101.org/portraits/)
 
+### Joe Hunting, [We met in VR Chat](https://www.youtube.com/watch?v=UMBxESl38o0), 2022
+![We met in VR Chat]({{ site.baseurl }}/courses/01_Cameraless/assets/img/vrchat.jpg)
+
+<blockquote>Filmed entirely inside the world of virtual reality, this immersive and revealing documentary roots itself in several unique communities within VRChat, a burgeoning social VR platform. Through observational scenes captured in real-time, in true documentary style, the film reveals the growing power and intimacy of several relationships formed in the virtual world, many of which began during the Covid-19 lockdown, while so many in the physical world were facing intense isolation. 
+
+Although remaining wholly within the VR domain of avatars and imagined worlds, the film has the same elements of humour, serendipitous interactions and unexpected events that characterise documentary films made in real life. WE MET IN VIRTUAL REALITY tenderly documents the stories of people experiencing love, loss, and unexpected connection, expressing vulnerability around mental health struggles and questions about identity, offering a hyper real journey into the human experience of an online world that may soon shape the future.
+
+– [Raindance Immersive](https://www.raindanceimmersive.com/we-met-in-vr)
+</blockquote>
 
 <!--### Cao Fei, *RMB City*, 2007–2011
 ![RMB City]({{ site.baseurl }}/courses/01_Cameraless/assets/img/rmbcity.webp)
@@ -332,13 +341,13 @@ The series consists of 900 screenshots taken over three years leading up to our 
 
 ---
 
-## Tutorial
+<!--## Tutorial
 
 ### Virtuelle Kameras in VRChat
 
 [VRChat](https://hello.vrchat.com/) bietet eine vollwertige Kamerasimulation, die viele Konzepte der realen Fotografie widerspiegelt. So kannst du darauf zugreifen und sie nutzen.
 
-<!--**Die Kamera öffnen**
+**Die Kamera öffnen**
 
 Öffne das Quick Menu und klicke unten auf den Reiter Camera. Du kannst auch das Action Menu öffnen, Tools auswählen und dann Camera wählen. Ein Doppelklick auf die Camera-Schaltfläche schaltet die Kamera schnell ein und aus.
 
@@ -410,7 +419,7 @@ Neben VRChat bieten verschiedene andere virtuelle Plattformen Möglichkeiten zur
 
 ## Aufgabe
 
-Wähle eine virtuelle Welt — VRChat, Second Life, Rec Room, Mozilla Hubs oder eine andere Plattform — und erstelle eine Fotoreportage, die eine Community, ein Ereignis oder einen Aspekt des Alltagslebens darin dokumentiert.
+Wähle eine virtuelle Welt — VRChat, Second Life, Rec Room, IMVU, Roblox oder eine andere Plattform — und erstelle eine Fotoreportage, die eine Community, ein Ereignis oder einen Aspekt des Alltagslebens darin dokumentiert.
 
 Deine Reportage sollte über das bloße Erfassen malerischer Umgebungen hinausgehen. Nähere dich der virtuellen Welt so, wie ein Fotojournalist oder eine Fotojournalistin einen physischen Ort angehen würde: Beobachte, wie sich Menschen verhalten, identifiziere Geschichten oder soziale Dynamiken und baue eine visuelle Erzählung um das auf, was du findest.
 
