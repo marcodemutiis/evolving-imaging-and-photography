@@ -18,7 +18,7 @@ Choose a virtual world and produce a photoreportage that documents a community, 
 - **A series of 8–12 images** that together tell a coherent story or convey a specific theme.
 - **A short written text (200–300 words)** that accompanies the images, contextualizing your reportage: Where did you go? What did you find? What story are you telling, and why?
 
-Upload the text and the images with your name and a caption on <a href="https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?usp=sharing">this online document</a>
+Upload the text and the images with your name and a caption on [this online document](https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?usp=sharing)
 
 ***
 
@@ -76,6 +76,24 @@ In this process, a mosque once embedded in ritual and geography becomes a floati
 - Screen Walk with Rayane Jemaa: <a href="https://www.youtube.com/watch?v=eXQhBsQz8FE">youtube.com/watch?v=eXQhBsQz8FE</a>
 
 
+
+
+### Robert Overweg, *The End of the Virtual World*, 2010
+
+![Overweg]({{ site.baseurl }}/courses/01_Cameraless/assets/img/overweg.webp)
+<figcaption>Robert Overweg, from <em>The End of the Virtual World</em>, 2010</figcaption>
+
+<blockquote>"Worlds within video games are no longer ‘virtual’, but an extension of the physical worlds which functions as the new public space of contemporary society. Robert Overweg takes landscape and portrait photographs of these game environments. By capturing inattentive graphic errors, he reveals the glitch within the established order, and the distortion hidden beneath the apparent harmony.
+The End of the Virtual World, a photo series consisted of seven prints, explores the limbs of the world found in first-person shooter games such as Left 4 Dead, Half-life, and Modern Warfare. This part of the virtual world, flat with hard-cut edges, is not like the round and thus endless physical world.
+However, it is also differs from the typical aesthetics of the virtual world where over-meticulous visuals overwhelm the viewer, by displaying an unusually peaceful environment. Through this strange landscape of abandoned and unfinished spaces, emerges a world in between the physical and virtual."
+
+– The 7th Seoul Media City Biennale, [online project page](https://www.mediacityseoul.kr/en/yesterday/artworks/the-end-of-the-virtual-world), 2012</blockquote>
+
+- More about *The End of the Virtual World*: [shotbyrobert.com/end-of-the-virtual-world](https://www.shotbyrobert.com/end-of-the-virtual-world)
+- BBC article: [bbc.com/news/technology-10608667](https://www.bbc.com/news/technology-10608667)
+
+
+
 ### Raphael Brunk, *Captures*, 2016 – 2018
 
 ![Brunk]({{ site.baseurl }}/courses/01_Cameraless/assets/img/brunk.jpg)
@@ -91,7 +109,7 @@ We are what is technically defined as "out of bounds": a place that is usually c
 
 – Marco De Mutiis, <a href="https://www.kerberverlag.com/en/buecher/raphael-brunk">Capturing Glitched Landscapes Between Virtual Sublime and Digital "Anarchitecture"</a>, in <em>Raphael Brunk. Digital Imaging</em>, Kerber Verlag, 2026.</blockquote>
 
-- More about <em>Captures</em>: <a href="https://gta5.photography/artworks/captures">gta5.photography/artworks/captures</a>
+- More about *Captures*: <a href="https://gta5.photography/artworks/captures">gta5.photography/artworks/captures</a>
 
 
 ---
