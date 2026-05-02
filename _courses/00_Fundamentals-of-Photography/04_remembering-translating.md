@@ -6,7 +6,7 @@ course_id: fundamentalsofphotography
 course_title: "Fundamentals of Photography"
 course_title_de: "Grundlagen der Fotografie"
 lesson_number: 4
-published: true
+published: false
 ---
 
 <div class="lang-en" markdown="1">

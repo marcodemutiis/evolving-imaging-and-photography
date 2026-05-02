@@ -1,10 +1,10 @@
 ---
 layout: lesson
-title: "Remembering & Translating"
-title_de: "Erinnern & Übersetzen"
-course_id: fundamentalsofphotography
-course_title: "Fundamentals of Photography"
-course_title_de: "Grundlagen der Fotografie"
+title: "Digital Architecture Photography"
+title_de: "Digitale Architekturfotografie"
+course_id: cameraless
+course_title: "Cameraless"
+course_title_de: "Kameralos"
 lesson_number: 4
 published: true
 ---
@@ -12,287 +12,204 @@ published: true
 <div class="lang-en" markdown="1">
 
 ***
-
 ## Presentations
+Choose a virtual world and produce a photoreportage that documents a community, event, or aspect of daily life within it. Your reportage should go beyond simply capturing scenic environments. Approach the virtual world as a photojournalist would approach a physical location: observe how people behave, identify stories or social dynamics, and build a visual narrative around what you find.
 
-Upload a screenshot of your assignment with your name and a caption on [this online document]()
+- **A series of 8–12 images** that together tell a coherent story or convey a specific theme.
+- **A short written text (200–300 words)** that accompanies the images, contextualizing your reportage: Where did you go? What did you find? What story are you telling, and why?
+
+Upload the text and the images with your name and a caption on [this online document](https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?usp=sharing)
 
 ***
 
-*This session traces photography's relationship to memory in two directions. The first is social and political: how photography constructs, preserves, and distorts collective and personal memory — in the ritualised images of tourism, in the intimate archive of the family album, and in the photographs of communities whose histories have been systematically excluded from official record. The second is formal and historical: how photography has translated the conventions of painting — above all the still life tradition, with its meditation on time, mortality, and the persistence of objects — into a new medium, inheriting its questions while transforming its means. Together, these two directions reveal photography not simply as a technology of record but as a practice deeply entangled with how we understand what lasts, what disappears, and what it means to leave a trace.*
+Architecture has become increasingly entangled with digital image-making. Long before a building is constructed, it exists as a rendering: a photorealistic simulation circulated in planning documents, projected onto construction hoardings, or shared in urban development campaigns. The same logic governs virtual worlds — the buildings that populate computer games, metaverses, and online environments are designed and photographed through the same tools and conventions as their real-world counterparts, yet they follow entirely different rules of physics, materiality, and access.
+
+In this lesson, we look at artists and designers who approach this digital architecture with a photographic mindset — using screenshotting, modded cameras, and digital photogrammetry to investigate spaces that can only exist on screen. Their practices raise cultural and political questions of simulation, and the role of architecture between digital image and physical reality.
 
 
-## Travel and Tourist Photography
+## Study Cases
 
-Tourism is one of the most photographically saturated practices in contemporary life, and one of the oldest — the impulse to bring an image back from elsewhere predates the camera, inheriting the tradition of the Grand Tour and the painted veduta. What photography added was accessibility and volume: the possibility of a personal record, reproducible and shareable, that anyone could make. What that accessibility produced, over time, was a remarkably standardised visual culture — the same angles, the same gestures, the same sites reproduced billions of times. The photographers gathered here examine that standardisation critically, asking what tourist photography remembers, what it flattens, and what it leaves out.
+### Mascha Negri, *Luftige Enge*, 2023
 
-### Martin Parr, [*Small World*](https://www.magnumphotos.com/arts-culture/travel/global-tourism-martin-parr/), 1990–2017
+![Negri]({{ site.baseurl }}/courses/01_Cameraless/assets/img/negri.jpg)
+<figcaption>Mascha Negri, <em>Luftige Enge</em>, 2023, The Photographer's Guide to Los Santos, installation view at Fotofestival Lenzburg, 2024. Photo: Florian Amoser.</figcaption>
 
-![Parr]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/parr.jpg)
-<figcaption>Martin Parr, <em>The Leaning Tower of Pisa</em>, from <em>Small World</em>, 1990</figcaption>
+<blockquote>In <em>Luftige Enge,</em> Mascha Negri explores the industrial zones of Los Santos, seeking perspectives and angles reminiscent of photographers Germaine Krull as well as Bernd and Hilla Becher. As Negri navigates through the game's structures, the images reveal the pixels of the screen, the polygons shaping the 3D architecture, and the textures of virtual pipes and chimneys. Utilising a smartphone camera, Negri captures the game screen, emphasising the simulated environment's characteristics while aligning with the tradition of black and white architectural photography. Through digital editing on a smartphone app, she applies high-contrast black and white filters to accentuate the geometric forms of the structures.
 
-Martin Parr's *Small World* is a sustained, sardonic examination of mass tourism produced over nearly three decades across dozens of countries. Working with the garish flash and saturated colour that became his signature, Parr photographs the rituals of tourist experience — the queue for the landmark, the selfie with the monument, the souvenir stall, the tour group moving in formation — with a precision that tips constantly between comedy and critique. The images are not misanthropic; Parr is too interested in his subjects for that. But they are relentlessly attentive to the gap between the experience tourism promises (encounter with the extraordinary, immersion in the foreign) and what it typically delivers (a crowd of people doing what you are doing, in a place that has been arranged for people doing what you are doing). *Small World* raises the question of what travel photography actually remembers: whether the tourist image is a record of a place visited or a record of a performance staged — and whether that distinction matters once the photograph is in the album.
+«Airy narrow» – the English translation of Luftige Enge – aptly describes the juxtaposition of the ephemeral smoke emanating from the pipes against the substantial, densely packed buildings. This title points to the contrasts between the ethereal and the solid, the analog and the digital. Furthermore, these dichotomies reflect broader themes: the shift from a post-industrial society to the burgeoning game industry economy, and the representation of disappearing heavy industries in the West through the game's virtual buildings.
 
-### Roc Herms, [*Hacer Pantallazo*](https://www.rocherms.com/), 2014–
+Finally, Negri's project invites viewers to consider the temporality and transience of urban industrial landscapes, both real and simulated. By focusing on the interplay of light and shadow, her photographs not only document the environment of Los Santos but also evoke a sense of puzzling nostalgia for the architectural heritage of industrialisation, further enriching the layers of interpretation in her work. This element adds depth to the visual dialogue about the evolution of industrial spaces in both physical and digital realms.
 
-![Herms]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/herms.png)
-<figcaption>Roc Herms, from <em>Hacer Pantallazo</em>, 2014–</figcaption>
+– Marco De Mutiis and Matteo Bittanti, <a href="https://gta5.photography/artworks/luftige-enge"><em>The Photographer's Guide to Los Santos</em></a>, 2024</blockquote>
 
-Where Parr positioned himself physically inside tourist scenes with a camera, Roc Herms operates entirely at a remove — photographing his phone screen as it displays travel images found online, producing screenshots of screenshots in a chain of reproduction that progressively degrades the original image while multiplying its circulation. *Hacer Pantallazo* (roughly: "to take a screenshot") treats the tourist image as a unit of digital currency: something passed between hands, re-posted, re-framed, removed from any specific context of making or experience. The gesture — pointing a camera at a screen — makes visible what is usually invisible in the circulation of travel photography: that most of what we consume as images of places are not photographs of places but photographs of photographs, images of images, memories of memories. Herms' work also raises questions about authorship and the status of the found image that connect to the broader digital image culture the course returns to in later sessions.
-
-
-## Family Photography between Chosen Bonds and Dysfunctional Intimacies
-
-The family photograph is perhaps the most ubiquitous form of photography in existence — and one of the most ideologically loaded. The family album is a record not simply of what happened but of what the family chooses to remember: it is edited, curated, and performed. The photographs in it tend toward celebration — birthdays, holidays, milestones — and away from conflict, illness, grief, or ambivalence. The photographers gathered here work against that tendency, or beside it: making images that record what the family album typically excludes, or that reimagine what family and intimacy can mean. They extend the session's broader inquiry into who gets remembered and how.
-
-### Richard Billingham, [*Ray's a Laugh*](https://www.theguardian.com/artanddesign/gallery/2024/mar/19/rays-a-laugh-richard-billingham-in-pictures), 1996
-
-![Billingham]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/billingham.jpg)
-<figcaption>Richard Billingham, from <em>Ray's a Laugh</em>, 1996</figcaption>
-
-Richard Billingham began photographing his family in a cramped council flat in the West Midlands in the early 1990s — initially to gather reference material for paintings, without any intention of exhibiting the photographs themselves. What emerged was *Ray's a Laugh*, a raw, often shocking record of his father Ray's alcoholism, his mother Liz's tattooed domesticity, and the texture of a life lived in poverty and chaos. The images are technically imperfect — flash-blown, grainy, shot in close quarters — and that imperfection feels essential: these are photographs made the way you photograph your own family, without the distancing apparatus of professional image-making. What Billingham produced, without planning to, was an anti-album: images of everything the conventional family photograph excludes. Like Larry Clark's *Tulsa*, which we encountered in the previous session, *Ray's a Laugh* raises the question of what it means to photograph people you are bound to by circumstance rather than choice — people who may not be in a position to weigh the consequences of appearing in images that will circulate beyond the home. Unlike Clark, however, Billingham has consistently maintained that the work was made from love, and that his family were aware of and comfortable with its eventual publication.
-
-### [Dayanita Singh](https://www.frieze.com/article/journey-through-lens-dayanita-singh), *Privacy*, 2003
-
-![Singh]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/singh.webp)
-<figcaption>Dayanita Singh, from <em>Privacy</em>, 2003</figcaption>
-
-Dayanita Singh's *Privacy* photographs the interiors of upper-middle-class Indian homes — drawing rooms, dining tables, bedrooms, verandahs — often without their inhabitants present. The absence is the point: these are spaces saturated with the evidence of lives lived (the arranged furniture, the family photographs on the wall, the objects accumulated over generations) from which the people themselves have momentarily withdrawn. Singh made the work over several years with the cooperation of the families she photographed, which distinguishes it sharply from voyeuristic documentary: the access is intimate, the relationship collaborative, the images made possible by trust. *Privacy* extends the session's thinking about what the domestic space remembers — the way objects and arrangements preserve the shape of a life even when the person is absent — and raises questions about the relationship between photography, domesticity, and the gendered spaces that women in particular both inhabit and maintain. Singh is also one of the central figures in contemporary Indian photography, and her work offers a perspective on family and memory that is not organised by the Euro-American traditions that dominate much of this course.
-
-### [Leigh Ledare](https://leighledare.com/Pretend-You-re-Actually-Alive), *Pretend You're Actually Alive*, 2009
-
-![Ledare]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/ledare.jpg)
-<figcaption>Leigh Ledare, from <em>Pretend You're Actually Alive</em>, 2009</figcaption>
-
-Leigh Ledare's *Pretend You're Actually Alive* is one of the most ethically and psychologically complex bodies of work in contemporary photography. Over several years, Ledare photographed his mother Tina — an ageing former ballet dancer — in her domestic life, including in sexually explicit situations with her various partners. The work was made with Tina's full participation and active collaboration; she frequently initiated the photographic situations and has spoken publicly about the project in terms of agency and self-representation. The critical debate around the work has nonetheless been intense, focusing on questions the images cannot settle by themselves: Can the family relationship between photographer and subject ever be fully separated from the power dynamics it carries? Does the apparent consent of the subject resolve the ethical questions raised by the act of photographing and exhibiting? What does the viewer's own position in relation to these images involve? *Pretend You're Actually Alive* earns its place in this section not because it provides answers but because it makes unavoidable the questions that family photography usually manages to avoid — questions about desire, control, complicity, and the difference between being seen and being represented.
-
-### Charlie Engman, [*Mom*](https://www.editionpatrickfrey.com/en/books/mom), 2020
-
-![Engman]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/engman.jpg)
-<figcaption>Charlie Engman, from <em>Mom</em>, 2020</figcaption>
-
-Charlie Engman's *Mom* documents a sustained collaborative photographic project between the artist and his mother, Kathleen, made over many years during his visits home to Illinois. The images are formally inventive and often strange: Kathleen appears in elaborate domestic tableaux, sometimes in surreal or theatrical situations that seem to parody or extend the conventions of family portraiture. What makes the project distinctive is the nature of the collaboration — Engman and his mother are genuinely co-authors, and the work reflects a relationship in which the usual hierarchies of photographer and subject have been substantially renegotiated. *Mom* is a portrait of a relationship across time as much as it is a portrait of a person: the book accumulates images from different phases of both their lives, making visible how the mother-child relationship shifts, persists, and transforms. It extends the course's ongoing inquiry into what collaborative, ethically grounded photography looks like in practice.
-
-### Pixy Liao, [*Experimental Relationship*](https://www.pixyliao.com/experimental-relationship), 2007–
-
-![Liao]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/liao.jpeg)
-<figcaption>Pixy Liao, from <em>Experimental Relationship</em>, 2007–</figcaption>
-
-Pixy Liao's *Experimental Relationship* is an ongoing photographic project documenting her relationship with her Japanese partner Moro, in which the conventional power dynamics of the heterosexual couple — and of the photographer-subject relationship — are systematically inverted and questioned. Liao, a Chinese woman, photographs Moro in positions of passivity, dependence, and domestic availability that are typically assigned to women in the genre of couple portraiture; he appears arranged, posed, sometimes literally carried or contained. The images are playful and formally elegant, but the play is purposeful: by reversing the conventional arrangement, Liao makes visible the gender assumptions that the conventional arrangement naturalises. The project has been ongoing for nearly two decades, which gives it a temporal dimension that single projects cannot have — the accumulation of images across time documents not just a relationship but the evolution of that relationship, the way two people negotiate power, visibility, and representation together across years.
+- More about <em>Luftige Enge</em>: <a href="https://gta5.photography/artworks/luftige-enge">gta5.photography/artworks/luftige-enge</a>
 
 
-## Queer Voices, Politics of Representation and Who Gets to Be Remembered?
+### Maxim Zmeyev, *Type 1.5.11.*, 2021
 
-Official archives — state archives, museum collections, published histories — reflect the priorities of those who made them. The communities, relationships, and lives that fell outside the categories those archives recognised were typically not photographed, or were photographed in ways that pathologised or erased them, or left photographs that were destroyed, hidden, or simply never collected. The photographers and collections gathered here address that absence directly: making images of communities that have been excluded from collective memory, or recovering images that survived by accident rather than design. They extend the session's central question — who gets to be remembered? — into explicitly political territory.
+![Zmeyev]({{ site.baseurl }}/courses/01_Cameraless/assets/img/zmeyev.jpg)
+<figcaption>Maxim Zmeyev, from <em>Type 1.5.11.</em>, 2021</figcaption>
 
-### [Sébastien Lifshitz Collection](https://www.youtube.com/watch?v=TsVI6nIx9kQ)
+<blockquote>"This project contains photographs taken in Fallout 76, a prequel to an MMO (massively multiplayer online video game) action role-playing video game saga that is set in a future world devastated by nuclear war. The images are similar to architectural drawings, and show the shelters or houses created by the players with DLC additions, downloadable content which is used to customise the game. The photographer Maxim Zmeyev thus shows five types of facades, corresponding to five psychological profiles: the warrior profile, who covers their house with weapons and military symbols; the merchant, who sets up advertisements and vending machines; the farmer, who surrounds the house with fruit trees and cereal crops; the craftsman, who makes tools to repair all types of objects, and the philosopher profile, whose shelter is minimalist, and includes no practical or ornamental elements.
 
-![Lifshitz]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/lifshitz.webp)
-<figcaption>Anonymous, from the Sébastien Lifshitz Collection, date unknown</figcaption>
+With his extensive experience as a photojournalist, Zmeyev vindicates the documentary value of virtual environments where, in his opinion, we express our deepest fears and desires. "These photographs show worlds that do not exist and are made with a camera that does not exist, but they document emotions and relationships that are real."
 
-The French filmmaker [Sébastien Lifshitz](https://i-d.co/article/sebastien-lifshitz-queer-photography/) has spent decades assembling a collection of vernacular photographs — snapshots, portraits, photobooth images, amateur prints — depicting queer lives across the twentieth century. The images were made by unknown photographers for private use, and most of them survived by accident: found in flea markets, antique shops, and estate sales after the deaths of their subjects. What Lifshitz's collection makes visible is the gap between the official archive and the life actually lived: these photographs record same-sex couples, gender non-conforming individuals, and queer communities in moments of tenderness, celebration, and ordinariness that the public culture of their time would not have permitted to circulate. The collection raises a set of questions that run through this section: What is the relationship between photography and historical visibility? Who decides what enters the archive and what is discarded? And what does it mean to recover images of people whose identities were, during their lifetimes, a form of legal and social risk?
+– Getxo Photo 2024, <a href="https://archivo.getxophoto.com/en/archive/2024-play/artists-2024/maxim-zmeyev/">project page</a></blockquote>
 
-### [Peter Hujar](https://peterhujararchive.com/), *Portraits in Life and Death*, 1976
-
-![Hujar]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/hujar.jpg)
-<figcaption>Peter Hujar, from <em>Portraits in Life and Death</em>, 1976</figcaption>
-
-Peter Hujar was a central figure in the downtown New York scene of the 1970s and 1980s — a community of artists, performers, drag queens, and writers that also included Nan Goldin, David Wojnarowicz, and Susan Sontag, all of whom he photographed. His portraits — made in black and white, with a directness and psychological intensity that has few equivalents in the history of the medium — record a world that was devastated by the AIDS crisis: many of his subjects, and Hujar himself, died of AIDS-related illness in the late 1980s. His 1976 book [*Portraits in Life and Death*](https://www.newyorker.com/culture/photo-booth/the-enduring-power-of-peter-hujars-portraits-in-life-and-death) is organised around two bodies of photographs: portraits of living subjects and photographs of the catacombs of Palermo, in which preserved corpses are displayed in their burial clothes. The juxtaposition is not morbid but philosophical — an insistence on the proximity of life and death, presence and absence, that the AIDS crisis would make viscerally real for the community Hujar had spent his career photographing. Like Goldin's *Ballad*, Hujar's work is a form of witness and a form of mourning: photography as the record of people who might otherwise be forgotten.
-
-### [Mark Morrisroe](https://whitney.org/artists/4137), *Self-portraits and Portraits*, 1980s
-
-![Morrisroe]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/morrisroe.jpg)
-<figcaption>Mark Morrisroe, <em>Untitled (John S. and Jonathan)</em>, 1985</figcaption>
-
-Mark Morrisroe was a Boston-born photographer who worked in the early 1980s in a milieu that overlapped with Nan Goldin's — the underground club scenes of Boston and New York, populated by drag performers, sex workers, and young artists living at the margins of mainstream culture. Morrisroe died of AIDS-related illness in 1989 at the age of 30, leaving behind a body of work that was largely unknown at the time of his death and has only gradually entered the canon through sustained curatorial effort. His photographs — often self-portraits, made with a formally inventive use of darkroom manipulation, double exposure, and photographic transfer — are suffused with an awareness of the body's vulnerability and mortality that reads very differently now that his biography is known. Morrisroe is a case study in the politics of photographic memory: his work survived, his reputation did not, and its gradual recovery raises questions about the institutional structures — galleries, museums, estates, critics — that determine which photographers enter history and which disappear.
-
-### [Zanele Muholi](https://aperture.org/editorial/magazine-zanele-muholis-faces-phases/), *Faces and Phases*, 2006–
-
-![Muholi]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/muholi.jpeg)
-<figcaption>Zanele Muholi, <em>Ntobza Mkhwanazi, BB Section, Umlazi Township, Durban</em>, from <em>Faces and Phases</em>, 2012</figcaption>
-
-Zanele Muholi is a South African visual activist — their preferred term — whose ongoing project *Faces and Phases* constitutes one of the most sustained photographic archives of a marginalised community in contemporary art. Begun in 2006, the project comprises hundreds of black-and-white portraits of Black lesbian, gay, bisexual, transgender, queer, and intersex people in South Africa, a country in which same-sex relationships are constitutionally protected but in which LGBTQI+ individuals, and Black lesbian women in particular, remain subject to extreme violence including so-called "corrective rape." Muholi has described *Faces and Phases* not as documentary photography but as an act of visual activism: the making of an archive that the state and its official institutions have refused to create. Each portrait is made collaboratively, with the subject's full participation in how they are presented; the series insists on the visibility, dignity, and individuality of people who are systematically rendered invisible by the social conditions they inhabit. *Faces and Phases* connects the section's historical questions about archival survival directly to the present: the archive is not only something that has been lost and recovered, but something that must be actively constructed against ongoing erasure.
+- More about <em>Type 1.5.11.</em>: <a href="https://maximzmeyev.com/type-1511">maximzmeyev.com/type-1511</a>
 
 
-## Still Life: Photography and the Painting Tradition
+### Rayane Jemaa, *How to Build a Mosque*, 2026 –
 
-The still life is one of the oldest and most philosophically charged genres in Western painting — and one of the most consequential for photography. The Dutch and Flemish still life paintings of the seventeenth century — laden tables, cut flowers, skulls, hourglasses, overturned vessels — were organized around the concept of vanitas: the meditation on time, mortality, and the vanity of earthly things. Every element was a memento mori, a reminder of death; even the most beautiful objects were shown in the process of decay, their petals dropping, their fruit softening. When photography emerged in the nineteenth century, it inherited this tradition almost immediately: the still life was one of the first photographic genres, partly because objects, unlike people, did not move during long exposures. But photography also transformed the genre, introducing its own relationship to time — the instant rather than the accumulated session — and its own claim to indexical truth. The photographers gathered here engage that inheritance explicitly, finding in the dialogue between photography and painting a set of questions about time, beauty, destruction, and what it means for an image to persist.
+![Jemaa]({{ site.baseurl }}/courses/01_Cameraless/assets/img/jemaa.jpeg)
+<figcaption>Rayane Jemaa, <em>How to Build a Mosque</em>, installation shot at Photoforum Pasquart, Biel/Bienne, 2026. Photo: Thomas Annaheim Lambert</figcaption>
 
-### [Laura Letinsky](https://www.youtube.com/watch?v=B9mlwgi-mZg), [*Ill Form and Void Full*](https://lauraletinsky.com/ill-form-and-void-full-(2010-2015), 2011
+<blockquote>"How to Build a Mosque" explores how mosques - as spiritual, architectural, and cultural spaces - are represented, disseminated, and commodified in digital environments. Drawing on Michel Foucault's concept of heterotopia and Gilles Deleuze's notion of deterritorialization, the project traces the transformation of the mosque: from a place of worship rooted in a specific geography to a downloadable file, from a communal landmark to a generic 3D object.
 
-![Letinsky]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/letinsky.jpg)
-<figcaption>Laura Letinsky, from <em>Ill Form and Void Full</em>, 2011</figcaption>
+Using screenshots and 3D renderings of models sourced from platforms like Google Earth, Minecraft, Call of Duty, and online asset marketplaces, the project compiles representations of mosques in various styles and for diverse purposes. These models, often accessed through technical hacks or drawn from open archives, are typically created by anonymous contributors, stripped of their original context, and reused in games, simulations, or digital environments.
 
-Laura Letinsky photographs the aftermath of meals — half-eaten food, crumpled napkins, scattered crumbs, the residue of fruit on white tablecloths — against backgrounds that often dissolve into abstraction, echoing the white grounds and raking light of Dutch still life painting. Her series *Ill Form and Void Full* takes its title from a phrase by the philosopher Leibniz describing empty space, and the images have something of that philosophical quality: they are attentive to absence, to what has been consumed, to the trace left by appetite. Letinsky has written explicitly about the vanitas tradition and the memento mori in relation to her practice, and the connection is direct: where Dutch painters showed food in the moment before consumption, Letinsky shows it after, at the point of dissolution and waste. The formal beauty of her images — the precision of light, the delicacy of colour — is inseparable from their subject matter: she makes beautiful images of things that are ending, which is the central gesture of the vanitas tradition.
+In this process, a mosque once embedded in ritual and geography becomes a floating, decontextualized object within a frictionless digital economy, where spiritual form is transformed into exchangeable content."
 
-### Taryn Simon, [*Paperwork and the Will of Capital*](https://tarynsimon.com/works/pwc/#1), 2015
+– Rayane Jemaa, <a href="https://www.rayanejemaa.info/">artist website</a></blockquote>
 
-![Simon]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/simon.jpeg)
-<figcaption>Taryn Simon, from <em>Paperwork and the Will of Capital</em>, 2015</figcaption>
+- More about <em>How to Build a Mosque</em>: <a href="https://www.rayanejemaa.info/#HTBAM">rayanejemaa.info/#HTBAM</a>
+- Screen Walk with Rayane Jemaa: <a href="https://www.youtube.com/watch?v=eXQhBsQz8FE">youtube.com/watch?v=eXQhBsQz8FE</a>
 
-Taryn Simon's [*Paperwork and the Will of Capital*](https://www.alminerech.com/exhibitions/689-taryn-simon-paperwork-and-the-will-of-capital) photographs floral arrangements reconstructed from archival research into the bouquets present at the signings of historic international agreements — trade deals, peace treaties, accords whose consequences have shaped the lives of millions. Simon researched the arrangements from archival photographs and diplomatic records, had them recreated by florists, and photographed them in the manner of formal botanical or studio still life photography, each image paired with a text describing the agreement it commemorates. The work operates as a kind of vanitas in reverse: where the Dutch tradition used beautiful objects to meditate on mortality and the transience of earthly things, Simon uses beautiful images of flowers to point toward the endurance of political arrangements — the agreements signed in those rooms, long after the flowers have died, continue to govern trade, territory, and human movement. The flowers are silent surrogates for power; their beauty is the beauty of concealment.
 
-### [Ori Gersht](https://www.origersht.com/copy-of-blow-up-2007-m), [*Time After Time*](https://prix.pictet.com/cycles/disorder/ori-gersht), 2007 –
 
-![Gersht]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/gersht.jpg)
-<figcaption>Ori Gersht, <em>Time After Time: Blow Up No. 9</em>, 2009</figcaption>
 
-Ori Gersht's *Blow Up* series photographs flower arrangements — directly referencing specific Flemish still life paintings — at the moment of their destruction, using high-speed photography to capture the instant of an explosion that reduces the arrangement to scattered petals and fragments. The reference is explicit and precise: Gersht has identified the specific paintings he is translating, so that the viewer can hold the serene, accumulative image of the painting against the violent, instantaneous image of the photograph. The gesture makes literal what the vanitas tradition always implied: that beauty is inseparable from destruction, that the still life is already a record of something dying. But it also does something specific to photography: where the Dutch painter spent days or weeks building an image of transience, Gersht uses the camera's capacity to arrest a fraction of a second to catch the moment of destruction itself. The photograph here does not preserve the beautiful arrangement; it preserves its annihilation.
+### Robert Overweg, *The End of the Virtual World*, 2010
 
-### Richard Kuiper, [*Dutch Still Life in Plastic*](https://www.syb-photobooks.com/dutch-still-life-in-plastic), 2013
+![Overweg]({{ site.baseurl }}/courses/01_Cameraless/assets/img/overweg.webp)
+<figcaption>Robert Overweg, from <em>The End of the Virtual World</em>, 2010</figcaption>
 
-![Kuiper]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/kuiper.webp)
-<figcaption>Richard Kuiper, from <em>Dutch Still Life in Plastic</em>, 2013</figcaption>
+<blockquote>"Worlds within video games are no longer ‘virtual’, but an extension of the physical worlds which functions as the new public space of contemporary society. Robert Overweg takes landscape and portrait photographs of these game environments. By capturing inattentive graphic errors, he reveals the glitch within the established order, and the distortion hidden beneath the apparent harmony.
+The End of the Virtual World, a photo series consisted of seven prints, explores the limbs of the world found in first-person shooter games such as Left 4 Dead, Half-life, and Modern Warfare. This part of the virtual world, flat with hard-cut edges, is not like the round and thus endless physical world.
+However, it is also differs from the typical aesthetics of the virtual world where over-meticulous visuals overwhelm the viewer, by displaying an unusually peaceful environment. Through this strange landscape of abandoned and unfinished spaces, emerges a world in between the physical and virtual."
 
-Richard Kuiper's *Dutch Still Life in Plastic* recreates the iconographic vocabulary of seventeenth-century Dutch vanitas painting — flowers, fruit, draped fabric, skulls, hourglasses — using objects made entirely of plastic. The series is immediately legible as a translation of painting into photography, and the formal qualities of the images reinforce that: Kuiper uses the raking sidelight, the dark background, and the studied composition of the Dutch tradition with great precision. But the substitution of plastic for organic material produces a sharp conceptual reversal: the vanitas tradition used beautiful, perishable objects to meditate on mortality and the passage of time, while plastic — designed specifically not to decay, to persist in the environment for centuries — denies the very temporality the tradition was built to represent. A plastic skull is not a memento mori; it is its opposite, a material that refuses to be consumed by time. Kuiper's series is both a loving homage to the painting tradition and a quietly devastating critique of a culture that has replaced organic time with synthetic permanence.
+– The 7th Seoul Media City Biennale, [online project page](https://www.mediacityseoul.kr/en/yesterday/artworks/the-end-of-the-virtual-world), 2012</blockquote>
 
+- More about *The End of the Virtual World*: [shotbyrobert.com/end-of-the-virtual-world](https://www.shotbyrobert.com/end-of-the-virtual-world)
+- BBC article: [bbc.com/news/technology-10608667](https://www.bbc.com/news/technology-10608667)
+
+
+
+### Raphael Brunk, *Captures*, 2016 – 2018
+
+![Brunk]({{ site.baseurl }}/courses/01_Cameraless/assets/img/brunk.jpg)
+<figcaption>Raphael Brunk, <em>Capture34313.12_16</em>, 2016 – 2018</figcaption>
+
+<blockquote>"In his series <em>Captures</em>, Brunk refuses his role of player, and breaks free of the constrictions that chain his character to the game camera. Instead of walking the streets of Los Santos taking pictures from the point of view of the player, he takes control of the camera and starts moving across the virtual world free from gravity and passing through planes and walls. This act is not just a statement of refusal – against the way the game is supposed to be played – or an artistic exploration of this computational world – investigating spaces one is not allowed to enter – but a full on intervention in the game code that reclaims the software as an artistic tool and the game object as both a landscape, a photo studio and an apparatus.
+[...]
+Brunk's modded camera is a rogue and subversive apparatus, and yet the artist's gaze is trained in the tradition of architecture photography. His compositions follow the way 3D models create spaces, looking at photographic textures and software models that intersect and construct the world on the screen. We are stuck in the process of creation, with unfinished staircases and water surfaces without bodies. We inhabit impossible viewing points, floating, flying, frozen in mid-air. We see through walls, and inhabit insides as outside and outsides as inside.
+
+We are what is technically defined as "out of bounds": a place that is usually considered an error by game developers, a glitch that requires fixing. Yet here, not only is out of bounds a deliberate choice, but it turns into a state of contemplation. The glitchy software appears not as an accident or a bug, but as a space of digital sublime. It invites the viewer to imagine the creation of alternative universes, of space constructed through different rules, different materials and elements, different scientific principles.
+
+<em>Captures</em> reveals a virtual architecture of impossibility, yet also engages with the specificities of the game world. It is a form of architecture that can only exist with the constructed digital space where the laws of physics do not apply, and where the making of photorealistic spaces is deconstructed through the artist's interventions. This approach reminds of artist Gordon Matta-Clark's Building Cuts (1972-78): large-scale sculptural forms created by the artist dissecting existing architecture. Matta-Clark's massive, temporary interventions carved precise geometric openings into neglected buildings in New York and Paris. By cutting into these abandoned structures, he turned them into sculptural voids that exposed their internal spaces, commented on urban deterioration, and challenged traditional ideas about architecture. Brunk's move into the game infrastructure seeks to create new understandings of a subject's relationship to a space: but a virtual algorithmic space with its own rules and structure."
+
+– Marco De Mutiis, <a href="https://www.kerberverlag.com/en/buecher/raphael-brunk">Capturing Glitched Landscapes Between Virtual Sublime and Digital "Anarchitecture"</a>, in <em>Raphael Brunk. Digital Imaging</em>, Kerber Verlag, 2026.</blockquote>
+
+- More about *Captures*: <a href="https://gta5.photography/artworks/captures">gta5.photography/artworks/captures</a>
+
+
+---
+
+## Tutorial
+
+See the manual section on [gta5.photography](https://gta5.photography)
+
+
+---
 
 ## Assignment
 
-Make a series of 3–5 still life photographs in which the choice and/or arrangement of objects tells something true about a relationship, a memory, or a loss. The objects should be ones you have chosen deliberately — things that carry some weight of significance or association — and the arrangement, light, and composition should be considered rather than accidental. You are not illustrating a story; you are making a visual equivalent of something that resists easy description. Write a short caption (2–3 sentences) for each image identifying the objects and what you were trying to do with them.
+Choose a computer game or virtual environment and conduct a photographic survey of one architectural type within it (e.g. churches, domestic interiors, industrial structures, public spaces).
+
+You can use screenshots, digital photogrammetry or virtual cameras to produce the images. You can choose to go out of bounds and explore the glitchy architecture of the software, or use a specific angle, style and materialisation process, based on traditions of architecture photography and the examples seen in class.
+
+Create a series of 8–12 images that document this typology consistently, as if producing an architectural record. Accompany the series with a short text (150–200 words) describing your approach and the environment you chose.
 
 </div>
+
 
 <div class="lang-de" markdown="1">
 
 ***
-
 ## Präsentationen
+Wähle eine virtuelle Welt und produziere eine Fotoreportage, die eine Gemeinschaft, ein Ereignis oder einen Aspekt des Alltagslebens darin dokumentiert. Deine Reportage sollte über das reine Festhalten von Umgebungen hinausgehen. Gehe an die virtuelle Welt heran wie ein Fotojournalist an einen realen Ort: Beobachte, wie sich Menschen verhalten, identifiziere Geschichten oder soziale Dynamiken, und baue eine visuelle Erzählung um das, was du vorfindest.
 
-Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument]() hoch.
+- **Eine Serie von 8–12 Bildern**, die gemeinsam eine kohärente Geschichte erzählen oder ein bestimmtes Thema vermitteln.
+- **Ein kurzer Text (200–300 Wörter)**, der die Bilder begleitet und deine Reportage kontextualisiert: Wohin bist du gegangen? Was hast du gefunden? Welche Geschichte erzählst du, und warum?
+
+Lade den Text und die Bilder mit deinem Namen und einer Bildunterschrift in <a href="https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?usp=sharing">diesem Online-Dokument</a> hoch.
 
 ***
 
-*Diese Sitzung verfolgt die Beziehung der Fotografie zur Erinnerung in zwei Richtungen. Die erste ist sozial und politisch: wie Fotografie kollektive und persönliche Erinnerung konstruiert, bewahrt und verzerrt — in den ritualisierten Bildern des Tourismus, im intimen Archiv des Familienalbums und in den Fotografien von Gemeinschaften, deren Geschichten systematisch aus dem offiziellen Gedächtnis ausgeschlossen wurden. Die zweite ist formal und historisch: wie Fotografie die Konventionen der Malerei übersetzt hat — vor allem die Stillleben-Tradition mit ihrer Meditation über Zeit, Sterblichkeit und das Fortbestehen von Objekten — in ein neues Medium, das ihre Fragen erbt und ihre Mittel transformiert. Gemeinsam offenbaren diese beiden Richtungen, dass Fotografie nicht einfach eine Aufzeichnungstechnologie ist, sondern eine Praxis, die tief verwoben ist mit unserem Verständnis davon, was bleibt, was verschwindet und was es bedeutet, eine Spur zu hinterlassen.*
+Architektur ist zunehmend mit digitaler Bildproduktion verflochten. Lange bevor ein Gebäude errichtet wird, existiert es als Rendering: als fotorealistische Simulation, die in Planungsdokumenten zirkuliert, auf Baustellenzäune projiziert oder im Rahmen städtebaulicher Kampagnen verbreitet wird. Dieselbe Logik bestimmt virtuelle Welten — die Gebäude, die Computerspiele, Metaversen und Online-Umgebungen bevölkern, werden mit denselben Werkzeugen und Konventionen entworfen und fotografiert wie ihre realen Pendants, folgen jedoch völlig anderen Regeln der Physik, der Materialität und des Zugangs.
+
+In dieser Lektion betrachten wir Künstlerinnen und Künstler sowie Designerinnen und Designer, die sich dieser digitalen Architektur mit einem fotografischen Blick nähern — mithilfe von Screenshots, modifizierten Kameras und digitaler Photogrammetrie, um Räume zu untersuchen, die nur auf dem Bildschirm existieren können. Ihre Praktiken werfen kulturelle und politische Fragen der Simulation auf sowie die Rolle von Architektur zwischen digitalem Bild und physischer Realität.
 
 
-## Reise- und Tourismusfotografie
+## Fallstudien
 
-Tourismus ist eine der fotografisch gesättigtsten Praktiken des zeitgenössischen Lebens — und eine der ältesten: Der Impuls, ein Bild von anderswo mitzubringen, geht der Kamera voraus und erbt die Tradition der Grand Tour und der gemalten Veduta. Was die Fotografie hinzufügte, war Zugänglichkeit und Volumen: die Möglichkeit einer persönlichen Aufzeichnung, reproduzierbar und teilbar, die jeder machen konnte. Was diese Zugänglichkeit im Laufe der Zeit hervorbrachte, war eine bemerkenswert standardisierte Bildkultur — dieselben Winkel, dieselben Gesten, dieselben Orte, milliardenfach reproduziert. Die hier versammelten Fotografierenden untersuchen diese Standardisierung kritisch und fragen, was Tourismusfotografie erinnert, was sie einebnet und was sie auslässt.
+### Mascha Negri, *Luftige Enge*, 2023
 
-### Martin Parr, [*Small World*](https://www.magnumphotos.com/arts-culture/travel/global-tourism-martin-parr/), 1990–2017
+![Negri]({{ site.baseurl }}/courses/01_Cameraless/assets/img/negri.jpg)
+<figcaption>Mascha Negri, <em>Luftige Enge</em>, 2023, The Photographer's Guide to Los Santos, Installationsansicht am Fotofestival Lenzburg, 2024. Foto: Florian Amoser.</figcaption>
 
-![Parr]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/parr.jpg)
-<figcaption>Martin Parr, <em>The Leaning Tower of Pisa</em>, aus <em>Small World</em>, 1990</figcaption>
+<blockquote>In <em>Luftige Enge</em> erkundet Mascha Negri die Industriezonen von Los Santos und sucht nach Perspektiven und Winkeln, die an die Fotografinnen und Fotografen Germaine Krull sowie Bernd und Hilla Becher erinnern. Während Negri durch die Strukturen des Spiels navigiert, enthüllen die Bilder die Pixel des Bildschirms, die Polygone, die die 3D-Architektur formen, sowie die Texturen virtueller Rohre und Schornsteine. Mit einer Smartphone-Kamera fotografiert Negri den Spielbildschirm und betont dabei die Merkmale der simulierten Umgebung, während sie sich in der Tradition der Schwarz-Weiß-Architekturfotografie verortet. Durch digitale Bearbeitung in einer Smartphone-App wendet sie kontrastreiche Schwarz-Weiß-Filter an, um die geometrischen Formen der Strukturen zu akzentuieren.
 
-Martin Parrs *Small World* ist eine anhaltende, sardonische Untersuchung des Massentourismus, die über fast drei Jahrzehnte in Dutzenden von Ländern entstanden ist. Mit dem grellen Blitz und den gesättigten Farben, die zu seiner Handschrift wurden, fotografiert Parr die Rituale des touristischen Erlebens — die Schlange vor dem Wahrzeichen, das Selfie mit dem Denkmal, den Souvenirstand, die Reisegruppe in Formation — mit einer Präzision, die ständig zwischen Komödie und Kritik kippt. Die Bilder sind nicht menschenfeindlich; dafür ist Parr zu sehr an seinen Sujets interessiert. Aber sie sind unerbittlich aufmerksam gegenüber der Lücke zwischen der Erfahrung, die Tourismus verspricht (Begegnung mit dem Außergewöhnlichen, Eintauchen in das Fremde), und dem, was er typischerweise liefert (eine Menschenmenge, die tut, was man selbst tut, an einem Ort, der für Menschen eingerichtet wurde, die tun, was man selbst tut). *Small World* wirft die Frage auf, was Reisefotografie eigentlich erinnert: ob das Touristenbild die Aufzeichnung eines besuchten Ortes oder die Aufzeichnung einer inszenierten Darbietung ist — und ob diese Unterscheidung noch eine Rolle spielt, sobald die Fotografie im Album ist.
+«Luftige Enge» beschreibt treffend die Gegenüberstellung des ephemeren Rauchs aus den Rohren und der massiven, dicht gepackten Gebäude. Dieser Titel verweist auf die Kontraste zwischen dem Flüchtigen und dem Soliden, dem Analogen und dem Digitalen. Darüber hinaus spiegeln diese Gegensätze übergeordnete Themen wider: den Wandel von einer postindustriellen Gesellschaft zur aufstrebenden Spieleindustriewirtschaft und die Darstellung verschwindender Schwerindustrien im Westen durch die virtuellen Gebäude des Spiels.
 
-### Roc Herms, [*Hacer Pantallazo*](https://www.rocherms.com/), 2014–
+Schließlich lädt Negris Projekt die Betrachtenden dazu ein, über die Zeitlichkeit und Vergänglichkeit urbaner Industrielandschaften nachzudenken — sowohl realer als auch simulierter. Durch den Fokus auf das Zusammenspiel von Licht und Schatten dokumentieren ihre Fotografien nicht nur die Umgebung von Los Santos, sondern evozieren auch eine rätselhafte Nostalgie für das architektonische Erbe der Industrialisierung.
 
-![Herms]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/herms.png)
-<figcaption>Roc Herms, aus <em>Hacer Pantallazo</em>, 2014–</figcaption>
+– Marco De Mutiis und Matteo Bittanti, <a href="https://gta5.photography/artworks/luftige-enge"><em>The Photographer's Guide to Los Santos</em></a>, 2024</blockquote>
 
-Während Parr sich mit einer Kamera physisch in touristische Szenen hineinbegibt, operiert Roc Herms vollständig auf Distanz — er fotografiert seinen Handybildschirm, während dieser online gefundene Reisebilder anzeigt, und produziert Screenshots von Screenshots in einer Reproduktionskette, die das Originalbild schrittweise degradiert, während sie seine Zirkulation vervielfältigt. *Hacer Pantallazo* (etwa: „einen Screenshot machen") behandelt das Touristenbild als Einheit digitaler Währung: etwas, das von Hand zu Hand weitergegeben, neu gepostet, neu gerahmt, aus jedem spezifischen Entstehungs- oder Erfahrungskontext herausgelöst wird. Die Geste — eine Kamera auf einen Bildschirm richten — macht sichtbar, was in der Zirkulation der Reisefotografie normalerweise unsichtbar ist: dass das meiste, was wir als Bilder von Orten konsumieren, keine Fotografien von Orten sind, sondern Fotografien von Fotografien, Bilder von Bildern, Erinnerungen von Erinnerungen. Herms' Werk wirft auch Fragen nach Autorschaft und dem Status des gefundenen Bildes auf, die mit der breiteren digitalen Bildkultur verbunden sind, auf die der Kurs in späteren Sitzungen zurückkommt.
-
-
-## Familienfotografie zwischen gewählten Bindungen und dysfunktionalen Intimitäten
-
-Die Familienfotografie ist vielleicht die ubiquitärste Form der Fotografie — und eine der ideologisch am stärksten aufgeladenen. Das Familienalbum ist keine bloße Aufzeichnung des Geschehenen, sondern dessen, was die Familie zu erinnern wählt: Es ist redigiert, kuratiert und inszeniert. Die darin enthaltenen Fotografien tendieren zu Feiern — Geburtstagen, Ferien, Meilensteinen — und weg von Konflikten, Krankheit, Trauer oder Ambivalenz. Die hier versammelten Fotografierenden arbeiten gegen diese Tendenz oder neben ihr: Sie machen Bilder, die aufzeichnen, was das Familienalbum typischerweise ausschließt, oder die neu imaginieren, was Familie und Intimität bedeuten können. Sie erweitern die übergreifende Frage der Sitzung, wer erinnert wird und wie.
-
-### Richard Billingham, [*Ray's a Laugh*](https://www.theguardian.com/artanddesign/gallery/2024/mar/19/rays-a-laugh-richard-billingham-in-pictures), 1996
-
-![Billingham]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/billingham.jpg)
-<figcaption>Richard Billingham, aus <em>Ray's a Laugh</em>, 1996</figcaption>
-
-Richard Billingham begann Anfang der 1990er-Jahre, seine Familie in einer beengten Sozialwohnung in den West Midlands zu fotografieren — anfangs um Referenzmaterial für Gemälde zu sammeln, ohne jede Absicht, die Fotografien auszustellen. Was entstand, war *Ray's a Laugh*, eine rohe, oft schockierende Aufzeichnung des Alkoholismus seines Vaters Ray, der tätowierten Häuslichkeit seiner Mutter Liz und der Textur eines in Armut und Chaos gelebten Lebens. Die Bilder sind technisch unvollkommen — überstrahlt vom Blitz, körnig, in engen Räumen aufgenommen — und diese Unvollkommenheit fühlt sich wesentlich an: Das sind Fotografien, die so gemacht werden, wie man seine eigene Familie fotografiert, ohne den distanzierenden Apparat professioneller Bildproduktion. Was Billingham, ohne es zu planen, schuf, war ein Anti-Album: Bilder von allem, was die konventionelle Familienfotografie ausschließt. Wie Larry Clarks *Tulsa*, dem wir in der vorherigen Sitzung begegnet sind, wirft *Ray's a Laugh* die Frage auf, was es bedeutet, Menschen zu fotografieren, an die man durch Umstände statt durch Wahl gebunden ist — Menschen, die möglicherweise nicht in der Lage sind, die Konsequenzen zu erwägen, die sich aus dem Erscheinen in Bildern ergeben, die über das Zuhause hinaus zirkulieren. Im Gegensatz zu Clark hat Billingham jedoch stets behauptet, das Werk sei aus Liebe entstanden und seine Familie sei sich der eventuellen Veröffentlichung bewusst und damit einverstanden gewesen.
-
-### [Dayanita Singh](https://www.frieze.com/article/journey-through-lens-dayanita-singh), *Privacy*, 2003
-
-![Singh]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/singh.webp)
-<figcaption>Dayanita Singh, aus <em>Privacy</em>, 2003</figcaption>
-
-Dayanita Singhs *Privacy* fotografiert die Innenräume indischer Oberschichtshaushalte — Salons, Esstische, Schlafzimmer, Veranden — oft ohne deren Bewohner:innen. Die Abwesenheit ist der Kern: Das sind Räume, die von Belegen gelebter Leben gesättigt sind (die arrangierten Möbel, die Familienfotos an der Wand, die über Generationen akkumulierten Objekte), aus denen sich die Menschen selbst vorübergehend zurückgezogen haben. Singh machte das Werk über mehrere Jahre in Zusammenarbeit mit den fotografierten Familien — was es scharf von voyeuristischer Dokumentarfotografie unterscheidet: Der Zugang ist intim, die Beziehung kollaborativ, die Bilder durch Vertrauen ermöglicht. *Privacy* erweitert das Nachdenken der Sitzung darüber, was der häusliche Raum erinnert — wie Objekte und Arrangements die Form eines Lebens bewahren, selbst wenn die Person abwesend ist — und wirft Fragen nach der Beziehung zwischen Fotografie, Häuslichkeit und den geschlechtlich markierten Räumen auf, die Frauen insbesondere bewohnen und erhalten. Singh ist auch eine der zentralen Figuren der zeitgenössischen indischen Fotografie, und ihr Werk bietet eine Perspektive auf Familie und Erinnerung, die nicht durch die euro-amerikanischen Traditionen organisiert ist, die weite Teile dieses Kurses dominieren.
-
-### [Leigh Ledare](https://leighledare.com/Pretend-You-re-Actually-Alive), *Pretend You're Actually Alive*, 2009
-
-![Ledare]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/ledare.jpg)
-<figcaption>Leigh Ledare, aus <em>Pretend You're Actually Alive</em>, 2009</figcaption>
-
-Leigh Ledares *Pretend You're Actually Alive* ist eines der ethisch und psychologisch komplexesten Werkkorpora der zeitgenössischen Fotografie. Über mehrere Jahre fotografierte Ledare seine Mutter Tina — eine alternde ehemalige Balletttänzerin — in ihrem häuslichen Leben, einschließlich explizit sexueller Situationen mit ihren verschiedenen Partnern. Das Werk entstand mit Tinas voller Beteiligung und aktiver Zusammenarbeit; sie initiierte die fotografischen Situationen häufig selbst und hat öffentlich über das Projekt in Begriffen von Handlungsmacht und Selbstrepräsentation gesprochen. Die kritische Debatte um das Werk war dennoch intensiv und konzentrierte sich auf Fragen, die die Bilder selbst nicht beantworten können: Kann die Familienbeziehung zwischen Fotografierenden und Sujet jemals vollständig von den Machtdynamiken getrennt werden, die sie trägt? Löst die scheinbare Einwilligung des Sujets die ethischen Fragen auf, die der Akt des Fotografierens und Ausstellens aufwirft? Was beinhaltet die eigene Position der Betrachterin oder des Betrachters in Bezug auf diese Bilder? *Pretend You're Actually Alive* verdient seinen Platz in diesem Abschnitt nicht, weil es Antworten liefert, sondern weil es die Fragen unausweichlich macht, die Familienfotografie normalerweise zu vermeiden versteht — Fragen über Begehren, Kontrolle, Komplizenschaft und den Unterschied zwischen gesehen werden und repräsentiert werden.
-
-### Charlie Engman, [*Mom*](https://www.editionpatrickfrey.com/en/books/mom), 2020
-
-![Engman]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/engman.jpg)
-<figcaption>Charlie Engman, aus <em>Mom</em>, 2020</figcaption>
-
-Charlie Engmans *Mom* dokumentiert ein anhaltend kollaboratives Fotoprojekt zwischen dem Künstler und seiner Mutter Kathleen, das über viele Jahre während seiner Heimbesuche in Illinois entstanden ist. Die Bilder sind formal einfallsreich und oft seltsam: Kathleen erscheint in aufwändigen häuslichen Tableaux, manchmal in surrealen oder theatralischen Situationen, die die Konventionen der Familienporträtfotografie zu parodieren oder zu erweitern scheinen. Was das Projekt auszeichnet, ist die Art der Zusammenarbeit — Engman und seine Mutter sind echte Mitautor:innen, und das Werk spiegelt eine Beziehung wider, in der die üblichen Hierarchien von Fotografierenden und Sujet wesentlich neu verhandelt wurden. *Mom* ist ein Porträt einer Beziehung über die Zeit ebenso sehr wie ein Porträt einer Person: Das Buch akkumuliert Bilder aus verschiedenen Phasen beider Leben und macht sichtbar, wie sich die Eltern-Kind-Beziehung verschiebt, fortbesteht und transformiert. Es erweitert die anhaltende Untersuchung des Kurses, wie kollaborative, ethisch fundierte Fotografie in der Praxis aussieht.
-
-### Pixy Liao, [*Experimental Relationship*](https://www.pixyliao.com/experimental-relationship), 2007–
-
-![Liao]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/liao.jpeg)
-<figcaption>Pixy Liao, aus <em>Experimental Relationship</em>, 2007–</figcaption>
-
-Pixy Liaos *Experimental Relationship* ist ein fortlaufendes fotografisches Projekt, das ihre Beziehung zu ihrem japanischen Partner Moro dokumentiert, in der die konventionellen Machtdynamiken des heterosexuellen Paares — und der Fotografierenden-Sujet-Beziehung — systematisch umgekehrt und hinterfragt werden. Liao, eine chinesische Frau, fotografiert Moro in Positionen der Passivität, Abhängigkeit und häuslichen Verfügbarkeit, die typischerweise Frauen im Genre der Paarporträtfotografie zugewiesen werden; er erscheint arrangiert, posiert, manchmal buchstäblich getragen oder eingeschlossen. Die Bilder sind spielerisch und formal elegant, aber das Spiel ist zweckgerichtet: Indem die konventionelle Anordnung umgekehrt wird, macht Liao die Geschlechterannahmen sichtbar, die die konventionelle Anordnung naturalisiert. Das Projekt läuft seit fast zwei Jahrzehnten, was ihm eine zeitliche Dimension verleiht, die einzelne Projekte nicht haben können — die Akkumulation von Bildern über die Zeit dokumentiert nicht nur eine Beziehung, sondern deren Entwicklung: wie zwei Menschen Macht, Sichtbarkeit und Repräsentation gemeinsam über Jahre hinweg aushandeln.
+- Mehr über <em>Luftige Enge</em>: <a href="https://gta5.photography/artworks/luftige-enge">gta5.photography/artworks/luftige-enge</a>
 
 
-## Queere Stimmen, Politik der Repräsentation und wer erinnert wird
+### Maxim Zmeyev, *Type 1.5.11.*, 2021
 
-Offizielle Archive — staatliche Archive, Museumssammlungen, veröffentlichte Geschichten — spiegeln die Prioritäten derer wider, die sie angelegt haben. Die Gemeinschaften, Beziehungen und Leben, die außerhalb der von diesen Archiven anerkannten Kategorien fielen, wurden typischerweise nicht fotografiert, oder auf eine Weise fotografiert, die sie pathologisierte oder auslöschte, oder hinterließen Fotografien, die vernichtet, versteckt oder schlicht nie gesammelt wurden. Die hier versammelten Fotografierenden und Sammlungen adressieren diese Abwesenheit direkt: Sie machen Bilder von Gemeinschaften, die aus dem kollektiven Gedächtnis ausgeschlossen wurden, oder sie bergen Bilder, die durch Zufall statt durch Absicht überlebten. Sie erweitern die zentrale Frage der Sitzung — wer darf erinnert werden? — in explizit politisches Terrain.
+![Zmeyev]({{ site.baseurl }}/courses/01_Cameraless/assets/img/zmeyev.jpg)
+<figcaption>Maxim Zmeyev, aus <em>Type 1.5.11.</em>, 2021</figcaption>
 
-### [Sébastien Lifshitz Kollektion](https://www.youtube.com/watch?v=TsVI6nIx9kQ)
+<blockquote>„Dieses Projekt enthält Fotografien, die in Fallout 76 aufgenommen wurden, einem Prequel zu einer MMO (Massively Multiplayer Online)-Action-Rollenspiel-Saga, die in einer durch einen Atomkrieg verwüsteten Zukunftswelt angesiedelt ist. Die Bilder ähneln Architekturzeichnungen und zeigen die Unterstände oder Häuser, die von den Spielerinnen und Spielern mit DLC-Erweiterungen — herunterladbaren Inhalten zur Anpassung des Spiels — erschaffen wurden. Der Fotograf Maxim Zmeyev zeigt fünf Fassadentypen, die fünf psychologischen Profilen entsprechen: das Kriegerprofil, dessen Haus mit Waffen und militärischen Symbolen bedeckt ist; das Händlerprofil, das Werbung und Verkaufsautomaten aufstellt; das Bauernprofil, das das Haus mit Obstbäumen und Getreidepflanzen umgibt; das Handwerkerprofil, das Werkzeuge zur Reparatur aller Art von Gegenständen herstellt; und das Philosophenprofil, dessen Unterstand minimalistisch ist und weder praktische noch ornamentale Elemente enthält.
 
-![Lifshitz]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/lifshitz.webp)
-<figcaption>Anonym, aus der Sébastien Lifshitz Kollektion, Datum unbekannt</figcaption>
+Mit seiner umfangreichen Erfahrung als Fotojournalist verteidigt Zmeyev den dokumentarischen Wert virtueller Umgebungen, in denen wir seiner Meinung nach unsere tiefsten Ängste und Wünsche zum Ausdruck bringen. „Diese Fotografien zeigen Welten, die nicht existieren, und wurden mit einer Kamera gemacht, die nicht existiert, aber sie dokumentieren Emotionen und Beziehungen, die real sind."
 
-Der französische Filmemacher [Sébastien Lifshitz](https://i-d.co/article/sebastien-lifshitz-queer-photography/) hat Jahrzehnte damit verbracht, eine Sammlung vernakul‍ärer Fotografien zusammenzustellen — Schnappschüsse, Porträts, Fotoautomatenbild‍er, Amateurdrucke — die queere Leben des zwanzigsten Jahrhunderts zeigen. Die Bilder wurden von unbekannten Fotografierenden für den privaten Gebrauch gemacht und die meisten überlebten durch Zufall: gefunden auf Flohmärkten, in Antiquitätenläden und Nachlassverkäufen nach dem Tod ihrer Sujets. Was Lifshitz' Sammlung sichtbar macht, ist die Lücke zwischen dem offiziellen Archiv und dem tatsächlich gelebten Leben: Diese Fotografien dokumentieren gleichgeschlechtliche Paare, geschlechtsnon-konforme Individuen und queere Gemeinschaften in Momenten der Zärtlichkeit, des Feierns und der Alltäglichkeit, die die öffentliche Kultur ihrer Zeit nicht hätte zirkulieren lassen. Die Sammlung wirft eine Reihe von Fragen auf, die durch diesen Abschnitt laufen: Was ist die Beziehung zwischen Fotografie und historischer Sichtbarkeit? Wer entscheidet, was in das Archiv eingeht und was verworfen wird? Und was bedeutet es, Bilder von Menschen zu bergen, deren Identitäten zu ihren Lebzeiten eine Form von rechtlichem und sozialem Risiko darstellten?
+– Getxo Photo 2024, <a href="https://archivo.getxophoto.com/en/archive/2024-play/artists-2024/maxim-zmeyev/">Projektseite</a></blockquote>
 
-### [Peter Hujar](https://peterhujararchive.com/), *Portraits in Life and Death*, 1976
-
-![Hujar]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/hujar.jpg)
-<figcaption>Peter Hujar, aus <em>Portraits in Life and Death</em>, 1976</figcaption>
-
-Peter Hujar war eine zentrale Figur der New Yorker Downtown-Szene der 1970er- und 1980er-Jahre — einer Gemeinschaft von Künstler:innen, Performer:innen, Drag Queens und Schriftsteller:innen, zu der auch Nan Goldin, David Wojnarowicz und Susan Sontag gehörten, die er alle fotografierte. Seine Porträts — in Schwarzweiß, mit einer Direktheit und psychologischen Intensität, die in der Geschichte des Mediums kaum Entsprechungen hat — dokumentieren eine Welt, die durch die AIDS-Krise verwüstet wurde: Viele seiner Sujets und Hujar selbst starben Ende der 1980er-Jahre an AIDS-bedingten Erkrankungen. Sein Buch [*Portraits in Life and Death*](https://www.newyorker.com/culture/photo-booth/the-enduring-power-of-peter-hujars-portraits-in-life-and-death) von 1976 ist um zwei Bilderkorpora organisiert: Porträts lebender Sujets und Fotografien der Katakomben von Palermo, in denen präservierte Leichname in ihren Grabkleidern ausgestellt sind. Die Gegenüberstellung ist nicht morbide, sondern philosophisch — ein Insistieren auf der Nähe von Leben und Tod, Präsenz und Abwesenheit, die die AIDS-Krise für die Gemeinschaft, die Hujar ein Leben lang fotografiert hatte, auf viszeral reale Weise wahr werden ließ. Wie Goldins *Ballad* ist Hujars Werk eine Form des Zeugnisses und eine Form der Trauer: Fotografie als Aufzeichnung von Menschen, die sonst vergessen werden könnten.
-
-### [Mark Morrisroe](https://whitney.org/artists/4137), *Selbstporträts und Porträts*, 1980er-Jahre
-
-![Morrisroe]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/morrisroe.jpg)
-<figcaption>Mark Morrisroe, <em>Untitled (John S. and Jonathan)</em>, 1985</figcaption>
-
-Mark Morrisroe war ein in Boston geborener Fotograf, der Anfang der 1980er-Jahre in einem Milieu arbeitete, das sich mit Nan Goldins überschnitt — den Underground-Club-Szenen von Boston und New York, bevölkert von Drag-Performer:innen, Sexarbeiter:innen und jungen Künstler:innen, die am Rand der Mainstream-Kultur lebten. Morrisroe starb 1989 im Alter von 30 Jahren an einer AIDS-bedingten Erkrankung und hinterließ ein Werk, das zum Zeitpunkt seines Todes weitgehend unbekannt war und nur durch anhaltende kuratorische Bemühungen allmählich in den Kanon eingegangen ist. Seine Fotografien — oft Selbstporträts, entstanden mit einem formal erfindungsreichen Einsatz von Dunkelkammerbearbeitung, Doppelbelichtung und fotografischem Transfer — sind durchzogen von einem Bewusstsein für die Verletzlichkeit und Sterblichkeit des Körpers, das sich sehr anders liest, seit seine Biografie bekannt ist. Morrisroe ist eine Fallstudie in der Politik des fotografischen Gedächtnisses: Sein Werk überlebte, sein Ruf nicht — und seine allmähliche Wiederentdeckung wirft Fragen nach den institutionellen Strukturen auf — Galerien, Museen, Nachlässe, Kritiker:innen —, die bestimmen, welche Fotografierenden in die Geschichte eingehen und welche verschwinden.
-
-### [Zanele Muholi](https://aperture.org/editorial/magazine-zanele-muholis-faces-phases/), *Faces and Phases*, 2006–
-
-![Muholi]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/muholi.jpeg)
-<figcaption>Zanele Muholi, <em>Ntobza Mkhwanazi, BB Section, Umlazi Township, Durban</em>, aus <em>Faces and Phases</em>, 2012</figcaption>
-
-Zanele Muholi ist eine südafrikanische visuelle Aktivistin — ihr bevorzugter Begriff —, deren fortlaufendes Projekt *Faces and Phases* eines der nachhaltigsten fotografischen Archive einer marginalisierten Gemeinschaft in der zeitgenössischen Kunst darstellt. Das 2006 begonnene Projekt umfasst Hunderte von Schwarzweißporträts von schwarzen lesbischen, schwulen, bisexuellen, transgender, queeren und intersexuellen Menschen in Südafrika, einem Land, in dem gleichgeschlechtliche Beziehungen verfassungsrechtlich geschützt sind, in dem LGBTQI+-Individuen und schwarze lesbische Frauen im Besonderen jedoch extremer Gewalt ausgesetzt bleiben, einschließlich sogenannter „korrektiver Vergewaltigung". Muholi hat *Faces and Phases* nicht als Dokumentarfotografie beschrieben, sondern als Akt visueller Aktivismus: die Schaffung eines Archivs, das der Staat und seine offiziellen Institutionen sich geweigert haben zu schaffen. Jedes Porträt entsteht kollaborativ, mit voller Beteiligung der abgebildeten Person an ihrer Darstellung; die Serie beharrt auf der Sichtbarkeit, Würde und Individualität von Menschen, die durch die sozialen Bedingungen, in denen sie leben, systematisch unsichtbar gemacht werden. *Faces and Phases* verbindet die historischen Fragen des Abschnitts über das Überleben von Archiven direkt mit der Gegenwart: Das Archiv ist nicht nur etwas, das verloren gegangen und wiedergewonnen wurde, sondern etwas, das aktiv gegen anhaltende Auslöschung aufgebaut werden muss.
+- Mehr über <em>Type 1.5.11.</em>: <a href="https://maximzmeyev.com/type-1511">maximzmeyev.com/type-1511</a>
 
 
-## Stillleben: Fotografie und die Maltradition
+### Rayane Jemaa, *How to Build a Mosque*, 2026 –
 
-Das Stillleben ist eines der ältesten und philosophisch geladensten Genres der westlichen Malerei — und eines der folgenreichsten für die Fotografie. Die niederländischen und flämischen Stillleben des siebzehnten Jahrhunderts — gedeckte Tische, Schnittblumen, Schädel, Sanduhren, umgestürzte Gefäße — waren um das Konzept der Vanitas organisiert: die Meditation über Zeit, Sterblichkeit und die Vergänglichkeit weltlicher Dinge. Jedes Element war ein Memento mori, eine Mahnung an den Tod; selbst die schönsten Objekte wurden im Prozess des Verfalls gezeigt, mit fallenden Blütenblättern und weich werdendem Obst. Als die Fotografie im neunzehnten Jahrhundert entstand, erbte sie diese Tradition fast sofort: Das Stillleben war eines der ersten fotografischen Genres, teils weil Objekte sich im Gegensatz zu Menschen während langer Belichtungszeiten nicht bewegten. Aber die Fotografie transformierte das Genre auch, indem sie ihre eigene Beziehung zur Zeit einführte — den Augenblick statt der akkumulierten Sitzung — und ihren eigenen Anspruch auf indexikalische Wahrheit. Die hier versammelten Fotografierenden engagieren sich explizit mit diesem Erbe und finden im Dialog zwischen Fotografie und Malerei eine Reihe von Fragen über Zeit, Schönheit, Zerstörung und die Bedeutung des Fortbestehens eines Bildes.
+![Jemaa]({{ site.baseurl }}/courses/01_Cameraless/assets/img/jemaa.jpeg)
+<figcaption>Rayane Jemaa, <em>How to Build a Mosque</em>, Installationsansicht im Photoforum Pasquart, Biel/Bienne, 2026. Foto: Thomas Annaheim Lambert</figcaption>
 
-### [Laura Letinsky](https://www.youtube.com/watch?v=B9mlwgi-mZg), [*Ill Form and Void Full*](https://lauraletinsky.com/ill-form-and-void-full-(2010-2015)), 2011
+<blockquote>„How to Build a Mosque" untersucht, wie Moscheen — als spirituelle, architektonische und kulturelle Räume — in digitalen Umgebungen repräsentiert, verbreitet und kommodifiziert werden. Ausgehend von Michel Foucaults Konzept der Heterotopie und Gilles Deleuzes Begriff der Deterritorialisierung verfolgt das Projekt die Transformation der Moschee: von einem in einer spezifischen Geografie verwurzelten Ort der Andacht zu einer herunterladbaren Datei, von einem gemeinschaftlichen Wahrzeichen zu einem generischen 3D-Objekt.
 
-![Letinsky]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/letinsky.jpg)
-<figcaption>Laura Letinsky, aus <em>Ill Form and Void Full</em>, 2011</figcaption>
+Mithilfe von Screenshots und 3D-Renderings von Modellen, die von Plattformen wie Google Earth, Minecraft, Call of Duty und Online-Asset-Marktplätzen stammen, versammelt das Projekt Darstellungen von Moscheen in verschiedenen Stilen und für unterschiedliche Zwecke. Diese Modelle — oft durch technische Hacks zugänglich gemacht oder aus offenen Archiven bezogen — werden in der Regel von anonymen Beitragenden erstellt, aus ihrem ursprünglichen Kontext herausgelöst und in Spielen, Simulationen oder digitalen Umgebungen wiederverwendet.
 
-Laura Letinsky fotografiert die Nachklänge von Mahlzeiten — halb gegessenes Essen, zerknüllte Servietten, verstreute Krümel, den Rückstand von Obst auf weißen Tischdecken — vor Hintergründen, die sich oft in Abstraktion auflösen und das weiße Malereigrund und das schräge Licht niederländischer Stillleben evozieren. Ihre Serie *Ill Form and Void Full* nimmt ihren Titel von einer Wendung des Philosophen Leibniz, der leeren Raum beschreibt, und die Bilder haben etwas von dieser philosophischen Qualität: Sie sind aufmerksam gegenüber der Abwesenheit, gegenüber dem, was verzehrt wurde, gegenüber der durch Appetit hinterlassenen Spur. Letinsky hat explizit über die Vanitas-Tradition und das Memento mori in Bezug auf ihre Praxis geschrieben, und die Verbindung ist direkt: Während niederländische Maler Essen im Moment vor dem Verzehr zeigten, zeigt Letinsky es danach, am Punkt der Auflösung und des Verfalls. Die formale Schönheit ihrer Bilder — die Präzision des Lichts, die Zartheit der Farbe — ist untrennbar von ihrem Gegenstand: Sie macht schöne Bilder von Dingen, die enden, was die zentrale Geste der Vanitas-Tradition ist.
+In diesem Prozess wird eine Moschee, die einst in Ritual und Geografie eingebettet war, zu einem schwebenden, dekontextualisierten Objekt innerhalb einer reibungslosen digitalen Ökonomie, in der spirituelle Form in austauschbaren Inhalt verwandelt wird."
 
-### Taryn Simon, [*Paperwork and the Will of Capital*](https://tarynsimon.com/works/pwc/#1), 2015
+– Rayane Jemaa, <a href="https://www.rayanejemaa.info/">artist website</a></blockquote>
 
-![Simon]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/simon.jpeg)
-<figcaption>Taryn Simon, aus <em>Paperwork and the Will of Capital</em>, 2015</figcaption>
-
-Taryn Simons [*Paperwork and the Will of Capital*](https://www.alminerech.com/exhibitions/689-taryn-simon-paperwork-and-the-will-of-capital) fotografiert Blumenarrangements, die aus Archivrecherchen zu den Blumensträußen rekonstruiert wurden, die bei der Unterzeichnung historischer internationaler Abkommen zugegen waren — Handelsverträge, Friedensabkommen, Übereinkünfte, deren Konsequenzen das Leben von Millionen geprägt haben. Simon erforschte die Arrangements anhand von Archivfotografien und diplomatischen Unterlagen, ließ sie von Floristen neu erstellen und fotografierte sie nach Art der formalen botanischen oder Studio-Stillebenfotografie, wobei jedes Bild mit einem Text gepaart ist, der das Abkommen beschreibt, an das es erinnert. Das Werk funktioniert als eine Art umgekehrte Vanitas: Wo die niederländische Tradition schöne Objekte nutzte, um über Sterblichkeit und die Vergänglichkeit weltlicher Dinge nachzudenken, nutzt Simon schöne Bilder von Blumen, um auf die Dauerhaftigkeit politischer Arrangements hinzuweisen — die in jenen Räumen unterzeichneten Abkommen regieren, lange nachdem die Blumen gestorben sind, weiterhin Handel, Territorium und menschliche Bewegungsfreiheit. Die Blumen sind stumme Stellvertreter der Macht; ihre Schönheit ist die Schönheit der Verdeckung.
-
-### [Ori Gersht](https://www.origersht.com/copy-of-blow-up-2007-m), [*Time After Time*](https://prix.pictet.com/cycles/disorder/ori-gersht), 2007–
-
-![Gersht]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/gersht.jpg)
-<figcaption>Ori Gersht, <em>Time After Time: Blow Up No. 9</em>, 2009</figcaption>
-
-Ori Gershts *Blow Up*-Serie fotografiert Blumenarrangements — mit direktem Bezug auf spezifische flämische Stillleben — im Moment ihrer Zerstörung, wobei Hochgeschwindigkeitsfotografie eingesetzt wird, um den Augenblick einer Explosion festzuhalten, die das Arrangement in verstreute Blütenblätter und Fragmente verwandelt. Der Bezug ist explizit und präzise: Gersht hat die spezifischen Gemälde benannt, die er übersetzt, sodass die Betrachterin oder der Betrachter das ruhige, akkumulierende Bild des Gemäldes gegen das gewaltsame, momentane Bild der Fotografie halten kann. Die Geste macht buchstäblich wahr, was die Vanitas-Tradition stets impliziert hatte: dass Schönheit untrennbar von Zerstörung ist, dass das Stillleben bereits eine Aufzeichnung von etwas Sterbendem ist. Aber sie tut auch etwas Spezifisches für die Fotografie: Während der niederländische Maler Tage oder Wochen damit verbrachte, ein Bild der Vergänglichkeit aufzubauen, nutzt Gersht die Fähigkeit der Kamera, einen Bruchteil einer Sekunde anzuhalten, um den Moment der Zerstörung selbst zu erfassen. Die Fotografie hier bewahrt nicht das schöne Arrangement; sie bewahrt seine Vernichtung.
-
-### Richard Kuiper, [*Dutch Still Life in Plastic*](https://www.syb-photobooks.com/dutch-still-life-in-plastic), 2013
-
-![Kuiper]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/kuiper.webp)
-<figcaption>Richard Kuiper, aus <em>Dutch Still Life in Plastic</em>, 2013</figcaption>
-
-Richard Kuipers *Dutch Still Life in Plastic* recreiert das ikonografische Vokabular der niederländischen Vanitasmalerei des siebzehnten Jahrhunderts — Blumen, Früchte, drapierte Stoffe, Schädel, Sanduhren — mit Objekten aus reinem Plastik. Die Serie ist sofort als Übersetzung von Malerei in Fotografie lesbar, und die formalen Qualitäten der Bilder unterstreichen das: Kuiper setzt das schräge Seitenlicht, den dunklen Hintergrund und die durchdachte Komposition der niederländischen Tradition mit großer Präzision ein. Aber die Substitution von Plastik für organisches Material erzeugt eine scharfe konzeptuelle Umkehrung: Die Vanitas-Tradition verwendete schöne, vergängliche Objekte, um über Sterblichkeit und den Lauf der Zeit nachzudenken, während Plastik — speziell dafür entwickelt, nicht zu verfallen, Jahrhunderte in der Umwelt zu überdauern — genau die Zeitlichkeit verneint, die die Tradition zu repräsentieren gebaut wurde. Ein Plastikschädel ist kein Memento mori; er ist sein Gegenteil, ein Material, das sich weigert, von der Zeit verzehrt zu werden. Kuipers Serie ist sowohl eine liebevolle Hommage an die Maltradition als auch eine leise vernichtende Kritik an einer Kultur, die organische Zeit durch synthetische Permanenz ersetzt hat.
+- Mehr über <em>How to Build a Mosque</em>: <a href="https://www.rayanejemaa.info/#HTBAM">rayanejemaa.info/#HTBAM</a>
+- Screen Walk mit Rayane Jemaa: <a href="https://www.youtube.com/watch?v=eXQhBsQz8FE">youtube.com/watch?v=eXQhBsQz8FE</a>
 
 
-## Aufgabe
+### Raphael Brunk, *Captures*, 2016 – 2018
 
-Erstelle eine Serie von 3–5 Stillebenfotografien, in denen die Wahl und/oder Anordnung der Objekte etwas Wahres über eine Beziehung, eine Erinnerung oder einen Verlust erzählt. Die Objekte sollten bewusst gewählt sein — Dinge, die eine gewisse Bedeutung oder Assoziation tragen —, und die Anordnung, das Licht und die Komposition sollten durchdacht statt zufällig sein. Du illustrierst keine Geschichte; du machst ein visuelles Äquivalent von etwas, das sich schwer beschreiben lässt. Schreibe für jedes Bild eine kurze Bildunterschrift (2–3 Sätze), die die Objekte benennt und beschreibt, was du damit versucht hast.
+![Brunk]({{ site.baseurl }}/courses/01_Cameraless/assets/img/brunk.jpg)
+<figcaption>Raphael Brunk, <em>Capture34313.12_16</em>, 2016 – 2018</figcaption>
 
-</div>
+<blockquote>„In seiner Serie <em>Captures</em> verweigert Brunk die Rolle des Spielers und befreit sich von den Zwängen, die seinen Charakter an die Spielkamera ketten. Anstatt die Straßen von Los Santos aus der Perspektive des Spielers zu fotografieren, übernimmt er die Kontrolle über die Kamera und bewegt sich schwerelos durch die virtuelle Welt, durchdringt Ebenen und Wände. Dieser Akt ist nicht nur eine Verweigerungsgeste — gegen die Art, wie das Spiel gespielt werden soll — oder eine künstlerische Erkundung dieser computerbasierten Welt — die Untersuchung von Räumen, die man nicht betreten darf — sondern ein vollständiger Eingriff in den Spielcode, der die Software als künstlerisches Werkzeug und das Spielobjekt als Landschaft, Fotostudio und Apparat zurückerobert.
+[...]
+Brunks modifizierte Kamera ist ein unberechenbares und subversives Instrument, und dennoch ist der Blick des Künstlers in der Tradition der Architekturfotografie geschult. Seine Kompositionen folgen der Art und Weise, wie 3D-Modelle Räume erzeugen, und betrachten fotografische Texturen und Softwaremodelle, die sich überschneiden und die Welt auf dem Bildschirm konstruieren. Wir befinden uns mitten im Entstehungsprozess, mit unfertigen Treppen und Wasseroberflächen ohne Körper. Wir bewohnen unmögliche Blickpunkte — schwebend, fliegend, in der Luft eingefroren. Wir sehen durch Wände und bewohnen Innenräume als Außenräume und Außenräume als Innenräume.
+
+Wir sind das, was technisch als „out of bounds" definiert wird: ein Ort, der von Spieleentwicklerinnen und -entwicklern in der Regel als Fehler betrachtet wird, als Glitch, der behoben werden muss. Doch hier ist „out of bounds" nicht nur eine bewusste Entscheidung, sondern wird zu einem Zustand der Kontemplation. Die fehlerhafte Software erscheint nicht als Unfall oder Bug, sondern als Raum des digitalen Erhabenen. Sie lädt die Betrachtenden ein, sich die Erschaffung alternativer Universen vorzustellen, Räume, die nach anderen Regeln, anderen Materialien und Elementen, anderen wissenschaftlichen Prinzipien konstruiert sind.
+
+<em>Captures</em> offenbart eine virtuelle Architektur der Unmöglichkeit und befasst sich zugleich mit den Spezifika der Spielwelt. Es ist eine Architekturform, die nur im konstruierten digitalen Raum existieren kann, wo die Gesetze der Physik nicht gelten und die Herstellung fotorealistischer Räume durch die Eingriffe des Künstlers dekonstruiert wird. Dieser Ansatz erinnert an Gordon Matta-Clarks Building Cuts (1972–78): großformatige skulpturale Formen, die durch das Zerschneiden bestehender Architektur entstanden. Matta-Clarks massive, temporäre Eingriffe schnitten präzise geometrische Öffnungen in vernachlässigte Gebäude in New York und Paris. Indem er in diese verlassenen Strukturen einschnitt, verwandelte er sie in skulpturale Leerstellen, die ihre inneren Räume freilegten, urbanen Verfall kommentierten und traditionelle Vorstellungen von Architektur herausforderten. Brunks Vordringen in die Spielinfrastruktur zielt darauf ab, neue Verständnisse der Beziehung eines Subjekts zu einem Raum zu schaffen — einem virtuellen algorithmischen Raum mit seinen eigenen Regeln und Strukturen."
+
+– Marco De Mutiis, <a href="https://www.kerberverlag.com/en/buecher/raphael-brunk">Capturing Glitched Landscapes Between Virtual Sublime
