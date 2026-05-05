@@ -57,6 +57,13 @@ Published alongside the exhibition, Nadine Isabelle Henrich's booklet *[Viral Ha
 The video work maps this pattern with precision: much of the material it presents does not initially appear aligned with far-right ideology, and that is precisely the point. The seduction operates through the visual conventions of fitness content — aspirational, intimate, algorithmically optimised — making its ideological drift difficult to see until the pattern is made explicit. *Bereitschaft* is an act of that making-explicit: a diagram of how contemporary image culture becomes a vector for political extremism through the lure of the body.
  
 ## Tutorial
+
+Outpainting
+Expand conspiracy theory images using AI outpainting.
+
+Collage-style motion graphics
+Adrian Flury, [*A Place I've Never Been*](https://vimeo.com/119289396), 2015
+
  
 ## Assignment
  
