@@ -16,7 +16,7 @@ published: true
  
 ### [Photography and conspiracy theories](https://www.bbc.com/culture/article/20170216-five-photographs-used-to-prove-conspiracy-theories)
  
-![Tourist Guy]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/03/tourist_guy.jpg)
+![Tourist Guy]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/04/tourist_guy.jpg)
 <figcaption>The "Tourist Guy" photo, originally from 1997 and altered after 9/11</figcaption>
 Few images illustrate the seductive power of the faked photograph as clearly as the "Tourist Guy." In November 1997, Hungarian tourist Péter Guzli photographed himself on the observation deck of the World Trade Center's South Tower. Four years later, in the aftermath of the September 11 attacks, he edited a Boeing 757 into the background and sent it to a small group of friends as a piece of dark humour. Within days, the image had spread via email to millions of people worldwide, accompanied by a caption claiming the camera had been recovered from the rubble of the Twin Towers. Despite being quickly debunked — the wrong plane model, the wrong approach direction, the wrong weather, the deck closed at that hour — many chose to believe it.
  
@@ -24,7 +24,7 @@ The Tourist Guy case is a founding document of viral image culture: it shows how
  
 ### [Ellie Wyatt](https://elliewyatt.com/), [*cherrypicker*](https://www.cherrypicker.live/), 2021
  
-![Wyatt]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/03/wyatt.png)
+![Wyatt]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/04/wyatt.png)
 <figcaption>Ellie Wyatt, from <em>cherrypicker</em>, 2021</figcaption>
 Ellie Wyatt (b. London) is an artist, writer and educator whose practice examines how "truth" is manifested, signalled and cultivated through visual and text-based languages — in particular, how photography and optics intersect with scientific epistemology and contemporary belief systems. Her work is constellation-based and fragmentary, moving across publications, prints, installations, drawings and films; recent projects have explored opacity in scientific image-making and the relationship between conspiracy theory and photographic detail.
  
@@ -32,17 +32,17 @@ Ellie Wyatt (b. London) is an artist, writer and educator whose practice examine
  
 ### Andrea Orejarena and Caleb Stein, [*American Glitch*](https://www.deichtorhallen.de/en/ausstellungen/andrea-orejarena-caleb-stein/), 2024
  
-![Orejarena and Stein]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/03/orejarena-and-stein.jpg)
+![Orejarena and Stein]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/04/orejarena-and-stein.jpg)
 <figcaption>Andrea Orejarena and Caleb Stein, <em>American Glitch</em>, installation shot at Deichtorhallen Hamburg, 2024</figcaption>
 *American Glitch* investigates the visual mythologies circulating online and their intersections with historical memory, conspiracy theories, and the aesthetics of digital simulation. Working from an archive of over 2,000 images — combining found material with AI-generated visuals — Andrea Orejarena and Caleb Stein offer a critical yet poetic lens on the American media landscape: its promises, its ruptures, and its deepening entanglement with image manipulation and collective fantasy. The project asks what happens when the glitch — the error, the artifact, the moment an image fails — becomes not a sign of malfunction but of hidden truth.
  
 Published alongside the exhibition, Nadine Isabelle Henrich's booklet *[Viral Hallucination – Agency in Media](https://www.deichtorhallen.de/media/Ausstellungen/ausstellungen_2024/andrea-orejarena-caleb-stein/Viral-Hallucinations_Medienkompetenz-Booklet.pdf)* (2024) offers a media literacy framework for navigating the images on display.
  
-![Viral Hallucinations Booklet]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/03/viral-hallucinations.jpg)
+![Viral Hallucinations Booklet]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/04/viral-hallucinations.jpg)
 <figcaption>Nadine Isabelle Henrich, <em>Viral Hallucination – Agency in Media</em>, booklet, 2024</figcaption>
 ### Sara Bezovšek, [*A Life of Its Own: American Psycho*](https://sarabezovsek.com/projects/a-life-of-its-own-american-psycho), 2023–
  
-![Bezovšek]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/03/bezovsek.jpg)
+![Bezovšek]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/04/bezovsek.jpg)
 <figcaption>Sara Bezovšek, excerpt from <em>American Psycho</em>, from the series <em>A Life of Its Own</em>, 2023–</figcaption>
 *A Life of Its Own* is a series of experimental works in the form of webpages, in which artist Sara Bezovšek (b. 1988, Ljubljana) archives and organises found footage, collages, mashup videos, memes, GIFs and screenshots derived from popular films, reconstructing their plots entirely from the fragments that have accumulated online. Each entry focuses on a single film selected for its cultural saturation — the degree to which its visual vocabulary has been extracted, cropped, captioned, and recirculated across social media to the point of becoming a shared symbolic language.
  
@@ -50,7 +50,7 @@ Published alongside the exhibition, Nadine Isabelle Henrich's booklet *[Viral Ha
  
 ### Jakob Ganslmeier and Ana Zibelnik, [*Bereitschaft*](https://www.jakobganslmeier.com/bereitschaft), 2024
  
-![Ganslmeier and Zibelnik]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/03/ganslmeier-zibelnik.jpg)
+![Ganslmeier and Zibelnik]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/04/ganslmeier-zibelnik.jpg)
 <figcaption>Jakob Ganslmeier and Ana Zibelnik, from <em>Bereitschaft</em>, 2024</figcaption>
 *Bereitschaft* takes its title from a 1939 sculpture by Nazi sculptor Arno Breker depicting a nude male warrior drawing a sword — an image of bodily readiness and nationalist virility that has recently gone viral on TikTok. Starting from this unlikely digital afterlife, Jakob Ganslmeier and Ana Zibelnik trace the visual logic connecting TikTok fitness culture to far-right ideology: the glorification of the sculpted male body, the advocacy of extreme self-discipline, and the suppression of weakness (disparaged as the inner "bitch voice") as a political as well as physical ideal. Phenomena like "looksmaxxing," "mewing," "bonesmashing," and "hunter eyes" — fringe practices promoted by influencers advocating an unsettling pursuit of bodily perfection — are shown to be not merely aesthetic but ideological, part of a broader co-optation of mainstream visual language by extremist factions.
  
