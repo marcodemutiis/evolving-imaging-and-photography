@@ -77,16 +77,16 @@ published: true
 | Date       | Topic                               |
 |------------|-------------------------------------|
 | 7.4.2026   | Introduction                        |
-| 14.4.2026  | I. Power and Institution	           |
-| 21.4.2026  | 			           			  	   |
-| 28.4.2026  | II. Affect and Subjectivity 		   |
-| 5.5.2026   | 		   							   |
-| 12.5.2026  | III. Persuasion and Spectacle	   |
-| 2.6.2026   | 	                       			   |
-| 9.6.2026   | IV. Agency and Resistance	  	   |
-| 16.6.2026  |                  				   |
+| 14.4.2026  | Policing & Surveilling              |
+| 21.4.2026  | Archiving & Indexing			  	   |
+| 28.4.2026  | Witnessing & Mourning 		       |
+| 5.5.2026   | Remembering & Translating    	   |
+| 12.5.2026  | Feeling & Seducing           	   |
+| 2.6.2026   | Presentations	      			   |
+| 9.6.2026   | Constructing & Simulating	  	   |
+| 16.6.2026  | Collecting & Circulating. 		   |
 | 23.6.2026  | Final Projects				       |
-| 30.6.2026  | 		   							   |
+| 30.6.2026  | Final Projects        			   |
 
 
 ## Tools and Resources
@@ -232,16 +232,16 @@ It is my intent that students from all backgrounds and perspectives be well serv
 | Datum      | Thema                              |
 |------------|------------------------------------|
 | 7.4.2026   | Einführung                         |
-| 14.4.2026  | I. Macht und Institution           |
-| 21.4.2026  |                                    |
-| 28.4.2026  | II. Affekt und Subjektivität       |
-| 5.5.2026   |                                    |
-| 12.5.2026  | III. Überzeugung und Spektakel     |
-| 2.6.2026   |                                    |
-| 9.6.2026   | IV. Handlungsmacht und Widerstand  |
-| 16.6.2026  |                                    |
+| 14.4.2026  | Kontrollieren & Überwachen         |
+| 21.4.2026  | Archivieren & Ordnen               |
+| 28.4.2026  | Bezeugen & Trauern                 |
+| 5.5.2026   | Erinnern & Übersetzen              |
+| 12.5.2026  | Fühlen & Verführen                 |
+| 2.6.2026   | Präsentationen                     |
+| 9.6.2026   | Konstruieren & Simulieren          |
+| 16.6.2026  | Sammeln & Zirkulieren              |
 | 23.6.2026  | Abschlussprojekte                  |
-| 30.6.2026  |                                    |
+| 30.6.2026  | Abschlussprojekte                  |
 
 
 ## Werkzeuge und Ressourcen
