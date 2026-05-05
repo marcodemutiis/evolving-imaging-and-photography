@@ -15,7 +15,7 @@ published: true
 
 ## Presentations
 
-Upload a screenshot of your assignment with your name and a caption on [this online document]()
+Upload a screenshot of your assignment with your name and a caption on [this online document](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?usp=sharing)
 
 ***
 
@@ -213,7 +213,7 @@ Make a series of 3–5 still life photographs in which the choice and/or arrange
 
 ## Präsentationen
 
-Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument]() hoch.
+Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?usp=sharing) hoch.
 
 ***
 
