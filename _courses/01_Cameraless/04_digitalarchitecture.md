@@ -18,7 +18,7 @@ Choose a virtual world and produce a photoreportage that documents a community, 
 - **A series of 8–12 images** that together tell a coherent story or convey a specific theme.
 - **A short written text (200–300 words)** that accompanies the images, contextualizing your reportage: Where did you go? What did you find? What story are you telling, and why?
 
-Upload the text and the images with your name and a caption on [this online document](https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?usp=sharing)
+Upload the text and the images with your name and a caption on [this online document](https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?tab=t.nouo9j9ndkfu)
 
 ***
 
@@ -141,7 +141,7 @@ Wähle eine virtuelle Welt und produziere eine Fotoreportage, die eine Gemeinsch
 - **Eine Serie von 8–12 Bildern**, die gemeinsam eine kohärente Geschichte erzählen oder ein bestimmtes Thema vermitteln.
 - **Ein kurzer Text (200–300 Wörter)**, der die Bilder begleitet und deine Reportage kontextualisiert: Wohin bist du gegangen? Was hast du gefunden? Welche Geschichte erzählst du, und warum?
 
-Lade den Text und die Bilder mit deinem Namen und einer Bildunterschrift in <a href="https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?usp=sharing">diesem Online-Dokument</a> hoch.
+Lade den Text und die Bilder mit deinem Namen und einer Bildunterschrift in <a href="https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?tab=t.nouo9j9ndkfu">diesem Online-Dokument</a> hoch.
 
 ***
 
