@@ -12,6 +12,9 @@ published: true
 <div class="lang-en" markdown="1">
 
 ## Presentations:
+Create a series of 3-5 images or a short video piece that revolves around the seduction of the abject, and the eerie feelings of cursed aesthetics, or continue working on the lure of comfort, and ideas of haptic visuals.
+
+Upload a screenshot of your assignment with your name and a caption on [this online document](https://docs.google.com/document/d/1Q0-m59lTLR5zSQ_QYVNXhEPrnJyhgbuKK2FWSr2wMrU/edit?tab=t.fovzeppv70ro)
 
 ## Belief: from the seductive powers of lowres conspiracies to meme ideology
 
@@ -65,9 +68,10 @@ The video work maps this pattern with precision: much of the material it present
 
 ## Tutorial
 
-**Outpainting** — AI outpainting tools allow you to expand the frame of an existing image beyond its original edges, generating new visual content that seamlessly continues the scene. We will use this technique on found conspiracy theory images and viral photographs: extending their backgrounds, adding implied context, or opening up space that changes — or reinforces — their apparent meaning. The exercise asks what it means to let an algorithm complete what a cropped or decontextualised image withholds.
+**Outpainting** — AI outpainting tools allow you to expand the frame of an existing image beyond its original edges, generating new visual content that seamlessly continues the scene. We will use this technique on found conspiracy theory images and viral photographs: extending their backgrounds, adding implied context, or opening up space that changes — or reinforces — their apparent meaning. The exercise asks what it means to let an algorithm complete what a cropped or decontextualised image withholds. Look at the example of Eva Rivas Bao.
 
 **Collage-style motion graphics** — Taking inspiration from Adrian Flury's [*A Place I've Never Been*](https://vimeo.com/119289396) (2015), we will explore how found images, text overlays, zoomed crops and graphic elements can be assembled into short moving-image sequences. The focus is on timing and rhythm as tools of persuasion: how the cut, the hold, and the graphic accent guide a viewer's attention and prime their belief.
+See also the example of Lóa Yona Zoe Fenzy, who combined AI generated images with collage-style motion graphics.
 
 ## Assignment
 
