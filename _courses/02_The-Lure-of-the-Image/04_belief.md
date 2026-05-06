@@ -84,7 +84,7 @@ Make — choose one:
 
 **B.** Assemble a short video collage using found conspiracy theory images, memes, or viral footage. Draw on the techniques explored in the tutorial — sequencing, graphic overlays, rhythm, repetition — to construct a piece that reflects on how belief is produced through images: how the lure of a particular visual style, aesthetic, or mode of address can make something feel true. The work should engage critically or poetically with the material, rather than simply reproducing its logic. 
 
-Presentations: please send presentations for your final project in pdf, pptx, keynote format to Marco.DeMutiis@htwg-konstanz.de by the 12th of May. Your presentation should contain:
+Presentations: please send presentations for your final project in pdf, pptx, keynote format to __Marco.DeMutiis@htwg-konstanz.de__ by the 12th of May. Your presentation should contain:
 - A working title 
 - A short description (200-300 words) of your project, including concept, format and technical description
 - A few images to visualise your idea and give a sense the work
