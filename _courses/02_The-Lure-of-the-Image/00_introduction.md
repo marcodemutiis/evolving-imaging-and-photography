@@ -35,8 +35,8 @@ Make: Create a collage of images that represent the different typologies of the 
 | 22.4.2026  | The Lure of Comfort                 |
 | 29.4.2026  | The Lure of Cursed Images           |
 | 6.5.2026   | The Lure of Belief                  |
-| 13.5.2026  | *Project Presentations*             |
-| 3.6.2026   |  |
+| 13.5.2026  | (Remote Clinic)           |
+| 3.6.2026   |  *Project Presentations* |
 | 10.6.2026  |  | <!-- clik bait, thirst traps, bot bait-->
 | 17.6.2026  |  | 
 | 24.6.2026  | *Final Projects Development*        |
@@ -87,10 +87,10 @@ Denke: „Wann wurdest du das letzte Mal von einem Bild getäuscht?“
 | 22.4.2026  | Influencer Photography              |
 | 29.4.2026  | Affektive Bilder & Reaction Economies|
 | 6.5.2026   | Operational Cuteness & Meme Politics|
-| 13.5.2026  | *Projektpräsentationen              |
-| 3.6.2026   | Cursed Images und das Internet-Unterbewusstsein |
-| 10.6.2026  | Lowres Beliefs und Verschwörungstheorien |
-| 17.6.2026  | Slop Economies und KI-Propaganda    |
+| 13.5.2026  | (Remote Clinic)              |
+| 3.6.2026   | *Projektpräsentationen*  |
+| 10.6.2026  |  |
+| 17.6.2026  |    |
 | 24.6.2026  | *Entwicklung der Abschlussprojekte  |
 | 1.7.2026   | *Entwicklung der Abschlussprojekte  |
 
