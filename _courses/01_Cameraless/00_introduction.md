@@ -26,13 +26,13 @@ The course is structured through weekly short assigments where students have to 
 | 14.4.2026  | Street (View) Photography           |
 | 21.4.2026  | Copy of a Copy of a Copy            |
 | 28.4.2026  | Virtual World Photoreportages       |
-| 5.5.2026   | Digital Architecture Photography		|
-| 12.5.2026  | Virtual Nature       |
-| 2.6.2026   | Avatar Portrait Photography         |
-| 9.6.2026   | Photorealistic CGI and Game Engine Photography          |
-| 16.6.2026  | Machine Vision Photography          |
-| 23.6.2026  | Machine Learning Photography        |
-| 30.6.2026  | LoRA and Generative AI              |
+| 5.5.2026   | Digital Architecture Photography	   |
+| 12.5.2026  | Virtual Nature                      |
+| 2.6.2026   | LoRA and Generative AI - Part I     |
+| 9.6.2026   | LoRA and Generative AI - Part II    |
+| 16.6.2026  | Project Development                 |
+| 23.6.2026  | Project Development                 |
+| 30.6.2026  | Final Presentations.                |
 
 <!--## Tools and Resources
 
@@ -79,13 +79,13 @@ Der Kurs ist durch wöchentliche Kurzaufgaben strukturiert, bei denen die Studie
 | 14.4.2026  | Street (View) Photography           |
 | 21.4.2026  | Copy of a Copy of a Copy            |
 | 28.4.2026  | Virtuelle Welt-Fotoreportagen       |
-| 5.5.2026   | Digitale Architekturfotografie & Virtuelle Landschaften |
-| 12.5.2026  | Fotomodi und Spielkameras           |
-| 2.6.2026   | Avatar-Porträtfotografie            |
-| 9.6.2026   | Fotorealistische CGI und Game-Engine-Fotografie |
-| 16.6.2026  | Machine Vision Photography          |
-| 23.6.2026  | Machine Learning Photography        |
-| 30.6.2026  | LoRA und Generative KI              |
+| 5.5.2026   | Digitale Architekturfotografie      |
+| 12.5.2026  | Virtuelle Natur                     |
+| 2.6.2026   | LoRA und Generative KI            |
+| 9.6.2026   | LoRA und Generative KI  |
+| 16.6.2026  | Project Dev          |
+| 23.6.2026  | Project Dev        |
+| 30.6.2026  | Final Presentations             |
 
 <!--## Tools and Resources
 
