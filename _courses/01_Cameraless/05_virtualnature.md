@@ -6,7 +6,7 @@ course_id: cameraless
 course_title: "Cameraless"
 course_title_de: "Kameralos"
 lesson_number: 5
-published: false
+published: true
 ---
 
 <div class="lang-en" markdown="1">
