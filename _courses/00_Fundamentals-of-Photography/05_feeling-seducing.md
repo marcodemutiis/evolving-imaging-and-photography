@@ -1,11 +1,11 @@
 ---
 layout: lesson
-title: "Remembering & Translating"
-title_de: "Remembering & Translating"
+title: "Feeling & Seducing"
+title_de: "Feeling & Seducing"
 course_id: fundamentalsofphotography
 course_title: "Fundamentals of Photography"
 course_title_de: "Grundlagen der Fotografie"
-lesson_number: 4
+lesson_number: 5
 published: false
 ---
 
@@ -30,13 +30,41 @@ peter lindbergh, helmut newton, vivian sassen, Annie Leibovitz, David LaChapelle
 seducing — fashion photography, advertising photography, glamour and beauty photography, influencer and social media photography, propaganda, AI ASMR images, conspiracy theory low-res images, cursed images
 -->
 
-## Travel and Tourist Photography
+## Photography and Propaganda
 
-### Martin Parr, [*Small World*](https://www.magnumphotos.com/arts-culture/travel/global-tourism-martin-parr/), 1990 – 2017
+### El lissitzky
 
-![Parr]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/parr.jpg)
-<figcaption>Martin Parr, The Leaning Tower of Pisa, from <em>Small World</em>, 1990</figcaption>
 
+## Product Photography and Advertising
+
+### Irving Penn
+
+### Annie Leibovitz
+
+### //CGI and photorealism
+
+
+## Fashion Photography
+
+### Helmut Newton
+https://www.icp.org/browse/archive/constituents/helmut-newton
+
+### Peter Lindbergh
+https://www.theguardian.com/artanddesign/2017/jun/14/peter-lindberghs-best-photograph-supermodel-vogue-naomi-campbell-linda-evangelista-christy-turlington
+
+### David LaChapelle
+
+### Vivian Sassen, [*-*](https://), YYYY
+
+![Sassen]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/sassen.jpg)
+<figcaption>Vivian Sassen, from <em></em>, YYYY</figcaption>
+
+### Ren Hang
+
+
+## Digital and Onlien Seductions
+
+### Jenny Rova
 
 
 
@@ -66,7 +94,7 @@ seducing — fashion photography, advertising photography, glamour and beauty ph
 
 [*I'm Google*](https://dinakelberman.tumblr.com/) is an ongoing Tumblr project by American artist Dina Kelberman, begun in 2011, in which she assembles found images and video stills into long, continuous scrolls organized by visual and associative similarity. Working entirely with material sourced from the internet, Kelberman moves between images through color, shape, texture, and subject — from a cluster of orange traffic cones to a field of pumpkins to a grid of basketballs — producing sequences that feel simultaneously systematic and dreamlike. The title refers both to the associative logic of image search and to the experience of browsing the internet as an archive: infinite, non-hierarchical, and organized by pattern rather than meaning. Unlike Schmid's categorical approach, Kelberman's seriality is intuitive and continuous, more closely resembling the experience of scrolling than of cataloguing. The project has been described as a portrait of the collective visual unconscious of the internet.
 
-El lissitzky, 
+, 
 Match, Jenny Rova a milf dream, 
 
 
@@ -79,8 +107,8 @@ simulating — post-photography, AI-generated images, photorealistic CGI, compos
 Barbara Kasten, Alan Warburton, Charlie Engamn, Jared Madere, 
 
 7
-collecting — vernacular photography, found photography, appropriation art, photobook culture, screenshot diaries
-Ed Ruscha photobooks, Insta Repeat, Roc Herms hacer pantallazo, joachim schimi pictures from the street, 
+collecting — vernacular photography, found photography, appropriation art, photobook culture, screenshot collection
+Ed Ruscha photobooks, Insta Repeat, joachim schimi pictures from the street, 
 
 ## Image Hoarding
 
@@ -90,8 +118,12 @@ https://gerhard-richter-archiv.skd.museum/en/exhibitions/atlas/
 
 
 &
-circulating — press photography, social media photography, meme culture and poor images, networked images and hashtag activism, the screenshot as unit of circulation
-Sara Bezovsek, Rafman Counterfeit Poast https://jonrafman.com/jon-rafman-counterfeit-poast/
+circulating — press photography, social media photography, meme culture and poor images, networked images and hashtag 
+mail art
+snap+share exhibition
+send me a pic exhibition
+activism, the screenshot as unit of circulation
+Sara Bezovsek, 
 
 8
 deoperationalising — Harun Farocki’s operational images, making machine vision visible, dataset aesthetics, latent space visualisation, intercepting automated image pipelines, explainability and the black box, bounding boxes and heat maps, artistic strategies for rendering invisible images legible

@@ -13,5 +13,5 @@ This approach to photography is not to be understood as technical progress, but 
 
 ## Contact
 
-- Email: [me@marcodemutiis.com](mailto:me@marcodemutiis.com)
+- Email: [me@marcodemutiis.com](mailto:Marco.DeMutiis@htwg-konstanz.de)
 - Website: [marcodemutiis.com](https://marcodemutiis.com)
