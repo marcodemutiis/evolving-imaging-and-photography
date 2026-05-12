@@ -37,6 +37,30 @@ A. A photographic series of 5–10 prints
 B. A photo book dummy (printed and as PDF)  
 C. A digital project (website, digital collage, or interactive documentary)
 
+Send your project proposals to Marco.DeMutiis@htwg-konstanz.de as pdf. Each proposal should contain:
+- Name, Project Title
+- Format
+- Short Description (150-300 words)
+- Sketches and images to visualise your idea
+- A moodboard of references seen in class or from other sources
+
+
+Name, Projekttitel
+
+
+Format
+
+
+Kurzbeschreibung (150–300 Wörter)
+
+
+Skizzen und Bilder zur Visualisierung eurer Idee
+
+
+Ein Moodboard mit Referenzen aus dem Unterricht oder aus anderen Quellen
+
+
+
 </div>
 
 <div class="lang-de" markdown="1">
@@ -63,5 +87,14 @@ Die Studierenden weisen ihre Lernfortschritte durch ein eigenständiges Abschlus
 A. Eine fotografische Serie von 5–10 Abzügen  
 B. Ein Fotobuch-Dummy (gedruckt und als PDF)  
 C. Ein digitales Projekt (Website, digitale Collage oder interaktiver Dokumentarfilm)
+
+Sendet eure Projektvorschläge als PDF an Marco.DeMutiis@htwg-konstanz.de. Jeder Vorschlag sollte Folgendes enthalten:
+
+- Name, Projekttitel
+- Format
+- Kurzbeschreibung (150–300 Wörter)
+- Skizzen und Bilder zur Visualisierung eurer Idee
+- Ein Moodboard mit Referenzen aus dem Unterricht oder aus anderen Quellen
+
 
 </div>
