@@ -205,6 +205,7 @@ Lorenzo Vitturi's *Dalston Anatomy* emerged from an extended engagement with Rid
 
 Make a series of 3–5 still life photographs in which the choice and/or arrangement of objects tells something true about a relationship, a memory, or a loss. The objects should be ones you have chosen deliberately — things that carry some weight of significance or association — and the arrangement, light, and composition should be considered rather than accidental. You are not illustrating a story; you are making a visual equivalent of something that resists easy description. Write a short caption (2–3 sentences) for each image identifying the objects and what you were trying to do with them.
 
+Upload a screenshot of your assignments with your name and caption on [this online document](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?tab=t.rziol6pncjgq)
 </div>
 
 <div class="lang-de" markdown="1">
@@ -402,5 +403,8 @@ Lorenzo Vitturis *Dalston Anatomy* entstand aus einer ausgedehnten Auseinanderse
 ## Aufgabe
 
 Erstelle eine Serie von 3–5 Stillebenfotografien, in denen die Wahl und/oder Anordnung der Objekte etwas Wahres über eine Beziehung, eine Erinnerung oder einen Verlust erzählt. Die Objekte sollten bewusst gewählt sein — Dinge, die eine gewisse Bedeutung oder Assoziation tragen —, und die Anordnung, das Licht und die Komposition sollten durchdacht statt zufällig sein. Du illustrierst keine Geschichte; du machst ein visuelles Äquivalent von etwas, das sich schwer beschreiben lässt. Schreibe für jedes Bild eine kurze Bildunterschrift (2–3 Sätze), die die Objekte benennt und beschreibt, was du damit versucht hast.
+
+
+Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?tab=t.rziol6pncjgq) hoch.
 
 </div>
