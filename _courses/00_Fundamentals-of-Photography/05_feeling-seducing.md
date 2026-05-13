@@ -61,8 +61,10 @@ https://www.theguardian.com/artanddesign/2017/jun/14/peter-lindberghs-best-photo
 
 ### Ren Hang
 
+### Charlie Engman, Mom
 
-## Digital and Onlien Seductions
+
+## Digital and Online Seductions
 
 ### Jenny Rova
 
