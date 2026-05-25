@@ -122,7 +122,7 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 - Grill, (M) Louis vvvvv
 
-- Thobe, Lara vxxxx
+- (Thobe, Lara vxxxx-)
 
 - Schubert, Alexander vvvvv
 
