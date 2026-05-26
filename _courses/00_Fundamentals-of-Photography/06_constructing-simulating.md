@@ -1,11 +1,11 @@
 ---
 layout: lesson
-title: "Feeling & Seducing"
-title_de: "Feeling & Seducing"
+title: "Constructing & Simulating"
+title_de: "Constructing & Simulating"
 course_id: fundamentalsofphotography
 course_title: "Fundamentals of Photography"
 course_title_de: "Grundlagen der Fotografie"
-lesson_number: 5
+lesson_number: 6
 published: false
 ---
 
