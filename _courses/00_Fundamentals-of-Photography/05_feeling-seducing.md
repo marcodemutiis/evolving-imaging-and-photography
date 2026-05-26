@@ -19,120 +19,294 @@ Upload a screenshot of your assignment with your name and a caption on [this onl
 
 ***
 
+*This session examines two closely related but distinct ways in which photographs act upon their viewers: feeling and seducing. The first half attends to photography's capacity to generate intimacy, vulnerability, and affect — images that reach inward rather than outward, that record the body and desire and closeness as ends in themselves rather than as instruments of persuasion. The second half turns to the photograph as a tool of directed appeal: in propaganda and political image-making, in the carefully staged worlds of fashion and advertising, and in the newer seductions of the digital image economy. Together they trace a continuum from the most private photographic gesture to the most calculated — and ask what happens to the viewer at each point along it.*
 
 
+## Feeling: Intimacy, the Body, and Affect
 
-<!--
-5
-feeling — affect theory and photography, the punctum, humanitarian and empathy photography, filter culture and mood engineering, ASMR and lo-fi aesthetics, colour grading and the emotional preset, AI-generated emotional image types, grief and memorial images online, the affective logic of the feed
-peter lindbergh, helmut newton, vivian sassen, Annie Leibovitz, David LaChapelle, Tim Walker, Ren hang
-&
-seducing — fashion photography, advertising photography, glamour and beauty photography, influencer and social media photography, propaganda, AI ASMR images, conspiracy theory low-res images, cursed images
--->
+Photography has always had a particular relationship to feeling — not only as a document of emotional moments but as an object that produces emotion in its own right. Roland Barthes described this as the *punctum*: the detail in a photograph that pricks or wounds the viewer, that cannot be explained by the image's cultural programme, that operates as pure affect. The photographers gathered here work at the level of the intimate and the bodily, making images that are less about communicating something to an audience than about the record of a felt proximity — to one's own body, to another person, to the vulnerability of being seen. They represent a mode of photography that resists the directedness of seduction: the feeling they produce is not engineered but offered.
 
-## Photography and Propaganda
+### [Hanna Villiger](https://www.hannahvilliger.ch/), [*Skulptur*](https://kunstmuseumsg.ch/unser-programm/aktuelle-ausstellungen/hannah-villiger), 1980s–1990s
 
-### El lissitzky
+![Villiger]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/villiger.jpg)
+<figcaption>Hanna Villiger, from <em>Skulptur</em>, 1980s–1990s</figcaption>
+
+Hanna Villiger was a Swiss artist who spent much of her career photographing her own body in close, cropped, Polaroid-scale studies — a hand, a knee, a torso, the curve of a shoulder pressed against a white surface. The work belongs to no genre tidily: it draws on the tradition of the self-portrait, but without the face; it has the scale and repetitiveness of seriality, but without the analytical detachment that typifies conceptual photography. What Villiger produced was something more intimate and stranger — a sustained phenomenological attention to the body as the site of lived experience, not as spectacle. The images are large (she worked with a single-frame Polaroid camera, then enlarged the images to monumental scale), which gives the fragmented body parts an unexpected physicality: what begins as private notation becomes, at that scale, a sculptural presence. Villiger described her practice as a form of self-investigation, and the work resists being read as performance or provocation. It sits closer to what the painter Cézanne was doing with his repeated studies of Mont Sainte-Victoire — the image as a means of returning again and again to what cannot be exhausted by looking.
+
+### [Rineke Dijkstra](https://publicdelivery.org/rineke-dijkstra-beach-portraits/), [*Beach Portraits*](https://phoebebowdige.photo.blog/rineke-dijkstra-portraits-of-adolescents-on-the-beach/), 1992–
+
+![Dijkstra]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/dijkstra.jpg)
+<figcaption>Rineke Dijkstra, <em>Kolobrzeg, Poland, July 26, 1992</em>, from <em>Beach Portraits</em>, 1992</figcaption>
+
+Rineke Dijkstra's beach portraits — made along coastlines in Poland, Ukraine, Belgium, and the United States through the 1990s — are among the most quietly affecting bodies of work in contemporary photography. The subjects are adolescents and young adults photographed in swimwear against open sky and water, in an environment that is simultaneously public and exposed: the beach strips away the social armour that clothing, context, and setting usually provide, and what remains is a person who has not yet learned — or has temporarily forgotten — how to compose themselves for the camera. Dijkstra photographs them in this interval of unguardedness, not to expose or exploit but to record what the body looks like when it is simply present, before performance hardens into posture. The resulting images are formally precise — frontal, centred, lit by the flat northern light of overcast skies — and emotionally complex in ways that resist easy description. The viewer is held in a sustained attention to another person's physical reality: the way skin catches light, the particular angle of a hip, the slightly uncertain placement of hands. That attention produces feeling not through dramatic subject matter but through the quality of looking the photographs demand.
+
+### [Yushi Li](https://yushi.li), *My Tinder Boys*, 2017–
+
+![Li]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/li.jpg)
+<figcaption>Yushi Li, from <em>My Tinder Boys</em>, 2017–</figcaption>
+
+Yushi Li's *My Tinder Boys* photographs men the artist met through Tinder, in intimate domestic settings and with a directness that consistently inverts the conventional distribution of the gaze. Li — a Chinese-born, London-based artist working at the intersection of photography, performance, and feminist theory — photographs her male subjects as objects of desire, scrutiny, and aesthetic attention in ways that the history of photography has almost exclusively reserved for the female body. The men appear posed, available, sometimes asleep or otherwise unguarded; the camera position is assured and unapologetic. The work is playful, but the stakes are serious: by reversing the gaze, *My Tinder Boys* makes visible the assumptions that govern how bodies — gendered, racialised, desiring — have historically been distributed across the photographer-subject relationship. The Tinder context is not incidental: the app's interface of swipe and match structures a particular kind of appetite and attention, which Li transplants from the screen into the physical space of the photograph, asking what changes in that translation.
+
+
+## Photography, Revolution and Propaganda
+
+If the previous section examined photography's capacity for affect without agenda — feeling as an end in itself — this section turns to the photograph mobilised for directed political effect. Propaganda photography does not simply depict; it argues. It aligns the viewer's feeling with a political position, directing emotional response toward ideological ends. The Russian Constructivists were among the first to theorise this function systematically, understanding photography not as a window onto reality but as a tool for shaping how reality is perceived and, through that perception, how people act.
+
+### Alexander Rodchenko, [*Books (Please)! In All Branches of Knowledge*](https://actipedia.org/project/books-please-all-branches-knowledge-1924), 1924
+
+![Rodchenko]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/rodchenko.png)
+<figcaption>Alexander Rodchenko, <em>Books (Please)! In All Branches of Knowledge</em>, 1924</figcaption>
+
+Alexander Rodchenko was one of the central figures of Russian Constructivism, and one of the first photographers to understand the medium as a revolutionary instrument rather than a documentary one. Rejecting the conventions of self-expression and aesthetic pleasure as bourgeois residues, Rodchenko dedicated his practice to bringing art into the service of collective life: he produced graphic design, typography, advertising posters, and photomontages that were intended not to represent reality but to reorganise the viewer's perception of it. His poster *Books (Please)! In All Branches of Knowledge* — a lithograph made in collaboration with Vladimir Mayakovsky — exemplifies this approach: the dramatically foreshortened figure and the commanding address to the viewer are designed not merely to attract attention but to produce a particular orientation toward the world, a readiness to act. Rodchenko's famous aerial and worm's-eye-view photographs pursue the same logic: by defamiliarising the familiar, they break the viewer's habitual relation to the visible and open a space for new thinking. Photography, for Rodchenko, was not a mirror but a lever.
+
+### El Lissitzky, [*Self-Portrait: The Constructor*](https://www.moma.org/collection/works/83836), 1924
+
+![El Lissitzky]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/el-lissitzky.jpg)
+<figcaption>El Lissitzky, <em>Self-Portrait: The Constructor</em>, 1924</figcaption>
+
+El Lissitzky was a Russian artist, designer, and theorist whose work in photomontage and exhibition design extended Constructivist principles into the photographic medium with particular sophistication. His *Self-Portrait: The Constructor* — a photomontage in which a compass-holding hand is superimposed over his own face — stages photography's move from documentary representation to conceptual construction: the image is not a record of what he looks like but an argument about what he does. The compass is both a literal drawing instrument and a symbol of rational construction; the doubled and layered photographic elements announce that this image has been built, not found. Lissitzky's broader influence on propaganda and persuasion photography was enormous: his designs for Soviet exhibition spaces in the 1920s used photography at architectural scale, surrounding the viewer and directing their attention as if choreographing a political argument in space. His work marks the moment when photography definitively outgrew the tradition of documentary representation and declared itself a medium for influencing how the viewer feels and, through feeling, what the viewer believes.
 
 
 ## Product Photography and Advertising
 
-### Irving Penn
+Where political propaganda directs feeling toward ideological ends, advertising photography directs it toward desire — specifically, the desire to possess. The history of commercial image-making is the history of photography learning to seduce: to produce in the viewer not just information about a product but a longing for the world the product promises to deliver. The photographers gathered here represent three distinct registers of that seduction, from the mid-century mastery of formal reduction to the abstracted glamour of the contemporary commercial image.
 
-### Annie Leibovitz
+### Irving Penn, [*Girl Behind Glass, New York*](https://collections.lacma.org/object/121990), 1949
 
-### //CGI and photorealism
+![Penn]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/penn.jpg)
+<figcaption>Irving Penn, <em>Girl Behind Glass, New York</em>, 1949</figcaption>
+
+Irving Penn was one of the twentieth century's great photographers, known for his arresting images and masterful printmaking across the genres of fashion, portraiture, nudes, still life, and advertising, and celebrated as one of *Vogue* magazine's top photographers for more than sixty years. What unified these different bodies of work was an extraordinary formal intelligence: Penn understood that the power of a photographic image — whether it is selling a perfume or recording a face — lies in its capacity to reduce the world to its essential visual relationships, to make the object before the camera feel absolutely necessary. His advertising and product photography pursued this with particular rigour: working typically in the studio, against neutral backgrounds, Penn eliminated everything extraneous until the image held only what mattered. *Girl Behind Glass* is characteristic in its formal economy — a figure distorted and contained by a glass surface, the body rendered strange and alluring simultaneously. Penn's product photography operates on the same principle: the object is never merely shown; it is revealed, as if seen for the first time.
+
+### Hiro, *Image for Vogue April 1982 issue*, 1982
+
+![Hiro]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/hiro.webp)
+<figcaption>Hiro, <em>Image for Vogue April 1982 issue</em>, 1982</figcaption>
+
+Hiro — born Yasuhiro Wakabayashi in Shanghai in 1930 and raised in Japan and China — became one of the most technically inventive and visually distinctive commercial photographers working in America from the 1950s through the 1990s. Mentored initially by Richard Avedon at *Harper's Bazaar*, Hiro developed a signature approach that drew on Japanese aesthetics of precision and restraint while pushing the technical limits of colour photography: saturated, jewel-like colour fields, isolated objects against flat grounds, and a compositional clarity that gave commercial imagery an almost meditative quality. His fashion and product photographs transform the commercial brief into occasions for formal experimentation — a piece of jewellery becomes an abstract composition, a garment a study in surface and light. Working for *Vogue*, *Harper's Bazaar*, and major advertising clients across four decades, Hiro helped to define the visual language of luxury: the particular stillness, the concentrated beauty, the image that holds the viewer's eye not through narrative but through the sheer quality of looking it demands.
+
+### [Barbara Kasten](https://www.youtube.com/watch?v=LsfDTq5R6wg), [*Architectural Site 17*](https://link.underexposed.high.org/video/behind-the-scenes-of-barbara-kastens-architectural-site-17/), 1988
+
+![Kasten]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/kasten.jpg)
+<figcaption>Barbara Kasten, <em>Architectural Site 17</em>, 1988</figcaption>
+
+Barbara Kasten occupies an unusual position in this section: she is not primarily a commercial photographer, but her work sits at the productive border between modernist fine art abstraction and the visual language of high-end commercial image-making, and her influence on contemporary advertising, luxury branding, and editorial photography has been considerable. Working from the late 1970s onward, Kasten built elaborate installations of mirrors, geometric forms, and coloured light — then photographed them, producing images in which space becomes ambiguous, reflections multiply and contradict, and the distinction between the real and its representation dissolves. The *Architectural Site* series took this approach into real buildings, using light projection and reflective surfaces to transform architectural space into something between a set and a photograph. The seduction of Kasten's images is not the seduction of the product image — they do not make the viewer want to possess anything specific — but a deeper seduction of the eye: the pleasure of a visual world that rewards looking without ever resolving into legibility. That quality — visual richness coupled with productive ambiguity — has made her work a touchstone for the contemporary aesthetics of tech advertising, cosmetics photography, and CGI-inflected commercial imagery.
 
 
 ## Fashion Photography
 
-### Helmut Newton
-https://www.icp.org/browse/archive/constituents/helmut-newton
+Fashion photography sits at the intersection of art, commerce, and the body — a genre that is simultaneously a vehicle for selling clothes and one of the most consistently experimental arenas in twentieth and twenty-first century image-making. Its history is also a history of contested representations: of gender, beauty, race, and desire. The photographers gathered here represent markedly different approaches to the genre, from the calculated provocation of Helmut Newton to the exuberant maximalism of David LaChapelle to the formally inventive work of Viviane Sassen and the intimate transgressions of Ren Hang.
 
-### Peter Lindbergh
-https://www.theguardian.com/artanddesign/2017/jun/14/peter-lindberghs-best-photograph-supermodel-vogue-naomi-campbell-linda-evangelista-christy-turlington
+### Helmut Newton, [*Cindy Crawford, American Vogue, Monte Carlo*](https://www.dailyartmagazine.com/helmut-newton-in-10-photographs/), 1991
 
-### David LaChapelle
+![Newton]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/newton.jpg)
+<figcaption>Helmut Newton, <em>Cindy Crawford, American Vogue, Monte Carlo</em>, 1991</figcaption>
 
-### Vivian Sassen, [*-*](https://), YYYY
+Born Helmut Neustädter into a Jewish family in Berlin in 1920, Helmut Newton expressed an early interest in photography and worked for the German photographer Elsie Simon before his family fled Germany in 1938. He eventually settled in Australia and then Paris, where he became one of the defining figures of fashion photography through the 1960s, 1970s, and 1980s. Newton's images are theatrical, confrontational, and charged with an eroticism that has always generated debate: he photographed women as powerful, often dominant figures, but critics have consistently argued that the images simultaneously fetishise and objectify, reinforcing the very stereotypes of feminine sexuality they appear to challenge. His nudes and fashion images for *Vogue* and *Playboy* set an agenda for the relationship between fashion photography and the body — provocative, glamorous, unapologetically sexualised — that subsequent photographers have had to reckon with, whether by extension or refusal. Newton's work cannot be separated from its historical and ideological context: the question of whether his images empower or exploit the women they depict remains genuinely unresolved, and that unresolvability is part of what makes them significant. His contemporary [Peter Lindbergh](https://www.kunsthalle-muc.de/en/peter-lindbergh/) pursued a different but equally influential mode of fashion imagery — more austere, more humanising, emphasising the person over the product — and together they established the two poles between which fashion photography has largely continued to work.
+
+### David LaChapelle, *Courtney Love: Pieta*, from [*Heaven to Hell*](https://www.davidlachapelle.com/series-heaven-to-hell), 2006
+
+![LaChapelle]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/lachapelle.jpg)
+<figcaption>David LaChapelle, <em>Courtney Love: Pieta</em> from <em>Heaven to Hell</em>, 2006</figcaption>
+
+David LaChapelle is an American photographer and director whose work has played a defining role in shaping contemporary visual culture since the late 1980s. After being discovered by Andy Warhol and hired to work at *Interview* magazine, LaChapelle became known for his hyper-saturated, theatrically staged photographs that bridged fashion, celebrity portraiture, and fine art. His practice is extravagantly maximalist: colour pushed beyond saturation, compositions that pile reference upon reference — religious iconography, pop culture, classical painting, the tabloid image — in ways that court excess deliberately. While his early images were often associated with pop excess and celebrity culture, LaChapelle's practice has increasingly turned toward themes of faith, environmental anxiety, consumerism, and spiritual reckoning, reflecting a sustained interest in mythology, religious iconography, and the tension between spectacle and belief. *Courtney Love: Pieta* exemplifies this later mode: the image borrows the formal structure of Michelangelo's Pietà and transfers it into the register of celebrity collapse and tabloid mythology, producing something that is simultaneously blasphemous, compassionate, and deeply ambivalent about the culture it depicts. LaChapelle's photographs seduce through spectacle — they are too much, and that excess is the point.
+
+### [Viviane Sassen](https://www.vivianesassen.com/works/), [*Dazed*](https://stockholm.fotografiska.com/en/exhibitions/viviane-sassen), 2022
 
 ![Sassen]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/sassen.jpg)
-<figcaption>Vivian Sassen, from <em></em>, YYYY</figcaption>
+<figcaption>Viviane Sassen, <em>Dazed</em>, 2022</figcaption>
 
-### Ren Hang
+Viviane Sassen is a Dutch photographer whose work moves fluidly between fashion commissions and fine art practice, bringing to both an approach that is formally experimental, psychologically strange, and persistently interested in the body as a site of transformation rather than display. Her fashion images — made for clients including Miu Miu, Adidas, and *Dazed* — use extreme angles, deep shadow, graphic colour, and unusual cropping to produce photographs in which the body becomes abstract, the space ambiguous, and the identity of the subject deliberately obscured. This is fashion photography that resists the genre's usual logic of aspiration and identification: rather than positioning the viewer to desire the look or the body, Sassen creates images that disorient, that make the familiar strange. Her fine art practice deepens these concerns, exploring personal history, mythology, and the African landscape (she spent part of her childhood in Kenya, and the experience has remained a persistent reference). Sassen's work represents an important corrective within fashion photography: a practice that uses the genre's resources — access to bodies, to clothes, to production budgets — for ends that exceed its commercial brief.
 
-### Charlie Engman, Mom
+### Ren Hang, [*untitled*](https://blindspotgallery.com/artist/ren-hang/), 2006
+
+![Hang]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/hang.png)
+<figcaption>Ren Hang 任航, <em>untitled</em>, 2006</figcaption>
+
+Ren Hang was a Beijing-born photographer who, before his death in 2017 at the age of 29, produced a body of work that is among the most distinctive in contemporary photography: nude portraits of friends and lovers, shot almost always in domestic interiors or on urban rooftops, with a directness and compositional inventiveness that sat entirely outside the conventions of both fashion photography and documentary portraiture. The bodies in Ren Hang's photographs are intertwined, stacked, mirrored, adorned with plants or animals or everyday objects, arranged into compositions that are simultaneously erotic, playful, and formally rigorous. His palette was flat and vivid — the particular saturation of flash-lit domestic space — and his relationship with his subjects was close and collaborative: these are photographs made among people who trusted each other. The work was politically significant in the Chinese context in which it was made: explicit queer imagery, in a country where homosexuality was classified as a mental illness until 2001 and where censorship of sexual content remains routine. Ren Hang's photographs circulated widely online despite repeated censorship, and their influence — on fashion photography, on queer image-making, on a generation of younger photographers across Asia — has been considerable.
 
 
 ## Digital and Online Seductions
 
-### Jenny Rova
+The digital image economy has transformed the conditions of photographic seduction. Images now circulate at a scale, speed, and volume that would have been unimaginable to any previous generation of photographers: the feed is a continuous, algorithmically curated stream of visual appeals, each image competing for a moment's attention before the scroll moves on. The artists gathered here examine different facets of this environment — the dating profile as photographic self-presentation, the logic of the found and appropriated online image, and the aesthetics of nostalgia and obsolescence as modes of commercial seduction.
 
+### Jenny Rova, [*A MILF DREAM — My matches on Tinder*](https://www.jennyrova.net/works/a-milf-dream-my-matches-on-tinder), 2025
 
+![Rova]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/rova.jpg)
+<figcaption>Jenny Rova, from <em>A MILF DREAM — My matches on Tinder</em>, 2025</figcaption>
+
+Jenny Rova's *A MILF DREAM — My matches on Tinder* uses the photographs from men's Tinder profiles to construct photographic collages that are simultaneously portraits, social documents, and self-portraits. Rova — newly single and navigating the experience of online dating — was confronted on Tinder with an overwhelming archive of self-presentation: men photographing themselves at the gym, on holidays, with friends, with fish, in cars, with dogs, in bathrooms; each image a carefully or carelessly composed attempt to project desirability into a digital space structured entirely by visual appeal. By appropriating these profile images and reassembling them as collages, Rova turns the app's photographic logic back on itself, making visible the conventions, repetitions, and anxieties that govern how men attempt to seduce through images in a dating context. The title declares her own position in this economy — her sexual status on the app, her own desires — and the work sits at the threshold between documentation and autobiography, between looking and being looked at.
+
+### [Viktoria Binschtok](https://viktoriabinschtok.com), *Cluster*, 2012–
+
+![Binschtok]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/binschtok.webp)
+<figcaption>Viktoria Binschtok, from <em>Cluster</em>, 2012–</figcaption>
+
+Viktoria Binschtok's *Cluster* series pairs her own studio photographs of objects with near-identical images found through Google Image Search: a red telephone, a specific arrangement of shadows, a particular blue fabric — each object documented by Binschtok in the studio and then matched with the visually closest result the search algorithm returns. The pairings reveal the hidden logic of the image economy: the way the vast archive of online images clusters around recurrent visual types, the way the search algorithm flattens authorship and context into pure visual similarity. A photograph made in a controlled studio, with specific intentions and a specific history, is rendered equivalent — by the algorithm, by the image economy — to a product listing, a stock image, or a screenshot. Binschtok's work makes this equivalence visible and asks what it means: what is lost when an image is reduced to its visual data, when authorship is overwritten by appearance? *Cluster* connects the seductions of the online image — the feeling of having found exactly what you were looking for — to the mechanisms of appropriation and circulation that the previous sessions have already examined from other angles.
+
+### [Sara Cwynar](https://saracwynar.com/), *Kitsch Encyclopedia / Rose Gold*, 2017–
+
+![Cwynar]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/cwynar.jpg)
+<figcaption>Sara Cwynar, from <em>Rose Gold</em>, 2017</figcaption>
+
+Sara Cwynar is a Canadian artist and photographer whose practice excavates the visual archaeology of advertising, consumer culture, and photographic history — the accumulated sediment of images, colour palettes, typefaces, and objects that define particular moments in the aesthetics of desire. Working in photography, video, and collage, Cwynar collects and restages found materials: vintage advertisements, obsolete product photography, stock images, reference books, colour swatches, and photographic props. Her images are dense and layered, piling object upon object and image upon image in compositions that feel simultaneously archival and overwhelming — an excess that mimics the logic of the contemporary digital image environment while also pointing to its historical roots in print culture and advertising. *Rose Gold* takes its title from the millennial colour palette that dominated design and consumer goods in the 2010s, using it as a lens through which to examine how colour itself becomes a mode of seduction: how a particular hue, a particular finish, a particular aesthetic can be leveraged to produce desire for objects, identities, and lifestyles. Cwynar's work is a form of critical archaeology — but the images are also beautiful, which is part of the point: she seduces with the materials of seduction.
 
 
 ## Assignment
 
+Choose a single everyday object that you use, buy, or encounter regularly — something ordinary and commercially available: a food item, a cosmetic product, a piece of clothing, a household good. Make a series of 3–5 photographs of this object in which you are deliberately attempting to seduce the viewer — to make the object look desirable, necessary, or beautiful. You may work in any setting (studio, domestic interior, outdoor), with any light source, and with any compositional approach, but the intention should be explicit: you are making advertising photography. Then make one additional photograph of the same object in which you are doing the opposite — showing it as it actually is, without enhancement or arrangement. Write a short caption for the full series (3–4 sentences) describing the gap between the two modes, and what you discovered in the process of deliberately constructing desire.
 
-
-
+Upload a screenshot of your assignment with your name and caption on [this online document]()
 
 </div>
 
 <div class="lang-de" markdown="1">
 
+***
 
+## Präsentationen
+
+Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument]() hoch.
+
+***
+
+*Diese Sitzung untersucht zwei eng verwandte, aber unterschiedliche Weisen, auf die Fotografien auf ihre Betrachtenden wirken: Fühlen und Verführen. Die erste Hälfte widmet sich der Fähigkeit der Fotografie, Intimität, Verletzlichkeit und Affekt zu erzeugen — Bilder, die nach innen statt nach außen wirken, die Körper, Begehren und Nähe als Selbstzweck festhalten, nicht als Instrumente der Überzeugung. Die zweite Hälfte wendet sich der Fotografie als einem Werkzeug gezielter Ansprache zu: in der Propaganda und politischen Bildproduktion, in den sorgfältig inszenierten Welten der Mode- und Werbefotografie und in den neueren Verführungen der digitalen Bildökonomie. Gemeinsam verfolgen sie ein Kontinuum von der privatesten fotografischen Geste bis zur kalkuliertesten — und fragen, was mit den Betrachtenden an jedem Punkt dieses Kontinuums geschieht.*
+
+
+## Fühlen: Intimität, Körper und Affekt
+
+Fotografie hatte schon immer eine besondere Beziehung zum Gefühl — nicht nur als Dokument emotionaler Momente, sondern als Objekt, das selbst Emotionen erzeugt. Roland Barthes beschrieb dies als das *Punctum*: das Detail in einer Fotografie, das den Betrachtenden sticht oder verletzt, das durch das kulturelle Programm des Bildes nicht erklärt werden kann, das als reiner Affekt wirkt. Die hier versammelten Fotografierenden arbeiten auf der Ebene des Intimen und des Körperlichen und machen Bilder, bei denen es weniger darum geht, einem Publikum etwas mitzuteilen, als um die Aufzeichnung einer gefühlten Nähe — zum eigenen Körper, zu einer anderen Person, zur Verletzlichkeit des Gesehen-Werdens. Sie vertreten eine Fotografie, die sich dem Gerichtetsein der Verführung widersetzt: Das Gefühl, das sie erzeugen, ist nicht konstruiert, sondern angeboten.
+
+### [Hanna Villiger](https://www.hannahvilliger.ch/), [*Skulptur*](https://kunstmuseumsg.ch/unser-programm/aktuelle-ausstellungen/hannah-villiger), 1980er–1990er-Jahre
+
+![Villiger]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/villiger.jpg)
+<figcaption>Hanna Villiger, aus <em>Skulptur</em>, 1980er–1990er-Jahre</figcaption>
+
+Hanna Villiger war eine Schweizer Künstlerin, die einen Großteil ihrer Karriere damit verbrachte, ihren eigenen Körper in nahen, beschnittenen, im Polaroidformat angelegten Studien zu fotografieren — eine Hand, ein Knie, ein Torso, die Kurve einer Schulter, die gegen eine weiße Fläche gedrückt wird. Das Werk lässt sich keinem Genre glatt zuordnen: Es schöpft aus der Tradition des Selbstporträts, aber ohne Gesicht; es hat die Skalierung und Repetitivität der Serialität, aber ohne die analytische Distanz, die konzeptuelle Fotografie typischerweise kennzeichnet. Was Villiger schuf, war etwas Intimeres und Fremderes — eine anhaltende phänomenologische Aufmerksamkeit auf den Körper als Ort gelebter Erfahrung, nicht als Spektakel. Die Bilder sind großformatig (sie arbeitete mit einer Einrahmen-Polaroidkamera und vergrößerte die Bilder dann auf monumentale Formate), was den fragmentierten Körperteilen eine unerwartete Körperlichkeit verleiht: Was als private Aufzeichnung beginnt, wird in diesem Maßstab zu einer skulpturalen Präsenz. Villiger beschrieb ihre Praxis als eine Form der Selbstuntersuchung, und das Werk widersteht einer Lektüre als Performance oder Provokation. Es steht näher an dem, was der Maler Cézanne mit seinen wiederholten Studien des Mont Sainte-Victoire tat — das Bild als Mittel, immer wieder zu dem zurückzukehren, was durch Schauen nicht erschöpft werden kann.
+
+### [Rineke Dijkstra](https://publicdelivery.org/rineke-dijkstra-beach-portraits/), [*Beach Portraits*](https://phoebebowdige.photo.blog/rineke-dijkstra-portraits-of-adolescents-on-the-beach/), 1992–
+
+![Dijkstra]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/dijkstra.jpg)
+<figcaption>Rineke Dijkstra, <em>Kolobrzeg, Polen, 26. Juli 1992</em>, aus <em>Beach Portraits</em>, 1992</figcaption>
+
+Rineke Dijkstras Strandporträts — entstanden an Küsten in Polen, der Ukraine, Belgien und den Vereinigten Staaten in den 1990er-Jahren — gehören zu den stillen, aber eindringlichsten Werkkorpora der zeitgenössischen Fotografie. Die Sujets sind Jugendliche und junge Erwachsene, die in Badekleidung vor offenem Himmel und Wasser fotografiert wurden, in einem Umfeld, das gleichzeitig öffentlich und exponiert ist: Der Strand entzieht die soziale Rüstung, die Kleidung, Kontext und Setting sonst bieten, und was bleibt, ist ein Mensch, der noch nicht gelernt hat — oder vorübergehend vergessen hat —, wie man sich für die Kamera wappnet. Dijkstra fotografiert sie in diesem Interval der Unvorsichtigkeit, nicht um zu enthüllen oder auszunutzen, sondern um aufzuzeichnen, wie der Körper aussieht, wenn er einfach präsent ist, bevor die Inszenierung zur Haltung erstarrt. Die resultierenden Bilder sind formal präzise — frontal, zentriert, im flachen Nordlicht bedeckter Himmel — und emotional komplex auf eine Weise, die sich schwer beschreiben lässt. Die Betrachtenden werden in eine anhaltende Aufmerksamkeit auf die körperliche Realität einer anderen Person gezogen: die Art, wie Haut das Licht einfängt, der besondere Winkel einer Hüfte, die leicht unsichere Platzierung der Hände. Diese Aufmerksamkeit erzeugt Gefühl nicht durch dramatischen Bildinhalt, sondern durch die Qualität des Schauens, das die Fotografien einfordern.
+
+### [Yushi Li](https://yushi.li), *My Tinder Boys*, 2017–
+
+![Li]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/li.jpg)
+<figcaption>Yushi Li, aus <em>My Tinder Boys</em>, 2017–</figcaption>
+
+Yushi Lis *My Tinder Boys* fotografiert Männer, die die Künstlerin über Tinder kennengelernt hat, in intimen häuslichen Settings und mit einer Direktheit, die die konventionelle Verteilung des Blicks konsequent umkehrt. Li — eine in China geborene, in London lebende Künstlerin, die an der Schnittstelle von Fotografie, Performance und feministischer Theorie arbeitet — fotografiert ihre männlichen Sujets als Objekte des Begehrens, der Betrachtung und der ästhetischen Aufmerksamkeit auf eine Weise, die die Geschichte der Fotografie fast ausschließlich für den weiblichen Körper reserviert hat. Die Männer erscheinen posiert, verfügbar, manchmal schlafend oder anderweitig unbeaufsichtigt; die Kameraposition ist selbstbewusst und unentschuldigt. Das Werk ist spielerisch, aber die Einsätze sind ernst: Durch die Umkehrung des Blicks macht *My Tinder Boys* die Annahmen sichtbar, die bestimmen, wie Körper — vergeschlechtlicht, rassifiziert, begehrend — in der Geschichte der Fotografierenden-Sujet-Beziehung verteilt wurden. Der Tinder-Kontext ist nicht zufällig: Die Schnittstelle des Wischens und Matchens der App strukturiert eine bestimmte Art von Appetit und Aufmerksamkeit, die Li vom Bildschirm in den physischen Raum der Fotografie überträgt und fragt, was sich in dieser Übersetzung verändert.
+
+
+## Fotografie, Revolution und Propaganda
+
+Während der vorherige Abschnitt die Fähigkeit der Fotografie zur Affektproduktion ohne Agenda untersuchte — Fühlen als Selbstzweck —, wendet sich dieser Abschnitt der Fotografie zu, die für gezielte politische Wirkung mobilisiert wird. Propagandafotografie stellt nicht einfach dar; sie argumentiert. Sie richtet das Gefühl der Betrachtenden auf eine politische Position aus und lenkt emotionale Reaktionen auf ideologische Zwecke. Die russischen Konstruktivisten gehörten zu den ersten, die diese Funktion systematisch theorisierten und Fotografie nicht als Fenster zur Realität, sondern als Werkzeug zur Gestaltung der Wahrnehmung von Realität verstanden — und durch diese Wahrnehmung des Handelns der Menschen.
+
+### Alexander Rodchenko, [*Books (Please)! In All Branches of Knowledge*](https://actipedia.org/project/books-please-all-branches-knowledge-1924), 1924
+
+![Rodchenko]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/rodchenko.png)
+<figcaption>Alexander Rodchenko, <em>Books (Please)! In All Branches of Knowledge</em>, 1924</figcaption>
+
+Alexander Rodchenko war eine der zentralen Figuren des russischen Konstruktivismus und einer der ersten Fotografierenden, der das Medium als revolutionäres Instrument statt als dokumentarisches verstand. Die Konventionen der Selbstdarstellung und des ästhetischen Genusses als bürgerliche Überreste ablehnend, widmete Rodchenko seine Praxis dem Dienst am kollektiven Leben: Er schuf Grafikdesign, Typografie, Propagandaplakate und Fotomontagen, die nicht darauf abzielten, die Realität abzubilden, sondern die Wahrnehmung der Betrachtenden zu reorganisieren. Sein Plakat *Books (Please)! In All Branches of Knowledge* — ein in Zusammenarbeit mit Vladimir Mayakovsky entstandener Lithograf — exemplifiziert diesen Ansatz: Die dramatisch verkürzte Figur und die befehlende Ansprache der Betrachtenden sind nicht nur dazu entworfen, Aufmerksamkeit zu erregen, sondern eine bestimmte Orientierung gegenüber der Welt zu erzeugen, eine Bereitschaft zu handeln. Rodchenkos berühmte Vogelperspektiv- und Froschperspektiv-Fotografien verfolgen dieselbe Logik: Indem sie das Vertraute verfremdeten, brachen sie die gewohnte Beziehung der Betrachtenden zum Sichtbaren auf und eröffneten einen Raum für neues Denken. Fotografie war für Rodchenko kein Spiegel, sondern ein Hebel.
+
+### El Lissitzky, [*Self-Portrait: The Constructor*](https://www.moma.org/collection/works/83836), 1924
+
+![El Lissitzky]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/el-lissitzky.jpg)
+<figcaption>El Lissitzky, <em>Self-Portrait: The Constructor</em>, 1924</figcaption>
+
+El Lissitzky war ein russischer Künstler, Designer und Theoretiker, dessen Arbeit in Fotomontage und Ausstellungsgestaltung konstruktivistische Prinzipien mit besonderer Raffinesse ins fotografische Medium überführte. Sein *Self-Portrait: The Constructor* — eine Fotomontage, in der eine kompasshaltende Hand über sein eigenes Gesicht überlagert wird — inszeniert den Übergang der Fotografie von der dokumentarischen Darstellung zur konzeptuellen Konstruktion: Das Bild ist keine Aufzeichnung seines Aussehens, sondern ein Argument darüber, was er tut. Der Kompass ist sowohl ein buchstäbliches Zeicheninstrument als auch ein Symbol rationaler Konstruktion; die gedoppelten und überlagerten fotografischen Elemente kündigen an, dass dieses Bild gebaut, nicht gefunden wurde. Lissitzkys breiterer Einfluss auf Propaganda und Überzeugungsfotografie war enorm: Seine Entwürfe für sowjetische Ausstellungsräume in den 1920er-Jahren setzten Fotografie im architektonischen Maßstab ein, umgaben die Betrachtenden und lenkten ihre Aufmerksamkeit, als würden sie ein politisches Argument im Raum choreografieren. Sein Werk markiert den Moment, in dem die Fotografie die Tradition der dokumentarischen Darstellung endgültig hinter sich ließ und sich als Medium erklärte, das beeinflusst, wie die Betrachtenden fühlen — und durch das Fühlen, was sie glauben.
+
+
+## Produkt- und Werbefotografie
+
+Wo politische Propaganda Gefühle auf ideologische Ziele lenkt, lenkt Werbefotografie sie auf Begehren — konkret: das Begehren zu besitzen. Die Geschichte der kommerziellen Bildproduktion ist die Geschichte einer Fotografie, die lernt zu verführen: in den Betrachtenden nicht nur Informationen über ein Produkt zu erzeugen, sondern eine Sehnsucht nach der Welt, die das Produkt zu liefern verspricht. Die hier versammelten Fotografierenden repräsentieren drei unterschiedliche Register dieser Verführung, von der formalen Reduktion der Jahrhundertmitte bis zum abstrakten Glamour des zeitgenössischen Werbebildes.
+
+### Irving Penn, [*Girl Behind Glass, New York*](https://collections.lacma.org/object/121990), 1949
+
+![Penn]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/penn.jpg)
+<figcaption>Irving Penn, <em>Girl Behind Glass, New York</em>, 1949</figcaption>
+
+Irving Penn war einer der großen Fotografen des zwanzigsten Jahrhunderts, bekannt für seine eindrucksvollen Bilder und meisterhafte Drucktechnik in den Genres Mode, Porträt, Akt, Stillleben und Werbung, und über mehr als sechzig Jahre als einer der wichtigsten Fotografen der *Vogue* gefeiert. Was diese verschiedenen Werkkorpora verband, war eine außerordentliche formale Intelligenz: Penn verstand, dass die Kraft eines fotografischen Bildes — ob es ein Parfüm verkauft oder ein Gesicht aufzeichnet — in seiner Fähigkeit liegt, die Welt auf ihre wesentlichen visuellen Beziehungen zu reduzieren, das Objekt vor der Kamera absolut notwendig erscheinen zu lassen. Seine Werbe- und Produktfotografie verfolgte dies mit besonderer Strenge: überwiegend im Studio, vor neutralen Hintergründen, eliminierte Penn alles Überflüssige, bis das Bild nur noch das enthielt, was zählte. *Girl Behind Glass* ist charakteristisch in seiner formalen Ökonomie — eine durch eine Glasfläche verzerrte und eingeschlossene Figur, der Körper gleichzeitig fremd und verführerisch gemacht. Penns Produktfotografie operiert nach demselben Prinzip: Das Objekt wird nie bloß gezeigt; es wird enthüllt, als sähe man es zum ersten Mal.
+
+### Hiro, *Image for Vogue April 1982 issue*, 1982
+
+![Hiro]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/hiro.webp)
+<figcaption>Hiro, <em>Image for Vogue April 1982 issue</em>, 1982</figcaption>
+
+Hiro — geboren als Yasuhiro Wakabayashi in Shanghai 1930 und in Japan und China aufgewachsen — wurde zu einem der technisch einfallsreichsten und visuell distinktivsten kommerziellen Fotografen, der von den 1950er- bis in die 1990er-Jahre in Amerika arbeitete. Anfangs von Richard Avedon bei *Harper's Bazaar* betreut, entwickelte Hiro einen Markenansatz, der japanische Ästhetik der Präzision und Zurückhaltung mit dem Ausloten der technischen Grenzen der Farbfotografie verband: gesättigte, juwelenartige Farbfelder, isolierte Objekte vor flachen Hintergründen und eine kompositorische Klarheit, die Werbebildern eine fast meditative Qualität verlieh. Seine Mode- und Produktfotografien transformieren den kommerziellen Auftrag zu Gelegenheiten formaler Experimentierfreude — ein Schmuckstück wird zur abstrakten Komposition, ein Kleidungsstück zur Studie über Oberfläche und Licht. Mit seiner Arbeit für *Vogue*, *Harper's Bazaar* und große Werbekunden über vier Jahrzehnte half Hiro, die visuelle Sprache des Luxus zu definieren: die besondere Stille, die konzentrierte Schönheit, das Bild, das den Blick der Betrachtenden nicht durch Narration, sondern durch die bloße Qualität des Schauens festhält.
+
+### [Barbara Kasten](https://www.youtube.com/watch?v=LsfDTq5R6wg), [*Architectural Site 17*](https://link.underexposed.high.org/video/behind-the-scenes-of-barbara-kastens-architectural-site-17/), 1988
+
+![Kasten]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/kasten.jpg)
+<figcaption>Barbara Kasten, <em>Architectural Site 17</em>, 1988</figcaption>
+
+Barbara Kasten nimmt in diesem Abschnitt eine ungewöhnliche Position ein: Sie ist keine primäre Werbefotografin, aber ihr Werk steht an der produktiven Grenze zwischen modernistischer Bildender-Kunst-Abstraktion und der Bildsprache hochwertiger kommerzieller Fotografie, und ihr Einfluss auf zeitgenössische Werbung, Luxus-Branding und Redaktionsfotografie war beträchtlich. Seit den späten 1970er-Jahren baute Kasten aufwändige Installationen aus Spiegeln, geometrischen Formen und farbigem Licht — und fotografierte sie, um Bilder zu erzeugen, in denen der Raum mehrdeutig wird, Reflexionen sich multiplizieren und widersprechen und die Unterscheidung zwischen dem Realen und seiner Darstellung sich auflöst. Die *Architectural Site*-Serie übertrug diesen Ansatz auf reale Gebäude, indem Lichtprojektionen und Reflexionsflächen den architektonischen Raum in etwas zwischen einem Set und einer Fotografie verwandelten. Die Verführung von Kastens Bildern ist nicht die Verführung des Produktbildes — sie erzeugen in den Betrachtenden kein Verlangen, etwas Bestimmtes zu besitzen —, sondern eine tiefere Verführung des Auges: die Lust an einer visuellen Welt, die das Schauen belohnt, ohne je in Lesbarkeit aufzulösen. Diese Qualität — visuelle Fülle verbunden mit produktiver Ambiguität — hat ihr Werk zu einem Bezugspunkt für die zeitgenössische Ästhetik von Tech-Werbung, Kosmetikfotografie und CGI-beeinflusster kommerzieller Bildgebung gemacht.
+
+
+## Modefotografie
+
+Modefotografie steht an der Schnittstelle von Kunst, Handel und Körper — ein Genre, das gleichzeitig ein Vehikel zum Verkauf von Kleidung und eine der beständig experimentellsten Arenen der Bildproduktion des zwanzigsten und einundzwanzigsten Jahrhunderts ist. Ihre Geschichte ist auch eine Geschichte umstrittener Repräsentationen: von Geschlecht, Schönheit, Rasse und Begehren. Die hier versammelten Fotografierenden vertreten markant unterschiedliche Zugänge zum Genre, von der kalkulierten Provokation Helmut Newtons über den üppigen Maximalismus David LaChapelles bis zur formal einfallsreichen Arbeit Viviane Sassens und den intimen Grenzüberschreitungen Ren Hangs.
+
+### Helmut Newton, [*Cindy Crawford, American Vogue, Monte Carlo*](https://www.dailyartmagazine.com/helmut-newton-in-10-photographs/), 1991
+
+![Newton]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/newton.jpg)
+<figcaption>Helmut Newton, <em>Cindy Crawford, American Vogue, Monte Carlo</em>, 1991</figcaption>
+
+Als Helmut Neustädter 1920 in Berlin in eine jüdische Familie geboren, interessierte sich Helmut Newton früh für Fotografie und arbeitete für die deutsche Fotografin Elsie Simon, bevor seine Familie 1938 aus Deutschland floh. Er ließ sich schließlich in Australien und dann in Paris nieder, wo er zu einer der prägenden Figuren der Modefotografie in den 1960er-, 1970er- und 1980er-Jahren wurde. Newtons Bilder sind theatralisch, konfrontativ und mit einer Erotik aufgeladen, die stets Debatten ausgelöst hat: Er fotografierte Frauen als mächtige, oft dominante Figuren, aber Kritiker:innen haben durchgängig argumentiert, dass die Bilder gleichzeitig fetischisieren und objektivieren und die Stereotypen weiblicher Sexualität verstärken, die sie scheinbar herausfordern. Seine Akte und Modebilder für *Vogue* und *Playboy* setzten eine Agenda für die Beziehung zwischen Modefotografie und Körper — provokant, glamourös, unentschuldigt sexualisiert —, mit der nachfolgende Fotografierende auseinandersetzen mussten, ob durch Erweiterung oder Widerspruch. Newtons Werk ist von seinem historischen und ideologischen Kontext nicht zu trennen: Die Frage, ob seine Bilder die Frauen, die sie darstellen, ermächtigen oder ausbeuten, bleibt genuine offen, und diese Unauflösbarkeit ist Teil dessen, was sie bedeutsam macht. Sein Zeitgenosse [Peter Lindbergh](https://www.kunsthalle-muc.de/en/peter-lindbergh/) verfolgte eine andere, aber ebenso einflussreiche Art von Modebildern — nüchterner, humanisierender, die Person statt das Produkt betonend —, und gemeinsam etablierten sie die beiden Pole, zwischen denen Modefotografie seither weitgehend weitergearbeitet hat.
+
+### David LaChapelle, *Courtney Love: Pieta*, aus [*Heaven to Hell*](https://www.davidlachapelle.com/series-heaven-to-hell), 2006
+
+![LaChapelle]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/lachapelle.jpg)
+<figcaption>David LaChapelle, <em>Courtney Love: Pieta</em> aus <em>Heaven to Hell</em>, 2006</figcaption>
+
+[David LaChapelle](https://thephotographicjournal.com/interviews/david-lachapelle/) ist ein amerikanischer Fotograf und Regisseur, dessen Werk seit den späten 1980er-Jahren eine definierende Rolle bei der Gestaltung der zeitgenössischen Bildkultur gespielt hat. Nachdem er von Andy Warhol entdeckt und für die Arbeit bei *Interview Magazine* engagiert wurde, wurde LaChapelle für seine hypersaturierten, theatralisch inszenierten Fotografien bekannt, die Mode, Prominentenporträt und bildende Kunst miteinander verbanden. Seine Praxis ist üppig maximalistisch: Farbe jenseits der Sättigung gedrückt, Kompositionen, die Referenz auf Referenz häufen — religiöse Ikonografie, Popkultur, klassische Malerei, das Boulevardblatt-Bild —, auf eine Weise, die Exzess bewusst provoziert. Während seine frühen Bilder oft mit popkulturellen Exzessen und Prominentenkultur assoziiert wurden, hat sich LaChapelles Praxis zunehmend Themen wie Glaube, Umweltangst, Konsumismus und spiritueller Abrechnung zugewandt und ein anhaltendes Interesse an Mythologie, religiöser Ikonografie und der Spannung zwischen Spektakel und Glauben reflektiert. *Courtney Love: Pieta* exemplifiziert diesen späteren Modus: Das Bild borgt die formale Struktur von Michelangelos Pietà und überträgt sie in das Register des Prominentenzusammenbruchs und der Boulevardblatt-Mythologie und erzeugt etwas, das gleichzeitig blasphemisch, mitfühlend und zutiefst ambivalent gegenüber der Kultur ist, die es darstellt. LaChapelles Fotografien verführen durch Spektakel — sie sind zu viel, und dieser Exzess ist der Punkt.
+
+### [Viviane Sassen](https://www.vivianesassen.com/works/), [*Dazed*](https://stockholm.fotografiska.com/en/exhibitions/viviane-sassen), 2022
+
+![Sassen]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/sassen.jpg)
+<figcaption>Viviane Sassen, <em>Dazed</em>, 2022</figcaption>
+
+Viviane Sassen ist eine niederländische Fotografin, deren Werk sich fließend zwischen Modeaufträgen und bildender Kunstpraxis bewegt und beiden einen formal experimentellen, psychologisch fremden und beständig am Körper als Ort der Transformation statt der Zurschaustellung interessierten Ansatz einbringt. Ihre Modebilder — entstanden für Auftraggeber:innen wie Miu Miu, Adidas und *Dazed* — verwenden extreme Winkel, tiefe Schatten, grafische Farbe und ungewöhnliche Beschnitte, um Fotografien zu erzeugen, in denen der Körper abstrakt wird, der Raum mehrdeutig und die Identität des Sujets bewusst verunklärt. Das ist Modefotografie, die der üblichen Logik des Genres von Aspiration und Identifikation widersteht: Statt die Betrachtenden in die Position zu bringen, den Look oder den Körper zu begehren, schafft Sassen Bilder, die desorientieren, das Vertraute verfremden. Ihre bildende Kunstpraxis vertieft diese Anliegen und erkundet persönliche Geschichte, Mythologie und die afrikanische Landschaft (sie verbrachte einen Teil ihrer Kindheit in Kenia, und die Erfahrung ist ein anhaltender Bezugspunkt geblieben). Sassens Werk stellt eine wichtige Korrektive innerhalb der Modefotografie dar: eine Praxis, die die Ressourcen des Genres — Zugang zu Körpern, Kleidung, Produktionsbudgets — für Zwecke nutzt, die den kommerziellen Auftrag überschreiten.
+
+### Ren Hang 任航, [*untitled*](https://blindspotgallery.com/artist/ren-hang/), 2006
+
+![Hang]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/hang.png)
+<figcaption>Ren Hang 任航, <em>untitled</em>, 2006</figcaption>
+
+Ren Hang war ein in Peking geborener Fotograf, der vor seinem Tod 2017 im Alter von 29 Jahren einen Werkkorpus hinterließ, der zu den distinktivsten der zeitgenössischen Fotografie gehört: Aktporträts von Freund:innen und Geliebten, fast immer in häuslichen Interieurs oder auf städtischen Dachterrassen aufgenommen, mit einer Direktheit und kompositorischen Erfindungskraft, die vollständig außerhalb der Konventionen sowohl der Modefotografie als auch des dokumentarischen Porträts stand. Die Körper in Ren Hangs Fotografien sind ineinander verschlungen, gestapelt, gespiegelt, mit Pflanzen oder Tieren oder alltäglichen Objekten geschmückt, zu Kompositionen arrangiert, die gleichzeitig erotisch, spielerisch und formal rigoros sind. Seine Palette war flach und leuchtend — die besondere Sättigung des blitzbeleuchteten häuslichen Raumes —, und seine Beziehung zu seinen Sujets war eng und kollaborativ: Das sind Fotografien, die unter Menschen entstanden, die einander vertrauten. Das Werk war politisch bedeutsam im chinesischen Kontext, in dem es entstand: explizite queere Bildsprache in einem Land, in dem Homosexualität bis 2001 als psychische Erkrankung klassifiziert wurde und in dem die Zensur sexueller Inhalte nach wie vor gängige Praxis ist. Ren Hangs Fotografien zirkulierten trotz wiederholter Zensur weit im Internet, und ihr Einfluss — auf Modefotografie, auf queere Bildproduktion, auf eine Generation jüngerer Fotografierender in ganz Asien — war beträchtlich.
+
+
+## Digitale und Online-Verführungen
+
+Die digitale Bildökonomie hat die Bedingungen fotografischer Verführung verändert. Bilder zirkulieren heute in einem Ausmaß, einer Geschwindigkeit und einem Volumen, das für frühere Fotografiegenerationen unvorstellbar gewesen wäre: Der Feed ist ein kontinuierlicher, algorithmisch kuratierter Strom visueller Ansprache, bei dem jedes Bild um einen Moment der Aufmerksamkeit konkurriert, bevor das Scrollen weitergeht. Die hier versammelten Künstler:innen untersuchen verschiedene Facetten dieses Umfelds — das Dating-Profil als fotografische Selbstdarstellung, die Logik des gefundenen und angeeigneten Online-Bildes und die Ästhetik der Nostalgie und Obsoleszenz als Modi kommerzieller Verführung.
+
+### Jenny Rova, [*A MILF DREAM — My matches on Tinder*](https://www.jennyrova.net/works/a-milf-dream-my-matches-on-tinder), 2025
+
+![Rova]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/rova.jpg)
+<figcaption>Jenny Rova, aus <em>A MILF DREAM — My matches on Tinder</em>, 2025</figcaption>
+
+Jenny Rovas *A MILF DREAM — My matches on Tinder* verwendet Fotografien aus den Tinder-Profilen von Männern, um Fotocollagen zu konstruieren, die gleichzeitig Porträts, Gesellschaftsdokumente und Selbstporträts sind. Rova — neu single und mit der Erfahrung des Online-Datings konfrontiert — stieß auf Tinder auf ein überwältigendes Archiv von Selbstdarstellungen: Männer, die sich im Fitnessstudio, im Urlaub, mit Freund:innen, mit Fischen, in Autos, mit Hunden, im Bad fotografieren; jedes Bild ein sorgfältig oder sorglos komponierter Versuch, Begehrenswürdigkeit in einem digitalen Raum zu projizieren, der vollständig durch visuelle Ansprache strukturiert wird. Indem Rova diese Profilbilder aneignet und als Collagen neu zusammensetzt, wendet sie die fotografische Logik der App gegen sich selbst und macht die Konventionen, Wiederholungen und Ängste sichtbar, die bestimmen, wie Männer in einem Dating-Kontext durch Bilder zu verführen versuchen. Der Titel deklariert ihre eigene Position in dieser Ökonomie — ihren sexuellen Status auf der App, ihre eigenen Begierden —, und das Werk steht an der Schwelle zwischen Dokumentation und Autobiografie, zwischen Schauen und Angeschaut-Werden.
+
+### [Viktoria Binschtok](https://viktoriabinschtok.com), *Cluster*, 2012–
+
+![Binschtok]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/binschtok.webp)
+<figcaption>Viktoria Binschtok, aus <em>Cluster</em>, 2012–</figcaption>
+
+Viktoria Binschtoks *Cluster*-Serie paart ihre eigenen Studiofotografien von Objekten mit nahezu identischen Bildern, die über die Google-Bildersuche gefunden wurden: ein rotes Telefon, eine bestimmte Anordnung von Schatten, ein bestimmter blauer Stoff — jedes Objekt von Binschtok im Studio dokumentiert und dann mit dem visuell nächsten Ergebnis abgeglichen, das der Suchalgorithmus liefert. Die Paarungen offenbaren die verborgene Logik der Bildökonomie: die Art und Weise, wie das riesige Archiv der Online-Bilder um wiederkehrende visuelle Typen klustert, wie der Suchalgorithmus Urheberschaft und Kontext in pure visuelle Ähnlichkeit einebnet. Eine in einem kontrollierten Studio mit spezifischen Absichten und einer spezifischen Geschichte hergestellte Fotografie wird durch den Algorithmus, durch die Bildökonomie, einem Produktbild, einem Stockfoto oder einem Screenshot gleichgestellt. Binschtoks Werk macht diese Gleichstellung sichtbar und fragt, was sie bedeutet: Was geht verloren, wenn ein Bild auf seine visuellen Daten reduziert wird, wenn Urheberschaft durch Erscheinung überschrieben wird? *Cluster* verbindet die Verführungen des Online-Bildes — das Gefühl, genau das gefunden zu haben, wonach man gesucht hat — mit den Mechanismen der Aneignung und Zirkulation, die die vorherigen Sitzungen bereits aus anderen Blickwinkeln untersucht haben.
+
+### [Sara Cwynar](https://saracwynar.com/), *Kitsch Encyclopedia / Rose Gold*, 2017–
+
+![Cwynar]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/cwynar.jpg)
+<figcaption>Sara Cwynar, aus <em>Rose Gold</em>, 2017</figcaption>
+
+Sara Cwynar ist eine kanadische Künstlerin und Fotografin, deren Praxis die visuelle Archäologie von Werbung, Konsumkultur und Fotografiegeschichte ausgräbt — den akkumulierten Sediment von Bildern, Farbpaletten, Schriftarten und Objekten, die bestimmte Momente in der Ästhetik des Begehrens definieren. In Fotografie, Video und Collage arbeitend, sammelt und inszeniert Cwynar gefundene Materialien neu: Vintage-Werbung, obsolete Produktfotografie, Stockbilder, Nachschlagewerke, Farbmuster und fotografische Requisiten. Ihre Bilder sind dicht und geschichtet und häufen Objekt auf Objekt und Bild auf Bild in Kompositionen, die sich gleichzeitig archivisch und überwältigend anfühlen — ein Exzess, der die Logik des zeitgenössischen digitalen Bildumfelds imitiert, während er auch auf seine historischen Wurzeln in der Druckkultur und Werbung hinweist. *Rose Gold* nimmt seinen Titel von der millenarischen Farbpalette, die das Design und die Konsumgüter der 2010er-Jahre dominierte, und nutzt sie als Linse, durch die untersucht wird, wie Farbe selbst zu einem Verführungsmodus wird: wie ein bestimmter Farbton, eine bestimmte Oberfläche, eine bestimmte Ästhetik genutzt werden kann, um Begehren nach Objekten, Identitäten und Lebensstilen zu erzeugen. Cwynars Werk ist eine Form kritischer Archäologie — aber die Bilder sind auch schön, was Teil des Punktes ist: Sie verführt mit den Materialien der Verführung.
+
+
+## Aufgabe
+
+Wähle ein einzelnes alltägliches Objekt aus, das du regelmäßig verwendest, kaufst oder antriffst — etwas Gewöhnliches und kommerziell Erhältliches: ein Lebensmittel, ein Kosmetikprodukt, ein Kleidungsstück, ein Haushaltsgegenstand. Mache eine Serie von 3–5 Fotografien dieses Objekts, in der du bewusst versuchst, die Betrachtenden zu verführen — das Objekt begehrenswert, notwendig oder schön erscheinen zu lassen. Du kannst in jeder Umgebung (Studio, häusliches Interieur, draußen), mit jeder Lichtquelle und mit jedem kompositorischen Ansatz arbeiten, aber die Absicht sollte explizit sein: Du machst Werbefotografie. Mache dann eine zusätzliche Fotografie desselben Objekts, in der du das Gegenteil tust — es zeigst, wie es tatsächlich ist, ohne Aufwertung oder Anordnung. Schreibe für die gesamte Serie eine kurze Bildunterschrift (3–4 Sätze), die die Lücke zwischen den beiden Modi beschreibt und was du in dem Prozess des bewussten Konstruierens von Begehren entdeckt hast.
+
+Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument]() hoch.
 
 </div>
-
-<!-- Next: 
-
-
-
-### Dina Kelberman, *I'm Google*, 2011–ongoing
-
-![Kelberman]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/kelberman-im-google.webp)
-<figcaption>Dina Kelberman, from <em>I'm Google</em>, 2011–ongoing</figcaption>
-
-[*I'm Google*](https://dinakelberman.tumblr.com/) is an ongoing Tumblr project by American artist Dina Kelberman, begun in 2011, in which she assembles found images and video stills into long, continuous scrolls organized by visual and associative similarity. Working entirely with material sourced from the internet, Kelberman moves between images through color, shape, texture, and subject — from a cluster of orange traffic cones to a field of pumpkins to a grid of basketballs — producing sequences that feel simultaneously systematic and dreamlike. The title refers both to the associative logic of image search and to the experience of browsing the internet as an archive: infinite, non-hierarchical, and organized by pattern rather than meaning. Unlike Schmid's categorical approach, Kelberman's seriality is intuitive and continuous, more closely resembling the experience of scrolling than of cataloguing. The project has been described as a portrait of the collective visual unconscious of the internet.
-
-, 
-Match, Jenny Rova a milf dream, 
-
-
-
-6
-constructing — conceptual photography, staged photography, pictorialism, fine art photography, photoshop and manipulation, re-enactment, analogue & digital collage
-Lucas Blaloc, Thomas Demand, Hanna Höch
-&
-simulating — post-photography, AI-generated images, photorealistic CGI, composite and manipulated photography, bio-inspired generative imagery, generative image platforms (Midjourney, Stable Diffusion), deepfakes
-Barbara Kasten, Alan Warburton, Charlie Engamn, Jared Madere, 
-
-7
-collecting — vernacular photography, found photography, appropriation art, photobook culture, screenshot collection
-Ed Ruscha photobooks, Insta Repeat, joachim schimi pictures from the street, 
-
-## Image Hoarding
-
-### Gerard Richter, Atlas, 
-https://vimeo.com/1092446369?fl=pl&fe=vl
-https://gerhard-richter-archiv.skd.museum/en/exhibitions/atlas/
-
-
-&
-circulating — press photography, social media photography, meme culture and poor images, networked images and hashtag 
-mail art
-snap+share exhibition
-send me a pic exhibition
-activism, the screenshot as unit of circulation
-Sara Bezovsek, 
-
-8
-deoperationalising — Harun Farocki’s operational images, making machine vision visible, dataset aesthetics, latent space visualisation, intercepting automated image pipelines, explainability and the black box, bounding boxes and heat maps, artistic strategies for rendering invisible images legible
-Trevor Paglen, Hito Steyerl
-
-&
-resisting — activist photography, feminist photography, decolonial approaches, hacking and botbaiting, AI poisoning and adversarial attacks, digital reappropriation of image infrastructures, custom datasets and activist machine learning imaging systems
-
-
--->
