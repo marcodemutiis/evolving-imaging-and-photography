@@ -70,7 +70,7 @@ Where political propaganda directs feeling toward ideological ends, advertising 
 
 Irving Penn was one of the twentieth century's great photographers, known for his arresting images and masterful printmaking across the genres of fashion, portraiture, nudes, still life, and advertising, and celebrated as one of *Vogue* magazine's top photographers for more than sixty years. What unified these different bodies of work was an extraordinary formal intelligence: Penn understood that the power of a photographic image — whether it is selling a perfume or recording a face — lies in its capacity to reduce the world to its essential visual relationships, to make the object before the camera feel absolutely necessary. His advertising and product photography pursued this with particular rigour: working typically in the studio, against neutral backgrounds, Penn eliminated everything extraneous until the image held only what mattered. *Girl Behind Glass* is characteristic in its formal economy — a figure distorted and contained by a glass surface, the body rendered strange and alluring simultaneously. Penn's product photography operates on the same principle: the object is never merely shown; it is revealed, as if seen for the first time.
 
-### Hiro, *Image for Vogue April 1982 issue*, 1982
+### [Hiro](https://hirostudioinc.com/), *Image for Vogue April 1982 issue*, 1982
 
 ![Hiro]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/hiro.webp)
 <figcaption>Hiro, <em>Image for Vogue April 1982 issue</em>, 1982</figcaption>
@@ -213,7 +213,7 @@ Wo politische Propaganda Gefühle auf ideologische Ziele lenkt, lenkt Werbefotog
 
 Irving Penn war einer der großen Fotografen des zwanzigsten Jahrhunderts, bekannt für seine eindrucksvollen Bilder und meisterhafte Drucktechnik in den Genres Mode, Porträt, Akt, Stillleben und Werbung, und über mehr als sechzig Jahre als einer der wichtigsten Fotografen der *Vogue* gefeiert. Was diese verschiedenen Werkkorpora verband, war eine außerordentliche formale Intelligenz: Penn verstand, dass die Kraft eines fotografischen Bildes — ob es ein Parfüm verkauft oder ein Gesicht aufzeichnet — in seiner Fähigkeit liegt, die Welt auf ihre wesentlichen visuellen Beziehungen zu reduzieren, das Objekt vor der Kamera absolut notwendig erscheinen zu lassen. Seine Werbe- und Produktfotografie verfolgte dies mit besonderer Strenge: überwiegend im Studio, vor neutralen Hintergründen, eliminierte Penn alles Überflüssige, bis das Bild nur noch das enthielt, was zählte. *Girl Behind Glass* ist charakteristisch in seiner formalen Ökonomie — eine durch eine Glasfläche verzerrte und eingeschlossene Figur, der Körper gleichzeitig fremd und verführerisch gemacht. Penns Produktfotografie operiert nach demselben Prinzip: Das Objekt wird nie bloß gezeigt; es wird enthüllt, als sähe man es zum ersten Mal.
 
-### Hiro, *Image for Vogue April 1982 issue*, 1982
+### [Hiro](https://hirostudioinc.com/), *Image for Vogue April 1982 issue*, 1982
 
 ![Hiro]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/hiro.webp)
 <figcaption>Hiro, <em>Image for Vogue April 1982 issue</em>, 1982</figcaption>
