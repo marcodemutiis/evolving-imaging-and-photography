@@ -63,7 +63,7 @@ El Lissitzky was a Russian artist, designer, and theorist whose work in photomon
 
 Where political propaganda directs feeling toward ideological ends, advertising photography directs it toward desire — specifically, the desire to possess. The history of commercial image-making is the history of photography learning to seduce: to produce in the viewer not just information about a product but a longing for the world the product promises to deliver. The photographers gathered here represent three distinct registers of that seduction, from the mid-century mastery of formal reduction to the abstracted glamour of the contemporary commercial image.
 
-### Irving Penn, [*Girl Behind Glass, New York*](https://collections.lacma.org/object/121990), 1949
+### [Irving Penn](https://www.theguardian.com/artanddesign/2021/jan/20/irving-penn-photographism-exhibition-photography-new-york), [*Girl Behind Glass, New York*](https://collections.lacma.org/object/121990), 1949
 
 ![Penn]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/penn.jpg)
 <figcaption>Irving Penn, <em>Girl Behind Glass, New York</em>, 1949</figcaption>
@@ -206,7 +206,7 @@ El Lissitzky war ein russischer Künstler, Designer und Theoretiker, dessen Arbe
 
 Wo politische Propaganda Gefühle auf ideologische Ziele lenkt, lenkt Werbefotografie sie auf Begehren — konkret: das Begehren zu besitzen. Die Geschichte der kommerziellen Bildproduktion ist die Geschichte einer Fotografie, die lernt zu verführen: in den Betrachtenden nicht nur Informationen über ein Produkt zu erzeugen, sondern eine Sehnsucht nach der Welt, die das Produkt zu liefern verspricht. Die hier versammelten Fotografierenden repräsentieren drei unterschiedliche Register dieser Verführung, von der formalen Reduktion der Jahrhundertmitte bis zum abstrakten Glamour des zeitgenössischen Werbebildes.
 
-### Irving Penn, [*Girl Behind Glass, New York*](https://collections.lacma.org/object/121990), 1949
+### [Irving Penn](https://www.theguardian.com/artanddesign/2021/jan/20/irving-penn-photographism-exhibition-photography-new-york), [*Girl Behind Glass, New York*](https://collections.lacma.org/object/121990), 1949
 
 ![Penn]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/penn.jpg)
 <figcaption>Irving Penn, <em>Girl Behind Glass, New York</em>, 1949</figcaption>
