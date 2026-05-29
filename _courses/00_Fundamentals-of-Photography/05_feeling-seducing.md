@@ -6,18 +6,10 @@ course_id: fundamentalsofphotography
 course_title: "Fundamentals of Photography"
 course_title_de: "Grundlagen der Fotografie"
 lesson_number: 5
-published: false
+published: true
 ---
 
 <div class="lang-en" markdown="1">
-
-***
-
-## Presentations
-
-Upload a screenshot of your assignment with your name and a caption on [this online document]()
-
-***
 
 *This session examines two closely related but distinct ways in which photographs act upon their viewers: feeling and seducing. The first half attends to photography's capacity to generate intimacy, vulnerability, and affect — images that reach inward rather than outward, that record the body and desire and closeness as ends in themselves rather than as instruments of persuasion. The second half turns to the photograph as a tool of directed appeal: in propaganda and political image-making, in the carefully staged worlds of fashion and advertising, and in the newer seductions of the digital image economy. Together they trace a continuum from the most private photographic gesture to the most calculated — and ask what happens to the viewer at each point along it.*
 
@@ -156,19 +148,11 @@ Sara Cwynar is a Canadian artist and photographer whose practice excavates the v
 
 Choose a single everyday object that you use, buy, or encounter regularly — something ordinary and commercially available: a food item, a cosmetic product, a piece of clothing, a household good. Make a series of 3–5 photographs of this object in which you are deliberately attempting to seduce the viewer — to make the object look desirable, necessary, or beautiful. You may work in any setting (studio, domestic interior, outdoor), with any light source, and with any compositional approach, but the intention should be explicit: you are making advertising photography. Then make one additional photograph of the same object in which you are doing the opposite — showing it as it actually is, without enhancement or arrangement. Write a short caption for the full series (3–4 sentences) describing the gap between the two modes, and what you discovered in the process of deliberately constructing desire.
 
-Upload a screenshot of your assignment with your name and caption on [this online document]()
+Upload a screenshot of your assignment with your name and caption on [this online document](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?tab=t.rziol6pncjgq)
 
 </div>
 
 <div class="lang-de" markdown="1">
-
-***
-
-## Präsentationen
-
-Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument]() hoch.
-
-***
 
 *Diese Sitzung untersucht zwei eng verwandte, aber unterschiedliche Weisen, auf die Fotografien auf ihre Betrachtenden wirken: Fühlen und Verführen. Die erste Hälfte widmet sich der Fähigkeit der Fotografie, Intimität, Verletzlichkeit und Affekt zu erzeugen — Bilder, die nach innen statt nach außen wirken, die Körper, Begehren und Nähe als Selbstzweck festhalten, nicht als Instrumente der Überzeugung. Die zweite Hälfte wendet sich der Fotografie als einem Werkzeug gezielter Ansprache zu: in der Propaganda und politischen Bildproduktion, in den sorgfältig inszenierten Welten der Mode- und Werbefotografie und in den neueren Verführungen der digitalen Bildökonomie. Gemeinsam verfolgen sie ein Kontinuum von der privatesten fotografischen Geste bis zur kalkuliertesten — und fragen, was mit den Betrachtenden an jedem Punkt dieses Kontinuums geschieht.*
 
@@ -307,6 +291,6 @@ Sara Cwynar ist eine kanadische Künstlerin und Fotografin, deren Praxis die vis
 
 Wähle ein einzelnes alltägliches Objekt aus, das du regelmäßig verwendest, kaufst oder antriffst — etwas Gewöhnliches und kommerziell Erhältliches: ein Lebensmittel, ein Kosmetikprodukt, ein Kleidungsstück, ein Haushaltsgegenstand. Mache eine Serie von 3–5 Fotografien dieses Objekts, in der du bewusst versuchst, die Betrachtenden zu verführen — das Objekt begehrenswert, notwendig oder schön erscheinen zu lassen. Du kannst in jeder Umgebung (Studio, häusliches Interieur, draußen), mit jeder Lichtquelle und mit jedem kompositorischen Ansatz arbeiten, aber die Absicht sollte explizit sein: Du machst Werbefotografie. Mache dann eine zusätzliche Fotografie desselben Objekts, in der du das Gegenteil tust — es zeigst, wie es tatsächlich ist, ohne Aufwertung oder Anordnung. Schreibe für die gesamte Serie eine kurze Bildunterschrift (3–4 Sätze), die die Lücke zwischen den beiden Modi beschreibt und was du in dem Prozess des bewussten Konstruierens von Begehren entdeckt hast.
 
-Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument]() hoch.
+Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?tab=t.rziol6pncjgq) hoch.
 
 </div>
