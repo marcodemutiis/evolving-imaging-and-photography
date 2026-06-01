@@ -116,13 +116,13 @@ In Igùn: Prototypes I—IX, I leveraged the capabilities of StyleGAN2, a machin
 ---
 
 ## Assignment
-Select a photographic archive, image collection, or visual corpus that reflects a historical absence, erasure, or gap — something that was not photographed, was destroyed, or was systematically excluded from the visual record.
+~~Select a photographic archive, image collection, or visual corpus that reflects a historical absence, erasure, or gap — something that was not photographed, was destroyed, or was systematically excluded from the visual record.~~
 
-Using a LoRA, train or prompt a model with images from or related to this archive. If you have no access to replicate, you can send your LoRA dataset to me and I'll create a model trained on your images for you.
+~~Using a LoRA, train or prompt a model with images from or related to this archive. If you have no access to replicate, you can send your LoRA dataset to me and I'll create a model trained on your images for you.~~
 
-Generate a series of 8–12 images and accompany them with a short text (200–250 words) that describes: the archive you chose, the absence you are responding to, and what the generated images propose — not as historical truth, but as speculative possibility.
+~~Generate a series of 8–12 images and accompany them with a short text (200–250 words) that describes: the archive you chose, the absence you are responding to, and what the generated images propose — not as historical truth, but as speculative possibility.~~
 
-Upload the text and images with your name and a caption to [this online document](https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?tab=t.bunpctl6xgb4).
+~~Upload the text and images with your name and a caption to [this online document](https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?tab=t.bunpctl6xgb4).~~
 
 
 </div>
@@ -238,12 +238,12 @@ In Igùn: Prototypes I—IX, I leveraged the capabilities of StyleGAN2, a machin
 
 ## Aufgabe
 
-Wähle ein fotografisches Archiv, eine Bildsammlung oder ein visuelles Korpus, das eine historische Abwesenheit, Auslöschung oder Lücke widerspiegelt — etwas, das nie fotografiert wurde, zerstört wurde oder systematisch aus dem Bildgedächtnis ausgeschlossen war.
+~~Wähle ein fotografisches Archiv, eine Bildsammlung oder ein visuelles Korpus, das eine historische Abwesenheit, Auslöschung oder Lücke widerspiegelt — etwas, das nie fotografiert wurde, zerstört wurde oder systematisch aus dem Bildgedächtnis ausgeschlossen war.~~
 
-Trainiere mithilfe einer LoRA ein Modell mit Bildern aus diesem Archiv oder in Bezug auf dieses Archiv. Falls du keinen Zugang zu Replicate hast, kannst du mir deinen LoRA-Datensatz schicken und ich erstelle ein auf deinen Bildern trainiertes Modell für dich.
+~~Trainiere mithilfe einer LoRA ein Modell mit Bildern aus diesem Archiv oder in Bezug auf dieses Archiv. Falls du keinen Zugang zu Replicate hast, kannst du mir deinen LoRA-Datensatz schicken und ich erstelle ein auf deinen Bildern trainiertes Modell für dich.~~
 
-Generiere eine Serie von 8–12 Bildern und begleite sie mit einem kurzen Text (200–250 Wörter), der beschreibt: das Archiv, das du gewählt hast, die Abwesenheit, auf die du antwortest, und was die generierten Bilder vorschlagen — nicht als historische Wahrheit, sondern als spekulative Möglichkeit.
+~~Generiere eine Serie von 8–12 Bildern und begleite sie mit einem kurzen Text (200–250 Wörter), der beschreibt: das Archiv, das du gewählt hast, die Abwesenheit, auf die du antwortest, und was die generierten Bilder vorschlagen — nicht als historische Wahrheit, sondern als spekulative Möglichkeit.~~
 
-Lade den Text und die Bilder mit deinem Namen und einer Bildunterschrift auf [dieses Online-Dokument](https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?tab=t.bunpctl6xgb4) hoch.
+~~Lade den Text und die Bilder mit deinem Namen und einer Bildunterschrift auf [dieses Online-Dokument](https://docs.google.com/document/d/1V3jYDTgISyNXHmK0l5bmjuTYD8eJGwZpisx5ONaR5yY/edit?tab=t.bunpctl6xgb4) hoch.~~
 
 </div>
