@@ -148,7 +148,7 @@ Sara Cwynar is a Canadian artist and photographer whose practice excavates the v
 
 Choose a single everyday object that you use, buy, or encounter regularly — something ordinary and commercially available: a food item, a cosmetic product, a piece of clothing, a household good. Make a series of 3–5 photographs of this object in which you are deliberately attempting to seduce the viewer — to make the object look desirable, necessary, or beautiful. You may work in any setting (studio, domestic interior, outdoor), with any light source, and with any compositional approach, but the intention should be explicit: you are making advertising photography. Then make one additional photograph of the same object in which you are doing the opposite — showing it as it actually is, without enhancement or arrangement. Write a short caption for the full series (3–4 sentences) describing the gap between the two modes, and what you discovered in the process of deliberately constructing desire.
 
-Upload a screenshot of your assignment with your name and caption on [this online document](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?tab=t.rziol6pncjgq)
+Upload a screenshot of your assignment with your name and caption on [this online document](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?tab=t.474wbk8z16v2)
 
 </div>
 
@@ -291,6 +291,6 @@ Sara Cwynar ist eine kanadische Künstlerin und Fotografin, deren Praxis die vis
 
 Wähle ein einzelnes alltägliches Objekt aus, das du regelmäßig verwendest, kaufst oder antriffst — etwas Gewöhnliches und kommerziell Erhältliches: ein Lebensmittel, ein Kosmetikprodukt, ein Kleidungsstück, ein Haushaltsgegenstand. Mache eine Serie von 3–5 Fotografien dieses Objekts, in der du bewusst versuchst, die Betrachtenden zu verführen — das Objekt begehrenswert, notwendig oder schön erscheinen zu lassen. Du kannst in jeder Umgebung (Studio, häusliches Interieur, draußen), mit jeder Lichtquelle und mit jedem kompositorischen Ansatz arbeiten, aber die Absicht sollte explizit sein: Du machst Werbefotografie. Mache dann eine zusätzliche Fotografie desselben Objekts, in der du das Gegenteil tust — es zeigst, wie es tatsächlich ist, ohne Aufwertung oder Anordnung. Schreibe für die gesamte Serie eine kurze Bildunterschrift (3–4 Sätze), die die Lücke zwischen den beiden Modi beschreibt und was du in dem Prozess des bewussten Konstruierens von Begehren entdeckt hast.
 
-Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?tab=t.rziol6pncjgq) hoch.
+Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?tab=t.474wbk8z16v2) hoch.
 
 </div>
