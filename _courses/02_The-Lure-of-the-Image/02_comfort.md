@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: "Comfort"
-title_de: "Comfort"
+title: "The Lure of Comfort"
+title_de: "The Lure of Comfort"
 course_id: the-lure-of-the-image
 course_title: "The Lure of the Image"
 course_title_de: "The Lure of the Image"

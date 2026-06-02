@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: "Cursed"
-title_de: "Cursed"
+title: "The Lure of Cursed Images"
+title_de: "The Lure of Cursed Images"
 course_id: the-lure-of-the-image
 course_title: "The Lure of the Image"
 course_title_de: "The Lure of the Image"

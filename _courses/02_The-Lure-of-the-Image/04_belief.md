@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: "Belief"
-title_de: "Belief"
+title: "The Lure of Belief"
+title_de: "The Lure of Belief"
 course_id: the-lure-of-the-image
 course_title: "The Lure of the Image"
 course_title_de: "The Lure of the Image"
