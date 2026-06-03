@@ -53,14 +53,14 @@ The episode exposed something fundamental about the visual economy of e-commerce
 
 The work operates on two registers at once, exploiting the gap between how humans and algorithms read the same image. By converting the currency of online attention (desire, spectacle, the lure of the body) into a tool for manipulating search infrastructure, Andrew reveals the invisible mechanics — the rankings, classifications, and priority scores — that determine what we see and what we don't. *Thirst Trap Glitch GIFs* asks whose gaze is really being catered to in a visual culture shaped as much by algorithmic sorting as by human desire.
 
-<!--### Mattia Dagani Rio, [*Los Santos*](https://gta5.photography/artworks/los-santos), 2023
+### Mattia Dagani Rio, [*Los Santos*](https://gta5.photography/artworks/los-santos), 2023
 
 ![Dagani Rio]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/05/daganirio.jpg)
 <figcaption>Mattia Dagani Rio, from <em>Los Santos</em>, 2023</figcaption>
 
 *Grand Theft Auto V* (2013) is one of the most commercially successful video games ever made — and one of the most ideologically saturated: a world built on the visual and narrative lures of guns, fast cars, gang violence, and hypersexualised femininity, where wealth, brutality, and heterosexual conquest are the default grammar of masculine aspiration. The fictional city of Los Santos, modelled on Los Angeles, is a landscape designed to seduce through transgression.
 
-In *Los Santos*, Mattia Dagani Rio uses AI image generation to reimagine that world from within. Training generative systems on the game's visual language, he produces an alternative version of GTA V centred on LGBTQ+ characters navigating love, heartbreak, intimacy, and personal growth. The original protagonists — Michael De Santa, Franklin Clinton, and Trevor Philips — are recast as gay men whose lives are shaped by tenderness rather than dominance. Objectified women and violent gangsters give way to queer characters and their romantic lives. The work does not simply critique the game's machismo from outside; it plays with the game's own aesthetics and tools to forge, from within its visual logic, a space of counter-representation. *Los Santos* demonstrates how marginalised communities can occupy the dominant images of popular culture and bend them toward visibility, desire, and resistance.-->
+In *Los Santos*, Mattia Dagani Rio uses AI image generation to reimagine that world from within. Training generative systems on the game's visual language, he produces an alternative version of GTA V centred on LGBTQ+ characters navigating love, heartbreak, intimacy, and personal growth. The original protagonists — Michael De Santa, Franklin Clinton, and Trevor Philips — are recast as gay men whose lives are shaped by tenderness rather than dominance. Objectified women and violent gangsters give way to queer characters and their romantic lives. The work does not simply critique the game's machismo from outside; it plays with the game's own aesthetics and tools to forge, from within its visual logic, a space of counter-representation. *Los Santos* demonstrates how marginalised communities can occupy the dominant images of popular culture and bend them toward visibility, desire, and resistance.
 
 <!-- ## Tutorial -->
 
