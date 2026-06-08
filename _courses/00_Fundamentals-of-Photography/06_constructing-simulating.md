@@ -1,12 +1,12 @@
 ---
 layout: lesson
 title: "Constructing & Simulating"
-title_de: "Constructing & Simulating"
+title_de: "Konstruieren & Simulieren"
 course_id: fundamentalsofphotography
 course_title: "Fundamentals of Photography"
 course_title_de: "Grundlagen der Fotografie"
 lesson_number: 6
-published: false
+published: true
 ---
 
 <div class="lang-en" markdown="1">
@@ -15,180 +15,294 @@ published: false
 
 ## Presentations
 
-Upload a screenshot of your assignment with your name and a caption on [this online document]()
+Upload a screenshot of your assignment with your name and a caption on [this online document](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?tab=t.474wbk8z16v2)
 
 ***
 
-*This session traces*
+*This session examines two related but distinct departures from photography's traditional claim to record the world. The first half focuses on construction: images that are staged, fabricated, assembled, or digitally composed, where photographic reality is actively produced rather than simply captured. The second half turns to simulation, exploring images generated through models, CGI, virtual environments, and other synthetic processes that no longer depend upon a real-world referent. Together they trace a shift from the construction of photographic fictions to the creation of entirely simulated worlds, asking what becomes of photographic truth when the image no longer requires reality as its source.*
 
 
-<!--
-5
-feeling — affect theory and photography, the punctum, humanitarian and empathy photography, filter culture and mood engineering, ASMR and lo-fi aesthetics, colour grading and the emotional preset, AI-generated emotional image types, grief and memorial images online, the affective logic of the feed
-peter lindbergh, helmut newton, vivian sassen, Annie Leibovitz, David LaChapelle, Tim Walker, Ren hang
-&
-seducing — fashion photography, advertising photography, glamour and beauty photography, influencer and social media photography, propaganda, AI ASMR images, conspiracy theory low-res images, cursed images
+## Model Making
 
-6 constructing and simulating: the shift from representation to construction, from a passive capture of the phenomenal world to actively shaping it. Mcluhan media theory 101 / in simulating we introduce operational images 
+Photography's relationship to physical construction is older than it might appear. Long before digital compositing, photographers built their images — staging scenes, constructing sets, assembling miniatures — and then photographed the result. The works gathered here share this commitment to the handmade model as the basis of the photographic image, but their motivations and registers differ considerably. What they have in common is an insistence on the gap between the constructed object and the photographic image it produces: each of these artists makes the process of construction visible, or at least knowable, and in doing so raises questions about what the photograph's apparent fidelity to reality actually guarantees.
 
-constructing: 
-(photo collage) Hanna Höch
-re-enactment (works that reveal the photographic flattening of a construction) thomas demand, Jojakim Cortis & Adrian Sonderegger
-photoshop and manipulation, analogue & digital collage: Lucas Blaloc, 
+### [Thomas Demand](https://channel.louisiana.dk/video/thomas-demand-world-models), *Kontrollraum / Control Room*, 2011
 
-simulating:
-tilt-shift photography: Olivo Barbieri, Visual Truth, 1996 - 2002 (especially tribunali, the blurring between mediatic spectacolirasation and real places) (https://www.olivobarbieri.it/)
-digital re-enactment: 
+![Demand]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/demand.jpg)
+<figcaption>Thomas Demand, <em>Kontrollraum / Control Room</em>, 2011</figcaption>
 
--->
+Thomas Demand constructs his photographs from paper and cardboard. Working from press photographs, film stills, or archival images of significant spaces — the control room of a nuclear reactor, a flooded basement, an office corridor glimpsed in documentary footage — he rebuilds them at full scale in his studio, using only paper, board, and tape. Every surface is reconstructed; every object is a paper approximation of itself. He then photographs the model and destroys it, leaving only the image. The result is a photograph that is indexically true — it records something that was physically present — but substantively false: the space never existed except as a temporary construction made to be photographed. Demand's subjects are typically sites of historical event or institutional power, places that have acquired significance through their appearance in media coverage. By rebuilding them from scratch, he strips away the photographic patina of authenticity that accumulated around the original images and produces something uncanny: a space that looks real but feels slightly, persistently wrong. Every surface is too clean, every edge too precise — the labour of construction is legible in the perfection of the result. Demand's work is a sustained inquiry into photography's relationship to reality, evidence, and the construction of historical memory.
 
-## Photography, Revolution and Propaganda
+### Jojakim Cortis & Adrian Sonderegger, [*Making of '9/11' (by John Del Giorno, 2001)*](https://www.cortissonderegger.ch/icons), 2013
 
-### Alexander Rodchenko, [*Books (Please)! In All Branches of Knowledge*](https://actipedia.org/project/books-please-all-branches-knowledge-1924), 1924
-![Rodchenko]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/rodchenko.png)
-<figcaption>Alexander Rodchenko, <em>Books (Please)! In All Branches of Knowledge</em>, 1924</figcaption>
+![Cortis-Sonderegger]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/cortis-sonderegger.jpeg)
+<figcaption>Jojakim Cortis & Adrian Sonderegger, <em>Making of '9/11' (by John Del Giorno, 2001)</em>, 2013</figcaption>
 
-//Alexander Rodchenko rejected the established artistic conventions of self-expression and aesthetics, dedicating himself with revolutionary fervour to bringing art to the masses. Rodchenko and the Constructivists produced radically abstract paintings, concerned with the placement and movement of objects in space and emphasizing dynamic diagonal compositions. Denouncing easel painting and fine art on ideological grounds, Rodchenko joined the Productivist group in 1921, which advocated for the integration of art into everyday life; he duly focused on graphic design, producing propaganda posters and advertisements. https://www.artsy.net/artwork/alexander-rodchenko-books-please-in-all-branches-of-knowledge
-//Instead of being an illustration of reality, photography became a means to visually represent intellectual constructs, and the artist became an “artist-engineer.” https://www.fotomuseum.ch/en/exhibitions-post/alexander-rodtschenko-revolution-der-fotografie/
+The Swiss duo Jojakim Cortis and Adrian Sonderegger have spent over a decade reconstructing iconic press photographs — images so widely circulated that they have become part of collective visual memory — as tabletop models, then photographing both the reconstruction and the construction process simultaneously. Their *Icons* series includes recreations of the Hindenburg disaster, Robert Capa's *Falling Soldier*, the raising of the flag at Iwo Jima, and the collapse of the Twin Towers. In each case, the final image shows not only the simulated scene but also the studio surroundings — the clamps, the hands, the model-making materials at the edges of the frame — making the act of fabrication fully visible. The effect is disarming: images that carried enormous emotional and historical weight are revealed as collections of cotton wool, wire, and paint. What Cortis and Sonderegger expose is not the fraudulence of the original photographs but the degree to which photography's authority depends on convention, repetition, and the suppression of the conditions of its making. By showing everything, they make visible the construction that is always, to some degree, present in every photograph that claims to show how things were.
 
-### El lissitzky, [*Self-Portrait: The Constructor*](https://www.moma.org/collection/works/83836), 1924
-![El Lissitzky]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/el-lissitzky.jpg)
-<figcaption>El Lissitzky, <em>Self-Portrait: The Constructor</em>, 1924</figcaption>
+### [Lori Nix and Kathleen Gerber](https://vimeo.com/165461598), *Rift*, 2016
 
-// overview of El Lissitzky and his involvement in russian constructivism, and propaganda in relation to the way photography moves from the tradition of documentary representation to influencing the viewer and seducing the gaze (in this case for political motives). Additional note about his work with photography and photo montage ()
+![Nix-Gerber]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/nix-gerber.jpg)
+<figcaption>Lori Nix and Kathleen Gerber, <em>Rift</em>, 2016</figcaption>
+
+Lori Nix and Kathleen Gerber have collaborated for over two decades on large-scale diorama photographs depicting post-human landscapes: abandoned libraries, flooded museums, overgrown subway stations, crumbling civic infrastructure reclaimed by nature. The models they build — often taking months to construct — are photographed with the precision and depth of field of landscape photography, producing images in which the distinction between the handmade miniature and a documentary record of a real place is genuinely difficult to maintain. The subject matter is consistent: a world from which humans have recently departed, the built environment beginning its slow return to disorder. Their *Empire* and *Rift* series extend this vision into the geological and the monumental — the earth itself cracking, the landscape of civilisation splitting apart. The work sits at the intersection of architectural photography, science fiction, and environmental anxiety, using the handcrafted miniature to represent futures too large or too slow for the camera to otherwise capture. Like Demand and Cortis & Sonderegger, Nix and Gerber make photographs that are entirely constructed, but where those artists foreground the labour of fabrication as a critical gesture, Nix and Gerber use it as a means of imaginative projection: the model is not an exposure of how images are made but a vehicle for picturing what does not yet exist.
 
 
-## Product Photography and Advertising
+## Collage and Montage
 
-### Irving Penn, [*Girl Behind Glass, New York*](https://collections.lacma.org/object/121990), 1949
-![Penn]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/penn.jpg)
-<figcaption>Irving Penn, <em>Girl Behind Glass, New York</em>, 1949</figcaption>
+Photographic collage and montage — the cutting, combining, and reordering of photographic fragments — emerged in the early twentieth century as one of the medium's most politically charged practices. Unlike construction (which builds a scene before the camera) or staged photography (which arranges living people), montage works with the photograph as raw material: found, appropriated, cut apart, and recombined into new configurations. The results are images that are explicitly artificial, that announce their own fabrication, and that use that announcement as a critical instrument. The artists here span nearly a century of this tradition, from Dada's anarchic scissors to the digital distortions of Photoshop, but they share a commitment to making the constructed nature of the image part of its meaning.
 
-// summarise the works of Penn from https://fraenkelgallery.com/artists/irving-penn with an emphasis on his work on advertisement and product photography, and his ability to work with shapes and colours in photographs that are deeply seductive
+### Hannah Höch, *Cut with the Kitchen Knife Dada through the Last Weimar Beer Belly Cultural Epoch of Germany*, 1919–1920
 
-### Hiro, Image for Vogue April 1982 issue, 1982
-![Hiro]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/hiro.webp)
-<figcaption>Hiro, <em>Image for Vogue April 1982 issue</em>, 1982</figcaption>
+![Hoech]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/hoech.jpg)
+<figcaption>Hannah Höch, <em>Cut with the Kitchen Knife Dada through the Last Weimar Beer Belly Cultural Epoch of Germany</em>, 1919–1920</figcaption>
 
-//summarise Hiro's work
+Hannah Höch was one of the central figures of Berlin Dada and one of the earliest and most politically sophisticated practitioners of photomontage. *Cut with the Kitchen Knife Dada through the Last Weimar Beer Belly Cultural Epoch of Germany* — a monumental collage assembled from fragments of newspapers, magazines, and popular illustrated press — attacks the political and cultural establishment of Weimar Germany by placing its figures in destabilising juxtapositions: army generals alongside circus performers, politicians beside machines, male authority figures embedded in female bodies and vice versa. Höch sourced her material entirely from the mass media of her moment, which was itself a critical act: by cutting and recombining the images that official culture used to represent itself, she turned the media's own tools against it. The result is an image that is simultaneously chaotic and rigorous, a visual argument built from the wreckage of conventional representation. Höch's photomontage practice also had an explicitly feminist dimension: she used the technique to expose and disrupt the gender hierarchies that organised both German society and the Dada movement itself, in which she was often marginalised despite being one of its most inventive practitioners.
 
-### [Barbara Kasten](https://www.youtube.com/watch?v=LsfDTq5R6wg), [*Architectural Site 17*](https://link.underexposed.high.org/video/behind-the-scenes-of-barbara-kastens-architectural-site-17/), 1988
-![Kasten]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/kasten.jpg)
-<figcaption>Barbara Kasten, <em>Architectural Site 17</em>, 1988</figcaption>
+### [Lucas Blalock](https://www.youtube.com/watch?v=7Rld1xWlWDI), [*Melon Fingers*](https://brooklynrail.org/2018/03/art/LUCAS-BLALOCK-with-Charlie-Schultz/), 2015
 
-//summarise: Barbara Kasten is a fascinating choice because she sits at the border between: fine art, modernist abstraction, installation, and product/display photography.
-She’s not usually classified as a “classic advertising product photographer” like Irving Penn or Hiro, but her influence on contemporary commercial image-making is enormous — especially in:
-luxury branding,
-cosmetics,
-architecture/editorial imagery,
-tech advertising,
-and modern CGI-inspired visual aesthetics.
+![Blalock]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/blalock.jpg)
+<figcaption>Lucas Blalock, <em>Melon Fingers</em>, 2015</figcaption>
 
-### //CGI and photorealism
+Lucas Blalock uses Photoshop the way an earlier generation of photographers used the darkroom — not as a tool for invisible correction but as a medium in its own right, whose operations are made conspicuously visible in the final image. His photographs typically begin with straightforward studio setups — objects on tables, figures against simple backgrounds — and are then subjected to digital manipulation that leaves its traces fully intact: cloned textures that tile incorrectly, rubber-stamped elements that repeat with uncanny regularity, colour adjustments that bleed across edges. The result is images that look like photographs that have been broken, or that are in the process of being assembled, the digital seams showing. Blalock has described Photoshop as a set of conceptual operations as much as technical ones — each tool (the clone stamp, the healing brush, the warp) implies a particular theory of what an image is and how it can be modified — and his work treats those implications as aesthetic material. In *Melon Fingers*, fingers emerge from a sliced melon with a matter-of-fact absurdity that the image's photographic directness only intensifies. Where earlier photomontage practitioners worked with scissors and glue to reveal the constructed nature of the image, Blalock works with the tools of post-production, exposing the digital substrate of contemporary image-making with something closer to playful candour than critique.
+
+### [Felicity Hammond](https://www.felicityhammond.com/#/you-will-enter-an-oasis/), [*Capital Growth*](https://www.fotomuseum.ch/en/situations-post/capital-growth/), 2015
+
+![Hammond]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/hammond.webp)
+<figcaption>Felicity Hammond, <em>Capital Growth</em>, 2015</figcaption>
+
+Felicity Hammond's *Capital Growth* assembles large-format photographic collages from found imagery of urban development — architectural renderings, real estate advertising, construction hoardings, billboard photographs of luxury residential interiors — to produce images that are simultaneously seductive and dystopian. Hammond works in the spaces between the real and the proposed, the sold and the built: her raw material is the speculative imagery that developers use to sell futures that do not yet exist, and her method is to take those images literally and push them to the point of collapse. The resulting collages have the saturated, polished surface of high-end advertising photography, but the spaces they depict are impossible — compressed, impossible, layered with contradictions between interior and exterior, day and night, construction and occupation. *Capital Growth* was developed in response to the development of King's Cross in London, a site where the gap between the marketing imagery and the lived reality of displacement and speculation was particularly stark. Hammond's practice sits in a lineage that runs from Höch's Weimar critiques through John Heartfield's anti-fascist photomontages to the present, using the assembled image not to expose a hidden truth but to make visible a truth that is hiding in plain sight: that the built environment is already a construction, already an image before the camera arrives.
 
 
+## Appropriation
 
-## Fashion Photography
+Appropriation — the direct re-use of existing images as the basis for new work — emerged as a distinct photographic strategy in the late 1970s among artists who came to be known as the Pictures Generation. Their intervention was conceptual rather than technical: instead of making new photographs, they photographed existing ones, or reproduced them with minimal alteration, claiming authorship over images they had not originally created. The gesture was simultaneously a critique of originality (the Romantic idea that art begins with a unique creative act), of the art market (which assigns monetary value to that originality), and of the mass media (whose images shape collective desire and belief). For these artists, the photograph was not an instrument for recording the world but a cultural artefact to be interrogated, appropriated, and turned against itself.
 
-### Helmut Newton, [*Cindy Crawford, American Vogue, Monte Carlo*](https://www.dailyartmagazine.com/helmut-newton-in-10-photographs/), 1991
-![Newton]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/newton.jpg)
-<figcaption>Helmut Newton, <em>Cindy Crawford, American Vogue, Monte Carlo</em>, 1991</figcaption>
+### Sherrie Levine, *After Walker Evans: 4*, 1981
 
-// summarise bio from https://www.icp.org/browse/archive/constituents/helmut-newton and highlight the role he played in fashion photography, although we should point out some controversial depictions of the female body which end up reinforcing steretypes of gender and promote sexualised and objectified role of the woman. also cite Peter Lindbergh with a link to https://www.kunsthalle-muc.de/en/peter-lindbergh/ 
+![Levine]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/levine.jpg)
+<figcaption>Sherrie Levine, <em>After Walker Evans: 4</em>, 1981</figcaption>
 
-### David LaChapelle, *Courtney Love: Pieta*, from [*Heaven to Hell*](https://www.davidlachapelle.com/series-heaven-to-hell), 2006
-![LaChapelle]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/newton.jpg)
-<figcaption>David LaChapelle, <em>Courtney Love: Pieta</em> from <em>Heaven to Hell</em>, 2006</figcaption>
+In 1981, Sherrie Levine photographed reproductions of Walker Evans' Depression-era portraits — including his famous image of Alabama sharecropper Allie Mae Burroughs — from a catalogue of Evans' work, then exhibited the resulting photographs as her own. The series *After Walker Evans* became one of the most contested works in the history of postmodern art, praised as a feminist deconstruction of the male canon and attacked as straightforward theft. Both responses miss something. Levine's gesture is neither celebration nor vandalism but a precise philosophical act: by re-presenting an existing photograph as a new work, she exposes the fragility of the concepts — authorship, originality, uniqueness — on which the value of art photography depends. Evans' portraits, made under the auspices of the Farm Security Administration, were themselves government documents before they were artworks; their elevation into the canon involved institutional decisions about what counts as creative vision rather than documentary labour. Levine's *After* series repeats that elevation with a different hand and asks whether anything has changed. The answer — that the same image means differently depending on who claims it and in what context — is both the work's argument and its ongoing provocation.
 
-// summarise the work lachapelle in photography and his style connected to fashion photography, pop culture and shock value. you can use this source but rephrase to avoid plagiarism (but link this to his name in the text): https://thephotographicjournal.com/interviews/david-lachapelle/
+### Richard Prince, [*Untitled (Cowboy)*](https://www.anothermag.com/art-photography/17147/richard-prince-albertina-museum-vienna-exhibition-review), 1989
 
-### [Vivian Sassen](https://www.vivianesassen.com/works/), [*Dazed*](https://stockholm.fotografiska.com/en/exhibitions/viviane-sassen), 2022
-![Sassen]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/sassen.jpg)
-<figcaption>Vivian Sassen, <em>Dazed</em>, 2022</figcaption>
+![Prince]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/prince.jpg)
+<figcaption>Richard Prince, <em>Untitled (Cowboy)</em>, 1989</figcaption>
 
-//summarise Sassen's work. also some interesting info from here: https://the-talks.com/interview/viviane-sassen/
+Richard Prince began re-photographing advertising images in the late 1970s, cropping away logos and text until the commercial context disappeared and only the image remained. His *Cowboys* series — re-photographs of Marlboro cigarette advertisements, in which the brand and its slogan have been removed — distils the advertising image to its mythological core: the lone rider against a vast Western landscape, freedom, masculinity, and the American frontier as lifestyle proposition. What Prince's intervention exposes is the degree to which advertising imagery works not through information but through fantasy, and how that fantasy was itself borrowed from an earlier cultural repertoire — the Western film, the frontier myth, the iconography of American self-determination. By re-photographing the advertisement without its commercial apparatus, Prince makes the mythology legible as mythology, and asks what it means that a cigarette brand was able to recruit the deepest symbols of American identity in the service of selling a product. The Cowboys series also has a specific historical resonance: produced during the Reagan presidency, it engages a moment when a former Hollywood Western actor was deploying the same imagery — the strong man, the open landscape, the individual against the wilderness — in the service of a political programme that had very little to do with freedom.
 
+### Sturtevant, [*Duchamp Wanted*](https://www.tate.org.uk/art/artists/sturtevant-2508), 1992
 
-### Ren Hang 任航, [*untitled*](https://blindspotgallery.com/artist/ren-hang/), 2006
-![Hang]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/hang.png)
-<figcaption>Ren Hang, <em>untitled</em>, 2006</figcaption>
+![Sturtevant]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/sturtevant.jpg)
+<figcaption>Sturtevant, <em>Duchamp Wanted</em>, 1992</figcaption>
 
-//summarise Ren Hang's work
+Elaine Sturtevant — who worked under her surname alone — began in the 1960s to reproduce the works of her contemporaries: Warhol's flower paintings, Duchamp's ready-mades, Beuys's felt suits, Rosenquist's billboards. She did not copy them exactly — she worked from memory and intention rather than mechanical reproduction — but the results were close enough to constitute a systematic challenge to the idea that artworks are valuable because they are unique, original, and expressive of an individual sensibility. Her *Duchamp Wanted* reproduces Duchamp's 1923 poster for a wanted notice he designed as a fundraising object, itself already a conceptual joke about originality and authorship. In Sturtevant's hands the work becomes a recursion: a reproduction of a reproduction of an idea about reproduction. Where Levine and Prince use appropriation to critique specific ideological formations — the patriarchal canon, advertising mythology — Sturtevant's targets are more abstract: the philosophical foundations of art-making itself. Her practice asks not what a particular image means but what the concept of the original image means, and what happens when that concept is revealed as a construction sustained by institutional consensus rather than any intrinsic property of the object.
 
 
+## Staged Photography
 
-## Digital and Online Seductions
+Staged photography — in which the photographer directs, constructs, or composes the scene before the camera rather than finding it in the world — has a complex relationship to documentary convention. The staged photograph looks like it records something real, and in a literal sense it does: the light entered the lens, the shutter opened, the image formed. But the scene was arranged by the photographer, which means the photograph's claim to independent evidence is compromised. The photographers gathered here use staging at very different scales and with very different purposes — from the intimate theatrical to the monumentally geographical — but they share a commitment to the photograph as authored image rather than found document.
 
-### Jenny Rova, [*A MILF DREAM - My matches on Tinder*](https://www.jennyrova.net/works/a-milf-dream-my-matches-on-tinder), 2025
-![Rova]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/rova.jpg)
-<figcaption>Jenny Rova, from <em>A MILF DREAM - My matches on Tinder</em>, 2025</figcaption>
+### [Joan Fontcuberta](https://www.fontcuberta.com/), *Sputnik*, 1997
 
-// summarise the work paraphrasing the artist text from her website to avoid plagiarism: I use the pictures from the tinder profiles of the men I matched with to make photo collages. As a newly single person, I joined Tinder in the hope of finding a boyfriend or lover. I am overwhelmed by the range of different men, lives and opportunities that might be offered to me if we match with each other.  The title refers to my sexual status on Tinder and my own desires.
+![Fontcuberta]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/fontcuberta.jpg)
+<figcaption>Joan Fontcuberta, <em>Official portrait of the astronaut Ivan Istochnikov</em>, from <em>Sputnik</em>, 1997</figcaption>
 
+Joan Fontcuberta is a Spanish artist and theorist whose practice has been organised, for five decades, around a sustained investigation into photography's claim to truth. *Sputnik* fabricates the complete archive of a fictional Soviet cosmonaut: Ivan Istochnikov, who according to Fontcuberta's invented documentation was launched into orbit alongside his dog Clyde in 1968 and subsequently erased from all official records. The archive Fontcuberta constructed — mission photographs, crew portraits, newspaper clippings, training records — is meticulous and formally convincing, deploying every convention of Cold War documentary photography with precision. The project was first presented as genuine, and many viewers believed it. *Sputnik* belongs to a broader series of fabrications in which Fontcuberta has invented scientists, discovered extinct species, and created archives for phenomena that never occurred, always asking the same question: what is the basis for our trust in photographic evidence? The answer his work consistently implies is that we trust photographs not because we have verified them but because they conform to the conventions of credibility — the institutional context, the formal register, the archival presentation — and that those conventions can be manufactured. In an era of deepfakes and algorithmically generated images, *Sputnik*'s questions have become structurally unavoidable.
+
+### [Jeff Wall](https://gagosian.com/artists/jeff-wall/), *A Sudden Gust of Wind (after Hokusai)*, 1993
+
+![Wall]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/wall.jpg)
+<figcaption>Jeff Wall, <em>A Sudden Gust of Wind (after Hokusai)</em>, 1993</figcaption>
+
+Jeff Wall's large-format transparency lightboxes occupy an uncomfortable position between painting and photography, between the tableau vivant and the documentary image. *A Sudden Gust of Wind (after Hokusai)* was produced over many months in a flat agricultural landscape in British Columbia: Wall photographed dozens of takes of figures in a windswept field, then composited the final image from over 100 separate photographs in post-production, assembling a scene that was never actually present in front of the camera. The result references — in composition and action — Hokusai's woodblock print *Ejiri in Suruga Province*, transposing the Japanese original into a grey Canadian landscape with the formal precision of a painter. Wall's staged photographs consistently position themselves at the boundary between the world as it is and the world as it might be represented: they have the formal finish of history painting and the apparent immediacy of documentary, without being entirely either. The visibility of the production — the acknowledged staging, the known references — is part of the work's argument: that every photograph involves decisions about what to include, what to omit, and how to arrange, and that the staged image simply makes those decisions legible rather than hiding them.
+
+### [Andreas Gursky](https://www.andreasgursky.com/en), *99 Cent*, 1999
+
+![Gursky]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/gursky.jpg)
+<figcaption>Andreas Gursky, <em>99 Cent</em>, 1999</figcaption>
+
+Andreas Gursky's large-format photographs of contemporary life — stock exchanges, factories, hotel atriums, raves, supermarkets — are among the most recognisable images in contemporary photography. They appear at first to be documentary: elevated views of real places, capturing the scale and organisation of late capitalist space with the neutrality of surveillance. In fact they are substantially constructed. *99 Cent* — a view into the interior of a 99-cent store, its shelves extending to infinity in a blaze of primary colour and branded packaging — was digitally composited from multiple exposures, the space extended and regularised until it achieves a kind of sublime total coverage: everything available, everything visible, nothing hidden. The manipulation is not concealed — Gursky has been open about his use of digital compositing — but it is not announced either; the image presents itself with documentary authority while being something closer to a conceptual argument about the logic of consumer capitalism. Gursky's photographs occupy the threshold between documentation and construction, using the scale, resolution, and formal authority of the large-format photograph to make claims about the world that depend on the photograph looking like evidence while being something more, and stranger, than evidence.
+
+
+## Simulating
+
+Simulation — the production of images that have no real-world referent, or that are generated from models and algorithms rather than from light reflected off physical objects — represents the furthest departure from photography's classical claim to indexicality. The photographs and moving images gathered here are made from or with synthetic materials: tilt-shift optics that make real places look like models, three-dimensional assets purchased from online libraries, performance-capture technology that renders a human body as a digital avatar. They raise questions that are specific to this moment in the history of imaging: when an image can be generated entirely without a real-world source, what remains of the photograph's relationship to truth? What does it mean to look at an image when the thing it depicts may never have existed?
+
+### [Olivo Barbieri](https://www.olivobarbieri.it/), *Visual Truth*, 1996–2002
+
+![Barbieri]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/barbieri.jpg)
+<figcaption>Olivo Barbieri, <em>Siena</em>, 2002, from <em>Visual Truth</em>, 1996–2002</figcaption>
+
+Olivo Barbieri's *Visual Truth* series photographs real Italian towns and cities — Siena, Rome, Pisa — using tilt-shift lenses that selectively limit the plane of focus to a narrow band of the image, throwing everything above and below into soft blur. The effect is immediately disorienting: real architecture and real piazzas are made to look exactly like architectural models or film sets, the photographic record of a real place converted by optical means into something that looks like a simulation of that place. The question Barbieri poses is not whether the image is real — it is — but why it no longer looks like it. The tilt-shift technique has since been widely adopted in popular photography and social media as a "miniaturisation effect," but Barbieri's use predates and complicates that appropriation: in *Visual Truth*, the transformation is not a novelty filter but a philosophical provocation. These are images of the mediaeval spectacle of Siena, of the civic grandeur of Rome — places that have been photographically represented so many times that their images have become more familiar than the places themselves. By making them look like models, Barbieri asks whether the distinction between the real place and its representation has already collapsed, and whether the photograph's apparent fidelity to reality might be, in certain highly mediated contexts, its deepest form of fiction.
+
+### [Alan Warburton](https://alanwarburton.co.uk/goodbye-uncanny-valley), [*Assets*](https://alanwarburton.co.uk/assets1), 2014
+
+![Warburton]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/warburton.webp)
+<figcaption>Alan Warburton, <em>Assets</em>, 2014</figcaption>
+
+Alan Warburton is a British artist and writer whose practice examines the visual culture of computer-generated imagery and the political economy of the 3D asset libraries from which much contemporary CGI is assembled. His *Assets* series draws images from online repositories such as Turbosquid and CGTrader — platforms where three-dimensional models of everything from luxury interiors to bombed-out Middle Eastern villages are available for purchase at prices ranging from a few dollars to a thousand — and investigates the strangeness of these objects and their circulation. The 3D asset is a peculiar kind of image: it has no origin in the physical world, no photographer, no moment of capture; it is manufactured rather than recorded, and it exists in a state of permanent readiness, available to be inserted into any simulated environment for any purpose. Warburton's work makes visible the infrastructure of contemporary image-making — the libraries, the platforms, the pricing structures, the geopolitical asymmetries (a bombed village and a luxury penthouse, equally available, equally priced) — that underlies the seamless surfaces of advertising, architecture, film, and games. The 3D asset also does something that no photograph can: it never ages, accumulates no patina, shows no trace of time. Where photography has always been entangled with mortality and loss, the simulated image offers the fantasy of a world exempt from decay.
+
+### Ed Atkins, [*The Worm*](https://vimeo.com/839028879), 2021
+
+![Atkins]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/atkins.jpg)
+<figcaption>Ed Atkins, <em>The Worm</em>, installation view, 2021</figcaption>
+
+Ed Atkins is a British artist who works primarily with high-definition video and performance-capture technology to produce moving image works that occupy the unsettling territory between the human and the digital avatar. *The Worm* presents a telephone call between Atkins and his mother: she is heard but not seen, her voice physically present in the space; Atkins himself appears on screen as a digital stand-in — a three-dimensional avatar purchased from an online model library, rendered in performance-capture technology to replicate his gestures and expressions, dressed as a television presenter in a dark suit and wire-rim glasses. The usually unkempt artist is made neat, presentable, slightly wrong: the avatar is him but not him, a digital proxy that performs intimacy while being constitutionally incapable of it. Made during the lockdown of 2020, *The Worm* carries the specific weight of that moment — the phone call as the only available proximity, the body's absence from the conversation it is trying to have — but its questions reach further: what does it mean to be represented by a purchased digital model? What is lost and what is preserved when the body is rendered as data? Atkins' practice consistently presses on the gap between the image of a person and the person themselves, finding in that gap not just philosophical uncertainty but genuine grief.
 
 
 ## Assignment
 
-
-
-
+Make a series of 3–5 images in which you construct the reality you photograph rather than finding it in the world. This could mean building a set or model, compositing multiple photographs, staging a scene, or appropriating and altering existing images. Whatever method you choose, the process of construction should be legible in the final images — not necessarily announced, but available to a careful viewer. Write a short statement (3–5 sentences) describing what you constructed, why, and what the gap between the constructed scene and the resulting photograph reveals.
 
 </div>
 
 <div class="lang-de" markdown="1">
 
+***
 
+## Präsentationen
+
+Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?tab=t.474wbk8z16v2) hoch.
+
+***
+
+*Diese Sitzung untersucht zwei verwandte, aber unterschiedliche Abweichungen vom traditionellen Anspruch der Fotografie, die Welt abzubilden. Die erste Hälfte konzentriert sich auf Konstruktion: Bilder, die inszeniert, fabriziert, montiert oder digital zusammengesetzt werden, wobei die fotografische Realität aktiv erzeugt statt bloß festgehalten wird. Die zweite Hälfte widmet sich der Simulation und untersucht Bilder, die durch Modelle, CGI, virtuelle Umgebungen und andere synthetische Prozesse erzeugt werden, die keinen realen Referenten mehr benötigen. Gemeinsam verfolgen sie einen Übergang von der Konstruktion fotografischer Fiktionen zur Erschaffung vollständig simulierter Welten und fragen, was aus der fotografischen Wahrheit wird, wenn das Bild die Realität nicht mehr als Quelle benötigt.*
+
+
+## Modellbau
+
+Die Beziehung der Fotografie zur physischen Konstruktion ist älter, als es scheinen mag. Lange vor der digitalen Compositing-Technik bauten Fotografierende ihre Bilder — inszenierten Szenen, konstruierten Kulissen, montierten Miniaturen — und fotografierten das Ergebnis dann. Die hier versammelten Arbeiten teilen dieses Bekenntnis zum handgefertigten Modell als Grundlage des fotografischen Bildes, doch ihre Motivationen und Register unterscheiden sich erheblich. Was sie gemeinsam haben, ist das Beharren auf der Lücke zwischen dem konstruierten Objekt und dem fotografischen Bild, das es erzeugt: Jede:r dieser Künstler:innen macht den Konstruktionsprozess sichtbar oder zumindest erkennbar und wirft dabei Fragen darüber auf, was die scheinbare Treue der Fotografie zur Realität tatsächlich garantiert.
+
+### [Thomas Demand](https://channel.louisiana.dk/video/thomas-demand-world-models), *Kontrollraum / Control Room*, 2011
+
+![Demand]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/demand.jpg)
+<figcaption>Thomas Demand, <em>Kontrollraum / Control Room</em>, 2011</figcaption>
+
+Thomas Demand konstruiert seine Fotografien aus Papier und Karton. Ausgehend von Pressefotos, Filmstills oder Archivbildern bedeutsamer Räume — dem Kontrollraum eines Kernkraftwerks, einem überfluteten Keller, einem in Dokumentaraufnahmen erhaschten Bürokorridor — baut er diese in Originalgröße in seinem Atelier nach, nur mit Papier, Karton und Klebeband. Jede Oberfläche wird rekonstruiert; jedes Objekt ist eine Papierannäherung an sich selbst. Dann fotografiert er das Modell und zerstört es, sodass nur das Bild bleibt. Das Ergebnis ist eine Fotografie, die indexikalisch wahr ist — sie zeichnet etwas auf, das physisch anwesend war —, aber substantiell falsch: Der Raum existierte nie, außer als temporäre Konstruktion, die fotografiert werden sollte. Demands Sujets sind typischerweise Orte historischer Ereignisse oder institutioneller Macht, Orte, die durch ihr Erscheinen in der Medienberichterstattung Bedeutung erlangt haben. Indem er sie von Grund auf neu aufbaut, streift er die fotografische Patina der Authentizität ab, die sich um die Originalbilder angesammelt hatte, und erzeugt etwas Unheimliches: einen Raum, der real aussieht, sich aber leicht und anhaltend falsch anfühlt. Jede Oberfläche ist zu sauber, jede Kante zu präzise — die Arbeit der Konstruktion ist in der Perfektion des Ergebnisses lesbar. Demands Werk ist eine anhaltende Untersuchung der Beziehung der Fotografie zu Realität, Evidenz und der Konstruktion historischer Erinnerung.
+
+### Jojakim Cortis & Adrian Sonderegger, [*Making of '9/11' (by John Del Giorno, 2001)*](https://www.cortissonderegger.ch/icons), 2013
+
+![Cortis-Sonderegger]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/cortis-sonderegger.jpeg)
+<figcaption>Jojakim Cortis & Adrian Sonderegger, <em>Making of '9/11' (by John Del Giorno, 2001)</em>, 2013</figcaption>
+
+Das Schweizer Duo Jojakim Cortis und Adrian Sonderegger verbringt seit über einem Jahrzehnt damit, ikonische Pressefotos — Bilder, die so weit verbreitet wurden, dass sie Teil des kollektiven visuellen Gedächtnisses geworden sind — als Tischmodelle zu rekonstruieren und dann sowohl die Rekonstruktion als auch den Konstruktionsprozess gleichzeitig zu fotografieren. Ihre *Icons*-Serie umfasst Nachbildungen der Hindenburg-Katastrophe, Robert Capas *The Falling Soldier*, der Flaggenhissung auf Iwo Jima und des Einsturzes der Twin Towers. In jedem Fall zeigt das Endbild nicht nur die simulierte Szene, sondern auch die Studioumgebung — die Klemmen, die Hände, die Modellbaumaterialien am Rand des Rahmens — und macht den Fabrikationsakt vollständig sichtbar. Der Effekt ist entwaffnend: Bilder, die enormes emotionales und historisches Gewicht trugen, werden als Ansammlungen von Watte, Draht und Farbe enthüllt. Was Cortis und Sonderegger bloßlegen, ist nicht die Betrüglichkeit der Originalfotografien, sondern das Ausmaß, in dem die Autorität der Fotografie von Konvention, Wiederholung und der Unterdrückung der Entstehungsbedingungen abhängt. Indem sie alles zeigen, machen sie die Konstruktion sichtbar, die in gewissem Maße immer in jeder Fotografie vorhanden ist, die beansprucht zu zeigen, wie die Dinge waren.
+
+### [Lori Nix und Kathleen Gerber](https://vimeo.com/165461598), *Rift*, 2016
+
+![Nix-Gerber]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/nix-gerber.jpg)
+<figcaption>Lori Nix und Kathleen Gerber, <em>Rift</em>, 2016</figcaption>
+
+Lori Nix und Kathleen Gerber arbeiten seit über zwei Jahrzehnten an großformatigen Diorama-Fotografien zusammen, die post-humane Landschaften darstellen: verlassene Bibliotheken, überflutete Museen, überwucherte U-Bahnstationen, von der Natur zurückgewonnene baufällige Infrastruktur. Die Modelle, die sie bauen — deren Konstruktion oft Monate dauert — werden mit der Präzision und Tiefenschärfe der Landschaftsfotografie fotografiert und erzeugen Bilder, bei denen die Unterscheidung zwischen der handgefertigten Miniatur und der dokumentarischen Aufzeichnung eines realen Ortes wirklich schwer aufrechtzuerhalten ist. Das Sujet ist konsistent: eine Welt, aus der die Menschen kürzlich abgereist sind, die gebaute Umgebung, die langsam in die Unordnung zurückfällt. Ihre *Empire*- und *Rift*-Serien erweitern diese Vision ins Geologische und Monumentale — die Erde selbst bricht auf, die Landschaft der Zivilisation spaltet sich. Das Werk steht an der Schnittstelle von Architekturfotografie, Science-Fiction und Umweltangst und nutzt die handgefertigte Miniatur, um Zukünfte darzustellen, die zu groß oder zu langsam sind, als dass die Kamera sie anderweitig erfassen könnte. Wie Demand und Cortis & Sonderegger machen Nix und Gerber Fotografien, die vollständig konstruiert sind, aber während jene Künstler:innen die Arbeit der Fabrikation als kritische Geste in den Vordergrund stellen, nutzen Nix und Gerber sie als Mittel imaginativer Projektion: Das Modell ist keine Enthüllung der Bildproduktion, sondern ein Vehikel für die Vorstellung dessen, was noch nicht existiert.
+
+
+## Collage und Montage
+
+Fotografische Collage und Montage — das Ausschneiden, Kombinieren und Umordnen fotografischer Fragmente — entstand im frühen zwanzigsten Jahrhundert als eine der politisch aufgela­densten Praktiken des Mediums. Anders als Konstruktion (die eine Szene vor der Kamera aufbaut) oder inszenierte Fotografie (die lebende Menschen arrangiert) arbeitet die Montage mit der Fotografie als Rohmaterial: gefunden, angeeignet, auseinandergeschnitten und zu neuen Konfigurationen zusammengesetzt. Die Ergebnisse sind Bilder, die explizit künstlich sind, ihre eigene Fabrikation ankündigen und diese Ankündigung als kritisches Instrument nutzen. Die Künstler:innen hier umspannen fast ein Jahrhundert dieser Tradition, von Dadas anarchischen Scheren bis zu den digitalen Verzerrungen von Photoshop, aber sie teilen das Bekenntnis, die konstruierte Natur des Bildes zu einem Teil seiner Bedeutung zu machen.
+
+### Hannah Höch, *Schnitt mit dem Küchenmesser Dada durch die letzte Weimarer Bierbauchkulturepoche Deutschlands*, 1919–1920
+
+![Hoech]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/hoech.jpg)
+<figcaption>Hannah Höch, <em>Schnitt mit dem Küchenmesser Dada durch die letzte Weimarer Bierbauchkulturepoche Deutschlands</em>, 1919–1920</figcaption>
+
+Hannah Höch war eine der zentralen Figuren des Berliner Dada und eine der frühesten und politisch versiertesten Praktikerinnen der Fotomontage. *Schnitt mit dem Küchenmesser Dada durch die letzte Weimarer Bierbauchkulturepoche Deutschlands* — eine monumentale Collage, die aus Fragmenten von Zeitungen, Magazinen und der populären illustrierten Presse zusammengesetzt wurde — greift das politische und kulturelle Establishment der Weimarer Republik an, indem es ihre Figuren in destabilisierenden Juxtapositionen platziert: Armeegeneräle neben Zirkusartist:innen, Politiker neben Maschinen, männliche Autoritätsfiguren eingebettet in weibliche Körper und umgekehrt. Höch bezog ihr Material ausschließlich aus den Massenmedien ihrer Zeit, was an sich schon ein kritischer Akt war: Indem sie die Bilder ausschnitt und neu kombinierte, mit denen die offizielle Kultur sich selbst repräsentierte, wandte sie die eigenen Werkzeuge der Medien gegen sie. Das Ergebnis ist ein Bild, das gleichzeitig chaotisch und rigoros ist, ein visuelles Argument, das aus den Trümmern der konventionellen Repräsentation aufgebaut wurde. Höchs Fotomontagepraxis hatte auch eine explizit feministische Dimension: Sie nutzte die Technik, um die Geschlechterhierarchien bloßzustellen und zu stören, die sowohl die deutsche Gesellschaft als auch die Dada-Bewegung selbst organisierten, in der sie trotz ihrer Eigenschaft als eine ihrer erfinderischsten Praktikerinnen oft marginalisiert wurde.
+
+### [Lucas Blalock](https://www.youtube.com/watch?v=7Rld1xWlWDI), [*Melon Fingers*](https://brooklynrail.org/2018/03/art/LUCAS-BLALOCK-with-Charlie-Schultz/), 2015
+
+![Blalock]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/blalock.jpg)
+<figcaption>Lucas Blalock, <em>Melon Fingers</em>, 2015</figcaption>
+
+Lucas Blalock verwendet Photoshop so, wie eine frühere Generation von Fotografierenden die Dunkelkammer nutzte — nicht als Werkzeug für unsichtbare Korrekturen, sondern als eigenständiges Medium, dessen Operationen im Endbild auffällig sichtbar gemacht werden. Seine Fotografien beginnen typischerweise mit unkomplizierten Studioaufbauten — Objekte auf Tischen, Figuren vor einfachen Hintergründen — und werden dann einer digitalen Manipulation unterzogen, die ihre Spuren vollständig intakt lässt: geklonte Texturen, die falsch kacheln, gummistempelartige Elemente, die sich mit unheimlicher Regelmäßigkeit wiederholen, Farbanpassungen, die über Kanten bluten. Das Ergebnis sind Bilder, die aussehen wie Fotografien, die zerbrochen sind oder gerade zusammengesetzt werden, wobei die digitalen Nähte sichtbar sind. Blalock hat Photoshop als eine Reihe konzeptueller Operationen ebenso sehr wie technischer beschrieben — jedes Werkzeug (der Klon-Stempel, der Reparaturpinsel, die Verformung) impliziert eine bestimmte Theorie davon, was ein Bild ist und wie es verändert werden kann — und seine Arbeit behandelt diese Implikationen als ästhetisches Material. In *Melon Fingers* tauchen Finger aus einer aufgeschnittenen Melone mit einer sachlichen Absurdität auf, die die fotografische Direktheit des Bildes nur verstärkt. Wo frühere Fotomontage-Praktizierende mit Schere und Kleber arbeiteten, um die konstruierte Natur des Bildes zu enthüllen, arbeitet Blalock mit den Werkzeugen der Nachbearbeitung und legt das digitale Substrat zeitgenössischer Bildproduktion mit etwas eher spielerischer Offenheit als Kritik bloß.
+
+### [Felicity Hammond](https://www.felicityhammond.com/#/you-will-enter-an-oasis/), [*Capital Growth*](https://www.fotomuseum.ch/en/situations-post/capital-growth/), 2015
+
+![Hammond]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/hammond.webp)
+<figcaption>Felicity Hammond, <em>Capital Growth</em>, 2015</figcaption>
+
+Felicity Hammonds *Capital Growth* assembliert großformatige fotografische Collagen aus gefundenem Bildmaterial der Stadtentwicklung — Architekturrenderings, Immobilienwerbung, Bauschilder, Plakatwerbung mit Luxuswohnungsinterieurs — um Bilder zu erzeugen, die gleichzeitig verführerisch und dystopisch sind. Hammond arbeitet in den Räumen zwischen dem Realen und dem Vorgeschlagenen, dem Verkauften und dem Gebauten: Ihr Rohmaterial ist das spekulative Bildmaterial, das Bauträger nutzen, um Zukünfte zu verkaufen, die noch nicht existieren, und ihre Methode besteht darin, diese Bilder wörtlich zu nehmen und bis zum Punkt des Zusammenbruchs zu treiben. Die resultierenden Collagen haben die saturierte, polierte Oberfläche hochwertiger Werbefotografie, aber die Räume, die sie zeigen, sind unmöglich — komprimiert, widersprüchlich, mit Kontraditktionen zwischen Innen und Außen, Tag und Nacht, Bau und Belegung überlagert. *Capital Growth* wurde als Reaktion auf die Entwicklung von King's Cross in London entwickelt, einem Ort, an dem die Lücke zwischen den Marketingbildern und der gelebten Realität von Verdrängung und Spekulation besonders stark war. Hammonds Praxis steht in einer Linie, die von Höchs Weimarer Kritiken über John Heartfields antifaschistische Fotomontagen bis in die Gegenwart reicht, und nutzt das zusammengesetzte Bild nicht, um eine verborgene Wahrheit zu enthüllen, sondern um eine Wahrheit sichtbar zu machen, die sich im Offensichtlichen versteckt: dass die gebaute Umgebung bereits eine Konstruktion ist, bereits ein Bild, bevor die Kamera ankommt.
+
+
+## Aneignung
+
+Aneignung — die direkte Wiederverwendung bestehender Bilder als Grundlage für neue Werke — entstand Ende der 1970er-Jahre als eigenständige fotografische Strategie bei Künstler:innen, die als Pictures Generation bekannt wurden. Ihr Eingriff war konzeptuell statt technisch: Anstatt neue Fotografien zu machen, fotografierten sie bestehende oder reproduzierten sie mit minimaler Veränderung und beanspruchten die Urheberschaft für Bilder, die sie nicht ursprünglich erstellt hatten. Die Geste war gleichzeitig eine Kritik der Originalität (der romantischen Idee, dass Kunst mit einem einzigartigen schöpferischen Akt beginnt), des Kunstmarkts (der dieser Originalität monetären Wert zuweist) und der Massenmedien (deren Bilder kollektives Begehren und kollektive Überzeugungen formen). Für diese Künstler:innen war die Fotografie kein Instrument zur Aufzeichnung der Welt, sondern ein kulturelles Artefakt, das befragt, angeeignet und gegen sich selbst gewendet werden sollte.
+
+### Sherrie Levine, *After Walker Evans: 4*, 1981
+
+![Levine]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/levine.jpg)
+<figcaption>Sherrie Levine, <em>After Walker Evans: 4</em>, 1981</figcaption>
+
+1981 fotografierte Sherrie Levine Reproduktionen von Walker Evans' Porträts aus der Zeit der Großen Depression — darunter sein berühmtes Bild der Alabama-Pachtbäuerin Allie Mae Burroughs — aus einem Katalog von Evans' Werk und stellte die resultierenden Fotografien dann als ihre eigenen aus. Die Serie *After Walker Evans* wurde zu einem der umstrittensten Werke in der Geschichte der postmodernen Kunst, gelobt als feministische Dekonstruktion des männlichen Kanons und als direkter Diebstahl angegriffen. Beide Reaktionen verfehlen etwas. Levines Geste ist weder Feier noch Vandalismus, sondern ein präziser philosophischer Akt: Indem sie eine bestehende Fotografie als neues Werk präsentiert, legt sie die Fragilität der Konzepte — Urheberschaft, Originalität, Einzigartigkeit — bloß, auf denen der Wert der Kunstfotografie beruht. Evans' Porträts, die unter der Schirmherrschaft der Farm Security Administration entstanden, waren Regierungsdokumente, bevor sie Kunstwerke wurden; ihre Erhebung in den Kanon beinhalte institutionelle Entscheidungen darüber, was als kreative Vision statt als dokumentarische Arbeit gilt. Levines *After*-Serie wiederholt diese Erhebung mit einer anderen Hand und fragt, ob sich irgendetwas verändert hat. Die Antwort — dass dasselbe Bild je nach dem, wer es beansprucht und in welchem Kontext, unterschiedlich bedeutet — ist sowohl das Argument des Werks als auch seine anhaltende Provokation.
+
+### Richard Prince, [*Untitled (Cowboy)*](https://www.anothermag.com/art-photography/17147/richard-prince-albertina-museum-vienna-exhibition-review), 1989
+
+![Prince]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/prince.jpg)
+<figcaption>Richard Prince, <em>Untitled (Cowboy)</em>, 1989</figcaption>
+
+Richard Prince begann Ende der 1970er-Jahre, Werbebilder zu re-fotografieren, schnitt Logos und Text weg, bis der kommerzielle Kontext verschwand und nur das Bild blieb. Seine *Cowboys*-Serie — Re-Fotografien von Marlboro-Zigarettenwerbungen, bei denen die Marke und ihr Slogan entfernt wurden — destilliert das Werbebild auf seinen mythologischen Kern: der einsame Reiter vor einer weiten westlichen Landschaft, Freiheit, Männlichkeit und die amerikanische Grenze als Lifestyle-Proposition. Was Princes Eingriff bloßlegt, ist das Ausmaß, in dem Werbebilder nicht durch Information, sondern durch Fantasie wirken, und wie diese Fantasie selbst einem früheren kulturellen Repertoire entlehnt wurde — dem Westernfilm, dem Frontier-Mythos, der Ikonografie der amerikanischen Selbstbestimmung. Indem Prince die Werbung ohne ihren kommerziellen Apparat re-fotografiert, macht er die Mythologie als Mythologie lesbar und fragt, was es bedeutet, dass eine Zigarettenmarke die tiefsten Symbole der amerikanischen Identität in den Dienst des Verkaufs eines Produkts stellen konnte. Die Cowboys-Serie hat auch eine spezifische historische Resonanz: In der Reagan-Präsidentschaft entstanden, engagiert sie sich mit einem Moment, in dem ein ehemaliger Hollywood-Westernschauspieler dieselbe Bildsprache — den starken Mann, die offene Landschaft, das Individuum gegen die Wildnis — im Dienst eines politischen Programms einsetzte, das wenig mit Freiheit zu tun hatte.
+
+### Sturtevant, [*Duchamp Wanted*](https://www.tate.org.uk/art/artists/sturtevant-2508), 1992
+
+![Sturtevant]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/sturtevant.jpg)
+<figcaption>Sturtevant, <em>Duchamp Wanted</em>, 1992</figcaption>
+
+Elaine Sturtevant — die unter ihrem Nachnamen allein arbeitete — begann in den 1960er-Jahren, die Werke ihrer Zeitgenoss:innen zu reproduzieren: Warhols Blumengemälde, Duchamps Ready-mades, Beuys' Filzanzüge, Rosenquists Werbetafeln. Sie kopierte sie nicht exakt — sie arbeitete aus dem Gedächtnis und der Absicht heraus statt aus mechanischer Reproduktion —, aber die Ergebnisse waren nah genug, um eine systematische Herausforderung der Idee darzustellen, dass Kunstwerke wertvoll sind, weil sie einzigartig, original und Ausdruck einer individuellen Sensibilität sind. Ihr *Duchamp Wanted* reproduziert Duchamps Poster von 1923 für ein Steckbrief-Plakat, das er als Fundraising-Objekt entwarf, selbst bereits ein konzeptueller Witz über Originalität und Urheberschaft. In Sturtevants Händen wird das Werk zu einer Rekursion: eine Reproduktion einer Reproduktion einer Idee über Reproduktion. Wo Levine und Prince Aneignung nutzen, um spezifische ideologische Formationen zu kritisieren — den patriarchalischen Kanon, die Werbemythologie —, sind Sturtevants Ziele abstrakter: die philosophischen Grundlagen des Kunstmachens selbst. Ihre Praxis fragt nicht, was ein bestimmtes Bild bedeutet, sondern was das Konzept des Originalbildes bedeutet und was passiert, wenn dieses Konzept als eine Konstruktion enthüllt wird, die durch institutionellen Konsens statt durch eine intrinsische Eigenschaft des Objekts aufrechterhalten wird.
+
+
+## Inszenierte Fotografie
+
+Inszenierte Fotografie — bei der die Fotografierenden die Szene vor der Kamera lenken, konstruieren oder komponieren, statt sie in der Welt zu finden — hat ein komplexes Verhältnis zur dokumentarischen Konvention. Die inszenierte Fotografie sieht so aus, als würde sie etwas Reales aufzeichnen, und im wörtlichen Sinne tut sie das: Das Licht trat ins Objektiv ein, der Verschluss öffnete sich, das Bild formte sich. Aber die Szene wurde von den Fotografierenden arrangiert, was bedeutet, dass der Anspruch der Fotografie auf unabhängige Evidenz kompromittiert ist. Die Fotografierenden hier nutzen die Inszenierung in sehr unterschiedlichen Maßstäben und mit sehr unterschiedlichen Zwecken — von der intimen Theatralik bis zur monumental-geografischen — aber sie teilen das Bekenntnis zur Fotografie als autoriertes Bild statt als gefundenes Dokument.
+
+### [Joan Fontcuberta](https://www.fontcuberta.com/), *Sputnik*, 1997
+
+![Fontcuberta]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/fontcuberta.jpg)
+<figcaption>Joan Fontcuberta, <em>Official portrait of the astronaut Ivan Istochnikov</em>, aus <em>Sputnik</em>, 1997</figcaption>
+
+Joan Fontcuberta ist ein spanischer Künstler und Theoretiker, dessen Praxis seit fünf Jahrzehnten um eine anhaltende Untersuchung des Wahrheitsanspruchs der Fotografie organisiert ist. *Sputnik* fabriziert das vollständige Archiv eines fiktiven sowjetischen Kosmonauten: Ivan Istochnikov, der laut Fontcubertas erfundener Dokumentation 1968 zusammen mit seinem Hund Clyde in die Umlaufbahn gebracht und anschließend aus allen offiziellen Akten gelöscht wurde. Das von Fontcuberta konstruierte Archiv — Missionsfotos, Besatzungsporträts, Zeitungsausschnitte, Trainingsunterlagen — ist sorgfältig und formal überzeugend und setzt jede Konvention der Kalter-Krieg-Dokumentarfotografie mit Präzision ein. Das Projekt wurde zunächst als authentisch präsentiert, und viele Betrachter:innen glaubten es. *Sputnik* gehört zu einer breiteren Serie von Fabrikationen, in denen Fontcuberta Wissenschaftler:innen erfunden, ausgestorbene Arten entdeckt und Archive für nie eingetretene Phänomene erstellt hat — immer mit derselben Frage: Was ist die Grundlage unseres Vertrauens in fotografische Evidenz? Die Antwort, die sein Werk konsequent impliziert, ist, dass wir Fotografien nicht vertrauen, weil wir sie verifiziert haben, sondern weil sie den Konventionen der Glaubwürdigkeit entsprechen — dem institutionellen Kontext, dem formalen Register, der archivalischen Präsentation — und dass diese Konventionen hergestellt werden können. In einer Ära von Deepfakes und algorithmisch generierten Bildern sind *Sputniks* Fragen strukturell unvermeidbar geworden.
+
+### [Jeff Wall](https://gagosian.com/artists/jeff-wall/), *A Sudden Gust of Wind (after Hokusai)*, 1993
+
+![Wall]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/wall.jpg)
+<figcaption>Jeff Wall, <em>A Sudden Gust of Wind (after Hokusai)</em>, 1993</figcaption>
+
+Jeff Walls großformatige Transparenz-Leuchtkästen nehmen eine unbequeme Position zwischen Malerei und Fotografie ein, zwischen dem Tableau vivant und dem dokumentarischen Bild. *A Sudden Gust of Wind (after Hokusai)* entstand über viele Monate in einer flachen Agrarlandschaft in British Columbia: Wall fotografierte Dutzende von Aufnahmen von Figuren in einem windgepeitschten Feld und komponierte dann das Endbild aus über 100 separaten Fotografien in der Nachbearbeitung — eine Szene zusammensetzend, die nie tatsächlich vor der Kamera anwesend war. Das Ergebnis referenziert — in Komposition und Aktion — Hokusais Holzschnitt *Ejiri in der Provinz Suruga* und transponiert das japanische Original mit der formalen Präzision eines Malers in eine graue kanadische Landschaft. Walls inszenierte Fotografien positionieren sich konsequent an der Grenze zwischen der Welt, wie sie ist, und der Welt, wie sie dargestellt werden könnte: Sie haben das formale Finish der Historienmalerei und die scheinbare Unmittelbarkeit des Dokumentarischen, ohne völlig das eine oder das andere zu sein. Die Sichtbarkeit der Produktion — die anerkannte Inszenierung, die bekannten Referenzen — ist Teil des Arguments des Werks: dass jede Fotografie Entscheidungen über das Einzuschließende, das Wegzulassende und das Anzuordnende beinhaltet, und dass das inszenierte Bild diese Entscheidungen schlicht lesbar macht, anstatt sie zu verbergen.
+
+### [Andreas Gursky](https://www.andreasgursky.com/en), *99 Cent*, 1999
+
+![Gursky]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/gursky.jpg)
+<figcaption>Andreas Gursky, <em>99 Cent</em>, 1999</figcaption>
+
+Andreas Gurskys großformatige Fotografien des zeitgenössischen Lebens — Börsen, Fabriken, Hotelatrien, Raves, Supermärkte — gehören zu den bekanntesten Bildern der zeitgenössischen Fotografie. Sie wirken zunächst dokumentarisch: erhöhte Ansichten realer Orte, die Maßstab und Organisation des spätkapitalistischen Raums mit der Neutralität von Überwachung einfangen. Tatsächlich sind sie erheblich konstruiert. *99 Cent* — eine Innenansicht eines 99-Cent-Ladens, dessen Regale sich in einem Leuchten aus Primärfarben und Markenverpackungen in die Unendlichkeit erstrecken — wurde digital aus mehreren Belichtungen komponiert, der Raum erweitert und regularisiert, bis er eine Art erhabene Totalabdeckung erreicht: alles verfügbar, alles sichtbar, nichts verborgen. Die Manipulation ist nicht verborgen — Gursky hat offen über seine Verwendung digitaler Compositing-Technik gesprochen —, aber sie wird auch nicht angekündigt; das Bild präsentiert sich mit dokumentarischer Autorität, während es etwas ist, das einem konzeptuellen Argument über die Logik des Konsumkapitalismus näher ist. Gurskys Fotografien besetzen die Schwelle zwischen Dokumentation und Konstruktion und nutzen den Maßstab, die Auflösung und die formale Autorität der Großformatfotografie, um Behauptungen über die Welt aufzustellen, die davon abhängen, dass die Fotografie wie Evidenz aussieht, während sie etwas Mehr und Seltsameres als Evidenz ist.
+
+
+## Simulation
+
+Simulation — die Erzeugung von Bildern, die keinen realen Referenten haben oder aus Modellen und Algorithmen statt aus an physischen Objekten reflektiertem Licht generiert werden — stellt die weiteste Abkehr vom klassischen Indexikalitätsanspruch der Fotografie dar. Die hier versammelten Fotografien und Bewegtbilder sind aus oder mit synthetischen Materialien gemacht: Tilt-Shift-Optiken, die reale Orte wie Modelle aussehen lassen, dreidimensionale Assets aus Online-Bibliotheken, Performance-Capture-Technologie, die einen menschlichen Körper als digitalen Avatar rendert. Sie werfen Fragen auf, die spezifisch für diesen Moment in der Geschichte der Bildgebung sind: Wenn ein Bild vollständig ohne reale Quelle erzeugt werden kann, was bleibt dann von der Beziehung der Fotografie zur Wahrheit? Was bedeutet es, ein Bild zu betrachten, wenn das, was es zeigt, möglicherweise nie existiert hat?
+
+### [Olivo Barbieri](https://www.olivobarbieri.it/), *Visual Truth*, 1996–2002
+
+![Barbieri]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/barbieri.jpg)
+<figcaption>Olivo Barbieri, <em>Siena</em>, 2002, aus <em>Visual Truth</em>, 1996–2002</figcaption>
+
+Olivo Barbieris *Visual Truth*-Serie fotografiert reale italienische Städte — Siena, Rom, Pisa — mit Tilt-Shift-Objektiven, die die Fokusebene selektiv auf einen schmalen Bildstreifen begrenzen und alles darüber und darunter in sanfte Unschärfe tauchen. Der Effekt ist sofort desorientierend: Reale Architektur und reale Piazzas werden so aussehen gemacht, als wären sie Architekturmodelle oder Filmkulissen, die fotografische Aufzeichnung eines realen Ortes wird durch optische Mittel in etwas verwandelt, das wie eine Simulation dieses Ortes aussieht. Die Frage, die Barbieri stellt, ist nicht, ob das Bild real ist — es ist real —, sondern warum es nicht mehr so aussieht. Die Tilt-Shift-Technik wurde seitdem in der populären Fotografie und in sozialen Medien als „Miniaturisierungseffekt" weit verbreitet, aber Barbieris Verwendung geht dieser Aneignung voraus und verkompliziert sie: In *Visual Truth* ist die Transformation kein Novelty-Filter, sondern eine philosophische Provokation. Das sind Bilder des mittelalterlichen Spektakels von Siena, der bürgerlichen Grandeur Roms — Orte, die so oft fotografisch dargestellt wurden, dass ihre Bilder vertrauter geworden sind als die Orte selbst. Indem er sie wie Modelle aussehen lässt, fragt Barbieri, ob die Unterscheidung zwischen dem realen Ort und seiner Darstellung bereits zusammengebrochen ist und ob die scheinbare Treue der Fotografie zur Realität in bestimmten hochmedialisierten Kontexten ihre tiefste Form der Fiktion sein könnte.
+
+### [Alan Warburton](https://alanwarburton.co.uk/goodbye-uncanny-valley), [*Assets*](https://alanwarburton.co.uk/assets1), 2014
+
+![Warburton]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/warburton.webp)
+<figcaption>Alan Warburton, <em>Assets</em>, 2014</figcaption>
+
+Alan Warburton ist ein britischer Künstler und Autor, dessen Praxis die Bildkultur der computergenierten Bildgebung und die politische Ökonomie der 3D-Asset-Bibliotheken untersucht, aus denen ein Großteil zeitgenössischer CGI assembliert wird. Seine *Assets*-Serie bezieht Bilder aus Online-Repositories wie Turbosquid und CGTrader — Plattformen, auf denen dreidimensionale Modelle von allem, von Luxusinterieurs bis hin zu bombardierten nahöstlichen Dörfern, zu Preisen zwischen wenigen Dollar und tausend Dollar erhältlich sind — und untersucht die Fremdheit dieser Objekte und ihrer Zirkulation. Das 3D-Asset ist eine eigenartige Art von Bild: Es hat keinen Ursprung in der physischen Welt, keine:n Fotograf:in, keinen Aufnahmemoment; es wird hergestellt statt aufgezeichnet und existiert in einem Zustand permanenter Bereitschaft, verfügbar für die Einfügung in jede simulierte Umgebung für jeden Zweck. Warburtons Werk macht die Infrastruktur zeitgenössischer Bildproduktion sichtbar — die Bibliotheken, die Plattformen, die Preisstrukturen, die geopolitischen Asymmetrien (ein bombardiertes Dorf und ein Luxus-Penthouse, gleichermaßen verfügbar, gleich bepreist) —, die den nahtlosen Oberflächen von Werbung, Architektur, Film und Spielen zugrunde liegt. Das 3D-Asset tut auch etwas, das keine Fotografie kann: Es altert nie, akkumuliert keine Patina, zeigt keine Spur der Zeit. Wo die Fotografie immer mit Sterblichkeit und Verlust verflochten war, bietet das simulierte Bild die Fantasie einer von Verfall befreiten Welt.
+
+### Ed Atkins, [*The Worm*](https://vimeo.com/839028879), 2021
+
+![Atkins]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/atkins.jpg)
+<figcaption>Ed Atkins, <em>The Worm</em>, Installationsansicht, 2021</figcaption>
+
+Ed Atkins ist ein britischer Künstler, der hauptsächlich mit hochauflösendem Video und Performance-Capture-Technologie arbeitet, um Bewegtbildwerke zu schaffen, die das verstörende Terrain zwischen dem Menschlichen und dem digitalen Avatar besetzen. *The Worm* präsentiert ein Telefongespräch zwischen Atkins und seiner Mutter: Sie wird gehört, aber nicht gesehen, ihre Stimme physisch im Raum anwesend; Atkins selbst erscheint auf dem Bildschirm als digitaler Stellvertreter — ein aus einer Online-Modellbibliothek erworbener dreidimensionaler Avatar, der durch Performance-Capture-Technologie seine Gesten und Ausdrücke repliziert, gekleidet als Fernsehpräsentator in einem dunklen Nadelstreifenanzug und Drahtgestellbrille. Der sonst ungepflegte Künstler wird ordentlich, präsentierbar, leicht falsch: Der Avatar ist er, aber nicht er, ein digitaler Proxy, der Intimität performt, obwohl er dazu konstitutionell nicht in der Lage ist. Während des Lockdowns 2020 entstanden, trägt *The Worm* das spezifische Gewicht dieses Moments — das Telefongespräch als einzig verfügbare Nähe, die Abwesenheit des Körpers aus dem Gespräch, das er zu führen versucht —, aber seine Fragen reichen weiter: Was bedeutet es, durch ein käufliches digitales Modell repräsentiert zu werden? Was geht verloren und was bleibt erhalten, wenn der Körper als Daten gerendert wird? Atkins' Praxis drückt konsequent auf die Lücke zwischen dem Bild einer Person und der Person selbst und findet in dieser Lücke nicht nur philosophische Unsicherheit, sondern echte Trauer.
+
+
+## Aufgabe
+
+Erstelle eine Serie von 3–5 Bildern, in denen du die Realität konstruierst, die du fotografierst, statt sie in der Welt zu finden. Das könnte bedeuten, ein Set oder Modell zu bauen, mehrere Fotografien zu compositen, eine Szene zu inszenieren oder bestehende Bilder anzueignen und zu verändern. Welche Methode du auch wählst, der Konstruktionsprozess sollte in den Endbildern lesbar sein — nicht notwendigerweise angekündigt, aber für aufmerksame Betrachtende zugänglich. Schreibe ein kurzes Statement (3–5 Sätze), das beschreibt, was du konstruiert hast, warum und was die Lücke zwischen der konstruierten Szene und der resultierenden Fotografie offenbart.
 
 </div>
-
-<!-- Next: 
-
-
-
-### Dina Kelberman, *I'm Google*, 2011–ongoing
-
-![Kelberman]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/kelberman-im-google.webp)
-<figcaption>Dina Kelberman, from <em>I'm Google</em>, 2011–ongoing</figcaption>
-
-[*I'm Google*](https://dinakelberman.tumblr.com/) is an ongoing Tumblr project by American artist Dina Kelberman, begun in 2011, in which she assembles found images and video stills into long, continuous scrolls organized by visual and associative similarity. Working entirely with material sourced from the internet, Kelberman moves between images through color, shape, texture, and subject — from a cluster of orange traffic cones to a field of pumpkins to a grid of basketballs — producing sequences that feel simultaneously systematic and dreamlike. The title refers both to the associative logic of image search and to the experience of browsing the internet as an archive: infinite, non-hierarchical, and organized by pattern rather than meaning. Unlike Schmid's categorical approach, Kelberman's seriality is intuitive and continuous, more closely resembling the experience of scrolling than of cataloguing. The project has been described as a portrait of the collective visual unconscious of the internet.
-
-, 
-Match, Jenny Rova a milf dream, 
-
-
-
-6
-constructing — conceptual photography, staged photography, pictorialism, fine art photography, photoshop and manipulation, re-enactment, analogue & digital collage
-Lucas Blaloc, Thomas Demand, Hanna Höch
-&
-simulating — post-photography, AI-generated images, photorealistic CGI, composite and manipulated photography, bio-inspired generative imagery, generative image platforms (Midjourney, Stable Diffusion), deepfakes
-Barbara Kasten, Alan Warburton, Charlie Engamn, Jared Madere, 
-
-7
-collecting — vernacular photography, found photography, appropriation art, photobook culture, screenshot collection
-Ed Ruscha photobooks, Insta Repeat, joachim schimi pictures from the street, 
-
-## Image Hoarding
-
-### Gerard Richter, Atlas, 
-https://vimeo.com/1092446369?fl=pl&fe=vl
-https://gerhard-richter-archiv.skd.museum/en/exhibitions/atlas/
-
-
-&
-circulating — press photography, social media photography, meme culture and poor images, networked images and hashtag 
-mail art
-snap+share exhibition
-send me a pic exhibition
-activism, the screenshot as unit of circulation
-Sara Bezovsek, 
-
-8
-deoperationalising — Harun Farocki’s operational images, making machine vision visible, dataset aesthetics, latent space visualisation, intercepting automated image pipelines, explainability and the black box, bounding boxes and heat maps, artistic strategies for rendering invisible images legible
-Trevor Paglen, Hito Steyerl
-
-&
-resisting — activist photography, feminist photography, decolonial approaches, hacking and botbaiting, AI poisoning and adversarial attacks, digital reappropriation of image infrastructures, custom datasets and activist machine learning imaging systems
-
-
--->
