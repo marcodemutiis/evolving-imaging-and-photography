@@ -35,12 +35,12 @@ Make: Create a collage of images that represent the different typologies of the 
 | 22.4.2026  | The Lure of Comfort                 |
 | 29.4.2026  | The Lure of Cursed Images           |
 | 6.5.2026   | The Lure of Belief                  |
-| 13.5.2026  | (Remote Clinic)           |
-| 3.6.2026   |  *Project Presentations* |
-| 10.6.2026  |  | <!-- clik bait, thirst traps, bot bait-->
-| 17.6.2026  |  | 
-| 24.6.2026  | *Final Projects Development*        |
-| 1.7.2026   | *Final Projects Development*        |
+| 13.5.2026  | (Remote Clinic)           		   |
+| 3.6.2026   |  *Project Presentations* 		   |
+| 10.6.2026  | *Final Projects Development*  	   | 
+| 17.6.2026  | *Final Projects Development*  	   | 
+| 24.6.2026  | *Final Projects Development (self study)* |
+| 1.7.2026   | *Final Projects Presentations*      |
 
 <!--## Tools and Resources
 
@@ -87,12 +87,12 @@ Denke: „Wann wurdest du das letzte Mal von einem Bild getäuscht?“
 | 22.4.2026  | Influencer Photography              |
 | 29.4.2026  | Affektive Bilder & Reaction Economies|
 | 6.5.2026   | Operational Cuteness & Meme Politics|
-| 13.5.2026  | (Remote Clinic)              |
-| 3.6.2026   | *Projektpräsentationen*  |
-| 10.6.2026  |  |
-| 17.6.2026  |    |
-| 24.6.2026  | *Entwicklung der Abschlussprojekte  |
-| 1.7.2026   | *Entwicklung der Abschlussprojekte  |
+| 13.5.2026  | (Remote Clinic)              	   |
+| 3.6.2026   | *Projektpräsentationen*  		   |
+| 10.6.2026  | *Entwicklung der Abschlussprojekte* |
+| 17.6.2026  | *Entwicklung der Abschlussprojekte* |
+| 24.6.2026  | *Entwicklung der Abschlussprojekte (self study)* |
+| 1.7.2026   | *Abschlussprojektepräsentationen*   |
 
 <!--## Tools and Resources
 
