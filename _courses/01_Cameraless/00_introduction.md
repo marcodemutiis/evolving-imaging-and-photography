@@ -31,7 +31,7 @@ The course is structured through weekly short assigments where students have to 
 | 2.6.2026   | LoRA and Generative AI - Part I     |
 | 9.6.2026   | LoRA and Generative AI - Part II    |
 | 16.6.2026  | Project Development                 |
-| 23.6.2026  | Project Development                 |
+| 23.6.2026  | Project Development (self study)    |
 | 30.6.2026  | Final Presentations.                |
 
 <!--## Tools and Resources
@@ -84,7 +84,7 @@ Der Kurs ist durch wöchentliche Kurzaufgaben strukturiert, bei denen die Studie
 | 2.6.2026   | LoRA und Generative KI            |
 | 9.6.2026   | LoRA und Generative KI  |
 | 16.6.2026  | Project Dev          |
-| 23.6.2026  | Project Dev        |
+| 23.6.2026  | Project Dev (self study)       |
 | 30.6.2026  | Final Presentations             |
 
 <!--## Tools and Resources

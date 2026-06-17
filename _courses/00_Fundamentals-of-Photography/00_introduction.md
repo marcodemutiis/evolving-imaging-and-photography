@@ -81,11 +81,11 @@ published: true
 | 21.4.2026  | Archiving & Indexing			  	   |
 | 28.4.2026  | Witnessing & Mourning 		       |
 | 5.5.2026   | Remembering & Translating    	   |
-| 12.5.2026  | Presentations           	   |
-| 2.6.2026   | Feeling & Seducing	      			   |
+| 12.5.2026  | Presentations           	   		   |
+| 2.6.2026   | Feeling & Seducing	      		   |
 | 9.6.2026   | Constructing & Simulating	  	   |
 | 16.6.2026  | Collecting & Circulating. 		   |
-| 23.6.2026  | Final Projects				       |
+| 23.6.2026  | Final Projects (self study)	       |
 | 30.6.2026  | Final Projects        			   |
 
 
@@ -236,11 +236,11 @@ It is my intent that students from all backgrounds and perspectives be well serv
 | 21.4.2026  | Archivieren & Ordnen               |
 | 28.4.2026  | Bezeugen & Trauern                 |
 | 5.5.2026   | Erinnern & Übersetzen              |
-| 12.5.2026  | Präsentationen                 |
-| 2.6.2026   | Fühlen & Verführen                     |
+| 12.5.2026  | Präsentationen            	      |
+| 2.6.2026   | Fühlen & Verführen                 |
 | 9.6.2026   | Konstruieren & Simulieren          |
 | 16.6.2026  | Sammeln & Zirkulieren              |
-| 23.6.2026  | Abschlussprojekte                  |
+| 23.6.2026  | Abschlussprojekte (self study)     |
 | 30.6.2026  | Abschlussprojekte                  |
 
 
