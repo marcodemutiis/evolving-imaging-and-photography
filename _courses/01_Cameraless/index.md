@@ -37,6 +37,16 @@ Students will develop a critical understanding of contemporary digital image pro
 Students will complete weekly short assignments experimenting with a different cameraless technique each week (70%). Based on one of these experiments, students will develop a final project presented at the end of the semester, accompanied by a brief written reflection on the practice and its conceptual context (30%).
 
 3 SWS / 3 ECTS.
+
+## Final Projects
+
+Upload your final project as a folder with your name and surname here: [https://drive.google.com/drive/folders/1cGZqfZIRLvUw7_lf-GZXnQ3dnUFkERTW](https://drive.google.com/drive/folders/1cGZqfZIRLvUw7_lf-GZXnQ3dnUFkERTW?usp=sharing)
+
+The project must contain:
+
+- photographs or photo book in pdf
+- Word Document containing Project Title, Student Name, Short Description (150-300 words)
+
 </div>
 
 <div class="lang-de" markdown="1">
@@ -61,4 +71,14 @@ Die Studierenden entwickeln ein kritisches Verständnis zeitgenössischer digita
 Die Studierenden absolvieren wöchentliche Kurzaufgaben, bei denen sie jede Woche eine andere kameralose Technik erproben (70 %). Auf der Grundlage eines dieser Experimente entwickeln sie ein Abschlussprojekt, das am Ende des Semesters präsentiert wird und von einer kurzen schriftlichen Reflexion über die Praxis und ihren konzeptuellen Kontext begleitet wird (30 %).
 
 3 SWS / 3 ECTS.
+
+## Abschlussprojekte
+
+Lädt euer Abschlussprojekt hier als Ordner mit eurem Vor- und Nachnamen hoch: [https://drive.google.com/drive/folders/1cGZqfZIRLvUw7_lf-GZXnQ3dnUFkERTW](https://drive.google.com/drive/folders/1cGZqfZIRLvUw7_lf-GZXnQ3dnUFkERTW?usp=sharing)
+
+Das Projekt muss Folgendes enthalten:
+
+- Fotografien oder Fotobuch als PDF
+- Word-Dokument mit Projekttitel, Name der/des Studierenden, Kurzbeschreibung (150–300 Wörter)
+
 </div>
