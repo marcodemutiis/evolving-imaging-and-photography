@@ -104,10 +104,16 @@ Sendet eure Projektvorschläge als PDF an Marco.DeMutiis@htwg-konstanz.de. Jeder
 - Ein Moodboard mit Referenzen aus dem Unterricht oder aus anderen Quellen
 
 ## Abschlussprojekte
+
 Lädt euer Abschlussprojekt hier als Ordner mit eurem Vor- und Nachnamen hoch: [https://drive.google.com/drive/folders/1yRUPXO4p2U6T80Zartz8Tq2ydVhDLmf-](https://drive.google.com/drive/folders/1yRUPXO4p2U6T80Zartz8Tq2ydVhDLmf-)
+
 Das Projekt muss Folgendes enthalten:
 
-Fotografien oder Fotobuch als PDF
-Word-Dokument mit Projekttitel, Name der/des Studierenden, Kurzbeschreibung (150–300 Wörter)
+- Fotografien oder Fotobuch als PDF
+- Word-Dokument mit Projekttitel, Name der/des Studierenden, Kurzbeschreibung (150–300 Wörter)
 
 </div>
+
+
+
+
