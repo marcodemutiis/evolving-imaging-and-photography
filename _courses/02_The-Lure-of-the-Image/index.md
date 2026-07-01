@@ -33,6 +33,16 @@ Students will develop an understanding of the emotional and affective properties
 
 Students will develop a semester project based on one of the topics explored in class, accompanied by a written investigation. The project can take several forms, from traditional photography prints to video installation, from interactive media to web-based publication.
 
+## Final Project
+
+Upload your final project as a folder with your name and surname here: [https://drive.google.com/drive/folders/1ChN0TB-hW_wFLL8xyMhBxhBd43-Copbt](https://drive.google.com/drive/folders/1ChN0TB-hW_wFLL8xyMhBxhBd43-Copbt?usp=sharing)
+
+The project folder must contain:
+
+- The work (images, video, interactive work, installation shots)
+- PDF or Word Document containing Student Name, Project Title, Short Description (150-300 words)
+- PDF or Word Document of your written investigation on the lure of the image (ca. 1000 words or more)
+
 </div>
 
 <div class="lang-de" markdown="1">
@@ -55,4 +65,15 @@ Die Studierenden entwickeln ein Verständnis für die emotionalen und affektiven
 
 ## Leistungsnachweis
 Die Studierenden entwickeln ein Semesterprojekt zu einem der im Modul behandelten Themen, begleitet von einer schriftlichen Untersuchung. Das Projekt kann verschiedene Formen annehmen: von traditionellen Fotoprints bis zur Videoinstallation, von interaktiven Medien bis zur webbasierten Publikation.
+
+## Final Project
+
+Upload your final project as a folder with your name and surname here: [https://drive.google.com/drive/folders/1ChN0TB-hW_wFLL8xyMhBxhBd43-Copbt](https://drive.google.com/drive/folders/1ChN0TB-hW_wFLL8xyMhBxhBd43-Copbt?usp=sharing)
+
+The project folder must contain:
+
+- The work (images, video, interactive work, installation shots)
+- PDF or Word Document containing Student Name, Project Title, Short Description (150-300 words)
+- PDF or Word Document of your written investigation on the lure of the image (ca. 1000 words or more)
+
 </div>
