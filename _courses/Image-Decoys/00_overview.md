@@ -9,10 +9,13 @@ lesson_number: 0
 published: true
 ---
 
+
+<div class="lang-en" markdown="1">
+	
 ![image decoys]({{ site.baseurl }}/courses/Image-Decoys/assets/img/varner.jpg)
 <figcaption>Maddie Varner, Screenshot from <em>Kardashian Krypt<em>, 2014</figcaption>
 
-<div class="lang-en" markdown="1">
+
 
 ## About the Course
 
