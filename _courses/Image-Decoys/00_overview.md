@@ -9,16 +9,12 @@ lesson_number: 0
 published: true
 ---
 
-
-<div class="lang-en" markdown="1">
-
 ![image decoys]({{ site.baseurl }}/courses/Image-Decoys/assets/img/varner.jpg)
 <figcaption>Maddie Varner, Screenshot from <em>Kardashian Krypt<em>, 2014</figcaption>
 
-
+<div class="lang-en" markdown="1">
 
 ## About the Course
-
 The course will explore the idea of operational images through several artistic and theoretical positions, following the development of machine operations and algorithmic ways of seeing in digital images in the last thirty years.
 At the core of the course there is also the notion of decoy, a term borrowed from military and cybersecurity contexts to divert enemy attacks through undercover agents and other tactics.
 
