@@ -10,6 +10,7 @@ published: true
 ---
 ![image decoys]({{ site.baseurl }}/courses/Image-Decoys/assets/img/horvitz.jpg)
 <figcaption>David Horvitz, from <em>241543903</em>, 2012-ongoing</figcaption>
+
 <div class="lang-en" markdown="1">
 
 ## Course Info
@@ -30,16 +31,6 @@ Students will develop a critical understanding of contemporary digital image pro
 ## Assessment
 Students will complete weekly short assignments experimenting with a different techniques (70%). Based on one of these experiments, students will develop a final project presented at the end of the semester, accompanied by a brief written reflection on the practice and its conceptual context (30%).
 
-## Weekly Assignments
-Weekly assignments are added to this document: [https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/)
-
-## Final Projects
-Final projects must be uploaded as a folder with your name and surname here: [https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link](https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link)
-
-The project must contain:
-- Images, videos, code and/or pdf files
-- Word Document containing Project Title, Student Name, Short Description (150-300 words)
-
 </div>
 <div class="lang-de" markdown="1">
 
@@ -59,14 +50,4 @@ Die Studierenden entwickeln ein kritisches Verständnis der zeitgenössischen di
 
 ## Leistungsnachweis
 Die Studierenden absolvieren wöchentliche Kurzaufgaben, in denen sie mit unterschiedlichen Techniken experimentieren (70%). Ausgehend von einem dieser Experimente entwickeln die Studierenden ein Abschlussprojekt, das am Semesterende präsentiert wird, begleitet von einer kurzen schriftlichen Reflexion über die Praxis und ihren konzeptuellen Kontext (30%).
-
-## Wöchentliche Aufgaben
-Die wöchentlichen Aufgaben werden in diesem Dokument ergänzt: [https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/)
-
-## Abschlussprojekte
-Die Abschlussprojekte müssen als Ordner mit eurem Vor- und Nachnamen hier hochgeladen werden: [https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link](https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link)
-
-Das Projekt muss folgendes enthalten:
-- Bilder, Videos, Code und/oder PDF-Dateien
-- Word-Dokument mit Projekttitel, Namen der/des Studierenden, Kurzbeschreibung (150–300 Wörter)
 </div>

@@ -11,7 +11,7 @@ published: true
 
 
 <div class="lang-en" markdown="1">
-	
+
 ![image decoys]({{ site.baseurl }}/courses/Image-Decoys/assets/img/varner.jpg)
 <figcaption>Maddie Varner, Screenshot from <em>Kardashian Krypt<em>, 2014</figcaption>
 
@@ -28,24 +28,37 @@ An image decoy, in the sense proposed in the course, is an image that does not r
 
 The typologies of image decoys proposed in the course are: Hiding in Plain Sight, Image Triggers, Occupy The Internet, Superspreaders, The Girl Online.
 
+## Weekly Assignments
+Weekly assignments are added to this document: [https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/)
+
+## Mid Terms
+The Midterms will offer a chance to present the work in progress: here students are expected to visualise their ideas through prototypes, sketches, experiments, and to submit a plan for the next phase of research, production and presentation of the final work. 
+
+## Final Projects
+Final projects must be uploaded as a folder with your name and surname here: [https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link](https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link)
+
+The project must contain:
+- Images, videos, code and/or pdf files
+- Word Document containing Project Title, Student Name, Short Description (150-300 words)
+
 ## Calendar
 
 | Date       | Topic                               |
 |------------|-------------------------------------|
-| 8.10.2026   | Introduction                       |
+| 8.10.2026   | INTRODUCTION                       |
 | 15.10.2026  | Hiding in Plain Sight              |
 | 22.10.2026  | Image Triggers                     |
 | 29.10.2026  | Occupy The Internet                |
-| 5.11.2026   | Workshop Week - no class	       |
-| 12.11.2026  | Self Study                         |
+| 5.11.2026   | -Workshop Week - no class-	       |
+| 12.11.2026  | -Self Study-                       |
 | 19.11.2026  | Superspreaders                     |
 | 26.11.2026  | The Girl Online                    |
-| 3.12.2026   | Mid Term Presentations             |
+| 3.12.2026   | MID TERM PRESENTATIONS             |
 | 10.12.2026  | Project Development                |
 | 17.12.2026  | Project Development                |
 | 7.1.2027    | Project Development                |
 | 14.1.2027   | Project Development                |
-| 21.1.2027   | Final Presentations                |
+| 21.1.2027   | FINAL PRESENTATIONS                |
 
 ## Syllabus
 
@@ -123,24 +136,33 @@ Ein Image Decoy ist, im Sinne dieses Kurses, ein Bild, das sich dem algorithmisc
 
 Die im Kurs vorgeschlagenen Typologien von Image Decoys sind: Hiding in Plain Sight, Image Triggers, Occupy The Internet, Superspreaders, The Girl Online.
 
+## Wöchentliche Aufgaben
+Die wöchentlichen Aufgaben werden in diesem Dokument ergänzt: [https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/)
+
+## Midterms
+Die Midterms (Zwischenpräsentationen) bieten die Gelegenheit, den aktuellen Stand der Arbeit vorzustellen: Die Studierenden visualisieren ihre Ideen anhand von Prototypen, Skizzen und Experimenten und reichen einen Plan für die nächste Phase der Recherche, Produktion und Präsentation der Abschlussarbeit ein.
+
+## Abschlussprojekte
+Die Abschlussprojekte müssen als Ordner mit eurem Vor- und Nachnamen hier hochgeladen werden: [https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link](https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link)
+
 ## Kalender
 
 | Datum       | Thema                               |
 |------------|-------------------------------------|
-| 8.10.2026   | Introduction                       |
+| 8.10.2026   | INTRODUCTION                       |
 | 15.10.2026  | Hiding in Plain Sight              |
 | 22.10.2026  | Image Triggers                     |
 | 29.10.2026  | Occupy The Internet                |
-| 5.11.2026   | Workshoptage - kein Unterricht	       |
-| 12.11.2026  | Selbststudium                      |
+| 5.11.2026   | -Workshoptage - kein Unterricht-   |
+| 12.11.2026  | -Selbststudium-                    |
 | 19.11.2026  | Superspreaders                     |
 | 26.11.2026  | The Girl Online                    |
-| 3.12.2026   | Zwischenpräsentationen             |
+| 3.12.2026   | MIDTERMS                           |
 | 10.12.2026  | Projektentwicklung                 |
 | 17.12.2026  | Projektentwicklung                 |
 | 7.1.2027    | Projektentwicklung                 |
 | 14.1.2027   | Projektentwicklung                 |
-| 21.1.2027   | Abschlusspräsentationen            |
+| 21.1.2027   | ABSCHLUSSPRÄSENTATIONEN            |
 
 ## Literatur
 
