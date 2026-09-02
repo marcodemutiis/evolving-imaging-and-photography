@@ -180,7 +180,7 @@ Die im Kurs vorgeschlagenen Typologien von Image Decoys sind: Hiding in Plain Si
 - Uricchio, William. 2011. "The Algorithmic Turn: Photosynth, Augmented Reality and the Changing Implications of the Image." Visual Studies 26 (1): 25–35.
 - Zuboff, Shoshana. 2019. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. New York: PublicAffairs.
 - Zylinska, Joanna. 2017. Nonhuman Photography. Cambridge, MA: MIT Press.
-</div>
+
 
 ## Code of Conduct
 
