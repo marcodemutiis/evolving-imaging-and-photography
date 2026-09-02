@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: "Introduction"
-title_de: "Einführung"
+title: "Course Overview & Calendar"
+title_de: "Course Overview & Calendar"
 course_id: image-decoys
 course_title: "Image Decoys"
 course_title_de: "Image Decoys"
@@ -13,7 +13,9 @@ published: true
 <figcaption>Maddie Varner, Screenshot from <em>Kardashian Krypt<em>, 2014</figcaption>
 
 <div class="lang-en" markdown="1">
+
 ## About the Course
+
 The course will explore the idea of operational images through several artistic and theoretical positions, following the development of machine operations and algorithmic ways of seeing in digital images in the last thirty years.
 At the core of the course there is also the notion of decoy, a term borrowed from military and cybersecurity contexts to divert enemy attacks through undercover agents and other tactics.
 
@@ -106,7 +108,9 @@ It is my intent that students from all backgrounds and perspectives be well serv
 </div>
 
 <div class="lang-de" markdown="1">
+
 ## Über den Kurs
+
 Der Kurs untersucht die Idee operativer Bilder anhand verschiedener künstlerischer und theoretischer Positionen und verfolgt dabei die Entwicklung maschineller Operationen und algorithmischer Sehweisen in digitalen Bildern der letzten dreißig Jahre.
 Im Zentrum des Kurses steht zudem der Begriff des Decoy (Köder), ein Begriff aus dem militärischen und cybersicherheitstechnischen Kontext, der die Ablenkung feindlicher Angriffe durch verdeckte Agenten und andere Taktiken beschreibt.
 
