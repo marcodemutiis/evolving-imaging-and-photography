@@ -9,7 +9,7 @@ lesson_number: 1
 published: true
 ---
 
-![cameraless]({{ site.baseurl }}/courses/Image-Decoys/assets/img/rose.png)
+![image decoys]({{ site.baseurl }}/courses/Image-Decoys/assets/img/rose.png)
 
 <div class="lang-en" markdown="1">
 
