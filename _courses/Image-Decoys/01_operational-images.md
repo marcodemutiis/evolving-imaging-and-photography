@@ -57,15 +57,6 @@ The four clusters proposed here emerged from the works encountered through curat
 
 Grouping these works together reveals a heterogenous corpus of intentions, as they issue from different actors and motivations. Some are conceptual artworks, others are works of design or activism, others still are vernacular gestures circulated by anonymous internet users, and one is a piece of criminal malware. This heterogeneity is not incidental, but rather highlights that the image decoy is defined through a shared operational tactic, not a shared purpose, medium, or professional field. That the same underlying logic can be found in a museum commission, a protest hashtag, an artist's dataset intervention, and a phishing attack suggests that the operationality of the image has become a widely legible language – one increasingly understood, and put to use, by actors well beyond the art world, and available for tactics ranging from protest to sabotage.
 
-
-
-<!--## Tools and Resources
-
-- Google Street View
-- GTA V
-- -->
-
-## 
 </div>
 
 <div class="lang-de" markdown="1">
