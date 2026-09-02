@@ -14,7 +14,7 @@ published: true
 
 <div class="lang-en" markdown="1">
 ## About the Course
-The course will explore the idea of operational images through several artistic and theoretical positions, following the development of machine operations and algorithmic ways of seeing in digital images in the last twenty years.
+The course will explore the idea of operational images through several artistic and theoretical positions, following the development of machine operations and algorithmic ways of seeing in digital images in the last thirty years.
 At the core of the course there is also the notion of decoy, a term borrowed from military and cybersecurity contexts to divert enemy attacks through undercover agents and other tactics.
 
 Through this exploration, students will learn about the history of tactical media and will be invited to develop their own image decoys. Each week will focus on a specific typology of image decoy through a lecture, discussion and prototyping session in class. For each typology students are asked to create a short weekly assignment based on the typology discussed in class. For the final project, students will develop one of the short assignments into a bigger project.
@@ -107,7 +107,7 @@ It is my intent that students from all backgrounds and perspectives be well serv
 
 <div class="lang-de" markdown="1">
 ## Über den Kurs
-Der Kurs untersucht die Idee operativer Bilder anhand verschiedener künstlerischer und theoretischer Positionen und verfolgt dabei die Entwicklung maschineller Operationen und algorithmischer Sehweisen in digitalen Bildern der letzten zwanzig Jahre.
+Der Kurs untersucht die Idee operativer Bilder anhand verschiedener künstlerischer und theoretischer Positionen und verfolgt dabei die Entwicklung maschineller Operationen und algorithmischer Sehweisen in digitalen Bildern der letzten dreißig Jahre.
 Im Zentrum des Kurses steht zudem der Begriff des Decoy (Köder), ein Begriff aus dem militärischen und cybersicherheitstechnischen Kontext, der die Ablenkung feindlicher Angriffe durch verdeckte Agenten und andere Taktiken beschreibt.
 
 Im Zuge dieser Auseinandersetzung lernen die Studierenden die Geschichte der Tactical Media kennen und werden eingeladen, ihre eigenen Image Decoys zu entwickeln. Jede Woche widmet sich einer bestimmten Typologie des Image Decoy anhand einer Vorlesung, Diskussion und Prototyping-Session im Unterricht. Zu jeder Typologie erstellen die Studierenden eine kurze wöchentliche Übung, die auf der im Unterricht behandelten Typologie basiert. Für das Abschlussprojekt entwickeln die Studierenden eine dieser kurzen Übungen zu einem größeren Projekt weiter.
