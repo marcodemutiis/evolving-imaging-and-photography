@@ -10,6 +10,7 @@ published: true
 ---
 
 ![image decoys]({{ site.baseurl }}/courses/Image-Decoys/assets/img/rose.png)
+<figcaption>Kate Rose, Screenshot from <em>Adversarial Fashion – SITUATIONS/Strike Limited Edition T-shirt</em>, 2016</figcaption>
 
 <div class="lang-en" markdown="1">
 
