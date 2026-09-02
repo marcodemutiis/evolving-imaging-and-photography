@@ -118,35 +118,35 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 ## Student_innen
 </div>
 
-- Wilhelm, Theresa vvvvxvv
+- Wilhelm, Theresa vvvvxvv!
 
-- Grill, (M) Louis vvvvvxv
+- Grill, (M) Louis vvvvvxv!
 
-- Schubert, Alexander vvvvvvv
+- Schubert, Alexander vvvvvvv!
 
-- Bräutigam, Caro vvvvvvv
+- Bräutigam, Caro vvvvvvv!
 
-- Stärk, Alica vvvvvvv
+- Stärk, Alica vvvvvvv!
 
-- Schneider, Kaya vvvxvvv
+- Schneider, Kaya vvvxvvv!
 
-- Kilic, Merve vvvvvvx
+- Kilic, Merve vvvvvvx?
 
-- Lobo de Macedo, Rosa vvvvvvx
+- Lobo de Macedo, Rosa vvvvvvx! no pres
 
-- Weinzierl, Paula xvvvvvx
+- Weinzierl, Paula xvvvvvx!
 
-- Ranftl, Felix vvvvvxv
+- Ranftl, Felix vvvvvxv! no pres
 
-- Burgard, Hanna vvvxvxv
+- Burgard, Hanna vvvxvxv! pres?(doctor's appointment)
 
 - (Parkhidko, Kati vvxxxxx)
 
-- Horst, Anna vvvvvvv 
+- Horst, Anna vvvvvvv! no pres
 
-- Stoffel, Felix vxvxxxx
+- (Stoffel, Felix vxvxxxx)
 
-- Veljkovic, Adrijana vxvvvvv
+- Veljkovic, Adrijana vxvvvvv! no pres
 
 - Schindel, Emily vxvvvvv
 

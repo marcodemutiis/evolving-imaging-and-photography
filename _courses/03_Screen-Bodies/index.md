@@ -1,41 +1,57 @@
 ---
 layout: course
-title: "The Lure of the Image"
-title_de: "The Lure of the Image"
-description: "Exploring the seductive powers of contemporary photographic images"
+title: "Screen Bodies"
+title_de: "Bildschirmkörper"
+description: ""
 description_de: "die Verführungskräfte zeitgenössischer fotografischer Bilder"
-course_id: the-lure-of-the-image
-order: 2
-published: true
+course_id: screen-bodies
+order: 3
+published: false
 ---
 
-![The Lure of the Image]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/img/AIASMR2.jpg)
+![Screen Bodies]({{ site.baseurl }}/courses/03_Screen-Bodies/assets/img/yuyi.jpg)
 
 <div class="lang-en" markdown="1">
+
 ## Lecturer
 Marco De Mutiis
 
 ## Date and Location
-Wednesday, 13:30–18:30 Uhr - L203 (from 8 April)
+
 
 ## About
-Why and how are we seduced by images today? What logic underpins this seduction, and how does it shape current social, cultural, and political developments? These questions sit at the heart of this course, which investigates the affective and persuasive dimensions of photographic images across a wide range of contemporary contexts.
+Bildschirmkörper / Screen bodies (Fotografie)
 
-The course traces a genealogy of visual seduction — from the rhetoric of advertisement photography and political propaganda in the 20th century to the image logics that govern social media feeds, dating app profiles, beauty filters, memes, ASMR videos, 'cute' and 'cursed' images, computer-generated imagery, and the low-resolution screenshots circulating in spaces of conspiracy and protest. Across these contexts, the photographic image emerges not merely as representation, but as an active force shaping desire, belief, and social behaviour.
+EN
+From social media to AI chatbots, from face filters to fitness apps, contemporary subjects are increasingly shaped by digital technologies, merging with the screen in different ways.
+This module explores how bodies and identities have been shaped by digital and online systems, and how can this be portrayed through photographic perspectives. Students will learn to use photography and digital imaging systems to create portraits of "screen bodies", reflecting on social themes and the role of the image in contemporary visual culture and art.
 
-Based on the exhibition and catalogue publication of the same name, The Lure of the Image presents students with the works of contemporary photographers and artists alongside economic and social phenomena from visual culture in which the photographic image plays a dominant role. Students will engage with theoretical frameworks drawn from affect theory, visual culture studies, and post-photography discourse to build a critical vocabulary for analysing — and responding to — the seductive powers of contemporary images.
+DE
+Von sozialen Medien bis hin zu KI-Chatbots, von Gesichtsfiltern bis zu Fitness-Apps – zeitgenössische Themen werden zunehmend von digitalen Technologien geprägt und verschmelzen auf unterschiedliche Weise mit dem Bildschirm.
+Dieses Modul untersucht, wie Körper und Identitäten durch digitale und Online-Systeme geformt werden und wie sich dies durch fotografische Perspektiven darstellen lässt. Die Studierenden lernen, Fotografie und digitale Bildbearbeitungssysteme einzusetzen, um Porträts von „Bildschirmkörpern“ („Screen Bodies“) zu schaffen. Dabei reflektieren sie über gesellschaftliche Themen sowie über die Rolle des Bildes in der zeitgenössischen visuellen Kultur und Kunst.
+
+// Portraits of bodies shaped by the screen(Caesar) + technique Light portraits (Roversi) -> the body shaped by screen consumption
+// AI Portraits (Nina Davies) -> the body shaped by its digital double
+// Projection mapping on bodies -> the body as screen
+// Stickers and temporary tattoos (Yuyi) -> the screen skin and the screen identity
+// Digital collages (Alina Frieske) -> the body as a digital collage / fragments of networked images and self representation
+// (Buetti?) 
+// Photogrammetry (Hampe) -> the body captured onto the screen / becomes a 3D digital object
+// Face Filters (Ines Alpha, Nina Pacherova) -> the screen body as augmented self
+// Avatars and CGI (Lu Yang) -> the screen body as alter ego
+
+https://docs.google.com/presentation/d/1j-LT8kY0vr3D_thbO1FRY4WKpoPBxywL8AnozZjAfXg/edit?slide=id.g3ebdba4ed13_0_9#slide=id.g3ebdba4ed13_0_9
 
 ## Learning Objectives
 
-Students will develop an understanding of the emotional and affective properties of photographic representation, and how these are mobilised alongside digital and networked conditions to influence and manipulate viewers. They will build critical tools for analysing contemporary forms of image production and circulation, develop the ability to identify and counter problematic visual narratives and regimes, and experiment with personal topics and new image-making tools to produce their own responses to the themes of the course.
+
 
 ## Assessment
 
-Students will develop a semester project based on one of the topics explored in class, accompanied by a written investigation. The project can take several forms, from traditional photography prints to video installation, from interactive media to web-based publication.
 
 ## Final Project
 
-Upload your final project as a folder with your name and surname here: [https://drive.google.com/drive/folders/1ChN0TB-hW_wFLL8xyMhBxhBd43-Copbt](https://drive.google.com/drive/folders/1ChN0TB-hW_wFLL8xyMhBxhBd43-Copbt?usp=sharing)
+Upload your final project as a folder with your name and surname here: []()
 
 The project folder must contain:
 

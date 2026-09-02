@@ -5,7 +5,7 @@ title_de: "Kameralos"
 description: "A survival manual for photographers who have (voluntarily or accidentally) lost their camera."
 description_de: "Ein Überlebenshandbuch für Fotograf_innen, die ihre Kamera (freiwillig oder unbeabsichtigt) verloren haben."
 course_id: cameraless
-order: 1
+order: 4
 published: true
 ---
 
