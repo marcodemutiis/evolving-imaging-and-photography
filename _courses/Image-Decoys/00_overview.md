@@ -42,13 +42,13 @@ The project must contain:
 | Date       | Topic                               |
 |------------|-------------------------------------|
 | 8.10.2026   | INTRODUCTION                       |
-| 15.10.2026  | Hiding in Plain Sight              |
-| 22.10.2026  | Image Triggers                     |
-| 29.10.2026  | Occupy The Internet                |
+| 15.10.2026  | 1. Hiding in Plain Sight              |
+| 22.10.2026  | 2. Image Triggers                     |
+| 29.10.2026  | 3. Occupy The Internet                |
 | 5.11.2026   | -Workshop Week - no class-	       |
 | 12.11.2026  | -Self Study-                       |
-| 19.11.2026  | Superspreaders                     |
-| 26.11.2026  | The Girl Online                    |
+| 19.11.2026  | 4. Superspreaders                     |
+| 26.11.2026  | 5. The Girl Online                    |
 | 3.12.2026   | MID TERM PRESENTATIONS             |
 | 10.12.2026  | Project Development                |
 | 17.12.2026  | Project Development                |
@@ -146,13 +146,13 @@ Die Abschlussprojekte müssen als Ordner mit eurem Vor- und Nachnamen hier hochg
 | Datum       | Thema                               |
 |------------|-------------------------------------|
 | 8.10.2026   | INTRODUCTION                       |
-| 15.10.2026  | Hiding in Plain Sight              |
-| 22.10.2026  | Image Triggers                     |
-| 29.10.2026  | Occupy The Internet                |
+| 15.10.2026  | 1. Hiding in Plain Sight              |
+| 22.10.2026  | 2. Image Triggers                     |
+| 29.10.2026  | 3. Occupy The Internet                |
 | 5.11.2026   | -Workshoptage - kein Unterricht-   |
 | 12.11.2026  | -Selbststudium-                    |
-| 19.11.2026  | Superspreaders                     |
-| 26.11.2026  | The Girl Online                    |
+| 19.11.2026  | 4. Superspreaders                     |
+| 26.11.2026  | 5. The Girl Online                    |
 | 3.12.2026   | MIDTERMS                           |
 | 10.12.2026  | Projektentwicklung                 |
 | 17.12.2026  | Projektentwicklung                 |
