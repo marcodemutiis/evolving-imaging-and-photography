@@ -10,7 +10,7 @@ published: true
 ---
 
 ![image decoys]({{ site.baseurl }}/courses/Image-Decoys/assets/img/varner.jpg)
-<figcaption>Maddie Varner, Screenshot from <em>Kardashian Krypt<em>, 2014</figcaption>
+<figcaption>Maddie Varner, Screenshot from <em>Kardashian Krypt</em>, 2014</figcaption>
 
 <div class="lang-en" markdown="1">
 
