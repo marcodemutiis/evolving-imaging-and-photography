@@ -8,7 +8,7 @@ course_id: image-decoys
 order: 1
 published: true
 ---
-![cameraless]({{ site.baseurl }}/courses/01_Cameraless/assets/img/horvitz.jpg)
+![cameraless]({{ site.baseurl }}/courses/Image-Decoys/assets/img/horvitz.jpg)
 <figcaption>David Horvitz, from <em>241543903</em>, 2012-ongoing</figcaption>
 <div class="lang-en" markdown="1">
 
