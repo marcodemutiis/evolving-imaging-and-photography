@@ -5,7 +5,7 @@ title_de: "Course Overview & Calendar"
 course_id: image-decoys
 course_title: "Image Decoys"
 course_title_de: "Image Decoys"
-lesson_number: 0
+lesson_number: 1
 published: true
 ---
 
