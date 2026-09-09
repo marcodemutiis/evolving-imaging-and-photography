@@ -9,7 +9,7 @@ order: 3
 published: true
 ---
 
-![Screen Bodies]({{ site.baseurl }}/courses/03_Screen-Bodies/assets/img/yuyi.jpg)
+![Screen Bodies]({{ site.baseurl }}/courses/Screen-Bodies/assets/img/yuyi.jpg)
 <figcaption>Jon Yuyi, <em>Belly Button</em>, 2018</figcaption>
 
 <div class="lang-en" markdown="1">

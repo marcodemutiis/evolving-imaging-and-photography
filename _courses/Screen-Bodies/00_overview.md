@@ -9,7 +9,7 @@ lesson_number: 1
 published: true
 ---
 
-![Screen Bodies]({{ site.baseurl }}/courses/03_Screen-Bodies/assets/img/uddenberg.webp)
+![Screen Bodies]({{ site.baseurl }}/courses/Screen-Bodies/assets/img/uddenberg.webp)
 <figcaption>Anna Uddenberg, <em>Journey of Self Discovery</em>, 2016</figcaption>
 
 <div class="lang-en" markdown="1">
