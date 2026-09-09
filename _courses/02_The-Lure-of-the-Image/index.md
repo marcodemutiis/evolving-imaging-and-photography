@@ -5,7 +5,7 @@ title_de: "The Lure of the Image"
 description: "Exploring the seductive powers of contemporary photographic images"
 description_de: "die Verführungskräfte zeitgenössischer fotografischer Bilder"
 course_id: the-lure-of-the-image
-order: 5
+order: 6
 published: true
 ---
 
