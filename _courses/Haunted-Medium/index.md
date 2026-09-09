@@ -8,3 +8,4 @@ published: false
 ---
 
 course intro here.
+should be more about magic and images more broadly... rituals, ghosts, seances, 

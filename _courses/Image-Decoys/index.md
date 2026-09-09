@@ -8,8 +8,8 @@ course_id: image-decoys
 order: 1
 published: true
 ---
-![image decoys]({{ site.baseurl }}/courses/Image-Decoys/assets/img/horvitz.jpg)
-<figcaption>David Horvitz, from <em>241543903</em>, 2012-ongoing</figcaption>
+![image decoys]({{ site.baseurl }}/courses/Image-Decoys/assets/img/varner.jpg)
+<figcaption>Maddie Varner, Screenshot from <em>Kardashian Krypt</em>, 2014</figcaption>
 
 <div class="lang-en" markdown="1">
 
@@ -29,7 +29,7 @@ This course explores the role of digital images as tools of deceit, distraction,
 Students will develop a critical understanding of contemporary digital image production and its theoretical underpinnings, including post-photography discourse, operational images, and machine vision. They will acquire hands-on technical skills across a range of digital image-making tools and software, and will learn to situate their own practice within broader shifts in photographic culture.
 
 ## Assessment
-Students will complete weekly short assignments experimenting with a different techniques (70%). Based on one of these experiments, students will develop a final project presented at the end of the semester, accompanied by a brief written reflection on the practice and its conceptual context (30%).
+Students will complete weekly short assignments experimenting with a different technique (70%). Based on one of these experiments, students will develop a final project presented at the end of the semester, accompanied by a brief written reflection on the practice and its conceptual context (30%).
 
 </div>
 <div class="lang-de" markdown="1">
