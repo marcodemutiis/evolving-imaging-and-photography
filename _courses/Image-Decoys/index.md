@@ -3,7 +3,7 @@ layout: course
 title: "Image Decoys"
 title_de: "Image Decoys"
 description: "Counter-operational tactics in contemporary digital images."
-description_de: "Counter-operational tactics in contemporary digital images."
+description_de: "Taktiken gegen die operative Bildlogik im zeitgenössischen digitalen Bild."
 course_id: image-decoys
 order: 1
 published: true
@@ -23,7 +23,9 @@ Marco De Mutiis
 Thursday, 10:00–14:00. L303 (Winter Semester 2026/27)
 
 ## About
-This course explores the role of digital images as tools of deceit, distraction, and lure. Specifically, it looks at how the relation between the image's representational surface and hidden algorithmic properties has been recognised, learnt, and exploited by critical artists, designers, creative technologists as well as internet users. The course invites students to understand the different logics of human vision and algorithmic spectatorship, and how operational images are "seen" differently by human and non-human actors. Working with augmented reality, steganography, SEO manipulation, adversarial attacks, hashtag hijacking and other tactics, students will experiment with creating their own image decoys: images that reclaim dominant systems of digital image circulation, resist machine vision operations and challenge platform and surveillance capitalism, as well as other contemporary digital visual regimes. 
+This course explores the role of digital images as tools of deceit, distraction, and lure. Specifically, it looks at how the relation between the image's representational surface and hidden algorithmic properties has been recognised, learnt, and exploited by critical artists, designers, creative technologists as well as internet users. The course invites students to understand the different logics of human vision and algorithmic spectatorship, and how operational images are "seen" differently by human and non-human actors. 
+
+Working with augmented reality, steganography, SEO manipulation, adversarial attacks, hashtag hijacking and other tactics, students will experiment with creating their own image decoys: images that reclaim dominant systems of digital image circulation, resist machine vision operations and challenge platform and surveillance capitalism, as well as other contemporary digital visual regimes. 
 
 ## Learning Objectives
 Students will develop a critical understanding of contemporary digital image production and its theoretical underpinnings, including post-photography discourse, operational images, and machine vision. They will acquire hands-on technical skills across a range of digital image-making tools and software, and will learn to situate their own practice within broader shifts in photographic culture.
@@ -43,7 +45,9 @@ Marco De Mutiis
 Donnerstag, 10:00–14:00 Uhr. L303 (Wintersemester 2026/27)
 
 ## Inhalt
-Dieser Kurs untersucht die Rolle digitaler Bilder als Werkzeuge der Täuschung, Ablenkung und Verführung. Insbesondere geht es darum, wie die Beziehung zwischen ihrer repräsentativen Oberfläche und verborgenen algorithmischen Eigenschaften von kritischen Künstler:innen, Designer:innen, Creative Technologists sowie Internetnutzer:innen erkannt, erlernt und genutzt wird. Der Kurs lädt die Studierenden dazu ein, die unterschiedlichen Logiken menschlichen Sehens und algorithmischer Betrachtung zu verstehen, und wie operative Bilder von menschlichen und nicht-menschlichen Akteuren unterschiedlich "gesehen" werden. Mit Augmented Reality, Steganografie, SEO-Manipulation, Adversarial Attacks, Hashtag-Hijacking und weiteren Taktiken experimentieren die Studierenden mit Bildern, die dominante Systeme der digitalen Bildzirkulation zurückerobern, sich Machine-Vision-Operationen widersetzen und Plattform- sowie Überwachungskapitalismus sowie weitere zeitgenössische digitale visuelle Regime herausfordern.
+Dieser Kurs untersucht die Rolle digitaler Bilder als Werkzeuge der Täuschung, Ablenkung und Verführung. Insbesondere geht es darum, wie die Beziehung zwischen ihrer repräsentativen Oberfläche und verborgenen algorithmischen Eigenschaften von kritischen Künstler:innen, Designer:innen, Creative Technologists sowie Internetnutzer:innen erkannt, erlernt und genutzt wird. Der Kurs lädt die Studierenden dazu ein, die unterschiedlichen Logiken menschlichen Sehens und algorithmischer Betrachtung zu verstehen, und wie operative Bilder von menschlichen und nicht-menschlichen Akteuren unterschiedlich "gesehen" werden. 
+
+Mit Augmented Reality, Steganografie, SEO-Manipulation, Adversarial Attacks, Hashtag-Hijacking und weiteren Taktiken experimentieren die Studierenden mit Bildern, die dominante Systeme der digitalen Bildzirkulation zurückerobern, sich Machine-Vision-Operationen widersetzen und Plattform- sowie Überwachungskapitalismus sowie weitere zeitgenössische digitale visuelle Regime herausfordern.
 
 ## Lernziele des Moduls
 Die Studierenden entwickeln ein kritisches Verständnis der zeitgenössischen digitalen Bildproduktion und ihrer theoretischen Grundlagen, einschließlich des Post-Fotografie-Diskurses, operativer Bilder und Machine Vision. Sie erwerben praktische technische Fähigkeiten im Umgang mit einer Reihe digitaler Bildbearbeitungswerkzeuge und Software und lernen, ihre eigene Praxis im Kontext breiterer Verschiebungen in der fotografischen Kultur zu verorten.
