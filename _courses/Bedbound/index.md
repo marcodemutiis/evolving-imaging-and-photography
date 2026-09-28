@@ -9,7 +9,7 @@ order: 2
 published: true
 ---
 
-![The Sleepers]({{ site.baseurl }}/courses/Bedbound/assets/img/calle.webp)
+![Sophie Calle]({{ site.baseurl }}/courses/Bedbound/assets/img/calle.webp)
 <figcaption>Sophie Calle, from <em>The Sleepers</em>, 1979</figcaption>
 
 <div class="lang-en" markdown="1">
@@ -21,7 +21,7 @@ M1/2 Projekt zu Design & Research + M1/2 Theorie und Methoden zu Design & Resear
 Marco De Mutiis
 
 ## Date and Location
-Tuesday, 9:15–13:45 Uhr - L203 (from 8 April)
+Tuesday, 9:15–13:45
 
 ## About
 *Bedbound* explores the bed as one of the most contested and contradictory sites of contemporary life. Simultaneously a space of refuge and confinement, desire and isolation, protest and passivity, the bed accumulates the tensions of how we live, labour, connect, and experience images today. Throughout the semester, the course will focus on the role of the bed within contemporary digital photographic production and circulation, as well as across its different lives: the bed as a sanctuary, as a battleground, as a stage, as a sickbed and as a barricade.
@@ -38,7 +38,7 @@ Students will develop a semester project based on one of the topics explored in 
 - A conversation with a photographer, designer, artist, or author connected to the themes of *Bedbound*, either as a recorded interview or a written reflection engaging critically with their work
 - A creative mindmap of the topics, materialised through a form of the student's choosing (e.g. custom pillow covers and printed bedsheets, a projection only visible from a bed, a sleeping performance streamed on Twitch...)
 
-Students are free to choose the form and scale of their mindmap. Assessment considers conceptual clarity, execution, and the quality of the final result, independent of the time or resources invested.
+Students are free to choose the form and scale of their mindmap. Assessment considers conceptual clarity, execution, and the quality of the final result.
 
 </div>
 
@@ -68,6 +68,6 @@ Die Studierenden entwickeln ein Semesterprojekt zu einem der im Unterricht behan
 - Ein Gespräch mit einer/einem Fotograf:in, Designer:in, Künstler:in oder Autor:in, das mit den Themen von *Bedbound* verbunden ist, entweder als aufgezeichnetes Interview oder als schriftliche Reflexion, die sich kritisch mit deren Arbeit auseinandersetzt
 - Eine kreative Mindmap der Themen, materialisiert in einer Form eigener Wahl (z. B. individuell gestaltete Kissenbezüge und bedruckte Bettlaken, eine nur vom Bett aus sichtbare Projektion, eine auf Twitch gestreamte Schlafperformance...)
 
-Den Studierenden steht die Form und der Umfang ihrer Mindmap frei. Die Bewertung berücksichtigt konzeptuelle Klarheit, Umsetzung und die Qualität des Endergebnisses, unabhängig vom investierten Zeit- oder Ressourcenaufwand.
+Den Studierenden steht die Form und der Umfang ihrer Mindmap frei. Die Bewertung berücksichtigt konzeptuelle Klarheit, Umsetzung und die Qualität des Endergebnisses.
 
 </div>
