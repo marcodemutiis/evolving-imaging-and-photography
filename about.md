@@ -15,3 +15,15 @@ This approach to photography is not to be understood as technical progress, but 
 
 - Email: [me@marcodemutiis.com](mailto:Marco.DeMutiis@htwg-konstanz.de)
 - Website: [marcodemutiis.com](https://marcodemutiis.com)
+
+
+<!--
+
+	1.
+	Mirella Delic
+
+	2.
+	Felix Stoffel 
+	Josephin Oschmann
+	Kaya Schneider
+	-->
