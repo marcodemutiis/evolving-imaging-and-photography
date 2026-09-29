@@ -9,8 +9,6 @@ lesson_number: 1
 published: true
 ---
 
-![image decoys]({{ site.baseurl }}/courses/Image-Decoys/assets/img/horvitz.jpg)
-<figcaption>David Horvitz, from <em>241543903</em>, 2012-ongoing</figcaption>
 
 <div class="lang-en" markdown="1">
 
