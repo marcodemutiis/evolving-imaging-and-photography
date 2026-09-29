@@ -1,11 +1,11 @@
 ---
 layout: course
-title: "Image Decoys"
-title_de: "Image Decoys"
-description: "Counter-operational tactics in contemporary digital images."
-description_de: "Taktiken gegen die operative Bildlogik im zeitgenössischen digitalen Bild."
-course_id: image-decoys
-order: 1
+title: "Academic Skills"
+title_de: "Akademische Fähigkeiten"
+description: ""
+description_de: ""
+course_id: akademische-faehigkeiten
+order: 6
 published: true
 ---
 ![image decoys]({{ site.baseurl }}/courses/Image-Decoys/assets/img/varner.jpg)

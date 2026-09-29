@@ -2,9 +2,9 @@
 layout: lesson
 title: "Course Overview & Calendar"
 title_de: "Course Overview & Calendar"
-course_id: image-decoys
-course_title: "Image Decoys"
-course_title_de: "Image Decoys"
+course_id: akademische-faehigkeiten
+course_title: "Academic Skills"
+course_title_de: "Akademische Fähigkeiten"
 lesson_number: 1
 published: true
 ---
@@ -15,27 +15,13 @@ published: true
 <div class="lang-en" markdown="1">
 
 ## About the Course
-The course will explore the idea of operational images through several artistic and theoretical positions, following the development of machine operations and algorithmic ways of seeing in digital images in the last thirty years.
-At the core of the course there is also the notion of decoy, a term borrowed from military and cybersecurity contexts to divert enemy attacks through undercover agents and other tactics.
 
-Through this exploration, students will learn about the history of tactical media and will be invited to develop their own image decoys. Each week will focus on a specific typology of image decoy through a lecture, discussion and prototyping session in class. For each typology students are asked to create a short weekly assignment based on the typology discussed in class. For the final project, students will develop one of the short assignments into a bigger project.
 
-An image decoy, in the sense proposed in the course, is an image that does not refuse the algorithmic gaze but impersonates its expected inputs, offering a machine or a platform exactly what it is trained to detect, while redirecting that operational capacity against the very systems that deploy it. Acting as bait and trap, the image decoy reveals the hidden operations of imaging systems, but also reacts to them, infiltrates them, reshapes them and turns the field of digital and networked images into a battlefield.
 
-The typologies of image decoys proposed in the course are: Hiding in Plain Sight, Image Triggers, Occupy The Internet, Superspreaders, The Girl Online.
-
-## Weekly Assignments
-Weekly assignments are added to this document: [https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/)
-
-## Mid Terms
-The Midterms will offer a chance to present the work in progress: here students are expected to visualise their ideas through prototypes, sketches, experiments, and to submit a plan for the next phase of research, production and presentation of the final work. 
 
 ## Final Projects
-Final projects must be uploaded as a folder with your name and surname here: [https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link](https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link)
 
-The project must contain:
-- Images, videos, code and/or pdf files
-- Word Document containing Project Title, Student Name, Short Description (150-300 words)
+
 
 ## Calendar
 
@@ -58,50 +44,6 @@ The project must contain:
 
 ## Syllabus
 
-### Artworks and Projects
-- Andrew, Gretchen. n.d. "Vision Boards." <a href="https://www.gretchenandrew.com/vision-boards">https://www.gretchenandrew.com/vision-boards</a>.
-- Aubry, Zoé. n.d. "#Ingrid." <a href="https://z-aubry.com/Ingrid-1">https://z-aubry.com/Ingrid-1</a>.
-- Cap_able. n.d. <a href="https://www.capable.design/">https://www.capable.design/</a>.
-- Farocki, Harun. 2000. Eye/Machine I. Audiovisual installation.
-- Fotomuseum Winterthur. 2015 – 2021. SITUATIONS. <a href="https://www.fotomuseum.ch/en/situations/">https://www.fotomuseum.ch/en/situations/</a>
-- Fotomuseum Winterthur and The Photographers' Gallery. 2020 – 2025. Screen Walks. <a href="https://screenwalks.com/">https://screenwalks.com/</a>
-- Hocking, Joseph, and Mark Skwarek. 2010. "The Leak in Your Hometown." <a href="https://theleakinyourhometown.wordpress.com/">https://theleakinyourhometown.wordpress.com/</a>.
-- Horvitz, David. n.d. <a href="https://www.davidhorvitz.com/">https://www.davidhorvitz.com/</a>.
-- MoMAR. 2018. <a href="https://momar.gallery/">https://momar.gallery/</a>.
-- Oliver, Julian. 2015. "The Orchid Project." <a href="https://julianoliver.com/projects/orchid-project/">https://julianoliver.com/projects/orchid-project/</a>.
-- Rose, Kate. Adversarial Fashion. 2019. <a href="https://adversarialfashion.com/">https://adversarialfashion.com/</a>.
-- Varner Maddy. Kardashian Krypt. 2014. <a href="https://cargocollective.com/maddyv/KARDASHIAN-KRYPT">https://cargocollective.com/maddyv/KARDASHIAN-KRYPT</a>.
-- Weekers, Sannee. 2017. "Anonymity Scarf." <a href="https://sanneweekers.nl/big-brother-is-watching-you/">https://sanneweekers.nl/big-brother-is-watching-you/</a>.
-- Wu, Amy Suo. n.d. "Greetings from the Invisible Borderlands." <a href="https://amysuowu.net/greetings-from-the-invisible-borderlands/">https://amysuowu.net/greetings-from-the-invisible-borderlands/</a>.
-
-### Articles and Books
-- Azar, Mitra, Geoff Cox, and Leonardo Impett, eds. 2021. "Ways of Machine Seeing." Special issue, AI & Society 36 (4).
-- Barthes, Roland. (1957) 1972. Mythologies. Translated by Annette Lavers. New York: Hill and Wang.
-- Bratton, Benjamin H. 2015. The Stack: On Software and Sovereignty. Cambridge, MA: MIT Press.
-- Cubitt, Sean. 2014. The Practice of Light: A Genealogy of Visual Technologies from Prints to Pixels. Cambridge, MA: MIT Press.
-- De Mutiis, Marco. 2026. "Image Decoys." Special issue, Arts 15 (10).
-- Dekker, Annet, and David Garcia. 2017. "As If: The Media Artist as Trickster." Interview by Anne Céline Sikma and Iona Sharp Casas. Framer Framed, March 2. <a href="http://aaaan.net/david-garcia-annet-dekker-ian-alan-paul-as-if-the-media-artist-as-trickster-how-much-of-this-is-fiction/">http://aaaan.net/david-garcia-annet-dekker-ian-alan-paul-as-if-the-media-artist-as-trickster-how-much-of-this-is-fiction/</a>.
-- Flusser, Vilém. (1983) 2000. Towards a Philosophy of Photography. Translated by Anthony Mathews. London: Reaktion Books.
-- Flusser, Vilém. (1985) 2011. Into the Universe of Technical Images. Translated by Nancy Ann Roth. Minneapolis: University of Minnesota Press.
-- Hölzl, Ingrid, and Rémi Marie. 2020. "No Image No Cry: On the Past, Present and Possible Futures of the Image." General Humanity Blog, January 1, 2020. <a href="http://generalhumanity.org/2020/01/01/no-image-no-cry-by-ingrid-hoelzl">http://generalhumanity.org/2020/01/01/no-image-no-cry-by-ingrid-hoelzl</a>.
-- Hönig, Robert, Javier Rando, Nicholas Carlini, and Florian Tramèr. 2025. "Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI." Paper presented at the International Conference on Learning Representations (ICLR).
-- Human Rights Watch. 2020. "Mexican Government Paralyzed in the Face of a Wave of Femicides." Originally published in the Los Angeles Times, March 3, 2020. <a href="https://www.hrw.org/news/2020/03/03/mexican-government-paralyzed-face-wave-femicides">https://www.hrw.org/news/2020/03/03/mexican-government-paralyzed-face-wave-femicides</a>.
-- Know Your Meme. "I Want This on a Shirt." <a href="https://knowyourmeme.com/memes/i-want-this-on-a-shirt-bot-bait">https://knowyourmeme.com/memes/i-want-this-on-a-shirt-bot-bait</a>.
-- Lovink, Geert, and David Garcia. 1997. "The ABC of Tactical Media." Nettime mailing list, May 16, 1997. <a href="https://www.nettime.org/Lists-Archives/nettime-l-9705/msg00096.html">https://www.nettime.org/Lists-Archives/nettime-l-9705/msg00096.html</a>.
-- Malik, Nesrine. 2025. "With 'AI Slop' Distorting Our Reality, the World Is Sleepwalking into Disaster." The Guardian, April 21, 2025. <a href="https://www.theguardian.com/commentisfree/2025/apr/21/ai-slop-artificial-intelligence-social-media">https://www.theguardian.com/commentisfree/2025/apr/21/ai-slop-artificial-intelligence-social-media</a>.
-- Meyer, Roland. 2025. "Die Ästhetik des digitalen Faschismus: KI und die globale Rechte." Frankfurter Allgemeine Sonntagszeitung, April 27, 2025. <a href="https://www.faz.net/aktuell/feuilleton/medien-und-film/die-aesthetik-des-digitalen-faschismus-ki-und-die-globale-rechte-110437299.html">https://www.faz.net/aktuell/feuilleton/medien-und-film/die-aesthetik-des-digitalen-faschismus-ki-und-die-globale-rechte-110437299.html</a>.
-- Paglen, Trevor. 2014. "Is Photography Over?" Still Searching..., Fotomuseum Winterthur blog. <a href="https://www.fotomuseum.ch/en/2014/03/13/seeing-machines/">https://www.fotomuseum.ch/en/2014/03/13/seeing-machines/</a>.
-- Pantenburg, Volker. 2017. "Working Images: Harun Farocki and the Operational Image." In Image Operations: Visual Media and Political Conflict, edited by Jens Eder and Charlotte Klonk, 49–62. Manchester: Manchester University Press.
-- Raley, Rita. 2009. Tactical Media. Minneapolis: University of Minnesota Press.
-- Rose, Kate. 2020. "Situations: Strike — Limited Edition T-Shirt." Fotomuseum Winterthur. <a href="https://www.fotomuseum.ch/en/situations-post/situations-strike-limited-edition-t-shirt/">https://www.fotomuseum.ch/en/situations-post/situations-strike-limited-edition-t-shirt/</a>.
-- Shan, Shawn, Jenna Cryan, Emily Wenger, Haitao Zheng, Rana Hanocka, and Ben Y. Zhao. 2023. "Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models." In Proceedings of the 32nd USENIX Security Symposium.
-- Shan, Shawn, Wenxin Ding, Josephine Passananti, Stanley Wu, Haitao Zheng, and Ben Y. Zhao. 2024. "Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models." In 2024 IEEE Symposium on Security and Privacy (SP), 807–825.
-- Srnicek, Nick. 2017. Platform Capitalism. Cambridge: Polity Press.
-- The Hacker News. 2025. "Steganography Explained: How XWorm Hides Inside Images." March 11, 2025. <a href="https://thehackernews.com/2025/03/steganography-explained-how-xworm-hides.html">https://thehackernews.com/2025/03/steganography-explained-how-xworm-hides.html</a>.
-- The Influencers. 2015. "David Horvitz." Last modified February 13, 2015. <a href="https://www.theinfluencers.org/en/david-horvitz">https://www.theinfluencers.org/en/david-horvitz</a>.
-- Uricchio, William. 2011. "The Algorithmic Turn: Photosynth, Augmented Reality and the Changing Implications of the Image." Visual Studies 26 (1): 25–35.
-- Zuboff, Shoshana. 2019. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. New York: PublicAffairs.
-- Zylinska, Joanna. 2017. Nonhuman Photography. Cambridge, MA: MIT Press.
 
 
 ## Code of Conduct
@@ -121,91 +63,6 @@ It is my intent that students from all backgrounds and perspectives be well serv
 
 <div class="lang-de" markdown="1">
 
-## Über den Kurs
-
-Der Kurs untersucht die Idee operativer Bilder anhand verschiedener künstlerischer und theoretischer Positionen und verfolgt dabei die Entwicklung maschineller Operationen und algorithmischer Sehweisen in digitalen Bildern der letzten dreißig Jahre.
-Im Zentrum des Kurses steht zudem der Begriff des Decoy (Köder), ein Begriff aus dem militärischen und cybersicherheitstechnischen Kontext, der die Ablenkung feindlicher Angriffe durch verdeckte Agenten und andere Taktiken beschreibt.
-
-Im Zuge dieser Auseinandersetzung lernen die Studierenden die Geschichte der Tactical Media kennen und werden eingeladen, ihre eigenen Image Decoys zu entwickeln. Jede Woche widmet sich einer bestimmten Typologie des Image Decoy anhand einer Vorlesung, Diskussion und Prototyping-Session im Unterricht. Zu jeder Typologie erstellen die Studierenden eine kurze wöchentliche Übung, die auf der im Unterricht behandelten Typologie basiert. Für das Abschlussprojekt entwickeln die Studierenden eine dieser kurzen Übungen zu einem größeren Projekt weiter.
-
-Ein Image Decoy ist, im Sinne dieses Kurses, ein Bild, das sich dem algorithmischen Blick nicht verweigert, sondern dessen erwartete Eingaben imitiert – einer Maschine oder Plattform genau das anbietet, worauf sie trainiert ist zu reagieren, während es diese operative Kapazität gegen genau jene Systeme richtet, die sie einsetzen. Als Köder und Falle zugleich offenbart der Image Decoy die verborgenen Operationen bildgebender Systeme, reagiert aber auch auf sie, infiltriert sie, formt sie um und verwandelt das Feld digitaler und vernetzter Bilder in ein Schlachtfeld.
-
-Die im Kurs vorgeschlagenen Typologien von Image Decoys sind: Hiding in Plain Sight, Image Triggers, Occupy The Internet, Superspreaders, The Girl Online.
-
-## Wöchentliche Aufgaben
-Die wöchentlichen Aufgaben werden in diesem Dokument ergänzt: [https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/)
-
-## Midterms
-Die Midterms (Zwischenpräsentationen) bieten die Gelegenheit, den aktuellen Stand der Arbeit vorzustellen: Die Studierenden visualisieren ihre Ideen anhand von Prototypen, Skizzen und Experimenten und reichen einen Plan für die nächste Phase der Recherche, Produktion und Präsentation der Abschlussarbeit ein.
-
-## Abschlussprojekte
-Die Abschlussprojekte müssen als Ordner mit eurem Vor- und Nachnamen hier hochgeladen werden: [https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link](https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link)
-
-## Kalender
-
-| Datum       | Thema                               |
-|------------|-------------------------------------|
-| 8.10.2026   | INTRODUCTION                       |
-| 15.10.2026  | 1. Hiding in Plain Sight              |
-| 22.10.2026  | 2. Image Triggers                     |
-| 29.10.2026  | 3. Occupy The Internet                |
-| 5.11.2026   | -Workshoptage - kein Unterricht-   |
-| 12.11.2026  | -Selbststudium-                    |
-| 19.11.2026  | 4. Superspreaders                     |
-| 26.11.2026  | 5. The Girl Online                    |
-| 3.12.2026   | MIDTERMS                           |
-| 10.12.2026  | Projektentwicklung                 |
-| 17.12.2026  | Projektentwicklung                 |
-| 7.1.2027    | Projektentwicklung                 |
-| 14.1.2027   | Projektentwicklung                 |
-| 21.1.2027   | ABSCHLUSSPRÄSENTATIONEN            |
-
-## Literatur
-
-### Werke und Projekte
-- Andrew, Gretchen. n.d. "Vision Boards." <a href="https://www.gretchenandrew.com/vision-boards">https://www.gretchenandrew.com/vision-boards</a>.
-- Aubry, Zoé. n.d. "#Ingrid." <a href="https://z-aubry.com/Ingrid-1">https://z-aubry.com/Ingrid-1</a>.
-- Cap_able. n.d. <a href="https://www.capable.design/">https://www.capable.design/</a>.
-- Farocki, Harun. 2000. Eye/Machine I. Audiovisuelle Installation.
-- Fotomuseum Winterthur. 2015 – 2021. SITUATIONS. <a href="https://www.fotomuseum.ch/en/situations/">https://www.fotomuseum.ch/en/situations/</a>
-- Fotomuseum Winterthur and The Photographers' Gallery. 2020 – 2025. Screen Walks. <a href="https://screenwalks.com/">https://screenwalks.com/</a>
-- Hocking, Joseph, and Mark Skwarek. 2010. "The Leak in Your Hometown." <a href="https://theleakinyourhometown.wordpress.com/">https://theleakinyourhometown.wordpress.com/</a>.
-- Horvitz, David. n.d. <a href="https://www.davidhorvitz.com/">https://www.davidhorvitz.com/</a>.
-- MoMAR. 2018. <a href="https://momar.gallery/">https://momar.gallery/</a>.
-- Oliver, Julian. 2015. "The Orchid Project." <a href="https://julianoliver.com/projects/orchid-project/">https://julianoliver.com/projects/orchid-project/</a>.
-- Rose, Kate. Adversarial Fashion. 2019. <a href="https://adversarialfashion.com/">https://adversarialfashion.com/</a>.
-- Varner Maddy. Kardashian Krypt. 2014. <a href="https://cargocollective.com/maddyv/KARDASHIAN-KRYPT">https://cargocollective.com/maddyv/KARDASHIAN-KRYPT</a>.
-- Weekers, Sannee. 2017. "Anonymity Scarf." <a href="https://sanneweekers.nl/big-brother-is-watching-you/">https://sanneweekers.nl/big-brother-is-watching-you/</a>.
-- Wu, Amy Suo. n.d. "Greetings from the Invisible Borderlands." <a href="https://amysuowu.net/greetings-from-the-invisible-borderlands/">https://amysuowu.net/greetings-from-the-invisible-borderlands/</a>.
-
-### Artikel und Bücher
-- Azar, Mitra, Geoff Cox, and Leonardo Impett, eds. 2021. "Ways of Machine Seeing." Special issue, AI & Society 36 (4).
-- Barthes, Roland. (1957) 1972. Mythologies. Translated by Annette Lavers. New York: Hill and Wang.
-- Bratton, Benjamin H. 2015. The Stack: On Software and Sovereignty. Cambridge, MA: MIT Press.
-- Cubitt, Sean. 2014. The Practice of Light: A Genealogy of Visual Technologies from Prints to Pixels. Cambridge, MA: MIT Press.
-- De Mutiis, Marco. 2026. "Image Decoys." Special issue, Arts 15 (10).
-- Dekker, Annet, and David Garcia. 2017. "As If: The Media Artist as Trickster." Interview by Anne Céline Sikma and Iona Sharp Casas. Framer Framed, March 2. <a href="http://aaaan.net/david-garcia-annet-dekker-ian-alan-paul-as-if-the-media-artist-as-trickster-how-much-of-this-is-fiction/">http://aaaan.net/david-garcia-annet-dekker-ian-alan-paul-as-if-the-media-artist-as-trickster-how-much-of-this-is-fiction/</a>.
-- Flusser, Vilém. (1983) 2000. Towards a Philosophy of Photography. Translated by Anthony Mathews. London: Reaktion Books.
-- Flusser, Vilém. (1985) 2011. Into the Universe of Technical Images. Translated by Nancy Ann Roth. Minneapolis: University of Minnesota Press.
-- Hölzl, Ingrid, and Rémi Marie. 2020. "No Image No Cry: On the Past, Present and Possible Futures of the Image." General Humanity Blog, January 1, 2020. <a href="http://generalhumanity.org/2020/01/01/no-image-no-cry-by-ingrid-hoelzl">http://generalhumanity.org/2020/01/01/no-image-no-cry-by-ingrid-hoelzl</a>.
-- Hönig, Robert, Javier Rando, Nicholas Carlini, and Florian Tramèr. 2025. "Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI." Paper presented at the International Conference on Learning Representations (ICLR).
-- Human Rights Watch. 2020. "Mexican Government Paralyzed in the Face of a Wave of Femicides." Originally published in the Los Angeles Times, March 3, 2020. <a href="https://www.hrw.org/news/2020/03/03/mexican-government-paralyzed-face-wave-femicides">https://www.hrw.org/news/2020/03/03/mexican-government-paralyzed-face-wave-femicides</a>.
-- Know Your Meme. "I Want This on a Shirt." <a href="https://knowyourmeme.com/memes/i-want-this-on-a-shirt-bot-bait">https://knowyourmeme.com/memes/i-want-this-on-a-shirt-bot-bait</a>.
-- Lovink, Geert, and David Garcia. 1997. "The ABC of Tactical Media." Nettime mailing list, May 16, 1997. <a href="https://www.nettime.org/Lists-Archives/nettime-l-9705/msg00096.html">https://www.nettime.org/Lists-Archives/nettime-l-9705/msg00096.html</a>.
-- Malik, Nesrine. 2025. "With 'AI Slop' Distorting Our Reality, the World Is Sleepwalking into Disaster." The Guardian, April 21, 2025. <a href="https://www.theguardian.com/commentisfree/2025/apr/21/ai-slop-artificial-intelligence-social-media">https://www.theguardian.com/commentisfree/2025/apr/21/ai-slop-artificial-intelligence-social-media</a>.
-- Meyer, Roland. 2025. "Die Ästhetik des digitalen Faschismus: KI und die globale Rechte." Frankfurter Allgemeine Sonntagszeitung, April 27, 2025. <a href="https://www.faz.net/aktuell/feuilleton/medien-und-film/die-aesthetik-des-digitalen-faschismus-ki-und-die-globale-rechte-110437299.html">https://www.faz.net/aktuell/feuilleton/medien-und-film/die-aesthetik-des-digitalen-faschismus-ki-und-die-globale-rechte-110437299.html</a>.
-- Paglen, Trevor. 2014. "Is Photography Over?" Still Searching..., Fotomuseum Winterthur blog. <a href="https://www.fotomuseum.ch/en/2014/03/13/seeing-machines/">https://www.fotomuseum.ch/en/2014/03/13/seeing-machines/</a>.
-- Pantenburg, Volker. 2017. "Working Images: Harun Farocki and the Operational Image." In Image Operations: Visual Media and Political Conflict, edited by Jens Eder and Charlotte Klonk, 49–62. Manchester: Manchester University Press.
-- Raley, Rita. 2009. Tactical Media. Minneapolis: University of Minnesota Press.
-- Rose, Kate. 2020. "Situations: Strike — Limited Edition T-Shirt." Fotomuseum Winterthur. <a href="https://www.fotomuseum.ch/en/situations-post/situations-strike-limited-edition-t-shirt/">https://www.fotomuseum.ch/en/situations-post/situations-strike-limited-edition-t-shirt/</a>.
-- Shan, Shawn, Jenna Cryan, Emily Wenger, Haitao Zheng, Rana Hanocka, and Ben Y. Zhao. 2023. "Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models." In Proceedings of the 32nd USENIX Security Symposium.
-- Shan, Shawn, Wenxin Ding, Josephine Passananti, Stanley Wu, Haitao Zheng, and Ben Y. Zhao. 2024. "Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models." In 2024 IEEE Symposium on Security and Privacy (SP), 807–825.
-- Srnicek, Nick. 2017. Platform Capitalism. Cambridge: Polity Press.
-- The Hacker News. 2025. "Steganography Explained: How XWorm Hides Inside Images." March 11, 2025. <a href="https://thehackernews.com/2025/03/steganography-explained-how-xworm-hides.html">https://thehackernews.com/2025/03/steganography-explained-how-xworm-hides.html</a>.
-- The Influencers. 2015. "David Horvitz." Last modified February 13, 2015. <a href="https://www.theinfluencers.org/en/david-horvitz">https://www.theinfluencers.org/en/david-horvitz</a>.
-- Uricchio, William. 2011. "The Algorithmic Turn: Photosynth, Augmented Reality and the Changing Implications of the Image." Visual Studies 26 (1): 25–35.
-- Zuboff, Shoshana. 2019. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. New York: PublicAffairs.
-- Zylinska, Joanna. 2017. Nonhuman Photography. Cambridge, MA: MIT Press.
 
 
 ## Code of Conduct
