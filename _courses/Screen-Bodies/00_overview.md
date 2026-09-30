@@ -15,7 +15,7 @@ published: true
 <div class="lang-en" markdown="1">
 
 ## About the Course
-The course will explore the different relations between the screen and the body, and the role of digital and networked images within physical and digital skin, flesh and identity. The module moves from the way screens literally bend our muscles and postures – think of selfie postures and carpal tunnels, gamer and scrolling thumbs – to the way the body is digitised and translated on screens – from CGI avatars to AR filters to AI bodies.
+The course will explore the different relations between the screen and the body, and the role of digital and networked images within physical and digital skin, embodiment and identity. The module moves from the way screens literally bend our muscles and postures – think of selfie postures and carpal tunnels, gamer and scrolling thumbs – to the way the body is digitised and translated on screens – from CGI avatars to AR filters to AI bodies.
 
 Through several works by photographers and artists, the course looks at which bodies are allowed to live on the screen, which are made more visible than others, how bodies can be augmented and extended beyond the human, and how creative practitioners engage with political and social issues such as privacy, digital dysmorphia, or reclaiming the capture of their bodies through different visual and digital strategies.
 
