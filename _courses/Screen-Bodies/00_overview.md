@@ -88,7 +88,7 @@ It is my intent that students from all backgrounds and perspectives be well serv
 <div class="lang-de" markdown="1">
 
 ## Über den Kurs
-Der Kurs untersucht die unterschiedlichen Beziehungen zwischen Bildschirm und Körper sowie die Rolle digitaler und vernetzter Bilder innerhalb von physischer und digitaler Haut, Fleisch und Identität. Das Modul bewegt sich von der Art und Weise, wie Bildschirme buchstäblich unsere Muskeln und Haltungen formen – man denke an Selfie-Posen und das Karpaltunnelsyndrom, an Gamer- und Scroll-Daumen – hin zu der Art, wie der Körper auf Bildschirmen digitalisiert und übersetzt wird – von CGI-Avataren über AR-Filter bis zu KI-Körpern.
+Der Kurs untersucht die vielfältigen Beziehungen zwischen Bildschirm und Körper sowie die Rolle digitaler und vernetzter Bilder im Zusammenspiel von physischer und digitaler Haut, Körperlichkeit und Identität. Das Modul bewegt sich von der Art und Weise, wie Bildschirme buchstäblich unsere Muskeln und Haltungen formen – man denke an Selfie-Posen und das Karpaltunnelsyndrom, an Gamer- und Scroll-Daumen – hin zu der Art, wie der Körper auf Bildschirmen digitalisiert und übersetzt wird – von CGI-Avataren über AR-Filter bis zu KI-Körpern.
 
 Anhand mehrerer Arbeiten von Fotograf:innen und Künstler:innen untersucht der Kurs, welche Körper auf dem Bildschirm leben dürfen, welche stärker sichtbar gemacht werden als andere, wie Körper über das Menschliche hinaus erweitert und augmentiert werden können, und wie sich künstlerische Praktiker:innen mit politischen und sozialen Fragen wie Privatsphäre, digitaler Dysmorphie oder der Rückeroberung der eigenen Körperabbildung durch verschiedene visuelle und digitale Strategien auseinandersetzen.
 

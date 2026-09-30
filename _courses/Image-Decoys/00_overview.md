@@ -72,7 +72,9 @@ The project must contain:
 - Rose, Kate. Adversarial Fashion. 2019. <a href="https://adversarialfashion.com/">https://adversarialfashion.com/</a>.
 - Varner Maddy. Kardashian Krypt. 2014. <a href="https://cargocollective.com/maddyv/KARDASHIAN-KRYPT">https://cargocollective.com/maddyv/KARDASHIAN-KRYPT</a>.
 - Weekers, Sannee. 2017. "Anonymity Scarf." <a href="https://sanneweekers.nl/big-brother-is-watching-you/">https://sanneweekers.nl/big-brother-is-watching-you/</a>.
+- Weckert, Simon
 - Wu, Amy Suo. n.d. "Greetings from the Invisible Borderlands." <a href="https://amysuowu.net/greetings-from-the-invisible-borderlands/">https://amysuowu.net/greetings-from-the-invisible-borderlands/</a>.
+- Errant Collective, Shadowgrams
 
 ### Articles and Books
 - Azar, Mitra, Geoff Cox, and Leonardo Impett, eds. 2021. "Ways of Machine Seeing." Special issue, AI & Society 36 (4).
