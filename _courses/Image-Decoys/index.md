@@ -37,7 +37,7 @@ Students will complete weekly short assignments experimenting with a different t
 <div class="lang-de" markdown="1">
 
 ## Kursinfo
-B4/5/6 Medien und Publikationen (5 SWS)
+B4/5/6 Medien und Publikationen (5 SWS/10 ECTS)
 
 ## Dozent
 Marco De Mutiis

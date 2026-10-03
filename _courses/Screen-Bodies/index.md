@@ -15,7 +15,7 @@ published: true
 <div class="lang-en" markdown="1">
 
 ## Course Info
-B4/6 Wahlfach (3 SWS)
+B4/6 Wahlfach (2 SWS / 4 ECTS)
 
 ## Lecturer
 Marco De Mutiis
@@ -42,7 +42,7 @@ Students will complete weekly short assignments experimenting with a different t
 <div class="lang-de" markdown="1">
 
 ## Kursinfo
-B4/6 Wahlfach (3 SWS)
+B4/6 Wahlfach (2 SWS / 4 ECTS)
 
 ## Dozent
 Marco De Mutiis

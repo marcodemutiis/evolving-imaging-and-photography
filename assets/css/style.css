@@ -534,3 +534,82 @@ figcaption em {
    ============================================ */
 [data-lang="en"] .lang-de { display: none; }
 [data-lang="de"] .lang-en { display: none; }
+
+/* ============================================
+   FULLSCREEN IMAGE VIEWER (lessons)
+   ============================================ */
+.lesson-page .page-content img { cursor: zoom-in; }
+
+html.lb-lock { overflow: hidden; }
+
+.lb-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.96);
+}
+.lb-overlay.lb-open { display: flex; }
+
+.lb-figure {
+  margin: 0;
+  max-width: 100vw;
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3.5rem 5rem 1rem;
+  box-sizing: border-box;
+}
+.lb-img {
+  max-width: 100%;
+  max-height: calc(100vh - 9rem);
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 0;
+  margin: 0;
+  cursor: default;
+}
+.lb-caption {
+  margin: 0.9rem 0 0;
+  max-width: 60rem;
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  text-align: center;
+}
+.lb-caption em { font-style: italic; }
+
+.lb-count {
+  position: absolute;
+  top: 1rem;
+  left: 1.25rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: var(--font-mono, monospace);
+  font-size: 0.8rem;
+}
+
+.lb-btn {
+  position: absolute;
+  background: none;
+  border: 0;
+  color: rgba(255, 255, 255, 0.7);
+  cursor: pointer;
+  font-size: 3rem;
+  line-height: 1;
+  padding: 0.5rem 1rem;
+}
+.lb-btn:hover:not(:disabled) { color: #fff; }
+.lb-btn:disabled { opacity: 0.2; cursor: default; }
+.lb-close { top: 0.25rem; right: 0.5rem; font-size: 2.5rem; }
+.lb-prev { left: 0.25rem; top: 50%; transform: translateY(-50%); }
+.lb-next { right: 0.25rem; top: 50%; transform: translateY(-50%); }
+
+@media (max-width: 600px) {
+  .lb-figure { padding: 3.5rem 0.5rem 1rem; }
+  .lb-btn.lb-prev, .lb-btn.lb-next { display: none; } /* swipe on touch screens */
+}
