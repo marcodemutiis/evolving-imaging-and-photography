@@ -5,6 +5,16 @@
 (function () {
   'use strict';
 
+  function injectStyles() {
+    if (document.getElementById('lb-styles')) return;
+    var s = document.createElement('style');
+    s.id = 'lb-styles';
+    s.textContent = '/* ============================================\n   FULLSCREEN IMAGE VIEWER (lessons)\n   ============================================ */\n.page-content img { cursor: zoom-in; }\n\nhtml.lb-lock { overflow: hidden; }\n\n.lb-overlay {\n  position: fixed;\n  inset: 0;\n  z-index: 1000;\n  display: none;\n  align-items: center;\n  justify-content: center;\n  background: rgba(0, 0, 0, 0.96);\n}\n.lb-overlay.lb-open { display: flex; }\n\n.lb-figure {\n  margin: 0;\n  max-width: 100vw;\n  max-height: 100vh;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  padding: 3.5rem 5rem 1rem;\n  box-sizing: border-box;\n}\n.lb-img {\n  max-width: 100%;\n  max-height: calc(100vh - 9rem);\n  width: auto;\n  height: auto;\n  object-fit: contain;\n  border-radius: 0;\n  margin: 0;\n  cursor: default;\n}\n.lb-caption {\n  margin: 0.9rem 0 0;\n  max-width: 60rem;\n  color: rgba(255, 255, 255, 0.75);\n  font-size: 0.9rem;\n  line-height: 1.5;\n  text-align: center;\n}\n.lb-caption em { font-style: italic; }\n\n.lb-count {\n  position: absolute;\n  top: 1rem;\n  left: 1.25rem;\n  color: rgba(255, 255, 255, 0.5);\n  font-family: var(--font-mono, monospace);\n  font-size: 0.8rem;\n}\n\n.lb-btn {\n  position: absolute;\n  background: none;\n  border: 0;\n  color: rgba(255, 255, 255, 0.7);\n  cursor: pointer;\n  font-size: 1.2rem;\n  line-height: 1;\n  padding: 0.5rem 1rem;\n}\n.lb-btn:hover:not(:disabled) { color: #fff; }\n.lb-btn:disabled { opacity: 0.2; cursor: default; }\n.lb-close { top: 0.25rem; right: 0.5rem; font-size: 1rem; }\n.lb-prev { left: 0.25rem; top: 50%; transform: translateY(-50%); }\n.lb-next { right: 0.25rem; top: 50%; transform: translateY(-50%); }\n\n@media (max-width: 600px) {\n  .lb-figure { padding: 3.5rem 0.5rem 1rem; }\n  .lb-btn.lb-prev, .lb-btn.lb-next { display: none; } /* swipe on touch screens */\n}\n';
+    document.head.appendChild(s);
+  }
+
+  injectStyles();
+
   var overlay, imgEl, capEl, countEl, prevBtn, nextBtn, closeBtn;
   var images = [];
   var index = 0;
@@ -21,13 +31,19 @@
   }
 
   function captionFor(im) {
-    // figcaption follows the image (sits outside the <img> tag)
+    // Kramdown usually closes the <p> before <figcaption>, so the caption is
+    // a sibling of the image's paragraph rather than of the image itself.
+    function isCap(el) { return el && el.tagName === 'FIGCAPTION'; }
     var n = im.nextElementSibling;
     while (n && n.tagName === 'BR') n = n.nextElementSibling;
-    if (n && n.tagName === 'FIGCAPTION') return n.innerHTML;
+    if (isCap(n)) return n.innerHTML;                      // inside the same <p>
     var p = im.parentElement;
-    var fc = p && p.querySelector('figcaption');
-    return fc ? fc.innerHTML : (im.getAttribute('alt') || '');
+    if (p && !isCap(p) && isCap(p.nextElementSibling)) {   // right after the <p>
+      return p.nextElementSibling.innerHTML;
+    }
+    var fig = im.closest('figure');                        // real <figure> markup
+    var fc = fig && fig.querySelector('figcaption');
+    return fc ? fc.innerHTML : '';
   }
 
   function build() {
