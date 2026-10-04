@@ -52,7 +52,7 @@ Nine Inch Nails, lyrics to "Copy of a", in Hesitation Marks, Columbia Records, 2
 Tim Wu, The Attention Merchants: The Epic Scramble to Get Inside Our Heads, Penguin Random House, 2016
 
 
-### Coutnervisuality
+### Countervisuality
 "It … countervisuality [is] the attempt to reconfigure visuality as a whole. […] Countervisuality proper is the claim for the right to look. It is the dissensus with visuality, meaning ‚a dispute over what is visible as an element of a situation, over which visible elements belong to what is common, over the capacity of subjects to designate the common and argue for it.‘ The performative claim of a right to look where none exists puts a countervisuality at play."
 
 Nicholas Mirzoeff, The Right to Look. A Counterhistory of Visuality (Durham: Duke University Press, 2011), 24.
@@ -96,9 +96,9 @@ Jodi Dean, "Images without Viewers: Imitation, Repetition, Circulation”, in Im
 
 
 ### Indexicality
-PICS OR IT DIDNT HAPPEN
+“Photographs, especially instantaneous photographs, are very instructive, because we know that they are in certain respects exactly like the objects they represent. But this resemblance is due to the photographs having been produced under such circumstances that they were physically forced to correspond point by point to nature. In that respect, then, they belong to the second class of signs, those by physical connection.”
 
-Charles Sanders Peirce (paraphrased).
+Charles S. Peirce, “What Is a Sign?” (1894).
 
 
 ### Networked Images
