@@ -13,33 +13,47 @@ published: true
 <div class="lang-en" markdown="1">
 
 ## About the Course
+The seminar introduces the foundations of academic research and writing for design students. Over seven sessions, students move step by step from finding and evaluating sources to reading critically, describing and analysing, building an argument, writing and citing, and finally presenting their findings.
 
+The seminar is built around one text that grows across the semester. Students choose a subject, either one of their own design projects or another work from design and the arts, and develop it through short exercises in each session: a research question, a selection of sources, notes, an analysis, an outline and a draft. In this way, students practise writing as design researchers, reflecting on their own practice as well as on the work of others.
 
+Each session combines a short lecture with discussion and a practical exercise. The text is presented and discussed in the last session and submitted as the final piece.
 
 
 ## Final Projects
+The final project is the short text developed over the course of the semester (800-1,200 words, excluding bibliography) on one of the student's own design projects or on a work from design and the arts. Sources must be cited in Chicago author-date style. The text is presented in the last session on 2 December 2026 and then submitted.
 
+Final projects must be uploaded as a folder with your name and surname here: [LINK TBD]
+
+The project must contain:
+- The final text (PDF)
+- A bibliography in Chicago author-date style
 
 
 ## Calendar
 
 | Date       | Topic                               |
 |------------|-------------------------------------|
-| 8.10.2026   | INTRODUCTION                       |
-| 15.10.2026  | 1. Hiding in Plain Sight              |
-| 22.10.2026  | 2. Image Triggers                     |
-| 29.10.2026  | 3. Occupy The Internet                |
-| 5.11.2026   | -Workshop Week - no class-	       |
-| 12.11.2026  | -Self Study-                       |
-| 19.11.2026  | 4. Superspreaders                     |
-| 26.11.2026  | 5. The Girl Online                    |
-| 3.12.2026   | MID TERM PRESENTATIONS             |
-| 10.12.2026  | Project Development                |
-| 17.12.2026  | Project Development                |
-| 7.1.2027    | Project Development                |
-| 14.1.2027   | Project Development                |
-| 21.1.2027   | FINAL PRESENTATIONS                |
+| 7.10.2026   | 1. Introduction                    |
+| 14.10.2026  | 2. Sources                         |
+| 21.10.2026  | 3. Reading and notes               |
+| 28.10.2026  | 4. Describing and analysing        |
+| 4.11.2026   | -Workshop Week - no class-	       |
+| 11.11.2026  | -Self Study-                       |
+| 18.11.2026  | 5. Argument                        |
+| 25.11.2026  | 6. Writing and citing              |
+| 2.12.2026   | 7. Presenting and feedback         |
 
+<!--
+
+1. Introduction. What research means in design and the arts, and how it differs from practice. How to move from an interest or project to a research question. Examples of designers who write.
+2. Sources. Library catalogues, databases, Google Scholar and archives. Primary versus secondary sources, how to judge credibility, and how to handle web and image sources and AI tools critically.
+3. Reading and notes. Reading strategies for dense theory, annotating, summarising, and keeping a reference library (e.g. Zotero).
+4. Describing and analysing. Writing about images, objects and projects, both your own and others'. Moving from description to interpretation, and working with context and artists' statements.
+5. Argument. Research question, thesis and structure, outlines, and using evidence and counter-arguments.
+6. Writing and citing. Academic style, paragraphs and transitions, citation styles and bibliographies, quoting versus paraphrasing, and plagiarism.
+7. Presenting and feedback. Short presentations of each student's text, peer feedback, and revision strategies.
+-->
 ## Syllabus
 
 
@@ -61,7 +75,36 @@ It is my intent that students from all backgrounds and perspectives be well serv
 
 <div class="lang-de" markdown="1">
 
+## Über den Kurs
+Das Seminar führt in die Grundlagen des wissenschaftlichen Recherchierens und Schreibens für Designstudierende ein. In sieben Sitzungen bewegen sich die Studierenden Schritt für Schritt vom Finden und Bewerten von Quellen über kritisches Lesen, Beschreiben und Analysieren und den Aufbau einer Argumentation bis zum Schreiben und Zitieren und schließlich zur Präsentation ihrer Ergebnisse.
 
+Das Seminar ist um einen Text herum aufgebaut, der im Verlauf des Semesters wächst. Die Studierenden wählen ein Thema, entweder eines ihrer eigenen Designprojekte oder eine andere Arbeit aus Design und Kunst, und entwickeln es in kurzen Übungen in jeder Sitzung weiter: eine Forschungsfrage, eine Auswahl von Quellen, Notizen, eine Analyse, eine Gliederung und eine Rohfassung. So üben die Studierenden das Schreiben als Designforscher:innen und reflektieren sowohl die eigene Praxis als auch die Arbeit anderer.
+
+Jede Sitzung verbindet einen Kurzvortrag mit Diskussion und einer praktischen Übung. Der Text wird in der letzten Sitzung präsentiert und diskutiert und als Abschlussarbeit eingereicht.
+
+## Abschlussprojekte
+Das Abschlussprojekt ist der im Verlauf des Semesters entwickelte kurze Text (800-1.200 Wörter, ohne Literaturverzeichnis) zu einem der eigenen Designprojekte oder zu einer Arbeit aus Design und Kunst. Quellen müssen im Chicago-Stil (Author-Date) zitiert werden. Der Text wird in der letzten Sitzung am 2. Dezember 2026 präsentiert und anschließend eingereicht.
+
+Die Abschlussprojekte müssen als Ordner mit eurem Vor- und Nachnamen hier hochgeladen werden: [LINK TBD]
+
+Das Projekt muss folgendes enthalten:
+- Den finalen Text (PDF)
+- Ein Literaturverzeichnis im Chicago-Stil (Author-Date)
+
+
+## Kalender
+
+| Datum       | Thema                               |
+|-------------|-------------------------------------|
+| 7.10.2026   | 1. Einführung                       |
+| 14.10.2026  | 2. Quellen                          |
+| 21.10.2026  | 3. Lesen und Exzerpieren            |
+| 28.10.2026  | 4. Beschreiben und Analysieren      |
+| 4.11.2026   | -Workshoptage - kein Unterricht-    |
+| 11.11.2026  | -Selbststudium-                     |
+| 18.11.2026  | 5. Argumentation                    |
+| 25.11.2026  | 6. Schreiben und Zitieren           |
+| 2.12.2026   | 7. Präsentieren und Feedback        |
 
 ## Code of Conduct
 
