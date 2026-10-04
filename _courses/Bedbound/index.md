@@ -35,10 +35,10 @@ Students will learn skills in curatorial, artistic and design research, through 
 
 ## Assessment
 Students will develop a semester project based on one of the topics explored in class. The project includes two components:
-- A conversation with a photographer, designer, artist, or author connected to the themes of *Bedbound*, either as a recorded interview or a written reflection engaging critically with their work
-- A creative mindmap of the topics, materialised through a form of the student's choosing (e.g. custom pillow covers and printed bedsheets, a projection only visible from a bed, a sleeping performance streamed on Twitch...)
+- A written text that can be a conversation or interview with a photographer, designer, artist, or author connected to the themes of *Bedbound*, or a written reflection engaging critically with their work
+- An image-based output,  related to the topics explored in class, materialised through a form of the student's choosing (e.g. portraits of people watching Netflix in bed, custom pillow covers and printed bedsheets, a projection only visible from a bed, a sleeping performance streamed on Twitch...)
 
-Students are free to choose the form and scale of their mindmap. Assessment considers conceptual clarity, execution, and the quality of the final result.
+Students are free to choose the form and scale of their final output. Assessment considers conceptual clarity, execution, and the quality of the final result.
 
 </div>
 
@@ -64,10 +64,12 @@ Der Kurs lädt die Studierenden dazu ein, sich mit diesen unterschiedlichen them
 Die Studierenden erwerben Fähigkeiten in kuratorischer, künstlerischer und gestalterischer Recherche durch Vorlesungen und Übungen im Unterricht, aber auch durch die Möglichkeit, mit aktiven Fachleuten aus den Bereichen Design und Fotografie zusammenzuarbeiten. Sie begleiten den Entstehungsprozess einer Gruppenausstellung und stehen im Austausch mit professionellen Künstler:innen und Fotograf:innen sowie mit der Arbeit von Kurator:innen und Kommunikationsverantwortlichen im Kulturbereich.
 
 ## Leistungsnachweis
-Die Studierenden entwickeln ein Semesterprojekt zu einem der im Unterricht behandelten Themen. Das Projekt umfasst zwei Bestandteile:
-- Ein Gespräch mit einer/einem Fotograf:in, Designer:in, Künstler:in oder Autor:in, das mit den Themen von *Bedbound* verbunden ist, entweder als aufgezeichnetes Interview oder als schriftliche Reflexion, die sich kritisch mit deren Arbeit auseinandersetzt
-- Eine kreative Mindmap der Themen, materialisiert in einer Form eigener Wahl (z. B. individuell gestaltete Kissenbezüge und bedruckte Bettlaken, eine nur vom Bett aus sichtbare Projektion, eine auf Twitch gestreamte Schlafperformance...)
+Die Studierenden entwickeln ein Semesterprojekt, das auf einem der im Unterricht behandelten Themen basiert. Das Projekt umfasst zwei Komponenten:
 
-Den Studierenden steht die Form und der Umfang ihrer Mindmap frei. Die Bewertung berücksichtigt konzeptuelle Klarheit, Umsetzung und die Qualität des Endergebnisses.
+Ein schriftlicher Text, der entweder als Gespräch oder Interview mit einer Fotografin bzw. einem Fotografen, einer Designerin bzw. einem Designer, einer Künstlerin bzw. einem Künstler oder einer Autorin bzw. einem Autor, die bzw. der inhaltlich mit den Themen von Bedbound verbunden ist, gestaltet sein kann, oder als schriftliche Reflexion, die sich kritisch mit deren bzw. dessen Arbeit auseinandersetzt.
+
+Eine bildbasierte Arbeit, die sich auf die im Unterricht behandelten Themen bezieht und in einer von der bzw. dem Studierenden frei gewählten Form umgesetzt wird (z. B. Porträts von Menschen, die im Bett Netflix schauen, individuell gestaltete Kissenbezüge und bedruckte Bettlaken, eine Projektion, die nur vom Bett aus sichtbar ist, oder eine über Twitch gestreamte Schlaf-Performance).
+
+Die Studierenden können die Form und den Umfang ihrer finalen Arbeit frei wählen. Bei der Bewertung werden die konzeptionelle Klarheit, die Umsetzung sowie die Qualität des Endergebnisses berücksichtigt.
 
 </div>
