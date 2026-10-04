@@ -26,6 +26,7 @@ As the bed converges with the screen, it becomes a site for photographic product
 Under the sheets, bedtime stories meet “bed-rotting” bodies, desire turns into exhaustion, the personal becomes political, the private becomes networked, the dreaming self meets the scrolling self, and rest itself becomes an act of defiance.
 
 The course will explore the role of the bed across five thematic clusters:
+
 1. The Sanctuary  
 The bed and the promises of rest, privacy, desire and dreams.
  
