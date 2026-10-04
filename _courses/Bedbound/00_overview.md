@@ -254,5 +254,4 @@ Ich möchte, dass Studierende mit allen Hintergründen und Perspektiven in diese
 
 ## Studierende
 </div>
-</div>
 
