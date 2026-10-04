@@ -27,7 +27,7 @@ Under the sheets, bedtime stories meet “bed-rotting” bodies, desire turns in
 
 The course will explore the role of the bed across five thematic clusters:
 
-1. The Sanctuary<br/>  
+1. The Sanctuary<br/>
 The bed and the promises of rest, privacy, desire and dreams.
  
 2. The Battleground<br/>
@@ -148,7 +148,7 @@ Indem das Bett mit dem Bildschirm verschmilzt, wird es zu einem Ort fotografisch
 Unter den Laken treffen Gutenachtgeschichten auf „Bed-Rotting“-Körper, Begehren schlägt in Erschöpfung um, das Persönliche wird politisch, das Private wird vernetzt, das träumende Selbst trifft auf das scrollende Selbst, und Ruhe selbst wird zu einem Akt des Trotzes.
 
 Der Kurs erkundet die Rolle des Bettes anhand von fünf thematischen Clustern:
-1. The Sanctuary<br/>  
+1. The Sanctuary<br/>
 Das Bett und die Versprechen von Ruhe, Privatsphäre, Begehren und Träumen.
  
 2. The Battleground<br/>
