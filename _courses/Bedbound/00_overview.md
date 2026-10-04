@@ -27,19 +27,19 @@ Under the sheets, bedtime stories meet “bed-rotting” bodies, desire turns in
 
 The course will explore the role of the bed across five thematic clusters:
 
-1. The Sanctuary  
+1. The Sanctuary<br/>  
 The bed and the promises of rest, privacy, desire and dreams.
  
-2. The Battleground
+2. The Battleground<br/>
 The bed colonised by labour, capital, the screen.
  
-3. The Stage
+3. The Stage<br/>
 The bed as a place for self-construction and photographic production, a stage for “the girl online”.
  
-4. The Sickbed
+4. The Sickbed<br/>
 The bed as a space for illness, immobility and stillness, the site of the medical gaze where care and alienation converge.
  
-5. The Barricade
+5. The Barricade<br/>
 The bed as a site for protest, refusal, and resistance.
 
 
@@ -148,19 +148,19 @@ Indem das Bett mit dem Bildschirm verschmilzt, wird es zu einem Ort fotografisch
 Unter den Laken treffen Gutenachtgeschichten auf „Bed-Rotting“-Körper, Begehren schlägt in Erschöpfung um, das Persönliche wird politisch, das Private wird vernetzt, das träumende Selbst trifft auf das scrollende Selbst, und Ruhe selbst wird zu einem Akt des Trotzes.
 
 Der Kurs erkundet die Rolle des Bettes anhand von fünf thematischen Clustern:
-1. The Sanctuary  
+1. The Sanctuary<br/>  
 Das Bett und die Versprechen von Ruhe, Privatsphäre, Begehren und Träumen.
  
-2. The Battleground
+2. The Battleground<br/>
 Das Bett, kolonisiert von Arbeit, Kapital und Bildschirm.
  
-3. The Stage
+3. The Stage<br/>
 Das Bett als Ort der Selbstkonstruktion und fotografischen Produktion, eine Bühne für „the girl online“.
  
-4. The Sickbed
+4. The Sickbed<br/>
 Das Bett als Raum von Krankheit, Immobilität und Stillstand, Ort des medizinischen Blicks, an dem Fürsorge und Entfremdung zusammenfallen.
  
-5. The Barricade
+5. The Barricade<br/>
 Das Bett als Ort des Protests, der Verweigerung und des Widerstands.
 
 
