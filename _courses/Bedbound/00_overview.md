@@ -48,13 +48,20 @@ The bed as a site for protest, refusal, and resistance.
 
 
 ## Weekly Assignments
-Weekly assignments are added to this document: []()
+Weekly assignments are added to this document: [docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?usp=sharing)
+
+### Week 1: for 13.10.2026
+
+Bring an image, an object, or a text that speaks to the way you understand your space of the bed. It can be your own bed or a bed you know, found or made, literal or abstract. You decide how personal it gets.
+
+- Upload your item, with a caption of two sentences explaining your choice, to [the shared document](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?tab=t.0) by the evening before class (12.10.2026).
+- In class, you present it in about one minute. Objects are welcome, so bring them along.
 
 ## Mid Terms
 The Midterms will offer a chance to present the work in progress: here students are expected to visualise their ideas through prototypes, sketches, experiments, and to submit a plan for the next phase of research, production and presentation of the final work. 
 
 ## Final Projects
-Final projects must be uploaded as a folder with your name and surname here: []()
+Final projects must be uploaded as a folder with your name and surname here: [drive.google.com/drive/folders/1kb1kzMWwG2jsWb12VH2Lk9B3gaIUsbDE](https://drive.google.com/drive/folders/1kb1kzMWwG2jsWb12VH2Lk9B3gaIUsbDE?usp=sharing)
 
 The project must contain:
 - Images, videos, code and/or pdf files
@@ -169,13 +176,21 @@ Das Bett als Ort des Protests, der Verweigerung und des Widerstands.
 
 
 ## Wöchentliche Aufgaben
-Die wöchentlichen Aufgaben werden diesem Dokument hinzugefügt: []()
+
+Die wöchentlichen Aufgaben werden diesem Dokument hinzugefügt: [docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?usp=sharing)
+
+### Woche 1: für den 13.10.2026
+
+Bringt ein Bild, ein Objekt oder einen Text mit, der zeigt, wie ihr euren Raum des Bettes versteht. Das kann euer eigenes Bett oder ein Bett sein, das ihr kennt, gefunden oder gemacht, wörtlich oder abstrakt. Wie persönlich ihr dabei werdet, entscheidet ihr selbst.
+
+- Ladet euren Beitrag mit einer Bildunterschrift von zwei Sätzen, die eure Wahl erklärt, bis spätestens am Abend vor dem Unterricht (12.10.2026) in [das gemeinsame Dokument](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?tab=t.0) hoch.
+- Im Unterricht stellt ihr ihn in etwa einer Minute vor. Objekte sind willkommen, bringt sie gerne mit.
 
 ## Zwischenpräsentationen
 Die Zwischenpräsentationen bieten die Gelegenheit, die laufende Arbeit vorzustellen: Ihr sollt eure Ideen anhand von Prototypen, Skizzen und Experimenten visualisieren und einen Plan für die nächste Phase der Recherche, Produktion und Präsentation der Abschlussarbeit einreichen.
 
 ## Abschlussprojekte
-Die Abschlussprojekte müssen als Ordner mit eurem Vor- und Nachnamen hier hochgeladen werden: []()
+Die Abschlussprojekte müssen als Ordner mit eurem Vor- und Nachnamen hier hochgeladen werden: [drive.google.com/drive/folders/1kb1kzMWwG2jsWb12VH2Lk9B3gaIUsbDE](https://drive.google.com/drive/folders/1kb1kzMWwG2jsWb12VH2Lk9B3gaIUsbDE?usp=sharing)
 
 Das Projekt muss enthalten:
 - Bilder, Videos, Code und/oder PDF-Dateien
@@ -304,6 +319,7 @@ Ich möchte, dass Studierende mit allen Hintergründen und Perspektiven in diese
 
 
 <!--
+			"what did you do in bed today before getting up?"
 9:15	15	Welcome. Short personal intro (HTWG, Fotomuseum, practice). Have one image on screen as people arrive, e.g. Calle's The Sleepers from your course page.
 9:30	40	Student introductions. About 1.5 min each for 23 people. "what's the last image you look at before sleeping?"
 10:10	40	Introducing Bedbound. About 30 min of talk plus 10 min of questions. 
