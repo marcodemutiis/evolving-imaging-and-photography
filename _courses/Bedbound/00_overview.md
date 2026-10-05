@@ -47,7 +47,7 @@ The bed as a site for protest, refusal, and resistance.
 
 
 ## Reading
-![Colomina, Beatriz. "The 24/7 Bed: Privacy and Publicity in the Age of Social Media". How to Relate: Wissen, Künste, Praktiken / Knowledge, Arts, Practices, edited by Annika Haas, Maximilian Haas, Hanna Magauer and Dennis Pohl, Bielefeld: transcript Verlag, 2021, pp. 186-200. https://doi.org/10.1515/9783839457658-015]({{ site.baseurl }}/courses/Bedbound/assets/texts/Colomina-The-24-7-Bed.pdf)
+[Colomina, Beatriz. "The 24/7 Bed: Privacy and Publicity in the Age of Social Media". How to Relate: Wissen, Künste, Praktiken / Knowledge, Arts, Practices, edited by Annika Haas, Maximilian Haas, Hanna Magauer and Dennis Pohl, Bielefeld: transcript Verlag, 2021, pp. 186-200. https://doi.org/10.1515/9783839457658-015]({{ site.baseurl }}/courses/Bedbound/assets/texts/Colomina-The-24-7-Bed.pdf)
 
 
 ## Weekly Assignments
@@ -179,7 +179,7 @@ Das Bett als Ort des Protests, der Verweigerung und des Widerstands.
 
 
 ## Reading
-![Colomina, Beatriz. "The 24/7 Bed: Privacy and Publicity in the Age of Social Media". How to Relate: Wissen, Künste, Praktiken / Knowledge, Arts, Practices, edited by Annika Haas, Maximilian Haas, Hanna Magauer and Dennis Pohl, Bielefeld: transcript Verlag, 2021, pp. 186-200. https://doi.org/10.1515/9783839457658-015]({{ site.baseurl }}/courses/Bedbound/assets/texts/Colomina-The-24-7-Bed.pdf)
+[Colomina, Beatriz. "The 24/7 Bed: Privacy and Publicity in the Age of Social Media". How to Relate: Wissen, Künste, Praktiken / Knowledge, Arts, Practices, edited by Annika Haas, Maximilian Haas, Hanna Magauer and Dennis Pohl, Bielefeld: transcript Verlag, 2021, pp. 186-200. https://doi.org/10.1515/9783839457658-015]({{ site.baseurl }}/courses/Bedbound/assets/texts/Colomina-The-24-7-Bed.pdf)
 
 
 ## Wöchentliche Aufgaben
