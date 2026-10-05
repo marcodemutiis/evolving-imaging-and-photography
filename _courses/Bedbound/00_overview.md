@@ -66,9 +66,10 @@ The Midterms will offer a chance to present the work in progress: here students 
 ## Final Projects
 Final projects must be uploaded as a folder with your name and surname here: [drive.google.com/drive/folders/1kb1kzMWwG2jsWb12VH2Lk9B3gaIUsbDE](https://drive.google.com/drive/folders/1kb1kzMWwG2jsWb12VH2Lk9B3gaIUsbDE?usp=sharing)
 
-The project must contain:
-- Images, videos, code and/or pdf files
+The folder must contain:
+- Images, videos, code and/or pdf files of your creative outputs
 - Word Document containing Project Title, Student Name, Short Description (150-300 words)
+- Word Document with your written text or interview (1000 - 1500 words)
 
 ## Calendar
 
@@ -196,11 +197,15 @@ Bringt ein Bild, ein Objekt oder einen Text mit, der zeigt, wie ihr euren Raum d
 Die Zwischenpräsentationen bieten die Gelegenheit, die laufende Arbeit vorzustellen: Ihr sollt eure Ideen anhand von Prototypen, Skizzen und Experimenten visualisieren und einen Plan für die nächste Phase der Recherche, Produktion und Präsentation der Abschlussarbeit einreichen.
 
 ## Abschlussprojekte
+
 Die Abschlussprojekte müssen als Ordner mit eurem Vor- und Nachnamen hier hochgeladen werden: [drive.google.com/drive/folders/1kb1kzMWwG2jsWb12VH2Lk9B3gaIUsbDE](https://drive.google.com/drive/folders/1kb1kzMWwG2jsWb12VH2Lk9B3gaIUsbDE?usp=sharing)
 
-Das Projekt muss enthalten:
-- Bilder, Videos, Code und/oder PDF-Dateien
+Der Ordner muss enthalten:
+
+- Bilder, Videos, Code und/oder PDF-Dateien eurer kreativen Arbeit
 - Word-Dokument mit Projekttitel, Name und Kurzbeschreibung (150–300 Wörter)
+- Word-Dokument mit eurem schriftlichen Text oder Interview (1000–1500 Wörter)
+
 
 ## Kalender
 
