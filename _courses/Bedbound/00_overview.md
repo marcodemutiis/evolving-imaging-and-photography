@@ -64,20 +64,20 @@ The project must contain:
 
 | Date       | Topic                               |
 |------------|-------------------------------------|
-| 8.10.2026   | INTRODUCTION                       |
-| 15.10.2026  | 1. The Sanctuary                   |
-| 22.10.2026  | 2. The Battleground                |
-| 29.10.2026  | 3. The Stage	                   |
-| 5.11.2026   | -Workshop Week - no class-	       |
-| 12.11.2026  | -Self Study-                       |
-| 19.11.2026  | 4. The Sickbed                     |
-| 26.11.2026  | 5. The Barricade                   |
-| 3.12.2026   | MID TERM PRESENTATIONS             |
-| 10.12.2026  | Project Development                |
-| 17.12.2026  | Project Development                |
-| 7.1.2027    | Project Development                |
-| 14.1.2027   | Project Development                |
-| 21.1.2027   | FINAL PRESENTATIONS                |
+| 6.10.2026   | INTRODUCTION                       |
+| 13.10.2026  | 1. The Sanctuary                   |
+| 20.10.2026  | 2. The Battleground                |
+| 27.10.2026  | 3. The Stage	                   |
+| 3.11.2026   | -Workshop Week - no class-	       |
+| 10.11.2026  | -Self Study-                       |
+| 17.11.2026  | 4. The Sickbed                     |
+| 24.11.2026  | 5. The Barricade                   |
+| 1.12.2026   | MID TERM PRESENTATIONS             |
+| 8.12.2026  | Project Development                |
+| 15.12.2026  | Project Development                |
+| 5.1.2027    | Project Development                |
+| 12.1.2027   | Project Development                |
+| 19.1.2027   | FINAL PRESENTATIONS                |
 
 ## Syllabus
 
@@ -185,20 +185,20 @@ Das Projekt muss enthalten:
 
 | Datum      | Thema                               |
 |------------|-------------------------------------|
-| 8.10.2026   | EINFÜHRUNG                         |
-| 15.10.2026  | 1. The Sanctuary                   |
-| 22.10.2026  | 2. The Battleground                |
-| 29.10.2026  | 3. The Stage	                   |
-| 5.11.2026   | -Workshopwoche – kein Unterricht-  |
-| 12.11.2026  | -Selbststudium-                    |
-| 19.11.2026  | 4. The Sickbed                     |
-| 26.11.2026  | 5. The Barricade                   |
-| 3.12.2026   | ZWISCHENPRÄSENTATIONEN             |
-| 10.12.2026  | Projektentwicklung                 |
-| 17.12.2026  | Projektentwicklung                 |
-| 7.1.2027    | Projektentwicklung                 |
-| 14.1.2027   | Projektentwicklung                 |
-| 21.1.2027   | ABSCHLUSSPRÄSENTATIONEN            |
+| 6.10.2026   | EINFÜHRUNG                         |
+| 13.10.2026  | 1. The Sanctuary                   |
+| 20.10.2026  | 2. The Battleground                |
+| 27.10.2026  | 3. The Stage	                   |
+| 3.11.2026   | -Workshopwoche – kein Unterricht-  |
+| 10.11.2026  | -Selbststudium-                    |
+| 17.11.2026  | 4. The Sickbed                     |
+| 24.11.2026  | 5. The Barricade                   |
+| 1.12.2026   | ZWISCHENPRÄSENTATIONEN             |
+| 8.12.2026  | Projektentwicklung                 |
+| 15.12.2026  | Projektentwicklung                 |
+| 5.1.2027    | Projektentwicklung                 |
+| 12.1.2027   | Projektentwicklung                 |
+| 19.1.2027   | ABSCHLUSSPRÄSENTATIONEN            |
 
 ## Literatur
 
@@ -255,4 +255,73 @@ Ich möchte, dass Studierende mit allen Hintergründen und Perspektiven in diese
 
 ## Studierende
 </div>
+
+- Grellert Anna
+
+- Grill Louis
+
+- Schewz Christina
+
+- Veljkovic Adrijana
+
+- Schindel Emily
+
+- Schubert Alexander
+
+- Burgard Hanna 
+
+- Studt Janne
+
+- Parkhidko Kateryna
+
+- Schmitt Alexandra
+
+- Kinast Jule
+
+- Schmotz Hanna
+
+- Lobo de Macedo Rosa
+
+- Weinzierl Paula
+
+- Hunstein Hanna
+
+- Lickert Michaela
+
+- Schiechtele Natalie
+
+- Dogru Medine
+
+- Kilic Merve
+
+- Yong Sihavann
+
+- Grünewald Janne
+
+- Homberg Lilly
+
+- Hampp Dalina
+
+
+<!--
+9:15	15	Welcome. Short personal intro (HTWG, Fotomuseum, practice). Have one image on screen as people arrive, e.g. Calle's The Sleepers from your course page.
+9:30	40	Student introductions. About 1.5 min each for 23 people. "what's the last image you look at before sleeping?"
+10:10	40	Introducing Bedbound. About 30 min of talk plus 10 min of questions. 
+
+10:50	15	Break
+11:05	25	Logistics (collab). Calendar, assessment, midterm, final, code of conduct (you decide how personal you get), platform.
+11:30	45	Collective mind map of the bed: 
+			Five minutes of silent individual writing, one idea per sticky note ("bed is...", "in bed I...").
+			Groups of 4 or 5 cluster the notes on a wall or large paper.
+			Each group presents for 2 minutes, and you map their clusters against your five (Sanctuary to Barricade). Point out what they raised that your list doesn't cover, and what's missing.
+			Photograph the result. It's useful material for the platform, and you can revisit it at the midterm.
+
+12:15	15	Break
+12:30	50	Reading and discussion.
+			24/7 Bed by Colminas
+
+13:20	25	Assignment and closing round.
+			Have everyone upload one item and a two-sentence caption to a shared folder or doc by Tuesday night. Otherwise 23 show-and-tells at 1.5 min each will use up 35 minutes of next week.
+			Allow indirect responses, such as found images or a text by someone else, so no one has to expose private space.
+-->
 

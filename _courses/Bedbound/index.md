@@ -51,7 +51,7 @@ M1/2 Projekt zu Design & Research + M1/2 Theorie und Methoden zu Design & Resear
 Marco De Mutiis
 
 ## Termin und Ort
-Dienstag, 9:15–13:45 Uhr - L203 (ab 8. April)
+Dienstag, 9:15–13:45 Uhr - L203
 
 ## Inhalt
 *Bedbound* untersucht das Bett als einen der umstrittensten und widersprüchlichsten Orte des zeitgenössischen Lebens. Zugleich Ort des Rückzugs und der Einschränkung, des Begehrens und der Isolation, des Protests und der Passivität, bündelt das Bett die Spannungen dessen, wie wir heute leben, arbeiten, uns verbinden und Bilder erfahren. Im Verlauf des Semesters widmet sich der Kurs der Rolle des Bettes innerhalb der zeitgenössischen digitalen fotografischen Produktion und Zirkulation sowie seinen unterschiedlichen Erscheinungsformen: das Bett als Zufluchtsort, als Schlachtfeld, als Bühne, als Krankenbett und als Barrikade.

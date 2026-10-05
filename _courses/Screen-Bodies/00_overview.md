@@ -140,3 +140,59 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 ## Student_innen
 </div>
+
+[BKD]
+
+- Franke, Sarahh
+
+- Höninger Felina
+
+- Thiemann Felina
+
+- Willenbrink Nele
+
+- Le Hong Tuan
+
+- Bröde Julia
+
+- Wegst Emily
+
+- Bruckner Mona
+
+- Frisch Ursula
+
+- Avilov Amalia
+
+- Waller Dominique
+
+- Seydel Lotta
+
+- Schmelzer Clara
+
+- Binner Sunari
+
+[MKD]
+
+- Lickert Michaela
+
+- Kilic Merve
+
+- Semmelroggen Stina
+
+- Dogru Medine
+
+- Schmitt Alexandra
+
+- Polat Sümeyre
+
+- Grünewald Janne
+
+- Fuchs Giuliana
+
+- Späth Tessa
+
+- Basica Sophie
+
+- Weber Moritz
+
+- Weil Sophie
