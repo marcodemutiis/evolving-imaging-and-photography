@@ -84,8 +84,8 @@ The folder must contain:
 | 17.11.2026  | 4. The Sickbed                     |
 | 24.11.2026  | 5. The Barricade                   |
 | 1.12.2026   | MID TERM PRESENTATIONS             |
-| 8.12.2026  | Project Development                |
-| 15.12.2026  | Project Development                |
+| 8.12.2026  | Project Development                 |
+| 15.12.2026  | Studio visit Jana Sofie Liebe (in Zurich)|
 | 5.1.2027    | Project Development                |
 | 12.1.2027   | Project Development                |
 | 19.1.2027   | FINAL PRESENTATIONS                |
@@ -220,8 +220,8 @@ Der Ordner muss enthalten:
 | 17.11.2026  | 4. The Sickbed                     |
 | 24.11.2026  | 5. The Barricade                   |
 | 1.12.2026   | ZWISCHENPRÄSENTATIONEN             |
-| 8.12.2026  | Projektentwicklung                 |
-| 15.12.2026  | Projektentwicklung                 |
+| 8.12.2026  | Projektentwicklung                  |
+| 15.12.2026  | Studio visit Jana Sofie Liebe (in Zürich)     |
 | 5.1.2027    | Projektentwicklung                 |
 | 12.1.2027   | Projektentwicklung                 |
 | 19.1.2027   | ABSCHLUSSPRÄSENTATIONEN            |
