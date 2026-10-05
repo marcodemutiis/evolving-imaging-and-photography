@@ -37,16 +37,16 @@ The project must contain:
 | Date       | Topic                               |
 |------------|-------------------------------------|
 | 8.10.2026   | INTRODUCTION                       |
-| 15.10.2026  | 1. The Screen Time Body            |
-| 22.10.2026  | 2. The Screen Body Double          |
-| 29.10.2026  | 3. The Body as Screen              |
+| 15.10.2026  | 1. The Screen Time Body            | <!-- Caesar, Buetti, IOCOSE & Bittanti, -> photograph of the body shaped by the screen -->
+| 22.10.2026  | 2. The Screen Body Double          | <!-- Lu Yang, Nina Davies -> avatars and metahuman -->
+| 29.10.2026  | 3. The Body as Screen              | <!-- -> projection mapping -->
 | 5.11.2026   | -Workshop Week - no class-	       |
 | 12.11.2026  | -Self Study-                       |
-| 19.11.2026  | 4. The Body as Online Identity     |
-| 26.11.2026  | 5. The Networked Body              |
+| 19.11.2026  | 4. The Body as Online Identity     | <!-- Jon Yuyi -> stickers and temporary tattoos -->
+| 26.11.2026  | 5. The Networked Body              | <!-- Alina Frieske -> digital collage -->
 | 3.12.2026   | MID TERM PRESENTATIONS             |
-| 10.12.2026  | 6. The Captured Body               |
-| 17.12.2026  | 7. The Augmented Body              |
+| 10.12.2026  | 6. The Captured Body               | <!-- Elisa Hampe -> Photogrammetry -->
+| 17.12.2026  | 7. The Augmented Body              | <!-- Ines ALpha -> Face Filters -->
 | 7.1.2027    | Project Development                |
 | 14.1.2027   | Project Development                |
 | 21.1.2027   | FINAL PRESENTATIONS                |
