@@ -196,3 +196,6 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 - Weber Moritz
 
 - Weil Sophie
+
+
+<!-- online meeting for Sarah and Mona https://meet.google.com/raa-szyf-xyj -->

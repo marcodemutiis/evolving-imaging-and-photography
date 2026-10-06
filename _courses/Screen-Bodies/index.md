@@ -64,3 +64,5 @@ Die Studierenden entwickeln ein kritisches Verständnis der zeitgenössischen di
 Die Studierenden absolvieren wöchentliche Kurzaufgaben, in denen sie mit unterschiedlichen Techniken experimentieren (70%). Ausgehend von einem dieser Experimente entwickeln die Studierenden ein Abschlussprojekt, das am Semesterende präsentiert wird, begleitet von einer kurzen schriftlichen Reflexion über die Praxis und ihren konzeptuellen Kontext (30%).
 
 </div>
+
+<!-- online meeting for Sarah and Mona https://meet.google.com/raa-szyf-xyj -->
