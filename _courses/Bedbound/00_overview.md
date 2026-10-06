@@ -45,6 +45,9 @@ The bed as a site for protest, refusal, and resistance.
 
 *Bedbound* is a collaboration with Fotomuseum Winterthur, ECAL and Elías Querejeta Zine Eskola. The project will unfold online on the permanentbeta.network platform, culminating in a publication and an exhibition at Fotomuseum Winterthur in October 2027.
 
+## Mapping 
+[https://docs.google.com/drawings/d/1PnRJ8H_yVR1ANN0sMPEEEZ_oNKIrFSB39o5blKF08rw/edit?usp=sharing](https://docs.google.com/drawings/d/1PnRJ8H_yVR1ANN0sMPEEEZ_oNKIrFSB39o5blKF08rw/edit?usp=sharing)
+
 
 ## Reading
 [Colomina, Beatriz. "The 24/7 Bed: Privacy and Publicity in the Age of Social Media". How to Relate: Wissen, Künste, Praktiken / Knowledge, Arts, Practices, edited by Annika Haas, Maximilian Haas, Hanna Magauer and Dennis Pohl, Bielefeld: transcript Verlag, 2021, pp. 186-200. https://doi.org/10.1515/9783839457658-015]({{ site.baseurl }}/courses/Bedbound/assets/texts/Colomina-The-24-7-Bed.pdf)
@@ -177,6 +180,8 @@ Das Bett als Ort des Protests, der Verweigerung und des Widerstands.
 
 *Bedbound* ist eine Zusammenarbeit mit dem Fotomuseum Winterthur, der ECAL und der Elías Querejeta Zine Eskola. Das Projekt entfaltet sich online auf der Plattform permanentbeta.network und mündet im Oktober 2027 in eine Publikation und eine Ausstellung im Fotomuseum Winterthur.
 
+## Mapping 
+[https://docs.google.com/drawings/d/1PnRJ8H_yVR1ANN0sMPEEEZ_oNKIrFSB39o5blKF08rw/edit?usp=sharing](https://docs.google.com/drawings/d/1PnRJ8H_yVR1ANN0sMPEEEZ_oNKIrFSB39o5blKF08rw/edit?usp=sharing)
 
 ## Reading
 [Colomina, Beatriz. "The 24/7 Bed: Privacy and Publicity in the Age of Social Media". How to Relate: Wissen, Künste, Praktiken / Knowledge, Arts, Practices, edited by Annika Haas, Maximilian Haas, Hanna Magauer and Dennis Pohl, Bielefeld: transcript Verlag, 2021, pp. 186-200. https://doi.org/10.1515/9783839457658-015]({{ site.baseurl }}/courses/Bedbound/assets/texts/Colomina-The-24-7-Bed.pdf)
