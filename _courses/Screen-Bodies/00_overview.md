@@ -36,20 +36,20 @@ The project must contain:
 
 | Date       | Topic                               |
 |------------|-------------------------------------|
-| 8.10.2026   | INTRODUCTION                       |
-| 15.10.2026  | 1. The Screen Time Body            | <!-- Caesar, Buetti, IOCOSE & Bittanti, -> photograph of the body shaped by the screen -->
-| 22.10.2026  | 2. The Screen Body Double          | <!-- Lu Yang, Nina Davies -> avatars and metahuman -->
-| 29.10.2026  | 3. The Body as Screen              | <!-- -> projection mapping -->
-| 5.11.2026   | -Workshop Week - no class-	       |
-| 12.11.2026  | -Self Study-                       |
-| 19.11.2026  | 4. The Body as Online Identity     | <!-- Jon Yuyi -> stickers and temporary tattoos -->
-| 26.11.2026  | 5. The Networked Body              | <!-- Alina Frieske -> digital collage -->
-| 3.12.2026   | MID TERM PRESENTATIONS             |
-| 10.12.2026  | 6. The Captured Body               | <!-- Elisa Hampe -> Photogrammetry -->
-| 17.12.2026  | 7. The Augmented Body              | <!-- Ines ALpha -> Face Filters -->
-| 7.1.2027    | Project Development                |
-| 14.1.2027   | Project Development                |
-| 21.1.2027   | FINAL PRESENTATIONS                |
+| 7.10.2026   | INTRODUCTION                       |
+| 14.10.2026  | 1. The Screen Time Body            | <!-- Caesar, Buetti, IOCOSE & Bittanti, -> photograph of the body shaped by the screen -->
+| 21.10.2026  | 2. The Screen Body Double          | <!-- Lu Yang, Nina Davies -> avatars and metahuman -->
+| 28.10.2026  | 3. The Body as Screen              | <!-- -> projection mapping -->
+| 4.11.2026   | -Workshop Week - no class-	       |
+| 11.11.2026  | -Self Study-                       |
+| 18.11.2026  | 4. The Body as Online Identity     | <!-- Jon Yuyi -> stickers and temporary tattoos -->
+| 25.11.2026  | 5. The Networked Body              | <!-- Alina Frieske -> digital collage -->
+| 2.12.2026   | MID TERM PRESENTATIONS             |
+| 9.12.2026  | 6. The Captured Body               | <!-- Elisa Hampe -> Photogrammetry -->
+| 16.12.2026  | 7. The Augmented Body              | <!-- Ines ALpha -> Face Filters -->
+| 6.1.2027    | Project Development                |
+| 13.1.2027   | Project Development                |
+| 20.1.2027   | FINAL PRESENTATIONS                |
 
 <!--
 // Portraits of bodies shaped by the screen(Caesar) + technique Light portraits (Roversi) -> the body shaped by screen consumption
@@ -109,20 +109,20 @@ Das Projekt muss folgendes enthalten:
 
 | Datum       | Thema                               |
 |------------|-------------------------------------|
-| 8.10.2026   | INTRODUCTION                       |
-| 15.10.2026  | 1. The Screen Time Body            |
-| 22.10.2026  | 2. The Screen Body Double          |
-| 29.10.2026  | 3. The Body as Screen              |
-| 5.11.2026   | -Workshoptage - kein Unterricht-   |
-| 12.11.2026  | -Selbststudium-                    |
-| 19.11.2026  | 4. The Body as Online Identity     |
-| 26.11.2026  | 5. The Networked Body              |
-| 3.12.2026   | MIDTERMS                           |
-| 10.12.2026  | 6. The Captured Body               |
-| 17.12.2026  | 7. The Augmented Body              |
-| 7.1.2027    | Projektentwicklung                 |
-| 14.1.2027   | Projektentwicklung                 |
-| 21.1.2027   | ABSCHLUSSPRÄSENTATIONEN            |
+| 7.10.2026   | INTRODUCTION                       |
+| 14.10.2026  | 1. The Screen Time Body            |
+| 21.10.2026  | 2. The Screen Body Double          |
+| 28.10.2026  | 3. The Body as Screen              |
+| 4.11.2026   | -Workshoptage - kein Unterricht-   |
+| 11.11.2026  | -Selbststudium-                    |
+| 18.11.2026  | 4. The Body as Online Identity     |
+| 25.11.2026  | 5. The Networked Body              |
+| 2.12.2026   | MIDTERMS                           |
+| 9.12.2026  | 6. The Captured Body               |
+| 16.12.2026  | 7. The Augmented Body              |
+| 6.1.2027    | Projektentwicklung                 |
+| 13.1.2027   | Projektentwicklung                 |
+| 20.1.2027   | ABSCHLUSSPRÄSENTATIONEN            |
 
 <!--## Literatur-->
 
@@ -199,3 +199,38 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 
 <!-- online meeting for Sarah and Mona https://meet.google.com/raa-szyf-xyj -->
+
+<!-- Time	Min	Block
+14:00	10	Opening: body check
+14:10	10	About me
+14:20	15	Student introductions
+14:35	20	Course content
+14:55	10	Logistics
+15:05	20	Applied exercise: body map
+15:25	5	Wrap-up and first assignment
+
+1. Opening: body check (14:00-14:10)
+notice how you're sitting, where your phone is, what your neck, thumbs and eyes are doing. 
+Who has checked their phone in the last 10 minutes? Who has a sore neck or scrolling thumb? This is the course thesis, experienced rather than explained.
+
+2. About me (14:10-14:20)
+
+3. Student introductions (14:20-14:35)
+30 seconds each: name, programme, and one bodily trace that screens have left on them (a thumb, neck, eyes, a posture).
+
+4. Course content (14:35-14:55)
+from screens bending the body (selfie postures, carpal tunnel, gamer thumbs) to the body being digitised (CGI avatars, AR filters, AI bodies).
+seven themes in the calendar, from The Screen Time Body to The Augmented Body.
+format: weekly experiments with different techniques (studio, AR, CGI, photogrammetry), midterm, final presentations.
+
+5. Logistics (14:55-15:05)
+Assessment: weekly assignments 70%, final project and short written reflection 30%.
+Code of conduct. Because the course involves bodies and photography, stress consent: nobody photographs anyone without asking, and nobody has to show their body.
+Language of instruction (German, English, or mixed), if you haven't settled that.
+
+6. Applied exercise: Screen Body Map (15:05-15:25)
+
+
+7. Wrap-up (15:25-15:30)
+
+-->

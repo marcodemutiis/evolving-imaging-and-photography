@@ -38,7 +38,15 @@ Students will develop a semester project based on one of the topics explored in 
 - A written text that can be a conversation or interview with a photographer, designer, artist, or author connected to the themes of *Bedbound*, or a written reflection engaging critically with their work
 - An image-based output,  related to the topics explored in class, materialised through a form of the student's choosing (e.g. portraits of people watching Netflix in bed, custom pillow covers and printed bedsheets, a projection only visible from a bed, a sleeping performance streamed on Twitch...)
 
-Students are free to choose the form and scale of their final output. Assessment considers conceptual clarity, execution, and the quality of the final result.
+Students are free to choose the form and scale of their final output. Assessment considers conceptual clarity, execution, and the quality of the final result, applied to both the image-based output and the written text:
+
+1. **Conceptual clarity** refers to the relation between your project and the ideas you explore with it. Does the project connect to the themes of *Bedbound*? Do the materials, aesthetics and implementation articulate the topics of one of the chapters? Does the text explore its concept clearly?
+
+2. **Execution** considers how well the work is made and finished: its craft, polish and level of resolution. Is the project still a prototype, or is it ready to be presented outside of the classroom? Are the details carefully resolved? Is the text written with good flow and solid argumentation?
+
+3. **Quality of the final result** refers to how the work holds up within the field and canon it sits in (e.g. photography, design, performance, video, writing). Does it show originality and a considered relation to existing practice? Would a series of photographs be recognised as a strong contribution to photography, or an interactive project to interactive media design? Does the text stand up as a good interview or critical reflection?
+
+The image-based output counts for 70% and the written text for 30% of the final grade. Both components must be submitted.
 
 </div>
 
@@ -70,6 +78,14 @@ Ein schriftlicher Text, der entweder als Gespräch oder Interview mit einer Foto
 
 Eine bildbasierte Arbeit, die sich auf die im Unterricht behandelten Themen bezieht und in einer von der bzw. dem Studierenden frei gewählten Form umgesetzt wird (z. B. Porträts von Menschen, die im Bett Netflix schauen, individuell gestaltete Kissenbezüge und bedruckte Bettlaken, eine Projektion, die nur vom Bett aus sichtbar ist, oder eine über Twitch gestreamte Schlaf-Performance).
 
-Die Studierenden können die Form und den Umfang ihrer finalen Arbeit frei wählen. Bei der Bewertung werden die konzeptionelle Klarheit, die Umsetzung sowie die Qualität des Endergebnisses berücksichtigt.
+Die Studierenden können die Form und den Umfang ihrer finalen Arbeit frei wählen. Bei der Bewertung werden die konzeptionelle Klarheit, die Umsetzung sowie die Qualität des Endergebnisses sowohl für die bildbasierte Arbeit als auch für den schriftlichen Text berücksichtigt:
+
+1. **Konzeptionelle Klarheit** bezieht sich auf das Verhältnis zwischen eurem Projekt und den Ideen, die ihr damit untersucht. Knüpft das Projekt an die Themen von *Bedbound* an? Artikulieren Materialien, Ästhetik und Umsetzung die Themen eines der Kapitel? Entwickelt der Text sein Konzept klar?
+
+2. **Umsetzung** betrachtet, wie gut die Arbeit gemacht und ausgearbeitet ist: ihre Sorgfalt in der Ausführung, ihre Politur und ihren Reifegrad. Ist das Projekt noch ein Prototyp, oder ist es bereit, außerhalb des Unterrichts präsentiert zu werden? Sind die Details sorgfältig ausgearbeitet? Ist der Text flüssig geschrieben und überzeugend argumentiert?
+
+3. **Qualität des Endergebnisses** bezieht sich darauf, wie sich die Arbeit innerhalb des Feldes und Kanons behauptet, in dem sie steht (z. B. Fotografie, Design, Performance, Video, Schreiben). Zeigt sie Eigenständigkeit und einen reflektierten Bezug zu bestehender Praxis? Würde eine Fotoserie als starker Beitrag zur Fotografie wahrgenommen, oder ein interaktives Projekt als starker Beitrag zum Interactive Media Design? Überzeugt der Text als gutes Interview oder als kritische Reflexion?
+
+Die bildbasierte Arbeit macht 70 % und der schriftliche Text 30 % der Endnote aus. Beide Komponenten müssen eingereicht werden.
 
 </div>
