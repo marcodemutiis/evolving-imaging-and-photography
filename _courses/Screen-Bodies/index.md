@@ -21,7 +21,7 @@ B4/6 Wahlfach (2 SWS / 4 ECTS)
 Marco De Mutiis
 
 ## Date and Location
-Wednesday, 14:00–15:30 Uhr - L303
+Wednesday, 14:00–15:30 Uhr - L304
 
 ## About
 The module explores how digital images and screens shape the physical body. From social media to fitness apps, from face filters to AI chatbots, contemporary subjects are increasingly influenced by digital technologies, both affecting physical bodies as well as through their digital representation. 
@@ -48,7 +48,7 @@ B4/6 Wahlfach (2 SWS / 4 ECTS)
 Marco De Mutiis
 
 ## Termin und Ort
-Mittwoch, 14:00–15:30 Uhr - L303
+Mittwoch, 14:00–15:30 Uhr - L304
 
 ## Inhalt
 Das Modul untersucht, wie digitale Bilder und Bildschirme den physischen Körper prägen. Von sozialen Medien bis zu Fitness-Apps, von Gesichtsfiltern bis zu KI-Chatbots — zeitgenössische Subjekte werden zunehmend von digitalen Technologien beeinflusst, sowohl in Bezug auf den physischen Körper als auch durch dessen digitale Repräsentation.

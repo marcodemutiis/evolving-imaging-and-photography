@@ -44,12 +44,12 @@ The project must contain:
 |------------|-------------------------------------|
 | 7.10.2026   | INTRODUCTION                       |
 | 14.10.2026  | 1. The Screen Time Body            | <!-- Caesar, Buetti, IOCOSE & Bittanti, -> photograph of the body shaped by the screen -->
-| 21.10.2026  | 2. The Screen Body Double          | <!-- Lu Yang, Nina Davies -> avatars and metahuman -->
-| 28.10.2026  | 3. The Body as Screen              | <!-- -> projection mapping -->
+| 21.10.2026  | 2. The Body as Online Identity          | <!-- Jon Yuyi -> stickers and temporary tattoos -->
+| 28.10.2026  | 3. The Body as Screen              | <!-- Daito Manabe for perfume -> projection mapping -->
 | 4.11.2026   | -Workshop Week - no class-	       |
 | 11.11.2026  | -Self Study-                       |
-| 18.11.2026  | 4. The Body as Online Identity     | <!-- Jon Yuyi -> stickers and temporary tattoos -->
-| 25.11.2026  | 5. The Networked Body              | <!-- Alina Frieske -> digital collage -->
+| 18.11.2026  | 4. The Screen Body Double          | <!-- Lu Yang, Nina Davies -> avatars and metahuman -->
+| 25.11.2026  | 5. The Networked Body              | <!-- Alina Frieske, Jenny Rova Tinder -> digital collage -->
 | 2.12.2026   | MID TERM PRESENTATIONS             |
 | 9.12.2026  | 6. The Captured Body               | <!-- Elisa Hampe -> Photogrammetry -->
 | 16.12.2026  | 7. The Augmented Body              | <!-- Ines ALpha -> Face Filters -->
@@ -123,11 +123,11 @@ Das Projekt muss folgendes enthalten:
 |------------|-------------------------------------|
 | 7.10.2026   | INTRODUCTION                       |
 | 14.10.2026  | 1. The Screen Time Body            |
-| 21.10.2026  | 2. The Screen Body Double          |
+| 21.10.2026  | 2. The Body as Online Identity          |
 | 28.10.2026  | 3. The Body as Screen              |
 | 4.11.2026   | -Workshoptage - kein Unterricht-   |
 | 11.11.2026  | -Selbststudium-                    |
-| 18.11.2026  | 4. The Body as Online Identity     |
+| 18.11.2026  | 4. The Screen Body Double     |
 | 25.11.2026  | 5. The Networked Body              |
 | 2.12.2026   | MIDTERMS                           |
 | 9.12.2026  | 6. The Captured Body               |
