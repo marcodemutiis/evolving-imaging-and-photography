@@ -26,6 +26,7 @@ Weekly assignments are added to this document: [https://docs.google.com/document
 Make one image that shows the effect of the screen on your body, or the effect of your body on the screen.
 Leave out faces and full-body views. The viewer should need a moment to work out what they're looking at.
 Examples: your doomscrolling thumb, a scan of a touchscreen covered in fingerprints, the extended arm of a selfie act, a screen's glow on your skin.
+Upload your image(s) to the [shared doc]([https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit?usp=sharing)
 
 ## Mid Terms
 The Midterms will offer a chance to present the work in progress: here students are expected to visualise their ideas through prototypes, sketches, experiments, and to submit a plan for the next phase of research, production and presentation of the final work.
@@ -104,6 +105,7 @@ Die wöchentlichen Aufgaben werden in diesem Dokument ergänzt: [https://docs.go
 Erstelle ein Bild, das die Wirkung des Bildschirms auf deinen Körper oder die Wirkung deines Körpers auf den Bildschirm zeigt.
 Lass Gesichter und Ganzkörperansichten weg. Die Betrachtenden sollen einen Moment brauchen, um zu verstehen, was sie sehen.
 Beispiele: dein Doomscrolling-Daumen, ein Scan eines Touchscreens voller Fingerabdrücke, der ausgestreckte Arm beim Selfie, der Schein eines Bildschirms auf deiner Haut.
+Lade dein(e) Bild(er) in das [Dokument](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit?usp=sharing) hoch.
 
 ## Midterms
 Die Midterms (Zwischenpräsentationen) bieten die Gelegenheit, den aktuellen Stand der Arbeit vorzustellen: Die Studierenden visualisieren ihre Ideen anhand von Prototypen, Skizzen und Experimenten und reichen einen Plan für die nächste Phase der Recherche, Produktion und Präsentation der Abschlussarbeit ein.
