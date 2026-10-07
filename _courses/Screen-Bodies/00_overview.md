@@ -26,13 +26,13 @@ Weekly assignments are added to this document: [https://docs.google.com/document
 Make one image that shows the effect of the screen on your body, or the effect of your body on the screen.
 Leave out faces and full-body views. The viewer should need a moment to work out what they're looking at.
 Examples: your doomscrolling thumb, a scan of a touchscreen covered in fingerprints, the extended arm of a selfie act, a screen's glow on your skin.
-Upload your image(s) to the [shared doc]([https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit?usp=sharing)
+Upload your image(s) to the [shared doc](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit?usp=sharing)
 
 ## Mid Terms
 The Midterms will offer a chance to present the work in progress: here students are expected to visualise their ideas through prototypes, sketches, experiments, and to submit a plan for the next phase of research, production and presentation of the final work.
 
 ## Final Projects
-Final projects must be uploaded as a folder with your name and surname here: [https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link](https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link)
+Final projects must be uploaded as a folder with your name and surname here: [https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link](https://drive.google.com/drive/folders/1LQ-83xb-AFevsRIA5J8hIFeR9EIwbkXl?usp=sharing)
 
 The project must contain:
 - Images, videos, code and/or pdf files
@@ -48,7 +48,7 @@ The project must contain:
 | 28.10.2026  | 3. The Body as Screen              | <!-- Daito Manabe for perfume -> projection mapping -->
 | 4.11.2026   | -Workshop Week - no class-	       |
 | 11.11.2026  | -Self Study-                       |
-| 18.11.2026  | 4. The Screen Body Double          | <!-- Lu Yang, Nina Davies -> avatars and metahuman -->
+| 18.11.2026  | 4. The Screen Body Double          | <!-- Cooper, Lu Yang, Nina Davies -> avatars and metahuman -->
 | 25.11.2026  | 5. The Networked Body              | <!-- Alina Frieske, Jenny Rova Tinder -> digital collage -->
 | 2.12.2026   | MID TERM PRESENTATIONS             |
 | 9.12.2026  | 6. The Captured Body               | <!-- Elisa Hampe -> Photogrammetry -->
@@ -111,7 +111,7 @@ Lade dein(e) Bild(er) in das [Dokument](https://docs.google.com/document/d/11vET
 Die Midterms (Zwischenpräsentationen) bieten die Gelegenheit, den aktuellen Stand der Arbeit vorzustellen: Die Studierenden visualisieren ihre Ideen anhand von Prototypen, Skizzen und Experimenten und reichen einen Plan für die nächste Phase der Recherche, Produktion und Präsentation der Abschlussarbeit ein.
 
 ## Abschlussprojekte
-Die Abschlussprojekte müssen als Ordner mit eurem Vor- und Nachnamen hier hochgeladen werden: [https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link](https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link)
+Die Abschlussprojekte müssen als Ordner mit eurem Vor- und Nachnamen hier hochgeladen werden: [https://drive.google.com/drive/folders/1THJ8BNmZxYhH0W0zSxCpZgf2RA2T0Qgw?usp=drive_link](https://drive.google.com/drive/folders/1LQ-83xb-AFevsRIA5J8hIFeR9EIwbkXl?usp=sharing)
 
 Das Projekt muss folgendes enthalten:
 - Bilder, Videos, Code und/oder PDF-Dateien
@@ -155,7 +155,7 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 [BKD]
 
-- Franke, Sarahh
+- Franke, Sarah
 
 - Höninger Felina
 
