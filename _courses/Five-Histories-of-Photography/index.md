@@ -20,7 +20,7 @@ B2/3 Designgeschichte 2 (Geschichte der Fotografie) (1 SWS)
 Marco De Mutiis
 
 ## Date and Location
-Thursday, 16:30–18:00. L007
+Wednesday, 16:30–18:00. L007
 
 ## About
 This course looks at the history of photography and its more recent digital developments through five thematic approaches. Each topic will provide a temporal arc that will reveal the specificities of the photographic medium through time. The examples will showcase how concepts like indexicality, manipulation, circulation, agency and consumption play specific roles throughout the history of the photographic image.
@@ -41,7 +41,7 @@ B2/3 Designgeschichte 2 (Geschichte der Fotografie) (1 SWS)
 Marco De Mutiis
 
 ## Termin und Ort
-Donnerstag, 16:30–18:00 Uhr. L007
+Mittwoch, 16:30–18:00 Uhr. L007
 
 ## Inhalt
 Dieser Kurs betrachtet die Geschichte der Fotografie und ihre jüngeren digitalen Entwicklungen anhand von fünf thematischen Zugängen. Jedes Thema bildet einen zeitlichen Bogen, der die Besonderheiten des fotografischen Mediums im Verlauf der Zeit sichtbar macht. Die Beispiele zeigen, welche spezifische Rolle Konzepte wie Indexikalität, Manipulation, Zirkulation, Handlungsmacht und Konsum in der Geschichte des fotografischen Bildes jeweils spielen.
