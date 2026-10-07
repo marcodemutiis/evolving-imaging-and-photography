@@ -449,6 +449,6 @@ Debatte, kritisches Hinterfragen und der freie Austausch von Ideen sind nicht nu
 Ich möchte, dass Studierende mit allen Hintergründen und Perspektiven in diesem Kurs gut aufgehoben sind und dass die Vielfalt, die ihr in den Unterricht einbringt, als echte Ressource und Stärke anerkannt wird. Ich werde Aktivitäten so gestalten, dass sie eine Vielfalt von Erfahrungen und Sichtweisen wertschätzen und berücksichtigen. Ich spreche euch gerne mit dem Namen und dem Pronomen an, die ihr angebt. Ebenso bin ich bereit, individuelle Vereinbarungen für Behinderungen oder religiöse Bedürfnisse zu treffen – bitte sagt mir früh im Semester Bescheid, damit wir gemeinsam planen können.
 
 ## Studierende
-</div>
+
 </div>
 
