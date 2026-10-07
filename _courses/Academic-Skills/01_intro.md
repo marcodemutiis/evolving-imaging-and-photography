@@ -33,6 +33,9 @@ A subject is not yet a question. "I am interested in typography on screens" is a
 
 In today's exercise you will move from a subject to a first, provisional question. The question will change over the next weeks, and that is expected.
 
+Start by writing your interest [here](https://docs.google.com/document/d/12tp-6YkIoqtjtdTZrUAn8xC9vRYcrGWzhaBi1MZcuLw/edit?usp=sharing)
+
+
 ## Exercise for Next Session
 Choose the subject of your text: one of your own design projects, or a work from design, photography or the arts that you want to write about. Then write one page that contains:
 
@@ -76,6 +79,8 @@ In beiden Fällen ist die Aufgabe dieselbe: von der Beschreibung zur Interpretat
 Ein Thema ist noch keine Frage. „Mich interessiert Typografie auf Bildschirmen“ ist ein Thema, „Wie verändert variable Schrift das Leseerlebnis langer Texte auf kleinen Bildschirmen?“ dagegen eine Frage, die sich erforschen lässt. Ebenso ist „Mich interessieren Gesichtsfilter“ ein Thema, „Wie prägen Gesichtsfilter in sozialen Medien, wie Nutzer:innen ihre eigenen Porträts inszenieren und beurteilen?“ hingegen eine Frage. Eine brauchbare Forschungsfrage ist spezifisch genug, um sie in einem kurzen Text zu beantworten, offen genug, dass die Antwort nicht schon feststeht, und verbunden mit Material, das ihr tatsächlich finden und untersuchen könnt.
 
 In der heutigen Übung geht ihr von einem Thema zu einer ersten, vorläufigen Frage. Die Frage wird sich in den kommenden Wochen verändern, und das ist beabsichtigt.
+
+Beginnen Sie damit, Ihr Interesse [hier](https://docs.google.com/document/d/12tp-6YkIoqtjtdTZrUAn8xC9vRYcrGWzhaBi1MZcuLw/edit?usp=sharing) zu formulieren.
 
 ## Übung für die nächste Sitzung
 Wählt das Thema eures Textes: eines eurer eigenen Designprojekte oder eine Arbeit aus Design, Fotografie oder Kunst, über die ihr schreiben möchtet. Schreibt dann eine Seite mit folgendem Inhalt:
