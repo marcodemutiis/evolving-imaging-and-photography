@@ -23,7 +23,7 @@ Each session combines a short lecture with discussion and a practical exercise. 
 ## Final Projects
 The final project is the short text developed over the course of the semester (800-1,200 words, excluding bibliography) on one of the student's own design projects or on a work from design and the arts. Sources must be cited in Chicago author-date style. The text is presented in the last session on 2 December 2026 and then submitted.
 
-Final projects must be uploaded as a folder with your name and surname here: [LINK TBD]
+Final projects must be uploaded as a folder with your name and surname here: [https://drive.google.com/drive/folders/1ZQElF1l0KivVyPcaE3qEIUXLfOwp9PhE?usp=sharing](https://drive.google.com/drive/folders/1ZQElF1l0KivVyPcaE3qEIUXLfOwp9PhE?usp=sharing)
 
 The project must contain:
 - The final text (PDF)
@@ -85,7 +85,7 @@ Jede Sitzung verbindet einen Kurzvortrag mit Diskussion und einer praktischen Ü
 ## Abschlussprojekte
 Das Abschlussprojekt ist der im Verlauf des Semesters entwickelte kurze Text (800-1.200 Wörter, ohne Literaturverzeichnis) zu einem der eigenen Designprojekte oder zu einer Arbeit aus Design und Kunst. Quellen müssen im Chicago-Stil (Author-Date) zitiert werden. Der Text wird in der letzten Sitzung am 2. Dezember 2026 präsentiert und anschließend eingereicht.
 
-Die Abschlussprojekte müssen als Ordner mit eurem Vor- und Nachnamen hier hochgeladen werden: [LINK TBD]
+Die Abschlussprojekte müssen als Ordner mit eurem Vor- und Nachnamen hier hochgeladen werden: [https://drive.google.com/drive/folders/1ZQElF1l0KivVyPcaE3qEIUXLfOwp9PhE?usp=sharing](https://drive.google.com/drive/folders/1ZQElF1l0KivVyPcaE3qEIUXLfOwp9PhE?usp=sharing)
 
 Das Projekt muss folgendes enthalten:
 - Den finalen Text (PDF)
