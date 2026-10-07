@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: "A Linear ~~and Quite Boring~~ History of Photography 1826–2026"
-title_de: "Eine lineare ~~und ziemlich langweilige~~ Geschichte der Fotografie 1826–2026"
+title: "A Linear <del>and Quite Boring</del> History of Photography 1826–2026"
+title_de: "Eine lineare <del>und ziemlich langweilige</del> Geschichte der Fotografie 1826–2026"
 course_id: five-histories-of-photography
 course_title: "Five Histories of Photography and the Digital Image"
 course_title_de: "Fünf Geschichten der Fotografie und des digitalen Bildes"
