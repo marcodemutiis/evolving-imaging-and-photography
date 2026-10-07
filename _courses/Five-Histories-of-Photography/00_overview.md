@@ -24,15 +24,15 @@ Moving from representation to circulation, and from human agency to computationa
 
 | Date       | Topic                               |
 |------------|-------------------------------------|
-| 8.10.2026   | INTRODUCTION                       |
-| 15.10.2026  | 1. The pope 					   |
-| 22.10.2026  | 2. The woman                	   |
-| 29.10.2026  | 3. The baby	                       |
-| 5.11.2026   | -Workshop Week - no class-	       |
-| 12.11.2026  | -Self Study-                       |
-| 19.11.2026  | 4. The animal                         |
-| 26.11.2026  | 5. The dress.                      |
-| 3.12.2026   | SUMMARY 			               |
+| 7.10.2026   | INTRODUCTION                       |
+| 14.10.2026  | 1. The pope 					   |
+| 21.10.2026  | 2. The woman                	   |
+| 28.10.2026  | 3. The baby	                       |
+| 4.11.2026   | -Workshop Week - no class-	       |
+| 11.11.2026  | -Self Study-                       |
+| 18.11.2026  | 4. The animal                         |
+| 25.11.2026  | 5. The dress.                      |
+| 2.12.2026   | SUMMARY 			               |
 
 
 ## Bibliography
@@ -112,10 +112,6 @@ Peter Weibel, “On the History and Aesthetics of the Digital Image”, in Ars E
 
 Joanna Zylinska, “The Creative Power of Nonhuman Photography”, in Photographic Powers, eds. Mika Elo & Marko Karo, Helsinki: Aalto ARTS, 2015, helsinkiphotomedia.aalto.fi/files/Photographic_Powers_Helsinki_Photomedia2014.pdf.
 
-
-## Timeline
-
-See the [https://www.photographic-flux.ch/](https://www.photographic-flux.ch/) project developed by Fotomuseum Winterthur for "timeline offering an overview of the history of photographic techniques, technical inventions and current phenomenon of visual culture – from heliography to computer-generated imagery, from the camera obscura to the selfie.":
 
 <!--Photography and the (Post-)Factual 2016–
 Selfie 2015–
@@ -199,15 +195,15 @@ Vom Darstellen zum Zirkulieren und von menschlichem Handeln zu computergestützt
 
 | Datum       | Thema                              |
 |-------------|------------------------------------|
-| 8.10.2026   | EINFÜHRUNG                         |
-| 15.10.2026  | 1. Der Papst                       |
-| 22.10.2026  | 2. Die Frau                        |
-| 29.10.2026  | 3. Das Baby                        |
-| 5.11.2026   | -Workshopwoche – kein Unterricht-  |
+| 7.10.2026   | EINFÜHRUNG                         |
+| 14.10.2026  | 1. Der Papst                       |
+| 21.10.2026  | 2. Die Frau                        |
+| 28.10.2026  | 3. Das Baby                        |
+| 4.11.2026   | -Workshopwoche – kein Unterricht-  |
 | 12.11.2026  | -Selbststudium-                    |
-| 19.11.2026  | 4. Das Tier                        |
-| 26.11.2026  | 5. Das Kleid                       |
-| 3.12.2026   | ZUSAMMENFASSUNG                    |
+| 18.11.2026  | 4. Das Tier                        |
+| 25.11.2026  | 5. Das Kleid                       |
+| 2.12.2026   | ZUSAMMENFASSUNG                    |
 
 
 ## Bibliografie
@@ -286,11 +282,6 @@ Hito Steyerl, “The Spam of the Earth: Withdrawal from Representation”, in e-
 Peter Weibel, “On the History and Aesthetics of the Digital Image”, in Ars Electronica, exh.-cat., 1984, 90.146.8.18/en/archives/festival_archive/festival_catalogs/festival_artikel.asp?iProjectID=9369.
 
 Joanna Zylinska, “The Creative Power of Nonhuman Photography”, in Photographic Powers, eds. Mika Elo & Marko Karo, Helsinki: Aalto ARTS, 2015, helsinkiphotomedia.aalto.fi/files/Photographic_Powers_Helsinki_Photomedia2014.pdf.
-
-
-## Zeitleiste
-
-Siehe das vom Fotomuseum Winterthur entwickelte Projekt [https://www.photographic-flux.ch/](https://www.photographic-flux.ch/), eine „Zeitleiste, die einen Überblick über die Geschichte der fotografischen Techniken, technischen Erfindungen und aktuellen Phänomene der visuellen Kultur bietet – von der Heliografie bis zu computergenerierten Bildern, von der Camera obscura bis zum Selfie“.
 
 
 ## Verhaltenskodex
