@@ -225,3 +225,39 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 ## Student_innen
 </div>
 
+- Matter Lisa
+
+- Kaufmann Lilian
+
+- Wegst Emily
+
+- Bröde Julia
+
+- Zhuk Diana
+
+- Schneider Lisa
+
+- Ebini Charleen
+
+- Bechinger Daria
+
+- Frenzel Josephine
+
+- Prechtel Liesbeth
+
+- Heidemann Lisa
+
+- Schopf Julia
+
+- Bär Titus 
+
+- Cepuran Mirjam
+
+- Mörbe Frederik
+
+- Ring Anni
+
+- Nicolai Annike
+
+- Lucia Mendaro
+
