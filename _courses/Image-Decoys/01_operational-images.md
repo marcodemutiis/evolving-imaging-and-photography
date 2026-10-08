@@ -23,7 +23,7 @@ Operational images, an idea Farocki articulated in 2000, describes images made f
 <figcaption>Harun Farocki, still from <em><a href="https://www.youtube.com/watch?v=r4sDXhHqndk">Eye/Machine I, Auge/Maschine I</a></em>, 2001</figcaption>
 
 ***
-### Can you think of an example of operational images?
+### Can you think of an example of operational images or seeing machines?
 Describe it in one sentence and add an image of it [here](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/)
 
 ***
@@ -87,7 +87,7 @@ Operative Bilder – ein Begriff, den Harun Farocki im Jahr 2000 formulierte –
 <figcaption>Harun Farocki, still from <em><a href="https://www.youtube.com/watch?v=r4sDXhHqndk">Eye/Machine I, Auge/Maschine I</a></em>, 2001</figcaption>
 
 ***
-### Fällt euch ein Beispiel für operative Bilder ein?
+### Fällt euch ein Beispiel für operative Bilder oder Sehende Maschinen ein?
 Beschreibt es in einem Satz und fügt ein Bild dazu [hier](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/) ein.
 
 ***
