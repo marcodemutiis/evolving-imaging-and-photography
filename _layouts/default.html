@@ -18,7 +18,11 @@
 
   <nav class="site-nav">
     <a href="{{ site.baseurl }}/" class="site-title">{{ site.title }}</a>
-    <ul class="site-nav-links">
+    <button class="nav-toggle" id="nav-toggle" type="button"
+            aria-label="Menu" aria-expanded="false" aria-controls="site-nav-links">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="site-nav-links" id="site-nav-links">
       <li><a href="#" onclick="toggleLang(event)" id="lang-toggle">DE</a></li>
       <li>
         <a href="{{ site.baseurl }}/">
@@ -132,6 +136,17 @@
 
     // Build ToC on load
     buildToc();
+
+    /* ---- Mobile menu ---- */
+    (function () {
+      var nav = document.querySelector('.site-nav');
+      var btn = document.getElementById('nav-toggle');
+      if (!nav || !btn) return;
+      btn.addEventListener('click', function () {
+        var open = nav.classList.toggle('nav-open');
+        btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    })();
 
     /* ---- Language Switch ---- */
     function toggleLang(e) {

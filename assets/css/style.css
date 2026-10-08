@@ -118,6 +118,33 @@ body {
   color: var(--color-text);
 }
 
+/* Mobile menu button (hidden on desktop, shown in the responsive block) */
+.nav-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+
+.nav-toggle span {
+  display: block;
+  width: 20px;
+  height: 1.5px;
+  margin-left: auto;
+  background: var(--color-text);
+  transition: transform 0.2s, opacity 0.2s;
+}
+
+.nav-open .nav-toggle span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
+.nav-open .nav-toggle span:nth-child(2) { opacity: 0; }
+.nav-open .nav-toggle span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
+
 /* ============================================
    PAGE WRAPPER (for sidebar layout)
    ============================================ */
@@ -516,22 +543,36 @@ figcaption em {
   h1 { font-size: 1.9rem; }
 
   .site-nav {
-  padding: var(--space-lg) var(--space-md) var(--space-md);
-  flex-wrap: wrap;
-  row-gap: 0.25rem;
-}
+    padding: var(--space-lg) var(--space-md) var(--space-md);
+    flex-wrap: wrap;
+    align-items: center;
+  }
 
-.site-title {
-  flex: 0 0 100%;
-}
+  .site-title {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
 
-.site-nav-links {
-  margin: 0;
-  padding: 0;
-  gap: 1.25rem;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-}
+  .nav-toggle { display: flex; }
+
+  .site-nav-links {
+    display: none;
+    flex: 0 0 100%;
+    flex-direction: column;
+    gap: 0;
+    margin-top: var(--space-md);
+  }
+
+  .site-nav.nav-open .site-nav-links { display: flex; }
+
+  .site-nav-links li { margin-bottom: 0; }
+
+  .site-nav-links a {
+    display: block;
+    padding: 0.65rem 0;
+    font-size: 0.95rem;
+    border-top: 1px solid var(--color-border-light);
+  }
 
   .container {
     padding: 0 var(--space-md) var(--space-xl);
@@ -548,4 +589,3 @@ figcaption em {
    ============================================ */
 [data-lang="en"] .lang-de { display: none; }
 [data-lang="de"] .lang-en { display: none; }
-
