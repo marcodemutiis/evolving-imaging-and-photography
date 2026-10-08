@@ -294,7 +294,7 @@ German photographer Michael Wesely is known for extreme long-exposure photograph
 Where architectural photography has traditionally sought to fix and idealise the finished building, Wesely's work records architecture as process—as duration, change, and labour made visible. The photograph becomes less a document of a building than a document of time itself, held within a frame. The project also carries an unintended historical resonance: because the exposure began in August 2001 and the cameras were still running on 11 September of that year, traces of the World Trade Center's destruction are embedded within the image, though the site lay outside the frame.
 
 ## Assignment
-Create between 1 and 5 portraits. 
+Create between 1 and 5 portraits. Choose one of the projects in the class and remake them following the style, rules of composition and lighting.
 [https://docs.google.com/document/d/1QR50toGt82UPzHh4l9oyBnHd8J9Sl0rxtWLYyFTZTUk/edit?usp=sharing](https://docs.google.com/document/d/1QR50toGt82UPzHh4l9oyBnHd8J9Sl0rxtWLYyFTZTUk/edit?usp=sharing)
 
 
@@ -641,7 +641,7 @@ Während die Architekturfotografie traditionell darauf ausgerichtet ist, das fer
 
 
 ## Aufgabe
-Erstelle zwischen 1 und 5 Porträts.
+Erstelle zwischen 1 und 5 Porträts. Wähle eines der im Unterricht behandelten Projekte aus und setze es unter Berücksichtigung des jeweiligen Stils, der Regeln der Bildkomposition und der Beleuchtung neu um.
 [https://docs.google.com/document/d/1QR50toGt82UPzHh4l9oyBnHd8J9Sl0rxtWLYyFTZTUk/edit?usp=sharing](https://docs.google.com/document/d/1QR50toGt82UPzHh4l9oyBnHd8J9Sl0rxtWLYyFTZTUk/edit?usp=sharing)
 
 </div>
