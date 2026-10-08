@@ -86,17 +86,20 @@ Mishka Henner, *Photography Is*, 2010: [https://mishkahenner.com/Photography-Is-
 
 | Date       | Topic                               |
 |------------|-------------------------------------|
-| 7.4.2026   | Introduction                        |
-| 14.4.2026  | Policing & Surveilling              |
-| 21.4.2026  | Archiving & Indexing			  	   |
-| 28.4.2026  | Witnessing & Mourning 		       |
-| 5.5.2026   | Remembering & Translating    	   |
-| 12.5.2026  | Presentations           	   		   |
-| 2.6.2026   | Feeling & Seducing	      		   |
-| 9.6.2026   | Constructing & Simulating	  	   |
-| 16.6.2026  | Collecting & Circulating. 		   |
-| 23.6.2026  | Final Projects (self study)	       |
-| 30.6.2026  | Final Projects        			   |
+| 8.10.2026   | Introduction                        |
+| 15.10.2026  | Policing & Surveilling              |
+| 22.10.2026  | Archiving & Indexing			  	   |
+| 29.10.2026  | Witnessing & Mourning 		       |
+| 5.11.2026   | **Workshop Week**    	   |
+| 12.11.2026  | **Self Study**            	   		   |
+| 19.11.2026   | Remembering & Translating 	      		   |
+| 26.11.2026   | Feeling & Seducing	  	   |
+| 3.12.2026  | Constructing & Simulating 		   |
+| 10.12.2026  | Collecting & Circulating	       |
+| 17.12.2026  | **PRESENTATIONS**        			   |
+| 7.1.2027  | Final Projects        			   |
+| 14.1.2027  | Final Projects        			   |
+| 21.1.2027  | **FINAL PRESENTATIONS**       			   |
 
 
 ## Tools and Resources
@@ -173,7 +176,7 @@ Debate, critical inquiry, and the free exchange of ideas are not only permitted 
 
 It is my intent that students from all backgrounds and perspectives be well served by this course, and that the diversity you bring to the classroom be recognised as a genuine resource and strength. I will design activities that value and accommodate a diversity of experiences and viewpoints. I will gladly address you by the name and pronoun you specify. I am also committed to making individual arrangements for disabilities or religious needs — please let me know early in the semester so we can plan together.
 
-
+## Students
 </div>
 
 <div class="lang-de" markdown="1">
@@ -250,17 +253,20 @@ Mishka Henner, *Photography Is*, 2010: [https://mishkahenner.com/Photography-Is-
 
 | Datum      | Thema                              |
 |------------|------------------------------------|
-| 7.4.2026   | Einführung                         |
-| 14.4.2026  | Kontrollieren & Überwachen         |
-| 21.4.2026  | Archivieren & Ordnen               |
-| 28.4.2026  | Bezeugen & Trauern                 |
-| 5.5.2026   | Erinnern & Übersetzen              |
-| 12.5.2026  | Präsentationen            	      |
-| 2.6.2026   | Fühlen & Verführen                 |
-| 9.6.2026   | Konstruieren & Simulieren          |
-| 16.6.2026  | Sammeln & Zirkulieren              |
-| 23.6.2026  | Abschlussprojekte (self study)     |
-| 30.6.2026  | Abschlussprojekte                  |
+| 8.10.2026  | Einführung                         |
+| 15.10.2026 | Kontrollieren & Überwachen         |
+| 22.10.2026 | Archivieren & Ordnen               |
+| 29.10.2026 | Bezeugen & Trauern                 |
+| 5.11.2026  | **Workshop-Woche**                 |
+| 12.11.2026 | **Selbststudium**                  |
+| 19.11.2026 | Erinnern & Übersetzen              |
+| 26.11.2026 | Fühlen & Verführen                 |
+| 3.12.2026  | Konstruieren & Simulieren          |
+| 10.12.2026 | Sammeln & Zirkulieren              |
+| 17.12.2026 | **PRÄSENTATIONEN**                 |
+| 7.1.2027   | Abschlussprojekte                  |
+| 14.1.2027  | Abschlussprojekte                  |
+| 21.1.2027  | **ABSCHLUSSPRÄSENTATIONEN**        |
 
 
 ## Werkzeuge und Ressourcen
@@ -337,4 +343,47 @@ Debatten, kritisches Denken und der freie Austausch von Ideen sind nicht nur erl
 
 Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspektiven von diesem Kurs gleichermaßen profitieren und dass die Vielfalt, die ihr in den Unterricht einbringt, als echte Ressource und Stärke anerkannt wird. Ich werde Lehrformate gestalten, die eine Vielfalt von Erfahrungen und Standpunkten wertschätzen und einbeziehen. Ich werde euch gerne mit dem Namen und Pronomen ansprechen, das ihr mir mitteilt. Ich verpflichte mich auch dazu, individuelle Vereinbarungen bei Behinderungen oder religiösen Bedürfnissen zu treffen — bitte gebt mir möglichst früh im Semester Bescheid, damit wir gemeinsam planen können.
 
+## Studierende
 </div>
+
+- Jannik Dörr
+
+- Hektor von Canstein
+
+- Lena Gruber
+
+- Benno Habicher
+
+- Lotta Hamberger
+
+- Antonie Hartinger
+
+- Mathis Kleinschmit
+
+- Fee Klis
+
+- Malina Klug
+
+- Mara Knapp
+
+- Stefanie Läufle
+
+- Jan Mäding
+
+- Marta Manger
+
+- Johan Mangold
+
+- Emilia Mayer
+
+- Elina Schäfer
+
+- Miriam Sikiric
+
+- Emma Thelen
+
+- Lily Noa Weich
+
+- Simon Wernert
+
+- Joline Würz
