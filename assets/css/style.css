@@ -518,11 +518,12 @@ figcaption em {
   .site-nav {
   padding: var(--space-lg) var(--space-md) var(--space-md);
   flex-wrap: wrap;
-  row-gap: 0.25rem;
+  row-gap: 0.15rem;
 }
 
 .site-title {
   flex: 0 0 100%;
+  line-height: 1.2;
 }
 
 .site-nav-links {
@@ -531,6 +532,11 @@ figcaption em {
   gap: 1.25rem;
   flex-wrap: wrap;
   justify-content: flex-start;
+}
+
+.site-nav-links li {
+  margin-bottom: 0;
+  line-height: 1.2;
 }
 
   .container {
