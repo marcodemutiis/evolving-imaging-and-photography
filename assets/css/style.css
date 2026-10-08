@@ -518,7 +518,7 @@ figcaption em {
   .site-nav {
   padding: var(--space-lg) var(--space-md) var(--space-md);
   flex-wrap: wrap;
-  row-gap: 0.15rem;
+  row-gap: 0.0 rem;
 }
 
 .site-title {
