@@ -22,9 +22,11 @@ Operational images, an idea Farocki articulated in 2000, describes images made f
 <iframe width="800" height="450" src="https://www.youtube.com/embed/r4sDXhHqndk?si=-od2OgiQVGIL0Xjy" title="Harun Faocki - Eye/Machine I" frameborder="0" allowfullscreen></iframe>
 <figcaption>Harun Farocki, still from <em><a href="https://www.youtube.com/watch?v=r4sDXhHqndk">Eye/Machine I, Auge/Maschine I</a></em>, 2001</figcaption>
 
-
+***
 ### Can you think of an example of operational images?
 Describe it in one sentence and add an image of it [here](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/)
+***
+
 
 
 On the other hand, artists and practitioners have engaged with the tensions of the operational image as a form of tactical media, understanding its logic in order to carve out spaces for resistance and critique against dominant and commercial image regimes. They have understood the way machines operate and develop traps, baits, counterstrategies that do not reject the algorithmic layers of the image but reclaim it and weaponise it, turning the image into a decoy. Borrowed from the language of military and cybersecurity contexts, the notion of the decoy captures how these images act within algorithmic, political, and aesthetic systems as instruments of misdirection or resistance. Rather than being passively consumed as traditional photographs, they perform interventions, targeting the protocols that structure visual culture today, and exploiting the tension between an image's representational surface and its underlying operations.
@@ -83,10 +85,10 @@ Operative Bilder – ein Begriff, den Harun Farocki im Jahr 2000 formulierte –
 <iframe width="800" height="450" src="https://www.youtube.com/embed/r4sDXhHqndk?si=-od2OgiQVGIL0Xjy" title="Harun Farocki - Eye/Machine I" frameborder="0" allowfullscreen></iframe>
 <figcaption>Harun Farocki, still from <em><a href="https://www.youtube.com/watch?v=r4sDXhHqndk">Eye/Machine I, Auge/Maschine I</a></em>, 2001</figcaption>
 
-
+***
 ### Fällt euch ein Beispiel für operative Bilder ein?
 Beschreibt es in einem Satz und fügt ein Bild dazu [hier](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/) ein.
-
+***
 
 Auf der anderen Seite haben sich Künstler:innen und Praktiker:innen als eine Form von Tactical Media mit den Spannungen des operativen Bildes auseinandergesetzt. Sie verstehen seine Logik, um Räume für Widerstand und Kritik gegenüber den dominanten und kommerziellen Bildregimen zu öffnen. Sie haben begriffen, wie Maschinen operieren, und entwickeln Fallen, Köder und Gegenstrategien, die die algorithmischen Schichten des Bildes nicht zurückweisen, sondern sie sich aneignen und als Waffe wenden – das Bild wird zum Decoy (Köder). Der Begriff des Decoy stammt aus militärischen und cybersicherheitsbezogenen Kontexten und beschreibt, wie diese Bilder innerhalb algorithmischer, politischer und ästhetischer Systeme als Instrumente der Ablenkung oder des Widerstands wirken. Statt wie traditionelle Fotografien passiv konsumiert zu werden, führen sie Interventionen durch, die auf die Protokolle zielen, welche die heutige visuelle Kultur strukturieren, und nutzen die Spannung zwischen der repräsentationalen Oberfläche eines Bildes und seinen zugrunde liegenden Operationen aus.
 
