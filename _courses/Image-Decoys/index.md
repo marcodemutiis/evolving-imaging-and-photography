@@ -14,7 +14,7 @@ published: true
 <div class="lang-en" markdown="1">
 
 ## Course Info
-B4/5/6 Medien und Publikationen (5 SWS)
+B4/5/6 Medien und Publikationen (5 SWS/10 ECTS)
 
 ## Lecturer
 Marco De Mutiis
