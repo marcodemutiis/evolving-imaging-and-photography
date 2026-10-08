@@ -11,6 +11,16 @@ published: true
 
 <div class="lang-en" markdown="1">
 
+We start with a question: "Well, what is Photography"
+
+How do *you* define photography? What is photography *for you*?
+
+***
+
+Mishka Henner, *Photography Is*, 2010: [https://mishkahenner.com/Photography-Is-1](https://mishkahenner.com/Photography-Is-1)
+
+***
+
 ## Topics and concepts
 
 ### I. Power and Institution
@@ -168,6 +178,15 @@ It is my intent that students from all backgrounds and perspectives be well serv
 
 <div class="lang-de" markdown="1">
 
+Wir beginnen mit einer Frage: Ja, was ist Sie denn, die Fotografie?“
+
+Wie würdest du Fotografie definieren? Was bedeutet Fotografie für dich?
+
+***
+
+Mishka Henner, *Photography Is*, 2010: [https://mishkahenner.com/Photography-Is-1](https://mishkahenner.com/Photography-Is-1)
+
+***
 
 ## Themen und Konzepte
 
