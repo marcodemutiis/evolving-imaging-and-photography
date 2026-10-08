@@ -346,44 +346,50 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 ## Studierende
 </div>
 
-- Jannik Dörr
+[BKD]
 
-- Hektor von Canstein
+- Jannik Dörr v
 
-- Lena Gruber
+- Hektor von Canstein x
 
-- Benno Habicher
+- Lena Gruber v
 
-- Lotta Hamberger
+- Benno Habicher v
 
-- Antonie Hartinger
+- Lotta Hamberger v
 
-- Mathis Kleinschmit
+- Antonie Hartinger v
 
-- Fee Klis
+- Mathis Kleinschmit v
 
-- Malina Klug
+- Fee Klis v
 
-- Mara Knapp
+- Malina Klug v
 
-- Stefanie Läufle
+- Mara Knapp v
 
-- Jan Mäding
+- Stefanie Läufle v
 
-- Marta Manger
+- Jan Mäding x
 
-- Johan Mangold
+- Marta Manger v
 
-- Emilia Mayer
+- Johan Mangold v
 
-- Elina Schäfer
+- Emilia Mayer v
 
-- Miriam Sikiric
+- Elina Schäfer v
 
-- Emma Thelen
+- Miriam Sikiric v
 
-- Lily Noa Weich
+- Emma Thelen v
 
-- Simon Wernert
+- Lily Noa Weich v
 
-- Joline Würz
+- Simon Wernert v
+
+- Joline Würz v
+
+[MKD]
+
+- Alicia Rank
