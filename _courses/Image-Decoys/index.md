@@ -20,7 +20,7 @@ B4/5/6 Medien und Publikationen (5 SWS)
 Marco De Mutiis
 
 ## Date and Location
-Thursday, 10:00–14:00. L303
+Thursday, 10:00–14:00. L302
 
 ## About
 This course explores the role of digital images as tools of deceit, distraction, and lure. Specifically, it looks at how the relation between the image's representational surface and hidden algorithmic properties has been recognised, learnt, and exploited by critical artists, designers, creative technologists as well as internet users. The course invites students to understand the different logics of human vision and algorithmic spectatorship, and how operational images are "seen" differently by human and non-human actors. 
@@ -42,7 +42,7 @@ B4/5/6 Medien und Publikationen (5 SWS/10 ECTS)
 ## Dozent
 Marco De Mutiis
 ## Termin und Ort
-Donnerstag, 10:00–14:00 Uhr. L303
+Donnerstag, 10:00–14:00 Uhr. L302
 
 ## Inhalt
 Dieser Kurs untersucht die Rolle digitaler Bilder als Werkzeuge der Täuschung, Ablenkung und Verführung. Insbesondere geht es darum, wie die Beziehung zwischen ihrer repräsentativen Oberfläche und verborgenen algorithmischen Eigenschaften von kritischen Künstler:innen, Designer:innen, Creative Technologists sowie Internetnutzer:innen erkannt, erlernt und genutzt wird. Der Kurs lädt die Studierenden dazu ein, die unterschiedlichen Logiken menschlichen Sehens und algorithmischer Betrachtung zu verstehen, und wie operative Bilder von menschlichen und nicht-menschlichen Akteuren unterschiedlich "gesehen" werden. 
