@@ -1,8 +1,8 @@
 ---
-title: "Example Tutorial"
-title_de: "Beispiel-Tutorial"
-description: "A placeholder tutorial for testing the Tutorials section. Delete once everything works."
-description_de: "Ein Platzhalter-Tutorial zum Testen des Tutorials-Bereichs. Nach dem Test löschen."
+title: "LoRA"
+title_de: "LoRA"
+description: "How to create a LoRA"
+description_de: "How to create a LoRA"
 order: 1
 ---
 
