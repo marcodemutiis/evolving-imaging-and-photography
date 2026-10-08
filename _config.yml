@@ -14,6 +14,9 @@ collections:
   courses:
     output: true
     permalink: /:collection/:path/
+  tutorials:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   - scope:
@@ -21,3 +24,8 @@ defaults:
       type: "courses"
     values:
       layout: "lesson"
+  - scope:
+      path: ""
+      type: "tutorials"
+    values:
+      layout: "tutorial"

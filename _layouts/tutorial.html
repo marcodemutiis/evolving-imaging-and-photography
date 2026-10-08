@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="breadcrumb">
+  <span class="lang-en"><a href="{{ site.baseurl }}/tutorials/">Tutorials</a> /</span>
+  <span class="lang-de"><a href="{{ site.baseurl }}/tutorials/">Tutorials</a> /</span>
+</div>
+
+<h1>
+  <span class="lang-en">{{ page.title }}</span>
+  <span class="lang-de">{{ page.title_de | default: page.title }}</span>
+</h1>
+
+{{ content }}
+
+<script src="{{ '/assets/js/lightbox.js' | relative_url }}"></script>
+<script>document.body.classList.add('lesson-page');</script>

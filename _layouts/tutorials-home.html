@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<h1>
+  <span class="lang-en">Tutorials</span>
+  <span class="lang-de">Tutorials</span>
+</h1>
+
+<ul class="course-list">
+{% assign tutorial_pages = site.tutorials | sort: "order" %}
+{% for tutorial in tutorial_pages %}
+  <li class="course-card">
+    <a href="{{ tutorial.url | relative_url }}">
+      <div class="course-card-title">
+        <span class="lang-en">{{ tutorial.title }}</span>
+        <span class="lang-de">{{ tutorial.title_de | default: tutorial.title }}</span>
+      </div>
+      <div class="course-card-desc">
+        <span class="lang-en">{{ tutorial.description }}</span>
+        <span class="lang-de">{{ tutorial.description_de | default: tutorial.description }}</span>
+      </div>
+    </a>
+  </li>
+{% endfor %}
+</ul>
