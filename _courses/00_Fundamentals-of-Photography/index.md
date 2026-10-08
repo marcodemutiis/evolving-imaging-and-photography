@@ -18,7 +18,7 @@ published: true
 Marco De Mutiis
 
 ## Date and Location
-Tuesday, 14:00 – 16:15
+Tuesday, 14:00 – 16:15, L102
 
 ## About
 This course explores the fundamentals of photography, tracing its development over the past 200 years to the present day. Rather than approaching photography as a single, unified medium, it opens it up as a field of competing practices, functions, meanings and ways of seeing. Students learn the work of some of the most relevant photographers, in combination with applied notions of composition, light and other photographic techniques. Students are tasked to create photographs ranging from scientific documentation to typological series, from social documentary to product photography, and from portrait to fashion photography.
@@ -80,7 +80,7 @@ The project must contain:
 Marco De Mutiis
 
 ## Termin und Ort
-Dienstag, 14:00–16:15 Uhr – L102
+Dienstag, 14:00–16:15 Uhr, L102
 
 ## Inhalt
 Dieser Kurs vermittelt die Grundlagen der Fotografie und zeichnet ihre Entwicklung von den Anfängen vor rund 200 Jahren bis in die Gegenwart nach. Anstatt Fotografie als ein einheitliches Medium zu verstehen, wird sie als vielfältiges Feld unterschiedlicher Praktiken, Funktionen, Bedeutungen und Sichtweisen betrachtet. Die Studierenden setzen sich mit den Arbeiten einiger der bedeutendsten Fotograf:innen auseinander und erwerben zugleich anwendungsorientierte Kenntnisse in Bildkomposition, Lichtführung und weiteren fotografischen Techniken. Im praktischen Teil erstellen sie fotografische Arbeiten, die von wissenschaftlicher Dokumentation über typologische Serien und sozialdokumentarische Fotografie bis hin zu Produkt-, Porträt- und Modefotografie reichen.
