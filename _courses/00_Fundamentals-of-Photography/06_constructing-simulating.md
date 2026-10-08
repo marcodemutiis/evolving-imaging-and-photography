@@ -15,7 +15,7 @@ published: true
 
 ## Presentations
 
-Upload a screenshot of your assignment with your name and a caption on [this online document](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?tab=t.474wbk8z16v2)
+Upload a screenshot of your assignment with your name and a caption on [this online document](https://docs.google.com/document/d/1QR50toGt82UPzHh4l9oyBnHd8J9Sl0rxtWLYyFTZTUk/edit?usp=sharing)
 
 ***
 
@@ -164,7 +164,7 @@ Make a series of 3–5 images in which you construct the reality you photograph 
 
 ## Präsentationen
 
-Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument](https://docs.google.com/document/d/1HhUqfjcWuEQY8Yahqq15FhZdshRvc3VyZPGa4Qd5EpQ/edit?tab=t.474wbk8z16v2) hoch.
+Lade einen Screenshot deiner Aufgabe mit deinem Namen und einer Bildunterschrift in [dieses Online-Dokument](https://docs.google.com/document/d/1QR50toGt82UPzHh4l9oyBnHd8J9Sl0rxtWLYyFTZTUk/edit?usp=sharing) hoch.
 
 ***
 

@@ -34,8 +34,12 @@ Students will develop a critical understanding of the history and diversity of p
 Students will submit a self-directed final project, choosing one of the following formats:
 
 A. A photographic series of 5–10 prints  
-B. A photo book dummy (printed and as PDF)  
-C. A digital project (website, digital collage, or interactive documentary)
+B. A photo book dummy (printed and as PDF)
+
+Students will create their project choosing from three possible genres explored in class:
+- Portrait photography
+- Product photography
+- Staged photography  
 
 Send your project proposals to Marco.DeMutiis@htwg-konstanz.de as pdf. Each proposal should contain:
 - Name, Project Title
@@ -61,7 +65,7 @@ Ein Moodboard mit Referenzen aus dem Unterricht oder aus anderen Quellen
 
 ## Final Projects
 
-Upload your final project as a folder with your name and surname here: [https://drive.google.com/drive/folders/1yRUPXO4p2U6T80Zartz8Tq2ydVhDLmf-](https://drive.google.com/drive/folders/1yRUPXO4p2U6T80Zartz8Tq2ydVhDLmf-)
+Upload your final project as a folder with your name and surname here: [drive.google.com/drive/folders/1YwnKvQSQOr8Tq6BCSuvQircsy6svf7oh](https://drive.google.com/drive/folders/1YwnKvQSQOr8Tq6BCSuvQircsy6svf7oh?usp=sharing)
 
 The project must contain:
 
@@ -92,8 +96,13 @@ Die Studierenden entwickeln ein kritisches Verständnis der Geschichte und Vielf
 Die Studierenden weisen ihre Lernfortschritte durch ein eigenständiges Abschlussprojekt nach. Dabei wählen sie eines der folgenden Formate:
 
 A. Eine fotografische Serie von 5–10 Abzügen  
-B. Ein Fotobuch-Dummy (gedruckt und als PDF)  
-C. Ein digitales Projekt (Website, digitale Collage oder interaktiver Dokumentarfilm)
+B. Ein Fotobuch-Dummy (gedruckt und als PDF)
+
+Die Studierenden erstellen ihr Projekt und wählen dabei aus drei möglichen Genres, die im Unterricht behandelt wurden:
+
+- Porträtfotografie
+- Produktfotografie
+- Inszenierte Fotografie
 
 Sendet eure Projektvorschläge als PDF an Marco.DeMutiis@htwg-konstanz.de. Jeder Vorschlag sollte Folgendes enthalten:
 
@@ -105,7 +114,7 @@ Sendet eure Projektvorschläge als PDF an Marco.DeMutiis@htwg-konstanz.de. Jeder
 
 ## Abschlussprojekte
 
-Lädt euer Abschlussprojekt hier als Ordner mit eurem Vor- und Nachnamen hoch: [https://drive.google.com/drive/folders/1yRUPXO4p2U6T80Zartz8Tq2ydVhDLmf-](https://drive.google.com/drive/folders/1yRUPXO4p2U6T80Zartz8Tq2ydVhDLmf-)
+Lädt euer Abschlussprojekt hier als Ordner mit eurem Vor- und Nachnamen hoch: [drive.google.com/drive/folders/1YwnKvQSQOr8Tq6BCSuvQircsy6svf7oh](https://drive.google.com/drive/folders/1YwnKvQSQOr8Tq6BCSuvQircsy6svf7oh?usp=sharing)
 
 Das Projekt muss Folgendes enthalten:
 
