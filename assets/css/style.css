@@ -516,19 +516,22 @@ figcaption em {
   h1 { font-size: 1.9rem; }
 
   .site-nav {
-    padding: var(--space-lg) var(--space-md) var(--space-md);
-    flex-wrap: wrap;
-    row-gap: 0.75rem;
-  }
+  padding: var(--space-lg) var(--space-md) var(--space-md);
+  flex-wrap: wrap;
+  row-gap: 0.25rem;
+}
 
-  .site-title {
-    flex: 0 0 100%;
-  }
+.site-title {
+  flex: 0 0 100%;
+}
 
-  .site-nav-links {
-    gap: 1.25rem;
-    flex-wrap: wrap;
-  }
+.site-nav-links {
+  margin: 0;
+  padding: 0;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
 
   .container {
     padding: 0 var(--space-md) var(--space-xl);
