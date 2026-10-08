@@ -25,6 +25,7 @@ Operational images, an idea Farocki articulated in 2000, describes images made f
 ***
 ### Can you think of an example of operational images?
 Describe it in one sentence and add an image of it [here](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/)
+
 ***
 
 
@@ -88,6 +89,7 @@ Operative Bilder – ein Begriff, den Harun Farocki im Jahr 2000 formulierte –
 ***
 ### Fällt euch ein Beispiel für operative Bilder ein?
 Beschreibt es in einem Satz und fügt ein Bild dazu [hier](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/) ein.
+
 ***
 
 Auf der anderen Seite haben sich Künstler:innen und Praktiker:innen als eine Form von Tactical Media mit den Spannungen des operativen Bildes auseinandergesetzt. Sie verstehen seine Logik, um Räume für Widerstand und Kritik gegenüber den dominanten und kommerziellen Bildregimen zu öffnen. Sie haben begriffen, wie Maschinen operieren, und entwickeln Fallen, Köder und Gegenstrategien, die die algorithmischen Schichten des Bildes nicht zurückweisen, sondern sie sich aneignen und als Waffe wenden – das Bild wird zum Decoy (Köder). Der Begriff des Decoy stammt aus militärischen und cybersicherheitsbezogenen Kontexten und beschreibt, wie diese Bilder innerhalb algorithmischer, politischer und ästhetischer Systeme als Instrumente der Ablenkung oder des Widerstands wirken. Statt wie traditionelle Fotografien passiv konsumiert zu werden, führen sie Interventionen durch, die auf die Protokolle zielen, welche die heutige visuelle Kultur strukturieren, und nutzen die Spannung zwischen der repräsentationalen Oberfläche eines Bildes und seinen zugrunde liegenden Operationen aus.
