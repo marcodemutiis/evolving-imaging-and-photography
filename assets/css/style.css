@@ -363,6 +363,12 @@ video {
   border-radius: 6px;
   margin-bottom: var(--space-md);
 }
+/* ============================================
+   IFRAME EMBEDS
+   ============================================ */
+iframe {
+  max-width: 100%;
+}
 
 /* ============================================
    IMAGE CAPTIONS
