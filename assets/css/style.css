@@ -353,6 +353,16 @@ img {
   border-radius: 6px;
   margin-bottom: var(--space-xs);
 }
+/* ============================================
+   VIDEO
+   ============================================ */
+video {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: var(--space-md);
+}
 
 /* ============================================
    IMAGE CAPTIONS

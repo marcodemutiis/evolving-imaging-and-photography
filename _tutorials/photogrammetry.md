@@ -98,7 +98,9 @@ In Scaniverse, photogrammetry produces a **mesh**. On phones with a LiDAR scanne
 
 Splat mode is the better choice for whole scenes, such as a corner of a room, a tree, a shop window or a street, and for subjects with hair, foliage or reflective detail. Splats also capture the background and the sky, so include them.
 
-<!-- IMAGE: Scaniverse splat mode -->
+<video controls playsinline preload="metadata" width="800">
+  <source src="{{ site.baseurl }}/tutorials/assets/PG_scaniverse_gaussianSplatRecording.mp4" type="video/mp4">
+</video>
 
 1. Open Scaniverse, start a new scan and choose the splat mode.
 2. Walk at a slow, natural pace in a smooth arc or circle around your subject, keeping it in view. For a space, walk slowly through it and turn gradually rather than sharply.
@@ -268,7 +270,9 @@ In Scaniverse erzeugt die Fotogrammetrie ein **Mesh**. Bei Smartphones mit LiDAR
 
 Der Splat-Modus ist die bessere Wahl für ganze Szenen, etwa eine Zimmerecke, einen Baum, ein Schaufenster oder eine Straße, und für Motive mit Haaren, Laub oder spiegelnden Details. Splats erfassen auch den Hintergrund und den Himmel, bezieht sie also mit ein.
 
-<!-- IMAGE: Scaniverse splat mode -->
+<video controls playsinline preload="metadata" width="800">
+  <source src="{{ site.baseurl }}/tutorials/assets/PG_scaniverse_gaussianSplatRecording.mp4" type="video/mp4">
+</video>
 
 1. Öffnet Scaniverse, startet einen neuen Scan und wählt den Splat-Modus.
 2. Geht in langsamem, natürlichem Tempo in einem sanften Bogen oder Kreis um euer Motiv und behaltet es im Blick. Durch einen Raum geht ihr langsam hindurch und dreht euch allmählich statt abrupt.
