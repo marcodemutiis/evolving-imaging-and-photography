@@ -186,12 +186,12 @@ In this method you hide the secret image in the weakest bits of the cover image'
 First install the Pillow image library: type `pip3 install pillow` in Terminal. Then save the following script as `hide_image.py`:
 
 ```python
-"""Hide one image inside another image, and get it back.
+# Hide one image inside another image, and get it back.
 
-Usage:
-  python3 hide_image.py hide cover.png secret.png output.png
-  python3 hide_image.py reveal output.png revealed.png
-"""
+# Usage:
+#  python3 hide_image.py hide cover.png secret.png output.png
+#  python3 hide_image.py reveal output.png revealed.png
+
 import sys
 from PIL import Image, ImageChops
 
@@ -443,12 +443,12 @@ Bei dieser Methode versteckt ihr das geheime Bild in den schwächsten Bits der F
 Installiert zuerst die Bildbibliothek Pillow: Gebt `pip3 install pillow` im Terminal ein. Speichert dann das folgende Skript als `hide_image.py`:
 
 ```python
-"""Versteckt ein Bild in einem anderen Bild und holt es wieder heraus.
+# Versteckt ein Bild in einem anderen Bild und holt es wieder heraus.
 
-Aufruf:
-  python3 hide_image.py hide cover.png secret.png output.png
-  python3 hide_image.py reveal output.png revealed.png
-"""
+# Aufruf:
+#  python3 hide_image.py hide cover.png secret.png output.png
+#  python3 hide_image.py reveal output.png revealed.png
+
 import sys
 from PIL import Image, ImageChops
 

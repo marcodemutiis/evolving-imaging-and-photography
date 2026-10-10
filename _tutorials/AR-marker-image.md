@@ -157,6 +157,8 @@ When you are happy with your effect, click `Submit` in the toolbar and complete 
 
 ### Install 8th Wall Desktop
 
+https://8thwall.org/docs/studio/guides/xr/image-targets
+
 1. Go to <a href="https://8thwall.org/">8thwall.org</a> and download 8th Wall Desktop for Mac or Windows from the downloads page. Run the installer and open the app.
 2. Create a new project, or open an existing one. 8th Wall is free to use and does not require a login.
 
