@@ -13,6 +13,10 @@ published: true
 
 Photogrammetry and Gaussian splatting are two ways of turning a series of photographs into a 3D scene you can move around in. In this tutorial you will scan an object and a space with your phone using Scaniverse, compare the two methods, and publish the result on the web with Spline.
 
+![An illustration of how photogrammetry works]({{ site.baseurl }}/tutorials/assets/PG_photogrammetryIllustration.jpg)
+<figcaption>‘Point cloud’ of the Three Graces by Antonio Canova © <a href="https://factumfoundation.org/technology/3d-digitisation/close-range-photogrammetry/">Factum Foundation</a></figcaption>
+
+
 <blockquote>Photogrammetry is the science of creating measurements from many photographs. This process combines photographs to produce information for maps, measurements or 3D models of objects or scenes.
 
 While the concept of photogrammetry dates back to Leonardo Da Vinci (1452–1519), the first use of photogrammetry was by French physicist François Arago (1786–1853) in 1840 using daguerreotypes. In 1849 French scientist Aimé Laussedat (1819–1907) was the first person to use photographs to put together topographic maps – earning the title of the “Father of Photogrammetry” – and later experimented with kites and air balloons to take aerial photographs and combine them into maps. Aerial photogrammetry means using images gathered in the air by aircrafts to create detailed maps of an area. The American invention of the aeroplane in 1903 by the brothers Wilbur Wright (1867–1912) and Orville Wright (1871–1948) led to the use of cameras mounted on aircrafts pointing downward and the development of aerial photogrammetry. Currently, many overlapping photographs of the ground are taken along a plane or drone flight path and are later changed into computer-made 2D and 3D maps.
@@ -116,7 +120,7 @@ If something goes wrong:
 
 ## Exporting your model
 
-![From scanning to exporting your model]({{ site.baseurl }}/utorials/assets/PG_scaniverse_scanExport.png)
+![From scanning to exporting your model]({{ site.baseurl }}/tutorials/assets/PG_scaniverse_scanExport.png)
 
 ### Export your model to your computer
 
@@ -175,6 +179,9 @@ Spline also offers a **Viewer** export, which embeds the scene as a web componen
 ## Überblick
 
 Fotogrammetrie und Gaussian Splatting sind zwei Verfahren, um aus einer Reihe von Fotografien eine 3D-Szene zu erzeugen, in der ihr euch bewegen könnt. In diesem Tutorial scannt ihr mit Scaniverse ein Objekt und einen Raum mit eurem Smartphone, vergleicht die beiden Verfahren und veröffentlicht das Ergebnis mit Spline im Web.
+
+![An illustration of how photogrammetry works]({{ site.baseurl }}/tutorials/assets/PG_photogrammetryIllustration.jpg)
+<figcaption>‘Point cloud’ of the Three Graces by Antonio Canova © <a href="https://factumfoundation.org/technology/3d-digitisation/close-range-photogrammetry/">Factum Foundation</a></figcaption>
 
 <blockquote>Photogrammetry is the science of creating measurements from many photographs. This process combines photographs to produce information for maps, measurements or 3D models of objects or scenes.
 
@@ -279,7 +286,7 @@ Wenn etwas schiefgeht:
 
 ## Euer Modell exportieren
 
-![From scanning to exporting your model]({{ site.baseurl }}/utorials/assets/PG_scaniverse_scanExport.png)
+![From scanning to exporting your model]({{ site.baseurl }}/tutorials/assets/PG_scaniverse_scanExport.png)
 
 ### Euer Modell auf den Computer exportieren
 
