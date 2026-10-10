@@ -67,6 +67,9 @@ For hiding an image in an image, this tutorial also uses a short script in Pytho
 
 ## Before you start
 
+![Gursky]({{ site.baseurl }}/tutorials/assets/SG_gursky-amazon-original.jpg)
+<figcaption>Andreas Gursky, <em>Amazon</em>, 2016</figcaption>
+
 - **Choose a busy photograph as the cover image.** Photographs with texture, grain and detail hide changes well. Flat graphics, screenshots and smooth gradients show them more easily.
 - **Use the right format.** Steghide works with JPEG and BMP images, not PNG. The Python method in this tutorial needs PNG, because only a lossless format keeps every bit.
 - **Keep your original.** Always save the result as a new file, so that you still have the untouched cover image to compare with.
@@ -314,6 +317,9 @@ Alternativen:
 Für das Verstecken eines Bildes in einem Bild verwendet dieses Tutorial außerdem ein kurzes Skript in Python, einer Programmiersprache, mit der Bildbibliothek Pillow. Dieser Teil ist optional.
 
 ## Vor dem Start
+
+![Gursky]({{ site.baseurl }}/tutorials/assets/SG_gursky-amazon-original.jpg)
+<figcaption>Andreas Gursky, <em>Amazon</em>, 2016</figcaption>
 
 - **Wählt als Trägerbild ein detailreiches Foto.** Fotografien mit Textur, Korn und Details verbergen Veränderungen gut. Flache Grafiken, Screenshots und glatte Farbverläufe verraten sie leichter.
 - **Verwendet das richtige Format.** Steghide arbeitet mit JPEG- und BMP-Bildern, nicht mit PNG. Die Python-Methode in diesem Tutorial braucht PNG, weil nur ein verlustfreies Format jedes Bit erhält.
