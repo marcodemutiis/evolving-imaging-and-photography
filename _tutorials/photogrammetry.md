@@ -98,7 +98,7 @@ In Scaniverse, photogrammetry produces a **mesh**. On phones with a LiDAR scanne
 
 Splat mode is the better choice for whole scenes, such as a corner of a room, a tree, a shop window or a street, and for subjects with hair, foliage or reflective detail. Splats also capture the background and the sky, so include them.
 
-<video autoplay muted loop playsinline preload="metadata" width="800">
+<video autoplay muted loop playsinline preload="metadata" width="400">
   <source src="{{ site.baseurl }}/tutorials/assets/PG_scaniverse_gaussianSplatRecording.mp4" type="video/mp4">
 </video>
 
@@ -270,7 +270,7 @@ In Scaniverse erzeugt die Fotogrammetrie ein **Mesh**. Bei Smartphones mit LiDAR
 
 Der Splat-Modus ist die bessere Wahl für ganze Szenen, etwa eine Zimmerecke, einen Baum, ein Schaufenster oder eine Straße, und für Motive mit Haaren, Laub oder spiegelnden Details. Splats erfassen auch den Hintergrund und den Himmel, bezieht sie also mit ein.
 
-<video autoplay muted loop playsinline preload="metadata" width="800">
+<video autoplay muted loop playsinline preload="metadata" width="400">
   <source src="{{ site.baseurl }}/tutorials/assets/PG_scaniverse_gaussianSplatRecording.mp4" type="video/mp4">
 </video>
 
