@@ -168,7 +168,7 @@ If you change the scene afterwards, click **Update Public URL** in Spline. The l
 
 Spline also offers a **Viewer** export, which embeds the scene as a web component instead of an iframe. The iframe is the simpler option for most pages.
 
-<iframe src='https://my.spline.design/untitled-Vz6MiASskZqfId8ELmLkecQh/' frameborder='0' width='100%' height='100%'></iframe>
+<iframe src='https://my.spline.design/untitled-Vz6MiASskZqfId8ELmLkecQh/' frameborder='0' width='100%' height="500"></iframe>
 
 
 ## Exercise: one subject, two scans
@@ -343,7 +343,7 @@ Wenn ihr die Szene später ändert, klickt in Spline auf **Update Public URL**. 
 
 Spline bietet auch einen **Viewer**-Export an, der die Szene als Web Component statt als iframe einbettet. Für die meisten Seiten ist der iframe die einfachere Option.
 
-<iframe src='https://my.spline.design/untitled-Vz6MiASskZqfId8ELmLkecQh/' frameborder='0' width='100%' height='100%'></iframe>
+<iframe src='https://my.spline.design/untitled-Vz6MiASskZqfId8ELmLkecQh/' frameborder='0' width='100%' height='500'></iframe>
 
 ## Übung: ein Motiv, zwei Scans
 
