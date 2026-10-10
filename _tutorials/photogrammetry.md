@@ -4,7 +4,7 @@ title_de: "Fotogrammetrie & Gaussian Splatting"
 description: "Capture real objects and spaces as 3D scans with your phone using photogrammetry and Gaussian splatting in Scaniverse, then publish them on the web with Spline."
 description_de: "Erfasst reale Objekte und Räume mit dem Smartphone als 3D-Scans, mit Fotogrammetrie und Gaussian Splatting in Scaniverse, und veröffentlicht sie anschließend mit Spline im Web."
 order: 1
-published: false
+published: true
 ---
 
 <div class="lang-en" markdown="1">
@@ -115,6 +115,8 @@ If something goes wrong:
 - **Shiny or transparent surfaces look wrong:** this is a limit of both methods, not a mistake on your part.
 
 ## Exporting your model
+
+![From scanning to exporting your model]({{ site.baseurl }}/utorials/assets/PG_scaniverse_scanExport.png)
 
 ### Export your model to your computer
 
@@ -276,6 +278,8 @@ Wenn etwas schiefgeht:
 - **Glänzende oder transparente Oberflächen sehen falsch aus:** Das ist eine Grenze beider Verfahren, nicht euer Fehler.
 
 ## Euer Modell exportieren
+
+![From scanning to exporting your model]({{ site.baseurl }}/utorials/assets/PG_scaniverse_scanExport.png)
 
 ### Euer Modell auf den Computer exportieren
 
