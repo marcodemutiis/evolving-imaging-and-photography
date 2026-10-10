@@ -55,6 +55,8 @@ Not every format works like this. A JPEG does not store pixels but compressed va
 - <a href="https://steghide.com/">Steghide</a> (macOS, Linux): a free command-line program that hides any file inside a JPEG, BMP, WAV or AU file and protects it with a passphrase. This is the tool used in this tutorial. It does not accept PNG files.
 - <a href="https://www.mankier.com/1/steghide">Steghide manual page</a>: the full list of commands and options.
 
+![Steghide]({{ site.baseurl }}/tutorials/assets/SG_steghide_webpage.png)
+
 Alternatives:
 
 - <a href="https://stylesuxx.github.io/steganography/">Steganography Online</a> (browser): hides a text message in an image and reads it out again. It needs no installation, but it hides text only and does not encrypt the message.
@@ -300,6 +302,8 @@ Nicht jedes Format funktioniert so. Ein JPEG speichert keine Pixel, sondern komp
 
 - <a href="https://steghide.com/">Steghide</a> (macOS, Linux): ein kostenloses Kommandozeilenprogramm, das beliebige Dateien in einer JPEG-, BMP-, WAV- oder AU-Datei versteckt und mit einer Passphrase schützt. Dieses Werkzeug wird in diesem Tutorial verwendet. PNG-Dateien akzeptiert es nicht.
 - <a href="https://www.mankier.com/1/steghide">Steghide-Manpage</a> (englisch): die vollständige Liste der Befehle und Optionen.
+
+![Steghide]({{ site.baseurl }}/tutorials/assets/SG_steghide_webpage.png)
 
 Alternativen:
 
