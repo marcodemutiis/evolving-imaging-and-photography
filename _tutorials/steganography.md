@@ -105,6 +105,9 @@ Put your cover image and a text file with your message in the same folder, for e
 steghide embed -cf cover.jpg -ef secret.txt -sf output.jpg
 ```
 
+
+![Steghide test]({{ site.baseurl }}/tutorials/assets/SG_steghide-example-text.png)
+
 The command embeds the file `secret.txt` in `cover.jpg` and writes the result to a new file, `output.jpg`:
 
 - `-cf` is the cover file, the image that will carry the secret.
@@ -144,7 +147,7 @@ If you cannot install Steghide, the browser tool <a href="https://stylesuxx.gith
 3. Save the new image that the tool creates. Keep it as a PNG: saving it as a JPEG would destroy the message.
 4. To read the message, open the decoder page and select the new image.
 
-<!-- IMAGE: Steganography Online encode page -->
+![Steganography online]({{ site.baseurl }}/tutorials/assets/SG_steganography-online.png)
 
 This tool does not encrypt your message. Anyone who puts the image into the decoder can read it, so write something you are happy for others to find.
 
@@ -165,6 +168,8 @@ Then hide the image, using the same command as for text but with the image as th
 ```bash
 steghide embed -cf cover.jpg -ef secret.jpg -sf output.jpg
 ```
+
+![Steghide test]({{ site.baseurl }}/tutorials/assets/SG_steghide-example-image.png)
 
 To retrieve it, extract the hidden file and give it an image file name:
 
@@ -356,6 +361,9 @@ Legt euer Trägerbild und eine Textdatei mit eurer Nachricht in denselben Ordner
 steghide embed -cf cover.jpg -ef secret.txt -sf output.jpg
 ```
 
+
+![Steghide test]({{ site.baseurl }}/tutorials/assets/SG_steghide-example-text.png)
+
 Der Befehl bettet die Datei `secret.txt` in `cover.jpg` ein und schreibt das Ergebnis in eine neue Datei, `output.jpg`:
 
 - `-cf` ist die Trägerdatei (cover file), das Bild, das das Geheimnis tragen soll.
@@ -395,7 +403,7 @@ Wenn ihr Steghide nicht installieren könnt, versteckt das Browser-Werkzeug <a h
 3. Speichert das neue Bild, das das Werkzeug erzeugt. Behaltet es als PNG: Würdet ihr es als JPEG speichern, ginge die Nachricht verloren.
 4. Um die Nachricht zu lesen, öffnet die Decoder-Seite und wählt das neue Bild aus.
 
-<!-- IMAGE: Steganography Online encode page -->
+![Steganography online]({{ site.baseurl }}/tutorials/assets/SG_steganography-online.png)
 
 Dieses Werkzeug verschlüsselt eure Nachricht nicht. Alle, die das Bild in den Decoder laden, können sie lesen. Schreibt also etwas, das ruhig andere finden dürfen.
 
@@ -416,6 +424,8 @@ Versteckt dann das Bild. Verwendet denselben Befehl wie für Text, bettet aber d
 ```bash
 steghide embed -cf cover.jpg -ef secret.jpg -sf output.jpg
 ```
+
+![Steghide test]({{ site.baseurl }}/tutorials/assets/SG_steghide-example-image.png)
 
 Um es auszulesen, extrahiert die versteckte Datei und gebt ihr einen Bilddateinamen:
 
