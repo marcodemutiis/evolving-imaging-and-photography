@@ -36,7 +36,7 @@ By the end of this tutorial you will be able to:
 
 ## How information hides in an image
 
-![Diagram: three message bits replace the last bit of the red, green and blue values of one pixel]({{ site.baseurl }}/tutorials/assets/SG_lsb-diagram-en.png)
+![Diagram: three message bits replace the last bit of the red, green and blue values of one pixel]({{ site.baseurl }}/tutorials/assets/SG_lsb-diagram-en.svg)
 <figcaption>Least significant bit substitution on a single pixel.</figcaption>
 
 A digital image is a long list of numbers. Every pixel has a red, a green and a blue value between 0 and 255, and each value is stored as eight bits. The last bit, the least significant one, changes the brightness of that colour by at most 1 out of 255, a difference nobody can see. If you replace those last bits with the bits of a message, the picture looks the same but carries hidden data:
@@ -287,7 +287,7 @@ Am Ende dieses Tutorials könnt ihr:
 
 ## Wie sich Informationen in einem Bild verstecken
 
-![Diagramm: Drei Nachrichtenbits ersetzen das letzte Bit des Rot-, Grün- und Blauwerts eines Pixels]({{ site.baseurl }}/tutorials/assets/SG_lsb-diagram-de.png)
+![Diagramm: Drei Nachrichtenbits ersetzen das letzte Bit des Rot-, Grün- und Blauwerts eines Pixels]({{ site.baseurl }}/tutorials/assets/SG_lsb-diagram-de.svg)
 <figcaption>Ersetzung des niederwertigsten Bits (LSB) bei einem einzelnen Pixel.</figcaption>
 
 Ein digitales Bild ist eine lange Liste von Zahlen. Jeder Pixel hat einen Rot-, einen Grün- und einen Blauwert zwischen 0 und 255, und jeder Wert wird in acht Bit gespeichert. Das letzte Bit, das niederwertigste (Least Significant Bit), verändert die Helligkeit dieser Farbe um höchstens 1 von 255, ein Unterschied, den niemand sehen kann. Wenn ihr diese letzten Bits durch die Bits einer Nachricht ersetzt, sieht das Bild gleich aus, enthält aber versteckte Daten:
