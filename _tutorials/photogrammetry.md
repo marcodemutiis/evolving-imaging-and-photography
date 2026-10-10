@@ -143,6 +143,9 @@ Then move the file from your phone to your computer with AirDrop, a cloud servic
 
 ### Publish your model on the web with Spline
 
+![Spline project view]({{ site.baseurl }}/tutorials/assets/PG_spline_projectView.jpg)
+
+
 1. Open <a href="https://spline.design/">Spline</a> in your browser, sign in and create a new file.
 2. Import your scan: drag the file into the viewport, press Ctrl+O (Windows) or ⌘+O (Mac), or use the main menu and choose "Open / Import". Spline reads GLB, OBJ, FBX and STL meshes, and PLY splats. If a SPZ file does not open, export the splat as PLY instead.
 3. Scale and place the scan in the scene. For a splat, you can crop away stray points. You can also add other 3D objects, or combine several scans in one scene.
@@ -161,6 +164,7 @@ If you change the scene afterwards, click **Update Public URL** in Spline. The l
 Spline also offers a **Viewer** export, which embeds the scene as a web component instead of an iframe. The iframe is the simpler option for most pages.
 
 <iframe src='https://my.spline.design/untitled-Vz6MiASskZqfId8ELmLkecQh/' frameborder='0' width='100%' height='100%'></iframe>
+
 
 ## Exercise: one subject, two scans
 
@@ -308,6 +312,8 @@ Für einen Splat:
 Übertragt die Datei dann per AirDrop, Cloud-Dienst, E-Mail oder Kabel vom Smartphone auf den Computer. Große Dateien lassen sich am einfachsten per AirDrop oder Cloud-Link senden.
 
 ### Euer Modell mit Spline im Web veröffentlichen
+
+![Spline project view]({{ site.baseurl }}/tutorials/assets/PG_spline_projectView.jpg)
 
 1. Öffnet <a href="https://spline.design/">Spline</a> im Browser, meldet euch an und erstellt eine neue Datei.
 2. Importiert euren Scan: Zieht die Datei in den Viewport, drückt Ctrl+O (Windows) oder ⌘+O (Mac) oder wählt im Hauptmenü „Open / Import“. Spline liest GLB-, OBJ-, FBX- und STL-Meshes sowie PLY-Splats. Falls sich eine SPZ-Datei nicht öffnen lässt, exportiert den Splat stattdessen als PLY.
