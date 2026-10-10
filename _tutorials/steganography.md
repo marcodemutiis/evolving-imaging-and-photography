@@ -22,7 +22,13 @@ Steganography is the practice of hiding information inside something else, so th
 The practice is not solely connected to digital communication but spans thousands of years and encompasses diverse fromates and materials. Classical accounts by Greek historian Herodotus in 440 BC tell of a message concealed beneath a servant's regrown hair. In the late fifteenth century Johannes Trithemius wrote Steganographia, a book that reads like a treatise on magic but deals with hidden writing. Art historians have claimed to find concealed letters, numbers and even a musical score in paintings by Leonardo, Michelangelo and Bosch. In the twentieth century spies shrank photographs into microdots, a prisoner of war stitched a Morse code message into the border of an embroidery, and in 1968 the crew of the USS Pueblo, photographed for North Korean propaganda, made rude gestures at the camera that their captors did not recognise at first.
 
 In digital images, the most common technique is least significant bit (LSB) substitution, which replaces the least important bit of each colour value with a bit of the hidden message. The change is too small to see. Designers of such methods have to balance four competing demands: capacity, imperceptibility, robustness and security. Improving one usually weakens the others. Researchers are now hiding data in other media too, including the geometry of 3D meshes.
+
+Source: [exo.substack.com/p/the-exo-guide-to-data-cloaking](https://exo.substack.com/p/the-exo-guide-to-data-cloaking)
 </blockquote>
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/rufnWLVQcKg?si=D-F7sbbpcGs2yKfD" title="Admiral Jeremiah Denton Blinks Morse Code Warning as P.O.W." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<figcaption>Admiral Jeremiah Denton Blinks Morse Code Warning as P.O.W.</figcaption>
+
 
 By the end of this tutorial you will be able to:
 
@@ -243,9 +249,6 @@ Some things to try and to keep in mind:
 4. Hide a small image in a second cover image, with Method 1 or Method 2.
 5. Test how fragile your images are. Send each stego image to yourself in a messenger, upload it to a platform, take a screenshot of it and save a copy in a different format. After each step, try to retrieve the hidden data. Note what survives and what does not.
 6. Give a classmate one of the stego images and tell them the passphrase by a different route. Can they retrieve your secret?
-7. Write a short reflection. Who is meant to find the secret? What does it mean for an image to carry more than it shows? How does hiding that a message exists differ from encrypting it? What did the platforms do to your images, and what does that tell you about the way images circulate?
-
-Hand in the stego images, the passphrases, the comparison of cover and stego image from step 3 and your text.
 
 **Optional challenge: a picture with a secret.** Make an image in which the hidden layer and the visible image speak to each other: the secret can contradict, comment on or complete what the picture shows. Decide how a viewer would find out that there is something to find, and how they would get it out. Present the picture together with the instructions.
 
