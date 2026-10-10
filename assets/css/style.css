@@ -571,3 +571,33 @@ figcaption em {
 [data-lang="en"] .lang-de { display: none; }
 [data-lang="de"] .lang-en { display: none; }
 
+/* ============================================
+   SYNTAX HIGHLIGHTING FOR CODE BLOCKS (Rouge, used by Jekyll/kramdown)
+   ============================================ */
+:root {
+  --tok-comment: #8a8578;
+  --tok-keyword: #b0481c;
+  --tok-string:  #3f7a4f;
+  --tok-number:  #2f6f9f;
+  --tok-name:    #7a4fa3;
+  --tok-builtin: #2f6f9f;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --tok-comment: #8c887e;
+    --tok-keyword: #ee8b5c;
+    --tok-string:  #8fcf9f;
+    --tok-number:  #7fb7e6;
+    --tok-name:    #c3a0e8;
+    --tok-builtin: #7fb7e6;
+  }
+}
+.highlight .c, .highlight .c1, .highlight .cm, .highlight .cs, .highlight .cp,
+.highlight .sd, .highlight .sh-doc { color: var(--tok-comment); font-style: italic; }   /* comments + docstrings */
+.highlight .k, .highlight .kn, .highlight .kd, .highlight .kc, .highlight .kr,
+.highlight .kp, .highlight .kt, .highlight .ow { color: var(--tok-keyword); }            /* keywords: import, def, if, in */
+.highlight .s, .highlight .s1, .highlight .s2, .highlight .sa, .highlight .sb,
+.highlight .sc, .highlight .se, .highlight .si, .highlight .sx, .highlight .sr { color: var(--tok-string); } /* strings */
+.highlight .m, .highlight .mi, .highlight .mf, .highlight .mh, .highlight .mo, .highlight .il { color: var(--tok-number); } /* numbers */
+.highlight .nf, .highlight .nc, .highlight .nn, .highlight .fm, .highlight .nd { color: var(--tok-name); }  /* function/class names */
+.highlight .nb, .highlight .bp, .highlight .nv, .highlight .vi, .highlight .vg { color: var(--tok-builtin); } /* builtins, variables */

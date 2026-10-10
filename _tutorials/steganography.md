@@ -239,6 +239,7 @@ The first command creates `output.png`, which looks like the cover image. The se
 Some things to try and to keep in mind:
 
 - **Change `BITS`.** With `BITS = 2` the cover image changes even less, but the secret image comes back with only four shades per colour. With `BITS = 6` the secret is nearly perfect, but the cover image shows the strain.
+- **Results vary from image to image.** How visible the hidden image is depends on the cover: smooth areas such as a plain wall or a sky show the change first, while busy, detailed areas hide it better. The more bits you give up, the more it shows.
 - **Use PNG only.** If `output.png` is converted to a JPEG, resized or sent through a messenger that recompresses it, the secret is lost.
 - **There is no passphrase.** Anyone who knows the trick can read the weak bits and see your secret. This method shows how the hiding works, but it does not protect anything.
 
@@ -495,6 +496,7 @@ Der erste Befehl erzeugt `output.png`, das wie das Trägerbild aussieht. Der zwe
 Einiges zum Ausprobieren und Beachten:
 
 - **Ändert `BITS`.** Mit `BITS = 2` verändert sich das Trägerbild noch weniger, aber das geheime Bild kommt nur mit vier Abstufungen pro Farbe zurück. Mit `BITS = 6` ist das Geheimnis fast perfekt, aber dem Trägerbild sieht man die Belastung an.
+- **Die Ergebnisse variieren von Bild zu Bild.** Wie sichtbar das versteckte Bild ist, hängt vom Trägerbild ab: Glatte Flächen wie eine einfarbige Wand oder ein Himmel verraten die Veränderung zuerst, während detailreiche Bereiche sie besser verbergen. Je mehr Bits ihr abgebt, desto stärker fällt es auf.
 - **Nur PNG verwenden.** Wird `output.png` in ein JPEG umgewandelt, skaliert oder über einen Messenger verschickt, der es neu komprimiert, geht das Geheimnis verloren.
 - **Es gibt keine Passphrase.** Alle, die den Trick kennen, können die schwächsten Bits auslesen und euer Geheimnis sehen. Diese Methode zeigt, wie das Verstecken funktioniert, schützt aber nichts.
 
