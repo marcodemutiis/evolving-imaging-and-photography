@@ -25,6 +25,8 @@ In digital images, the most common technique is least significant bit (LSB) subs
 
 Source: <a href="https://exo.substack.com/p/the-exo-guide-to-data-cloaking">exo.substack.com/p/the-exo-guide-to-data-cloaking</a>. Starling experiment: <a href="https://www.youtube.com/watch?v=hCQCP-5g5bo">Benn Jordan on YouTube (c. 30 min)</a></blockquote>
 
+<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/rufnWLVQcKg" title="Admiral Jeremiah Denton Blinks Morse Code Warning as P.O.W." frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><figcaption>Admiral Jeremiah Denton, then a US Navy pilot held as a prisoner of war in North Vietnam, blinks the word “TORTURE” in Morse code during a televised interview in 1966.</figcaption>
+
 By the end of this tutorial you will be able to:
 
 - explain the difference between steganography and cryptography
@@ -265,6 +267,8 @@ Die Praxis ist nicht allein an digitale Kommunikation gebunden, sondern reicht T
 Bei digitalen Bildern ist die häufigste Technik die Ersetzung des niederwertigsten Bits (Least Significant Bit, LSB), bei der das unwichtigste Bit jedes Farbwerts durch ein Bit der versteckten Nachricht ersetzt wird. Die Veränderung ist zu klein, um sie zu sehen. Wer solche Verfahren entwirft, muss vier konkurrierende Anforderungen ausbalancieren: Kapazität, Unauffälligkeit, Robustheit und Sicherheit. Wird eine davon verbessert, verschlechtern sich meist die anderen. Forschende verstecken Daten inzwischen auch in anderen Medien, etwa in der Geometrie von 3D-Meshes. 2025 ging der Musiker und YouTuber Benn Jordan noch einen Schritt weiter und nutzte ein lebendes Tier als Träger: Er „speicherte ein Bild in einem Vogel“. Jordan wandelte die Zeichnung eines Vogels mit einem Spektralsynthesizer in Klang um und spielte ihn einem Star vor, einer Art, die für das Nachahmen von Gehörtem bekannt ist. Der Vogel nahm den Klang auf und sang ihn nach, und die Zeichnung konnte aus einem Spektrogramm seines Gesangs wiederhergestellt werden, rund 176 KB Bilddaten, allerdings mit etwas Präzisionsverlust.
 
 Quelle: <a href="https://exo.substack.com/p/the-exo-guide-to-data-cloaking">exo.substack.com/p/the-exo-guide-to-data-cloaking</a>. Starexperiment: <a href="https://www.youtube.com/watch?v=hCQCP-5g5bo">Benn Jordan auf YouTube (ca. 30 Min.)</a></blockquote>
+
+<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/rufnWLVQcKg" title="Admiral Jeremiah Denton Blinks Morse Code Warning as P.O.W." frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><figcaption>Admiral Jeremiah Denton, damals Pilot der US-Marine und Kriegsgefangener in Nordvietnam, blinzelt während eines Fernsehinterviews 1966 das Wort „TORTURE“ in Morsecode.</figcaption>
 
 Am Ende dieses Tutorials könnt ihr:
 
