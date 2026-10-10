@@ -58,6 +58,9 @@ Scaniverse can produce both from the same phone, so you can try each method on t
 
 Scaniverse processes scans on your phone. At the time of writing, capturing splats needs an iPhone 12 or newer, or an Android phone with Android 7.0 or later, at least 4 GB of RAM and ARCore with Depth API support. Older phones may only be able to make meshes.
 
+![The Scaniverse App download page for iOS]({{ site.baseurl }}/tutorials/assets/PG_scaniverse_app.jpg)
+
+
 Alternatives:
 
 - <a href="https://magiscan.app/">MagiScan</a> (iOS, Android): freemium, with free mode 3D object available in 6-12 hours, or 6/week, 20/mo.
@@ -229,6 +232,8 @@ Scaniverse kann beides mit demselben Smartphone erzeugen, sodass ihr beide Verfa
 - <a href="https://scaniverse.com/">Scaniverse</a> (iOS, Android)
 
 Scaniverse verarbeitet Scans direkt auf dem Smartphone. Zum Zeitpunkt der Erstellung benötigt die Aufnahme von Splats ein iPhone 12 oder neuer, oder ein Android-Smartphone mit Android 7.0 oder höher, mindestens 4 GB RAM und Unterstützung für ARCore mit Depth API. Ältere Geräte können unter Umständen nur Meshes erstellen.
+
+![The Scaniverse App download page for iOS]({{ site.baseurl }}/tutorials/assets/PG_scaniverse_app.jpg)
 
 Alternativen:
 
