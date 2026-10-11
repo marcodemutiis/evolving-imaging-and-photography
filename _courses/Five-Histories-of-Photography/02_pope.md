@@ -15,13 +15,13 @@ In this lecture I follow a series of images of the pope to touch on key moments 
 
 The choice of the pope as a guiding figure is partly arbitrary. A papacy is long enough for an election and a death to be photographed under very different conditions. The Holy See is, moreover, among the most conservative institutions in existence, and the last absolute monarchy in Europe, so its encounters with photographic and digital culture are unusually visible, and often awkward. I hope this does not offend anyone of Catholic faith: the images connected to the pontiff serve here as examples for a reflection on a medium in constant flux.
 
-The sequence is not strictly chronological. It follows five conceptual shifts: from the photograph as **trace**, to the photograph as **construction**, to the image as **circulation**, to the image as **attention**, and finally to the image as **statistics**. Each section introduces an image, explains the pope's role in it, and anchors the episode in a key text from photography and media theory.
+The sequence is not strictly chronological. It follows six conceptual shifts: from the photograph as **trace**, to the photograph as **commodity**, to the photograph as **construction**, to the image as **circulation**, to the image as **attention**, and finally to the image as **statistics**. Each section introduces an image, explains the pope's role in it, and anchors the episode in a key text from photography and media theory.
 
 ***
 
 ## Pope Pius IX: The Photograph as Trace
 
-![Pius IX]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/pope-pius-IX2.png)
+![Pius IX]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/pope-pius-IX.png)
 <figcaption>Unknown photographer, <em>Pope Pius IX (Giovanni Maria Mastai-Ferretti)</em>, albumen print, 1860s?, © <a href="https://www.npg.org.uk/collections/search/portrait/mw148056/">National Portrait Gallery, London</a></figcaption>
 
 Giovanni Maria Mastai-Ferretti (1792–1878), Pius IX, is generally described as the first pope to be photographed. He also had the longest reign of any pope after Saint Peter (1846–78), and it was a reign of political collapse. Elected with a liberal reputation, he fled Rome during the revolutions of 1848, returned as a conservative, and watched the papal territories absorbed into the new Italian nation state (1861; Rome fell in 1870). He ended his life as the self-declared "prisoner of the Vatican", the last of the ["king popes"](https://www.raicultura.it/storia/foto/2019/03/Papa-Pio-IX-fc308210-726d-4696-9bac-8a5318f95c2e.html).
@@ -41,6 +41,26 @@ The pope who first allowed his living body to be photographed was also photograp
 
 - **That-has-been (*ça a été*).** Barthes defines the photograph as a certificate of presence: something or someone existed in front of the lens at a specific moment. Photography's truth is the truth of a trace. For a more detailed gloss, see this [annotated reading](https://csmt.uchicago.edu/annotations/barthescamera.htm).
 - **Photography and death.** Because the moment is irretrievably gone, every photograph carries a small version of death. The person photographed becomes what Barthes calls the *spectrum*, a returning ghost. His own example is a portrait of a man awaiting execution, in which he reads at once "he is dead and he is going to die". The post-mortem portrait of Pius IX is a literal version of this.
+
+***
+
+## Pope Pius XII: The Photograph as Commodity
+
+By the time Eugenio Pacelli became Pius XII (1939–58), photography was no novelty for the papacy. Under his predecessor, Pius XI, the Holy See had built an illustrated press of its own, from [*L'Illustrazione Vaticana* (1930–38) to the weekly *L'Osservatore Romano della Domenica* (1934)](https://www.vatican.va/content/osservatore-romano/it/editorials/documents/02_12_2007.html), and the pope circulated in the picture magazines of the world. What remained contested was who controlled which images. The "screaming popes" that Francis Bacon began painting in 1949 show how fully the pope had become a photographic subject: Bacon worked from black-and-white reproductions of Velázquez's *Portrait of Pope Innocent X* and from press photographs of Pius XII carried on the *sedia gestatoria* ([National Gallery of Canada](https://www.gallery.ca/node/521523); [Phaidon](https://uk.phaidon.com/agenda/art/articles/2013/february/08/the-truth-behind-francis-bacons-screaming-popes/)). Because he started from black-and-white sources, he reportedly painted the robes purple rather than Velázquez's crimson ([Sotheby's](https://www.sothebys.com/en/articles/francis-bacon-study-for-a-head-1952)). A painter is now working from photographs, the reverse of Pecci's preference. <!-- Optional: add a Bacon image; the works are under estate copyright, so link to a museum page rather than hosting. -->
+
+![Pius XII on his deathbed]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/pope-pius-XII.jpg)
+<!-- TODO: confirm the file name. -->
+<figcaption>Unknown photographer, <em>Cardinal Eugène Tisserant sprinkling holy water on the body of Pope Pius XII on his deathbed, Castel Gandolfo</em>, published in <em>The Illustrated London News</em>, 18 October 1958, via <a href="https://commons.wikimedia.org/">Wikimedia Commons</a> <!-- TODO: link the Commons file page and check its licence. Mary Evans lists the same image as unattributed, © Illustrated London News Ltd. --></figcaption>
+
+The photograph shows Cardinal Eugène Tisserant sprinkling holy water on the body of Pius XII on his deathbed at Castel Gandolfo, the summer residence outside Rome where the pope died on 9 October 1958. It appeared in The Illustrated London News on 18 October. It is a ritual image, drawn from the Church's own repertoire of mourning, and close in kind to the portrait of Pius IX from 1878. It is not the image that made the news. Pius XII's personal physician, Riccardo Galeazzi-Lisi, had photographed the pope on his deathbed and passed the pictures, with an article, to [Paris Match and an Italian magazine](https://en.wikipedia.org/wiki/Riccardo_Galeazzi-Lisi), reportedly for [$25,000](https://derstandard.at/2005735/Vor-46-Jahren-Missglueckte-Einbalsamierung-von-Pius-XII). The cardinals dismissed him on 20 October 1958. What scandalised was less the existence of the photographs than their circulation: intimate, unauthorised images of a pope, turned into a commodity for the illustrated press.
+
+Nearly forty years later the rules were written down. The apostolic constitution [*Universi Dominici Gregis*](https://www.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_22021996_universi-dominici-gregis.html), issued by John Paul II in February 1996, forbids using "any means whatsoever" to photograph or film the pope on his sickbed or after death, or to record his words for later reproduction (art. 30). Documentary photographs after death require the permission of the Cardinal Camerlengo, who will only allow the pope to be photographed in pontifical vestments. The text does not give its motive; [Catholic Answers suggests](https://www.catholic.com/magazine/blog/dont-fall-for-fake-pope-photos) that it may go back to 1958. It is also why there are no photographs of a sick pope. When Francis was in hospital in February 2025, the images of him on a respirator that circulated on social media were AI-generated fakes, as Catholic Answers noted: where the real image is forbidden, the fake finds a vacancy.
+
+**Key text: Walter Benjamin, "The Work of Art in the Age of Mechanical Reproduction" (1935/36).**
+
+- **Cult value and exhibition value.** Benjamin distinguishes between images valued for their ritual function, bound to presence, uniqueness, and an "aura", and images valued for being shown. Mechanical reproduction shifts the weight from the first to the second.
+- **The last refuge of cult value: the face.** In early photography, he argues, cult value survives in the portrait, in the cult of remembrance of absent or dead loved ones. The deathbed image of a pope is the extreme case: the most ritually charged face at the most ritually charged moment.
+- **Collision.** Read this way, the Paris Match episode is a collision of the two values: an image of cult sold at the newsstand for its exhibition value. The later prohibition can be read as an attempt to regain control over that boundary.
 
 ***
 
@@ -67,7 +87,7 @@ Nobody believed this photograph, and it offended anyway. This is the first sign 
 
 In March 2013 NBC News tweeted a composite of two photographs of crowds in St. Peter's Square, eight years apart. The 2005 crowd holds up a scattering of phones; the 2013 crowd is a field of lit screens. "What a difference 8 years makes", the tweet said, and the image went viral. The comparison is [somewhat misleading, as HuffPost pointed out](https://www.huffpost.com/archive/ca/entry/viral-pope-election-photos-tweeted-by-nbc-news-are-misleading-p_n_2878146): the bottom photograph does show the crowd welcoming the newly elected Francis, but the top one was not taken at a papal election. It shows the days after the death of John Paul II, when his body was carried across the square. The comparison set a mourning crowd beside a celebrating one and let the caption do the rest.
 
-The episode returns us to Pius IX. The death of a pope, once documented by a single post-mortem print, is now witnessed by a crowd in which everyone is a photographer. The comparison image is itself a networked image: it is copied, stripped of context, captioned, and passed on for what it communicates rather than for what it records.
+The episode returns us to Pius IX and Pius XII. The death of a pope, once documented by a single post-mortem print and then by leaked bedside photographs, is now witnessed by a crowd in which everyone is a photographer. The comparison image is itself a networked image: it is copied, stripped of context, captioned, and passed on for what it communicates rather than for what it records.
 
 **Key text: Daniel Rubinstein and Katrina Sluis, "A Life More Photographic: Mapping the Networked Image" (2008).**
 
@@ -131,12 +151,13 @@ Laid side by side, the images tell their own history of photography.
 | Pope | Image | Photographic shift | Key text |
 | --- | --- | --- | --- |
 | Pius IX | Portraits, 1860s–1878 | The photograph as trace of a body | Barthes, *Camera Lucida* (1980) |
+| Pius XII | Deathbed photographs, 1958 | The photograph as commodity | Benjamin, "The Work of Art in the Age of Mechanical Reproduction" (1935/36) |
 | Benedict XVI | Benetton *Unhate*, 2011 | The photograph as construction | W. J. Mitchell, *The Reconfigured Eye* (1992) |
 | John Paul II / Francis | St. Peter's Square, 2005 and 2013 | The image as circulation | Rubinstein and Sluis (2008) |
 | Francis | The Instagram like, 2020 | The image as attention | Dean (2005) |
 | Francis | The puffer coat, 2023 | The image as statistics | Steyerl (2023) |
 
-We begin with a body that was once in front of a lens and end with an image that comes from no body at all, only from the average of millions of other images. In between, the pope moves from being the subject of a photograph to being its raw material, its audience, its object of attention, and finally its statistical residue. No shift replaces the one before. The trace, the montage, the crowd, the like, and the average all coexist in the images we encounter today, and the course will keep returning to this accumulation.
+We begin with a body that was once in front of a lens and end with an image that comes from no body at all, only from the average of millions of other images. In between, the pope moves from being the subject of a photograph to being its commodity, its raw material, its audience, its object of attention, and finally its statistical residue. No shift replaces the one before. The trace, the leak, the montage, the crowd, the like, and the average all coexist in the images we encounter today, and the course will keep returning to this accumulation.
 
 </div>
 
@@ -146,13 +167,13 @@ In dieser Vorlesung folge ich einer Reihe von Bildern des Papstes, um zentrale M
 
 Die Wahl des Papstes als Leitfigur ist teilweise willkürlich. Ein Pontifikat ist lang genug, dass Wahl und Tod eines Papstes unter sehr unterschiedlichen Bedingungen fotografiert werden. Der Heilige Stuhl ist zudem eine der konservativsten Institutionen überhaupt und die letzte absolute Monarchie Europas; seine Begegnungen mit der fotografischen und digitalen Kultur sind daher besonders sichtbar und oft unbeholfen. Ich hoffe, dass sich niemand katholischen Glaubens davon beleidigt fühlt: Die Bilder rund um den Pontifex dienen hier als Beispiele für eine Reflexion über ein Medium im ständigen Wandel.
 
-Die Abfolge ist nicht streng chronologisch. Sie folgt fünf konzeptuellen Verschiebungen: von der Fotografie als **Spur** über die Fotografie als **Konstruktion** und das Bild als **Zirkulation** und als **Aufmerksamkeit** bis zum Bild als **Statistik**. Jeder Abschnitt stellt ein Bild vor, erläutert die Rolle des Papstes darin und verankert die Episode in einem Schlüsseltext der Foto- und Medientheorie.
+Die Abfolge ist nicht streng chronologisch. Sie folgt sechs konzeptuellen Verschiebungen: von der Fotografie als **Spur** über die Fotografie als **Ware** und als **Konstruktion** sowie das Bild als **Zirkulation** und als **Aufmerksamkeit** bis zum Bild als **Statistik**. Jeder Abschnitt stellt ein Bild vor, erläutert die Rolle des Papstes darin und verankert die Episode in einem Schlüsseltext der Foto- und Medientheorie.
 
 ***
 
 ## Papst Pius IX.: Die Fotografie als Spur
 
-![Pius IX]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/pope-pius-IX2.png)
+![Pius IX]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/pope-pius-IX.png)
 <figcaption>Unknown photographer, <em>Pope Pius IX (Giovanni Maria Mastai-Ferretti)</em>, albumen print, 1860s?, © <a href="https://www.npg.org.uk/collections/search/portrait/mw148056/">National Portrait Gallery, London</a></figcaption>
 
 Giovanni Maria Mastai-Ferretti (1792–1878), Pius IX., gilt gemeinhin als der erste fotografierte Papst. Er hatte zudem das längste Pontifikat aller Päpste nach dem heiligen Petrus (1846–78), und es war ein Pontifikat des politischen Zerfalls. Mit einem liberalen Ruf gewählt, floh er während der Revolutionen von 1848 aus Rom, kehrte als Konservativer zurück und musste miterleben, wie die päpstlichen Gebiete im neuen italienischen Nationalstaat aufgingen (1861; Rom fiel 1870). Er beendete sein Leben als selbsterklärter „Gefangener des Vatikans“, als letzter der [„Königspäpste“](https://www.raicultura.it/storia/foto/2019/03/Papa-Pio-IX-fc308210-726d-4696-9bac-8a5318f95c2e.html).
@@ -172,6 +193,25 @@ Der Papst, der als erster seinen lebenden Körper fotografieren liess, wurde auc
 
 - **Das Es-ist-so-gewesen (*ça a été*).** Barthes definiert die Fotografie als Zertifikat der Anwesenheit: Etwas oder jemand befand sich zu einem bestimmten Zeitpunkt vor dem Objektiv. Die Wahrheit der Fotografie ist die Wahrheit einer Spur. Eine ausführlichere Erläuterung bietet diese [kommentierte Lektüre](https://csmt.uchicago.edu/annotations/barthescamera.htm).
 - **Fotografie und Tod.** Weil der Moment unwiederbringlich vergangen ist, trägt jede Fotografie eine kleine Version des Todes in sich. Die fotografierte Person wird zu dem, was Barthes das *Spectrum* nennt, einer wiederkehrenden Erscheinung. Sein eigenes Beispiel ist das Porträt eines Mannes, der auf seine Hinrichtung wartet und in dem er zugleich liest: „er ist tot und er wird sterben“. Das Post-mortem-Porträt von Pius IX. ist eine buchstäbliche Version davon.
+
+***
+
+## Papst Pius XII.: Die Fotografie als Ware
+
+Als Eugenio Pacelli 1939 Pius XII. wurde, war die Fotografie für das Papsttum längst keine Neuheit mehr. Unter seinem Vorgänger Pius XI. hatte der Heilige Stuhl eine eigene illustrierte Presse aufgebaut, von [*L'Illustrazione Vaticana* (1930–38) bis zur Wochenzeitung *L'Osservatore Romano della Domenica* (1934)](https://www.vatican.va/content/osservatore-romano/it/editorials/documents/02_12_2007.html), und der Papst zirkulierte in den Bildmagazinen der Welt. Umstritten blieb, wer welche Bilder kontrolliert. Die „schreienden Päpste“, die Francis Bacon ab 1949 malte, zeigen, wie sehr der Papst zum fotografischen Gegenstand geworden war: Bacon arbeitete nach Schwarz-Weiss-Reproduktionen von Velázquez' *Portrait of Pope Innocent X* und nach Pressefotografien von Pius XII. auf der *Sedia gestatoria* ([National Gallery of Canada](https://www.gallery.ca/node/521523); [Phaidon](https://uk.phaidon.com/agenda/art/articles/2013/february/08/the-truth-behind-francis-bacons-screaming-popes/)). Weil er von Schwarz-Weiss-Vorlagen ausging, malte er die Gewänder Berichten zufolge purpurn statt in Velázquez' Karmesinrot ([Sotheby's](https://www.sothebys.com/en/articles/francis-bacon-study-for-a-head-1952)). Ein Maler arbeitet hier also nach Fotografien, gewissermassen die Umkehrung von Peccis Vorliebe für die Malerei.
+
+![Pius XII on his deathbed]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/pope-pius-XII.jpg)
+<figcaption>Unknown photographer, <em>Cardinal Eugène Tisserant sprinkling holy water on the body of Pope Pius XII on his deathbed, Castel Gandolfo</em>, published in <em>The Illustrated London News</em>, 18 October 1958, via <a href="https://commons.wikimedia.org/">Wikimedia Commons</a></figcaption>
+
+Die Fotografie zeigt Kardinal Eugène Tisserant, der den Leichnam von Pius XII. auf dem Sterbebett in Castel Gandolfo mit Weihwasser besprengt, in der Sommerresidenz vor den Toren Roms, wo der Papst am 9. Oktober 1958 starb. Sie erschien am 18. Oktober in *The Illustrated London News*. Es ist ein rituelles Bild aus dem eigenen Repertoire der Kirche für die Trauer, verwandt mit dem Porträt von Pius IX. von 1878. Es ist nicht das Bild, das Schlagzeilen machte. Der Leibarzt von Pius XII., Riccardo Galeazzi-Lisi, hatte den Papst auf dem Sterbebett fotografiert und die Aufnahmen zusammen mit einem Artikel an [Paris Match und eine italienische Zeitschrift](https://en.wikipedia.org/wiki/Riccardo_Galeazzi-Lisi) weitergegeben, Berichten zufolge für [25’000 US-Dollar](https://derstandard.at/2005735/Vor-46-Jahren-Missglueckte-Einbalsamierung-von-Pius-XII). Die Kardinäle entliessen ihn am 20. Oktober 1958. Skandalös war weniger die Existenz der Fotografien als ihre Zirkulation: intime, nicht autorisierte Bilder eines Papstes, verwandelt in eine Ware für die illustrierte Presse.
+
+Knapp vierzig Jahre später wurden die Regeln festgeschrieben. Die Apostolische Konstitution [*Universi Dominici Gregis*](https://www.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_22021996_universi-dominici-gregis.html) von Johannes Paul II. vom Februar 1996 verbietet es, den Papst auf dem Krankenbett oder nach dem Tod mit irgendwelchen Mitteln zu fotografieren oder zu filmen oder seine Worte zur späteren Wiedergabe aufzuzeichnen (Art. 30). Dokumentarische Aufnahmen nach dem Tod bedürfen der Erlaubnis des Kardinalkämmerers (Camerlengo), der nur Aufnahmen des Papstes in päpstlichen Gewändern gestattet. Der Text nennt kein Motiv; [Catholic Answers vermutet](https://www.catholic.com/magazine/blog/dont-fall-for-fake-pope-photos), es könne auf 1958 zurückgehen. Das Verbot ist auch der Grund, warum es keine Fotografien eines kranken Papstes gibt. Als Franziskus im Februar 2025 im Spital lag, waren die in den sozialen Medien kursierenden Bilder von ihm am Beatmungsgerät KI-generierte Fälschungen, wie Catholic Answers festhielt: Wo das echte Bild verboten ist, findet die Fälschung eine Leerstelle.
+
+**Schlüsseltext: Walter Benjamin, „Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit“ (1935/36).**
+
+- **Kultwert und Ausstellungswert.** Benjamin unterscheidet zwischen Bildern, die wegen ihrer rituellen Funktion geschätzt werden, gebunden an Gegenwart, Einmaligkeit und eine „Aura“, und Bildern, die geschätzt werden, weil sie gezeigt werden. Die technische Reproduktion verlagert das Gewicht vom einen zum anderen.
+- **Das letzte Refugium des Kultwerts: das Antlitz.** In der frühen Fotografie, so Benjamin, überlebt der Kultwert im Porträt, im Kult der Erinnerung an die fernen oder verstorbenen Lieben. Das Bild des Papstes auf dem Sterbebett ist der Extremfall: das rituell aufgeladenste Gesicht im rituell aufgeladensten Moment.
+- **Kollision.** So gelesen ist die Paris-Match-Episode ein Zusammenstoss der beiden Werte: ein Kultbild, das für seinen Ausstellungswert am Kiosk verkauft wird. Das spätere Verbot lässt sich als Versuch lesen, die Kontrolle über diese Grenze zurückzugewinnen.
 
 ***
 
@@ -198,7 +238,7 @@ Niemand hielt diese Fotografie für echt, und dennoch löste sie Empörung aus. 
 
 Im März 2013 twitterte NBC News eine Gegenüberstellung zweier Fotografien von Menschenmengen auf dem Petersplatz, acht Jahre auseinander. Die Menge von 2005 hält eine Handvoll Telefone hoch; die Menge von 2013 ist ein Meer aus leuchtenden Bildschirmen. „What a difference 8 years makes“, lautete der Tweet, und das Bild ging viral. Der Vergleich ist, wie die HuffPost [anmerkte, etwas irreführend](https://www.huffpost.com/archive/ca/entry/viral-pope-election-photos-tweeted-by-nbc-news-are-misleading-p_n_2878146): Das untere Foto zeigt tatsächlich die Menge, die den neu gewählten Franziskus begrüsst, das obere wurde jedoch nicht bei einer Papstwahl aufgenommen. Es zeigt die Tage nach dem Tod von Johannes Paul II., als sein Leichnam über den Platz getragen wurde. Die Gegenüberstellung stellte eine trauernde Menge neben eine jubelnde und überliess den Rest der Bildunterschrift.
 
-Die Episode führt uns zu Pius IX. zurück. Der Tod eines Papstes, einst durch einen einzigen Post-mortem-Abzug dokumentiert, wird heute von einer Menge bezeugt, in der alle fotografieren. Das Vergleichsbild ist selbst ein vernetztes Bild: Es wird kopiert, aus seinem Kontext gelöst, beschriftet und weitergereicht für das, was es kommuniziert, und nicht für das, was es aufzeichnet.
+Die Episode führt uns zu Pius IX. und Pius XII. zurück. Der Tod eines Papstes, einst durch einen einzigen Post-mortem-Abzug und dann durch heimlich weitergegebene Aufnahmen vom Sterbebett dokumentiert, wird heute von einer Menge bezeugt, in der alle fotografieren. Das Vergleichsbild ist selbst ein vernetztes Bild: Es wird kopiert, aus seinem Kontext gelöst, beschriftet und weitergereicht für das, was es kommuniziert, und nicht für das, was es aufzeichnet.
 
 **Schlüsseltext: Daniel Rubinstein und Katrina Sluis, „A Life More Photographic: Mapping the Networked Image“ (2008).**
 
@@ -262,12 +302,13 @@ Nebeneinandergelegt erzählen die Bilder ihre eigene Geschichte der Fotografie.
 | Papst | Bild | Fotografische Verschiebung | Schlüsseltext |
 | --- | --- | --- | --- |
 | Pius IX. | Porträts, 1860er–1878 | Die Fotografie als Spur eines Körpers | Barthes, *Camera Lucida* (1980) |
+| Pius XII. | Fotografien vom Sterbebett, 1958 | Die Fotografie als Ware | Benjamin, „Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit“ (1935/36) |
 | Benedikt XVI. | Benetton *Unhate*, 2011 | Die Fotografie als Konstruktion | W. J. Mitchell, *The Reconfigured Eye* (1992) |
 | Johannes Paul II. / Franziskus | Petersplatz, 2005 und 2013 | Das Bild als Zirkulation | Rubinstein und Sluis (2008) |
 | Franziskus | Der Instagram-Like, 2020 | Das Bild als Aufmerksamkeit | Dean (2005) |
 | Franziskus | Die Pufferjacke, 2023 | Das Bild als Statistik | Steyerl (2023) |
 
-Wir beginnen mit einem Körper, der einst vor einer Linse stand, und enden mit einem Bild, das von keinem Körper stammt, sondern nur aus dem Durchschnitt von Millionen anderer Bilder. Dazwischen wandert der Papst vom Gegenstand einer Fotografie zu deren Rohmaterial, Publikum und Aufmerksamkeitsobjekt und schliesslich zu ihrem statistischen Rückstand. Keine Verschiebung ersetzt die vorherige. Die Spur, die Montage, die Menge, der Like und der Durchschnitt bestehen in den Bildern, denen wir heute begegnen, nebeneinander fort, und der Kurs wird immer wieder auf diese Akkumulation zurückkommen.
+Wir beginnen mit einem Körper, der einst vor einer Linse stand, und enden mit einem Bild, das von keinem Körper stammt, sondern nur aus dem Durchschnitt von Millionen anderer Bilder. Dazwischen wandert der Papst vom Gegenstand einer Fotografie zu deren Ware, Rohmaterial, Publikum und Aufmerksamkeitsobjekt und schliesslich zu ihrem statistischen Rückstand. Keine Verschiebung ersetzt die vorherige. Die Spur, die Indiskretion, die Montage, die Menge, der Like und der Durchschnitt bestehen in den Bildern, denen wir heute begegnen, nebeneinander fort, und der Kurs wird immer wieder auf diese Akkumulation zurückkommen.
 
 
 
