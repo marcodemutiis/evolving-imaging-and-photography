@@ -30,10 +30,14 @@ Moving from representation to circulation, and from human agency to computationa
 | 28.10.2026  | 3. The baby	                       |
 | 4.11.2026   | -Workshop Week - no class-	       |
 | 11.11.2026  | -Self Study-                       |
-| 18.11.2026  | 4. The animal                         |
+| 18.11.2026  | 4. The animal                      | 
 | 25.11.2026  | 5. The dress.                      |
 | 2.12.2026   | SUMMARY 			               |
 
+<!--: for the animal use the example of the multiple sculputer of the dog and point to this /N or even the shrimp jesus since it's th emain exampe of the paper-> aesthetics of Slop (see Jernej Markelj and Jakko Kemper "If AI slop feels meaningless to interpret, this is because it has little to do with meaning and representations. In this article, we read the aesthetic of AI slop as operational in the sense that its primary aim is not to represent the world but rather to act on it: it functions as a signal aimed at maximizing engagement metrics" https://journals.sagepub.com/doi/full/10.1177/13675494261468647).
+
+let's keep Jurgenson and the social photo for the woman and the selfie (paris hilton)	
+-->
 
 ## Bibliography
 Geoffrey Batchen, “On Post-Photography”, in Afterimage 20, 3, 1992, 17.
