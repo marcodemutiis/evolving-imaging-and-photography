@@ -10,8 +10,10 @@ published: false
 ---
 
 <div class="lang-en" markdown="1">
-![Screen Bodies]({{ site.baseurl }}/courses/Screen-Bodies/assets/img/uddenberg.webp)
-<figcaption>Anna Uddenberg, <em>Journey of Self Discovery</em>, 2016</figcaption>
+
+![]({{ site.baseurl }}/courses/Screen-Bodies/assets/img/)
+<figcaption></figcaption>
+
 
 
 <!-- photographic works showing the effects of the screen on the body -->
@@ -19,16 +21,20 @@ Buetti
 
 Caesar
 
-Summer Wagner
+
 
 Portraits of gamers (show a few): Roc Herms <yo><yo><yo> https://we-make-money-not-art.com/gamers_by_tod_d/
 
+Bittanti and IOCOSE
+
 Smudges on screen: https://www.tabithasoren.com/work/surface-tension
 
-<!-- for session on the body and online identity
+
+
+<!-- for session on the body and online identity - psychological effects of the screen on the body
 Jon Yuyi
 tom galle
-Bittanti and IOCOSE
+Summer Wagner
 -->
 
 
