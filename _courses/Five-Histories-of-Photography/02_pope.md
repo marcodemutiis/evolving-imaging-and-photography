@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: "A History of Photography and the Digital Image through the Pope"
-title_de: ""
+title_de: "Eine Geschichte der Fotografie und des digitalen Bildes anhand des Papstes"
 course_id: five-histories-of-photography
 course_title: "Five Histories of Photography and the Digital Image"
 course_title_de: "Fünf Geschichten der Fotografie und des digitalen Bildes"
@@ -141,6 +141,133 @@ We begin with a body that was once in front of a lens and end with an image that
 </div>
 
 <div class="lang-de" markdown="1">
+
+In dieser Vorlesung folge ich einer Reihe von Bildern des Papstes, um zentrale Momente in der Geschichte der Fotografie und des digitalen Bildes zu streifen. Technisch und kulturell zugleich markieren diese Momente die Transformationen des Mediums seit seinen Anfängen.
+
+Die Wahl des Papstes als Leitfigur ist teilweise willkürlich. Ein Pontifikat ist lang genug, dass Wahl und Tod eines Papstes unter sehr unterschiedlichen Bedingungen fotografiert werden. Der Heilige Stuhl ist zudem eine der konservativsten Institutionen überhaupt und die letzte absolute Monarchie Europas; seine Begegnungen mit der fotografischen und digitalen Kultur sind daher besonders sichtbar und oft unbeholfen. Ich hoffe, dass sich niemand katholischen Glaubens davon beleidigt fühlt: Die Bilder rund um den Pontifex dienen hier als Beispiele für eine Reflexion über ein Medium im ständigen Wandel.
+
+Die Abfolge ist nicht streng chronologisch. Sie folgt fünf konzeptuellen Verschiebungen: von der Fotografie als **Spur** über die Fotografie als **Konstruktion** und das Bild als **Zirkulation** und als **Aufmerksamkeit** bis zum Bild als **Statistik**. Jeder Abschnitt stellt ein Bild vor, erläutert die Rolle des Papstes darin und verankert die Episode in einem Schlüsseltext der Foto- und Medientheorie.
+
+***
+
+## Papst Pius IX.: Die Fotografie als Spur
+
+![Pius IX]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/pope-pius-IX2.png)
+<figcaption>Unknown photographer, <em>Pope Pius IX (Giovanni Maria Mastai-Ferretti)</em>, albumen print, 1860s?, © <a href="https://www.npg.org.uk/collections/search/portrait/mw148056/">National Portrait Gallery, London</a></figcaption>
+
+Giovanni Maria Mastai-Ferretti (1792–1878), Pius IX., gilt gemeinhin als der erste fotografierte Papst. Er hatte zudem das längste Pontifikat aller Päpste nach dem heiligen Petrus (1846–78), und es war ein Pontifikat des politischen Zerfalls. Mit einem liberalen Ruf gewählt, floh er während der Revolutionen von 1848 aus Rom, kehrte als Konservativer zurück und musste miterleben, wie die päpstlichen Gebiete im neuen italienischen Nationalstaat aufgingen (1861; Rom fiel 1870). Er beendete sein Leben als selbsterklärter „Gefangener des Vatikans“, als letzter der [„Königspäpste“](https://www.raicultura.it/storia/foto/2019/03/Papa-Pio-IX-fc308210-726d-4696-9bac-8a5318f95c2e.html).
+
+Die Ankunft der Fotografie war eine zweite Kontroverse neben der politischen. Das Medium verbreitete sich rasch in Europa, wurde aber nicht überall willkommen geheissen, am wenigsten in konservativen Kreisen, und die Malerei war über Jahrhunderte die eigene Bildtechnologie der Kirche. Giuseppe Pecci, ein jesuitischer Theologe und älterer Bruder von Leo XIII., dem Nachfolger Pius' IX., soll sich zeitlebens weitgehend geweigert haben, fotografiert zu werden; er hielt die Malerei für eine weitaus überlegene und wohlwollendere Darstellung des Menschen (Kühne 1880). Sein Bruder hingegen wurde 1896 gefilmt, was in der Regel als das erste bewegte Bild eines Papstes gilt.
+
+Pius IX. nahm das neue Medium an und sass der Kamera mehrfach Modell. Wir wissen nicht genau, wann und von wem die meisten dieser Porträts angefertigt wurden, doch sie zirkulierten als Cartes de Visite: Die [Royal Collection besitzt ein Exemplar von 1862](https://albert.rct.uk/collections/photographs-collection/portraiture/pope-pius-ix-1792-1878) von Fratelli d'Alessandri, das für Queen Victoria erworben wurde. Für den Kunsthistoriker Vicente Jesús Díaz Burillo ist [diese Fotografie ein Gründungsmoment des modernen Papsttums](https://www.ull.es/revistas/index.php/accadere/article/view/4608): einer Institution, die die Moderne überdauert, indem sie die technische Bildreproduktion übernimmt. Die ersten Fotografien eines Papstes sind somit zugleich ein technischer Meilenstein und ein Moment kultureller Anpassung.
+
+Das zweite Bild spitzt diesen Punkt zu.
+
+![Post-mortem portrait of Pius IX]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/pope-pius-IX.jpg)
+<figcaption>Unknown photographer, <em>A Post-Mortem Portrait of Pope Pius IX</em>, 1878</figcaption>
+
+Der Papst, der als erster seinen lebenden Körper fotografieren liess, wurde auch nach seinem Tod fotografiert. Die Frage lautet hier nicht mehr, ob die Fotografie mit der Malerei konkurrieren kann, sondern in welchem Verhältnis eine Fotografie zu etwas steht, das gewesen ist.
+
+**Schlüsseltext: Roland Barthes, *Camera Lucida* (1980).**
+
+- **Das Es-ist-so-gewesen (*ça a été*).** Barthes definiert die Fotografie als Zertifikat der Anwesenheit: Etwas oder jemand befand sich zu einem bestimmten Zeitpunkt vor dem Objektiv. Die Wahrheit der Fotografie ist die Wahrheit einer Spur. Eine ausführlichere Erläuterung bietet diese [kommentierte Lektüre](https://csmt.uchicago.edu/annotations/barthescamera.htm).
+- **Fotografie und Tod.** Weil der Moment unwiederbringlich vergangen ist, trägt jede Fotografie eine kleine Version des Todes in sich. Die fotografierte Person wird zu dem, was Barthes das *Spectrum* nennt, einer wiederkehrenden Erscheinung. Sein eigenes Beispiel ist das Porträt eines Mannes, der auf seine Hinrichtung wartet und in dem er zugleich liest: „er ist tot und er wird sterben“. Das Post-mortem-Porträt von Pius IX. ist eine buchstäbliche Version davon.
+
+***
+
+## Papst Benedikt XVI.: Die Fotografie als Konstruktion
+
+![Pope Benedict XVI]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/pope-benedict-xvi.jpg)
+<figcaption>Oliviero Toscani, from the <em>Unhate</em> campaign for Benetton, 2011</figcaption>
+
+Im November 2011 lancierte Benetton *Unhate*, eine Kampagne aus Fotomontagen, die politische Gegner beim Kuss auf den Mund zeigen: Barack Obama und Hugo Chávez, Benjamin Netanjahu und Mahmud Abbas sowie Benedikt XVI. mit einem führenden ägyptischen Imam. Das Unternehmen präsentierte die Kampagne als Aufruf zu Toleranz und „global love“, als Versuch, sichtbar zu machen, wie Hass aus der Angst vor dem Anderen entsteht. Der Vatikan verurteilte das Bild des Papstes als inakzeptable Provokation, als Beleidigung der Gläubigen und als Beispiel dafür, wie Werbung elementare Regeln des Respekts verletzt, um durch Provokation Aufmerksamkeit zu erzeugen. Benetton zog das Bild etwa eine Stunde nach dem Protest zurück, wie [The Guardian](https://www.theguardian.com/world/2011/nov/17/benetton-pope-kissing-ads) und [CBC/AP](https://www.cbc.ca/news/world/benetton-pulls-ad-with-pope-kissing-imam-1.1089967) berichteten.
+
+Niemand hielt diese Fotografie für echt, und dennoch löste sie Empörung aus. Das ist das erste Anzeichen dafür, dass Bilder unabhängig davon wirken, ob sie wahr sind, ein Punkt, auf den wir zurückkommen werden. Es ist auch der Moment, danach zu fragen, was das Digitale verändert hat. Fotografien wurden seit dem 19. Jahrhundert retuschiert und montiert, doch digitale Werkzeuge machten die Manipulation nahtlos, billig und alltäglich. Der Papst ist hier Rohmaterial: ein erkennbarer, hochgradig kodifizierter Körper, der in jede beliebige Szene versetzt werden kann.
+
+**Schlüsseltext: William J. Mitchell, *The Reconfigured Eye: Visual Truth in the Post-Photographic Era* (1992).**
+
+- **Das Ende der fotografischen Wahrheit.** Die analoge Fotografie beruhte auf einer physischen, kausalen Verbindung zwischen Welt und Bild („die Kamera lügt nie“), die Fotografien den Status objektiver Beweise verlieh.
+- **Die digitale Verschiebung.** Digitale Bilder sind Raster aus diskreten Pixeln und keine kontinuierlichen analogen Spuren. Sie sind daher veränderbar, nahtlos zu bearbeiten und leicht von Grund auf zu synthetisieren. Mitchell nennt dies das postfotografische Zeitalter, und es ist eine Krise des Realen: Wo Barthes' Fotografie bezeugt, schlägt Mitchells Bild nur vor.
+
+***
+
+## Papst Johannes Paul II.: Die Fotografie als Zirkulation
+
+![Pope John Paul II vs Pope Francis]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/pope-funeral.webp)
+<figcaption>Crowds in St. Peter's Square in 2005 (top) and 2013 (bottom). The top image shows the procession of John Paul II's body after his death; the bottom image shows the first appearance of Pope Francis after his election.</figcaption>
+
+Im März 2013 twitterte NBC News eine Gegenüberstellung zweier Fotografien von Menschenmengen auf dem Petersplatz, acht Jahre auseinander. Die Menge von 2005 hält eine Handvoll Telefone hoch; die Menge von 2013 ist ein Meer aus leuchtenden Bildschirmen. „What a difference 8 years makes“, lautete der Tweet, und das Bild ging viral. Der Vergleich ist, wie die HuffPost [anmerkte, etwas irreführend](https://www.huffpost.com/archive/ca/entry/viral-pope-election-photos-tweeted-by-nbc-news-are-misleading-p_n_2878146): Das untere Foto zeigt tatsächlich die Menge, die den neu gewählten Franziskus begrüsst, das obere wurde jedoch nicht bei einer Papstwahl aufgenommen. Es zeigt die Tage nach dem Tod von Johannes Paul II., als sein Leichnam über den Platz getragen wurde. Die Gegenüberstellung stellte eine trauernde Menge neben eine jubelnde und überliess den Rest der Bildunterschrift.
+
+Die Episode führt uns zu Pius IX. zurück. Der Tod eines Papstes, einst durch einen einzigen Post-mortem-Abzug dokumentiert, wird heute von einer Menge bezeugt, in der alle fotografieren. Das Vergleichsbild ist selbst ein vernetztes Bild: Es wird kopiert, aus seinem Kontext gelöst, beschriftet und weitergereicht für das, was es kommuniziert, und nicht für das, was es aufzeichnet.
+
+**Schlüsseltext: Daniel Rubinstein und Katrina Sluis, „A Life More Photographic: Mapping the Networked Image“ (2008).**
+
+Die Autor:innen schreiben zur Zeit des Aufstiegs von Web 2.0 und der frühen Smartphone-Nutzung und argumentieren, das digitale Bild solle nicht als immaterieller Ersatz des analogen Abzugs verstanden werden, sondern als etwas Neues: das vernetzte Bild (*networked image*).
+
+- **Vom Andenken zum Datenstrom.** Die Schnappschussfotografie war auf den Abzug ausgerichtet, privat und an besondere Anlässe gebunden. Das vernetzte Bild ist fliessend, endlos reproduzierbar und auf Übertragung ausgerichtet. Es entsteht mit allgegenwärtigen Smartphones und wird Teil des banalen Alltagsflusses.
+- **Fotografie als soziale Währung.** Der Wert eines Bildes verschiebt sich von seiner ästhetischen Qualität oder Dauerhaftigkeit hin zu seinem Nutzen für Kommunikation, Teilen und Selbstdarstellung. Fotografieren wird zu einem performativen, gemeinschaftlichen Akt.
+- **Die Auflösung des Originals.** Bilder existieren, um bearbeitet, getaggt, geteilt und geremixt zu werden. Die kunsthistorische Fixierung auf einen einzigen autoritativen Abzug löst sich auf, und die Frage, wer ein Bild kontrolliert, wird unscharf, wenn Mensch und Maschine zusammenarbeiten.
+
+***
+
+## Papst Franziskus: Das Bild als Aufmerksamkeit
+
+![Pope Francis]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/pope-francis-garibotto.webp)
+<figcaption><!-- TODO: caption --></figcaption>
+
+Im November 2020 erhielt eine Instagram-Fotografie des brasilianischen Models Natalia Garibotto in Unterwäsche Tausende Likes. Einer davon stammte vom offiziellen Account von Papst Franziskus. Der Like wurde Mitte November bemerkt, etwa sechs Wochen nach der Veröffentlichung der Fotografie, und am nächsten Tag entfernt. Ein Sprecher des Vatikans erklärte gegenüber The Guardian, der Heilige Stuhl könne ausschliessen, dass der Like von ihm stamme, und man habe sich [mit der Bitte um Erklärungen an Instagram gewandt](https://www.theguardian.com/world/2020/nov/19/pope-francis-instagram-like-brazil-model-natalia-garibotto). Garibotto scherzte, sie sei nun wenigstens ["going to heaven"](https://web.archive.org/web/20201121141913/https://www.wired.it/internet/social-network/2020/11/20/papa-francesco-like-modella-brasiliana/?refresh_ce=). Es ist verlockend, die Episode als Beleg dafür zu lesen, dass die Verführungskraft der Bilder so stark ist, dass selbst die Frömmsten ihr nicht widerstehen können.
+
+Ein Like ist eine Transaktion. Einem Bild wird Aufmerksamkeit geschenkt, seine Verführungskraft wird quantifiziert, und durch Zirkulation entsteht Wert. Der Like von @franciscus lässt sich hier auch als Akt der Bestätigung lesen, der sich in einen Platz im Paradies umrechnen lässt: vielleicht ein vernetzter Ablass für das Online-Zeitalter.
+
+![Pope Francis]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/pope-francis-garibotto2.webp)
+<figcaption><!-- TODO: caption --></figcaption>
+
+Etwa einen Monat später schien sich das Ganze zu wiederholen. Ein Like von @franciscus tauchte bei der Fotografie eines anderen Models auf, dessen Account privat ist, und ein Screenshot zirkulierte als Beweis, ganz in der Tradition des frühen Internets: „pics or it didn't happen“. Die spanische Seite mag24.es quittierte es mit „here we go again“. Italienische Medien spekulierten rasch: [War es ein echter Like aus dem Umfeld des Papstes, ein Fake, ein Werbegag, ein menschlicher Fehler oder ein Hack?](https://www.tgcom24.mediaset.it/cronaca/il-profilo-instagram-del-papa-mette-nuovamentelike-a-una-modella_26915133-202002a.shtml) [*Il Giornale*](https://www.ilgiornale.it/news/cronache/nuovo-modella-sexy-giallo-sull-account-instagram-papa-1912006.html) hielt fest, viele vermuteten eine gelungene Photoshop-Montage, die das Profil eines als OnlyFans-Star beschriebenen Models stärken solle, und der einzige Beweis sei ein Screenshot.
+
+Ob einer der beiden Likes echt war, bleibt ungeklärt, und ich gestehe eine Vorliebe für die Hypothese, dass auch @franciscus der Verführung der Bilder erlegen ist. Und führe uns nicht in Versuchung. Ebenso reizvoll, wenngleich rein spekulativ, ist die Vorstellung, der Account sei als Streich von den [chinesischen Hackern](https://www.nytimes.com/2020/07/28/us/politics/china-vatican-hack.html) gekapert worden, die in jenem Sommer Berichten zufolge einen Angriff auf Vatikan-Netzwerke in einem gefälschten Kondolenzschreiben des Kardinalstaatssekretärs versteckt hatten. Doch für mein Argument ist die Frage der Echtheit weniger wichtig als die Erklärungen selbst. Die Spekulationen der italienischen Presse geben bereits einen treffenden Überblick darüber, wer hinter der Oberfläche des vernetzten Bildes agiert: Hacker:innen, die digitale Identitäten stehlen können, Photoshop-Virtuos:innen mit mehr oder weniger ethischen Zielen, Influencer:innen, die Strategien zur Mehrung ihres sozialen Kapitals entwickeln, sowie müde Social-Media-Manager:innen und prekär beschäftigte Kommunikationspraktikant:innen, die vergessen könnten, sich aus dem Account des Papstes auszuloggen, während sie in der Kaffeepause halbnackte Models bewundern. Sie alle gehören zur vernetzten Arbeiterschaft der Aufmerksamkeitsökonomie. Sie sind auch Teil der unsichtbaren Infrastruktur, die Bilder auf unseren Bildschirmen erscheinen lässt: Rendering-Farmen, Tiefseekabel, Satelliten, Server, Coltan-Minen.
+
+Hinter jedem verführerischen Bild, das uns dazu bringt, ein Zeichen unserer Aufmerksamkeit zu schenken, liegt ein Netzwerk verborgener Akteur:innen und Ressourcen, eine äusserst materielle Infrastruktur mit wachsenden Auswirkungen auf die globale Umwelt. Die Verführung der Bilder ruht auf diesem planetarischen System menschlicher und maschineller Instanzen.
+
+**Schlüsseltext: Jodi Dean, „Communicative Capitalism: Circulation and the Foreclosure of Politics“ (2005).**
+
+- **Zirkulation vor Bedeutung.** Dean argumentiert, in vernetzten Medien zähle, dass eine Nachricht zirkuliert, nicht dass sie gehört oder beantwortet wird. Teilhabe, Ausdruck und Inklusion werden als Beiträge zum Fluss vereinnahmt und monetarisiert.
+- **Die „Authentizitätsfalle“.** Durch diese Linse lässt sich Influencer-Fotografie lesen. Das Publikum sehnt sich nach echter Verbindung, also imitieren Influencer:innen Intimität mit Schlafzimmerspiegeln, unretuschierter Haut und bekenntnishaften Selfies. Doch das ist keine Intimität, sondern die Vereinnahmung von Affekt. Die Influencer:innen verwandeln ihr Gefühlsleben und ihr körperliches Erscheinungsbild in eine visuelle Ware, und Verletzlichkeit wird zu einer ästhetischen Strategie für algorithmische Relevanz und Sponsoring.
+
+***
+
+## Der Balenciaga-Papst: Das Bild als Statistik
+
+![Balenciaga Pope]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/balenciaga-pope.jpg)
+<figcaption>Pablo Xavier (Midjourney), <em>Pope Francis in a puffer jacket</em>, March 2023</figcaption>
+
+Im März 2023 generierte ein Bauarbeiter aus dem Raum Chicago, Pablo Xavier, mit Midjourney Bilder von Papst Franziskus in einer riesigen weissen Pufferjacke und stellte sie auf Facebook und Reddit, wie er [BuzzFeed News](https://news.yahoo.com/spoke-guy-created-viral-ai-181526486.html) erzählte. Ein Twitter-Nutzer teilte eines davon mit einem beiläufigen „OKAAYYY“, und es ging massiv viral. Viele hielten es für echt, darunter der Journalist Ryan Broderick, der [in seinem Newsletter Garbage Day darüber schrieb](https://www.garbageday.email/p/pope-in-a-coat). Das verräterische Detail ist der Becher in der Hand des Papstes, der wie ein Starbucks-Becher aussieht. Der Autor Joel Golby schrieb im Guardian, er habe sich für immun gegen Täuschungen im Netz gehalten, bis er den Papst im Mantel gesehen habe.
+
+Broderick nennt drei Gründe, warum sich das Bild so weit verbreitete. Die beiläufige Art, wie es geteilt wurde, lud nicht zum genauen Hinsehen ein. Midjourney in Version 5 war schlicht sehr gut, und seine Nutzer:innen hatten entdeckt, dass es sich hervorragend für Bilder eignet, die wie Modefotografie aussehen. Und der Papst ist seltsam und tut ständig seltsame Dinge: Er hat einen Lamborghini gesegnet, eine grosse Pufferjacke ist also nicht schwer zu glauben. Brodericks Urteil lautet, es habe sich wohl um den ersten echten KI-Hoax im Massenmassstab gehandelt, und die alarmistischen Kommentare, die folgen würden, seien völlig vorhersehbar gewesen.
+
+Vergleichen wir es mit Benetton 2011. Dort war das Bild eine Montage aus Fotografien, und niemand wurde getäuscht. Hier war das Bild nie eine Fotografie, und viele wurden getäuscht. Vergleichen wir es auch mit dem Like von 2020: Die Dynamiken von Aufmerksamkeit und Zirkulation, die den Papst zu einer wiederkehrenden Figur vernetzter Bilder machten, speisen nun die Erzeugung der Bilder selbst.
+
+**Schlüsseltext: Hito Steyerl, „Mean Images“ (2023).**
+
+Steyerl kritisiert Werkzeuge wie DALL-E und Midjourney. Algorithmische Generierung verschiebt die visuelle Kultur von der fotografischen Repräsentation hin zu einer statistischen Wiedergabe auf der Grundlage riesiger Mengen aus dem Netz gescrapter Daten.
+
+- **Statistische Durchschnitte statt Repräsentation.** Ein generatives Modell erfasst die Wirklichkeit nicht wie die Fotografie, erschafft aber auch nichts aus dem Nichts. Es berechnet einen statistischen „Mittelwert“ (*mean*) seines Datensatzes, seine Bilder sind daher Flickenteppiche der häufigsten Datenpunkte.
+- **Die doppelte Bedeutung von „mean“.** Über den Durchschnitt hinaus sind diese Bilder „mean“ im Sinne von gemein, weil sie extraktiv sind. Sie beruhen auf der unbezahlten Arbeit von Künstler:innen und der unterbezahlten Arbeit von Mikroarbeiter:innen, die Daten annotieren, und sie verstärken häufig Sexismus, Rassismus und andere Verzerrungen der historischen Daten.
+
+***
+
+## Die Papst-Trajektorie
+
+Nebeneinandergelegt erzählen die Bilder ihre eigene Geschichte der Fotografie.
+
+| Papst | Bild | Fotografische Verschiebung | Schlüsseltext |
+| --- | --- | --- | --- |
+| Pius IX. | Porträts, 1860er–1878 | Die Fotografie als Spur eines Körpers | Barthes, *Camera Lucida* (1980) |
+| Benedikt XVI. | Benetton *Unhate*, 2011 | Die Fotografie als Konstruktion | W. J. Mitchell, *The Reconfigured Eye* (1992) |
+| Johannes Paul II. / Franziskus | Petersplatz, 2005 und 2013 | Das Bild als Zirkulation | Rubinstein und Sluis (2008) |
+| Franziskus | Der Instagram-Like, 2020 | Das Bild als Aufmerksamkeit | Dean (2005) |
+| Franziskus | Die Pufferjacke, 2023 | Das Bild als Statistik | Steyerl (2023) |
+
+Wir beginnen mit einem Körper, der einst vor einer Linse stand, und enden mit einem Bild, das von keinem Körper stammt, sondern nur aus dem Durchschnitt von Millionen anderer Bilder. Dazwischen wandert der Papst vom Gegenstand einer Fotografie zu deren Rohmaterial, Publikum und Aufmerksamkeitsobjekt und schliesslich zu ihrem statistischen Rückstand. Keine Verschiebung ersetzt die vorherige. Die Spur, die Montage, die Menge, der Like und der Durchschnitt bestehen in den Bildern, denen wir heute begegnen, nebeneinander fort, und der Kurs wird immer wieder auf diese Akkumulation zurückkommen.
 
 
 
