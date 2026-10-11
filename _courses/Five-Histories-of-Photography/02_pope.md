@@ -21,7 +21,7 @@ The sequence is not strictly chronological. It follows five conceptual shifts: f
 
 ## Pope Pius IX: The Photograph as Trace
 
-![Pius IX]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/pope-pius-IX.png)
+![Pius IX]({{ site.baseurl }}/courses/Five-Histories-of-Photography/assets/img/pope-pius-IX2.png)
 <figcaption>Unknown photographer, <em>Pope Pius IX (Giovanni Maria Mastai-Ferretti)</em>, albumen print, 1860s?, © <a href="https://www.npg.org.uk/collections/search/portrait/mw148056/">National Portrait Gallery, London</a></figcaption>
 
 Giovanni Maria Mastai-Ferretti (1792–1878), Pius IX, is generally described as the first pope to be photographed. He also had the longest reign of any pope after Saint Peter (1846–78), and it was a reign of political collapse. Elected with a liberal reputation, he fled Rome during the revolutions of 1848, returned as a conservative, and watched the papal territories absorbed into the new Italian nation state (1861; Rome fell in 1870). He ended his life as the self-declared "prisoner of the Vatican", the last of the ["king popes"](https://www.raicultura.it/storia/foto/2019/03/Papa-Pio-IX-fc308210-726d-4696-9bac-8a5318f95c2e.html).
