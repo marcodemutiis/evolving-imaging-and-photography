@@ -108,7 +108,7 @@ Replicate's advice for choosing one:
 
 Training is billed per second of computing time. At the time Replicate's guide was written, a training with about 20 images and 1000 steps took around two minutes and cost roughly 1.50 USD. Prices change, so check the current rates on the pricing page. Wait for the training to complete, which is a good moment for a break.
 
-> **Training fails on a Mac?** Hidden "ghost" files created by macOS can break the upload. Open the Terminal, `cd` into the folder that contains your dataset folder, and type: `dot_clean LORA_FOLDER_NAME`. Then zip the folder again and upload the new file.
+**Training fails on a Mac?** Hidden "ghost" files created by macOS can break the upload. Open the Terminal, `cd` into the folder that contains your dataset folder, and type: `dot_clean LORA_FOLDER_NAME`. Then zip the folder again and upload the new file.
 
 <!-- IMAGE: The Replicate training form, filled in -->
 
