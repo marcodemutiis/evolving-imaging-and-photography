@@ -245,13 +245,13 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 - Prechtel Liesbeth 
 
-- Heidemann Lisa 
+- Heidemann Lisa v
 
 - Schopf Julia v
 
 - Bär Titus v
 
-- Cepuran Mirjam
+- Cepuran Mirjam v
 
 - Mörbe Frederik v
 
@@ -259,7 +259,7 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 - Nicolai Annike v
 
-- Lucia Mendaro 
+- Lucia Mendaro x
 
 [MKD]
 

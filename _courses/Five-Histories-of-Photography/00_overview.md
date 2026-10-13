@@ -25,14 +25,15 @@ Moving from representation to circulation, and from human agency to computationa
 | Date       | Topic                               |
 |------------|-------------------------------------|
 | 7.10.2026   | INTRODUCTION                       |
-| 14.10.2026  | 1. The pope 					   |
-| 21.10.2026  | 2. The woman                	   |
-| 28.10.2026  | 3. The baby	                       |
-| 4.11.2026   | -Workshop Week - no class-	       |
-| 11.11.2026  | -Self Study-                       |
-| 18.11.2026  | 4. The animal                      | 
-| 25.11.2026  | 5. The dress.                      |
-| 2.12.2026   | SUMMARY 			               |
+| 14.10.2026  | -Illo Konstanz - no class-         |
+| 21.10.2026  | 1. The pope 					   |
+| 28.10.2026  | 2. The woman                	   |
+| 4.11.2026   | 3. The baby	                       |
+| 11.11.2026  | -Workshop Week - no class-	       |
+| 18.11.2026  | -Self Study-                       |
+| 25.11.2026  | 4. The animal                      | 
+| 2.12.2026   | 5. The dress.                      |
+| 9.12.2026   | SUMMARY 			               |
 
 <!--: for the animal use the example of the multiple sculputer of the dog and point to this /N or even the shrimp jesus since it's th emain exampe of the paper-> aesthetics of Slop (see Jernej Markelj and Jakko Kemper "If AI slop feels meaningless to interpret, this is because it has little to do with meaning and representations. In this article, we read the aesthetic of AI slop as operational in the sense that its primary aim is not to represent the world but rather to act on it: it functions as a signal aimed at maximizing engagement metrics" https://journals.sagepub.com/doi/full/10.1177/13675494261468647).
 
@@ -200,14 +201,15 @@ Vom Darstellen zum Zirkulieren und von menschlichem Handeln zu computergestützt
 | Datum       | Thema                              |
 |-------------|------------------------------------|
 | 7.10.2026   | EINFÜHRUNG                         |
-| 14.10.2026  | 1. Der Papst                       |
-| 21.10.2026  | 2. Die Frau                        |
-| 28.10.2026  | 3. Das Baby                        |
-| 4.11.2026   | -Workshopwoche – kein Unterricht-  |
-| 12.11.2026  | -Selbststudium-                    |
-| 18.11.2026  | 4. Das Tier                        |
-| 25.11.2026  | 5. Das Kleid                       |
-| 2.12.2026   | ZUSAMMENFASSUNG                    |
+| 14.10.2026  | -Illo Konstanz – kein Unterricht-  |
+| 21.10.2026  | 1. Der Papst                       |
+| 28.10.2026  | 2. Die Frau                        |
+| 4.11.2026   | 3. Das Baby                        |
+| 11.11.2026  | -Workshopwoche – kein Unterricht-  |
+| 18.11.2026  | -Selbststudium-                    |
+| 25.11.2026  | 4. Das Tier                        |
+| 2.12.2026   | 5. Das Kleid                       |
+| 9.12.2026   | ZUSAMMENFASSUNG                    |
 
 
 ## Bibliografie

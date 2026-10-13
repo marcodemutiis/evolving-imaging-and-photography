@@ -287,51 +287,51 @@ Ich möchte, dass Studierende mit allen Hintergründen und Perspektiven in diese
 ## Studierende
 </div>
 
-- Grellert Anna v
+- Grellert Anna vv
 
-- Grill Louis v
+- Grill Louis vx
 
-- Schewz Christina v
+- Schewz Christina vv
 
-- Veljkovic Adrijana v
+- Veljkovic Adrijana vx
 
-- Schindel Emily v
+- Schindel Emily vv
 
-- Schubert Alexander v
+- Schubert Alexander vv
 
-- Burgard Hanna v
+- Burgard Hanna vv
 
-- Studt Janne v
+- Studt Janne vv
 
-- Parkhidko Kateryna v
+- Parkhidko Kateryna vv
 
-- Schmitt Alexandra v
+- Schmitt Alexandra vv
 
-- Kinast Jule v
+- Kinast Jule vv
 
-- Schmotz Hanna v
+- Schmotz Hanna vx
 
-- Lobo de Macedo Rosa v
+- Lobo de Macedo Rosa vv
 
-- Weinzierl Paula v
+- Weinzierl Paula vv
 
-- Hunstein Hanna v
+- Hunstein Hanna vv
 
-- Lickert Michaela v
+- Lickert Michaela vv
 
-- Schiechtele Natalie v
+- Schiechtele Natalie vv
 
-- Dogru Medine v
+- Dogru Medine vv
 
-- Kilic Merve v
+- Kilic Merve vv
 
-- Yong Sihavann v
+- Yong Sihavann (Vann) vv
 
-- Grünewald Janne v
+- Grünewald Janne vv
 
-- Homberg Lilly x
+- Homberg Lilly xv
 
-- Hampp Dalina v
+- Hampp Dalina vv
 
 
 <!--
@@ -341,7 +341,7 @@ Ich möchte, dass Studierende mit allen Hintergründen und Perspektiven in diese
 10:10	40	Introducing Bedbound. About 30 min of talk plus 10 min of questions. 
 
 10:50	15	Break
-11:05	25	Logistics (collab). start at 10:15 + sprach stunden Calendar, assessment, midterm, final, code of conduct (you decide how personal you get), platform.
+11:05	25	Logistics (collab). start at 10:15 + sprachstunden. Calendar, assessment, midterm, final, code of conduct (you decide how personal you get), platform.
 11:30	45	Collective mind map of the bed: 
 			Five minutes of silent individual writing, one idea per sticky note ("bed is...", "in bed I...").
 			Groups of 4 or 5 cluster the notes on a wall or large paper.

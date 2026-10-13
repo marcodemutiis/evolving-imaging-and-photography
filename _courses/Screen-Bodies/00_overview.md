@@ -51,7 +51,7 @@ The project must contain:
 | 18.11.2026  | 4. The Screen Body Double          | <!-- Cooper, Lu Yang, Nina Davies -> avatars and metahuman -->
 | 25.11.2026  | 5. The Networked Body              | <!-- Alina Frieske, Jenny Rova Tinder -> digital collage -->
 | 2.12.2026   | MID TERM PRESENTATIONS             |
-| 9.12.2026  | 6. The Captured Body               | <!-- Elisa Hampe -> Photogrammetry -->
+| 9.12.2026  | 6. The Captured Body               | <!-- Granular Synthesis Modell 5, Elisa Hampe -> Photogrammetry -->
 | 16.12.2026  | 7. The Augmented Body              | <!-- Ines ALpha -> Face Filters -->
 | 6.1.2027    | Project Development                |
 | 13.1.2027   | Project Development                |

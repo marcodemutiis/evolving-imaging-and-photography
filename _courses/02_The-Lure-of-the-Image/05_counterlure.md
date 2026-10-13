@@ -70,7 +70,7 @@ In *Los Santos*, Mattia Dagani Rio uses AI image generation to reimagine that wo
 
 Read: Doris Gassert, [*When they search for your name, they will find flowers*]({{ site.baseurl }}/courses/02_The-Lure-of-the-Image/assets/texts/05_Gassert_When-they-search-for-your-name.pdf), 2025
 
-Make: Using in-game photography, hashtag intervention, image annotation, or any other strategy explored in this lesson, create a work that enacts a counter-lure: a piece that turns the seductive logic of a platform, algorithm, or visual convention against itself. The work should engage with at least one of the dynamics discussed in the lesson — algorithmic manipulation, hashtag hijacking, the male gaze, the lure of guns and macho culture, or the gap between how humans and machines read images — and reflect on what it means to use the image as a tool of resistance rather than seduction.
+~~Make: Using in-game photography, hashtag intervention, image annotation, or any other strategy explored in this lesson, create a work that enacts a counter-lure: a piece that turns the seductive logic of a platform, algorithm, or visual convention against itself. The work should engage with at least one of the dynamics discussed in the lesson — algorithmic manipulation, hashtag hijacking, the male gaze, the lure of guns and macho culture, or the gap between how humans and machines read images — and reflect on what it means to use the image as a tool of resistance rather than seduction.~~
 
 </div>
 
