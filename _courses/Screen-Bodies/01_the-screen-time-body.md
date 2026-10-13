@@ -10,15 +10,12 @@ published: true
 ---
 
 <div class="lang-en" markdown="1">
-
-
-
 ## Screen → Bodies
 (Pickersgill, Herms, Bjorgen, Game Arthritis, Rolling)
 
 ### Eric Pickersgill, [*Removed*](https://www.removed.social/series), 2014 – 
 
-![Eric Pickersgill]({{ site.baseurl }}/courses/Screen-Bodies/assets/img/.jpg)
+![Eric Pickersgill]({{ site.baseurl }}/courses/Screen-Bodies/assets/img/pickersgill.jpg)
 <figcaption>Eric Pickersgill, from <em>Removed</em>, 2014 –</figcaption>
 
 <blockquote>The joining of people to devices has been rapid and unalterable. The application of the personal device in daily life has made tasks take less time. Far away places and people feel closer than ever before. Despite the obvious benefits that these advances in technology have contributed to society, the social and physical implications are slowly revealing themselves. In similar ways that photography transformed the lived experience into the photographable, performable, and reproducible experience, personal devices are shifting behaviors while simultaneously blending into the landscape by taking form as being one with the body. This phantom limb is used as a way of signaling busyness and unapproachability to strangers while existing as an addictive force that promotes the splitting of attention between those who are physically with you and those who are not.
@@ -43,6 +40,7 @@ Source: [rocherms.com/projects/yo-yo-yo](https://www.rocherms.com/projects/yo-yo
 </blockquote>
 
 ### David Bjorgen, [*Game Boy Around the World*](https://www.flickr.com/photos/cybjorg/albums/72157594337816996/), 2006 – 2008
+
 ![David Bjorgen]({{ site.baseurl }}/courses/Screen-Bodies/assets/img/bjorgen.jpg)
 <figcaption>David Bjorgen, <em>Game Boy at Stonehenge</em>, 2006, from <em>Game Boy Around the World</em>, 2006 – 2008</figcaption>
 
@@ -160,17 +158,7 @@ Source: [aboutphotography.blog/blog/summer-wagner](https://aboutphotography.blog
 </blockquote>
 
 
-
-<!-- for session on the body and online identity - psychological effects of the screen on the body
-Buetti
-Jon Yuyi
-tom galle
-Marcus Sperlich https://www.visualflood.com/post/body-surrealism-the-clever-and-powerful-creative-photography-of-marius-sperlich
-Antoine Geiger, sur-fake
-
-Danii Ploeger
--->
-
+## Assignement
 
 
 </div>
@@ -180,3 +168,12 @@ Danii Ploeger
 
 </div>
 
+<!-- notes: do not delete: for session on the body and online identity - psychological effects of the screen on the body
+Buetti
+Jon Yuyi
+tom galle
+Marcus Sperlich https://www.visualflood.com/post/body-surrealism-the-clever-and-powerful-creative-photography-of-marius-sperlich
+Antoine Geiger, sur-fake
+
+Danii Ploeger
+-->
