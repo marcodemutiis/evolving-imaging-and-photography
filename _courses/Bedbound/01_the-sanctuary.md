@@ -35,7 +35,7 @@ The works in this lesson move across these tensions. We begin with beds opened u
 ### Sophie Calle, [*The Sleepers*](https://fraenkelgallery.com/portfolios/the-sleepers), 1979
 
 ![Sophie Calle]({{ site.baseurl }}/courses/Bedbound/assets/img/calle2.webp)
-<figcaption></figcaption>
+<figcaption>Sophie Calle, from <em>The Sleepers</em>, 1979</figcaption>
 
 Sophie Calle's work tests the boundary between public and private life. In 1979 she had begun following strangers through Paris as a way of giving her days a structure. For *The Sleepers*, she brought this watching indoors. Over eight days she invited friends, acquaintances and strangers to take turns sleeping in her bed in eight-hour shifts, so that it was never empty. Nearly thirty people agreed to take part. When a guest did not turn up, Calle hired a stand-in or took the place herself. She photographed the sleepers at regular intervals, noted their gestures and habits, served meals and changed the sheets. What drew her, she explained, was not the wish to know someone's life but an interest in small details, such as which way a person sleeps or which side of the bed they choose. She later developed the project into an artist's book, a format central to her practice.
 
