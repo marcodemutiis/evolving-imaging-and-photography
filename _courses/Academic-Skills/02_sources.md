@@ -11,6 +11,19 @@ published: true
 
 <div class="lang-en" markdown="1">
 
+Choose the subject of your text: one of your own design projects, or a work from design, photography or the arts that you want to write about. Then write one page that contains:
+
+1. A short description of the subject (3–5 sentences)
+2. Why it interests you
+3. Three possible research questions
+4. The question you would like to pursue, with one sentence explaining why
+
+Upload your assignments [here](https://docs.google.com/document/d/12tp-6YkIoqtjtdTZrUAn8xC9vRYcrGWzhaBi1MZcuLw/edit?tab=t.3t41qx6zwrjj)
+
+In pairs, read and give feedback to the other person's initial research project. You can use the google doc comment function, or add your comments with a different colour.
+
+***
+
 ## Introduction
 A research question is only as good as the material that supports it. This session is about finding sources for the question you drafted last week, and about judging which of them you can rely on. For design, photography and the arts this includes books and journal articles, but also exhibition catalogues, artist statements, interviews, archives, websites, and images. Each of these needs to be approached in a different way.
 
@@ -56,6 +69,19 @@ For each source, write two or three sentences explaining what it offers for your
 </div>
 
 <div class="lang-de" markdown="1">
+
+Wählt das Thema eures Textes: eines eurer eigenen Designprojekte oder eine Arbeit aus Design, Fotografie oder Kunst, über die ihr schreiben möchtet. Schreibt dann eine Seite mit folgendem Inhalt:
+
+1. Eine kurze Beschreibung des Themas (3–5 Sätze)
+2. Warum es euch interessiert
+3. Drei mögliche Forschungsfragen
+4. Die Frage, die ihr weiterverfolgen möchtet, mit einem Satz zur Begründung
+
+Lade deine Aufgaben \[hier\](https://docs.google.com/document/d/12tp-6YkIoqtjtdTZrUAn8xC9vRYcrGWzhaBi1MZcuLw/edit?tab=t.3t41qx6zwrjj) hoch.
+
+Lest zu zweit das erste Forschungsprojekt der jeweils anderen Person und gebt euch gegenseitig Feedback. Ihr könnt dafür die Kommentarfunktion in Google Docs verwenden oder eure Kommentare in einer anderen Farbe hinzufügen.
+
+***
 
 ## Einführung
 Eine Forschungsfrage ist nur so gut wie das Material, das sie stützt. In dieser Sitzung geht es darum, Quellen für die Frage zu finden, die ihr letzte Woche entworfen habt, und zu beurteilen, auf welche davon ihr euch verlassen könnt. Für Design, Fotografie und Kunst gehören dazu Bücher und Zeitschriftenartikel, aber auch Ausstellungskataloge, Künstler:innenstatements, Interviews, Archive, Websites und Bilder. Jede dieser Quellen verlangt einen anderen Umgang.

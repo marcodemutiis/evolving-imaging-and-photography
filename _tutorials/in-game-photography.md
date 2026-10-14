@@ -150,13 +150,178 @@ Even the freest of these has limits. In the next section you will install a free
 
 ## Free Camera
 
+The in-game cameras are tied to your character. A free camera cuts that link: the view detaches, and you can fly it to any position and angle, as a photographer would move around a subject. This tutorial uses the free camera in [Menyoo](https://www.gta5-mods.com/scripts/menyoo-2-0), a trainer, or mod menu, for single-player *GTA V*. Menyoo does much more than camera work, but you only need a few of its menus.
+
+### Opening Menyoo
+
+1. Start the game in Story Mode and press F8 to open the menu.
+2. Navigate with the arrow keys, select with Enter and go back with Backspace. Press F8 again to close the menu.
+
+### Turning on the free camera
+
+1. In the menu, go to `Misc Option` and press `Enter`. Select `FreeCam (No-Clip)` and press `Enter` to turn it on. Press `F3` to toggle the FreeCam on/off.
+2. Move and look with `WASD`, and `Q` and `E` to move up or down, and change speed by pressing or releasing the `Left Shift`key.
+
+### Using it as a photographer
+
+- **Move slowly.** Fast movement makes framing difficult. Lower the camera speed until you can nudge the view a little at a time.
+- **Leave the eye-level view.** The free camera is most useful for positions the game's own cameras cannot reach: very low, very high, tight against a wall, or far away.
+- **Check the edges.** Look around the frame for things you did not intend: characters walking in, repeated textures, objects cut off by the frame.
+- **Control the scene.** Menyoo also lets you change the time of day and the weather, and teleport to other places. The *Light and Composition* section explains how to use these.
+
+### Other free cameras
+
+Menyoo is one option. If it does not work with your version of the game, or you want more features, you can use another free camera:
+
+- [Simple Camera](https://www.gta5-mods.com/scripts/simple-camera) is a free-camera plugin for photography and filmmaking.
+- [Otis_Inf](https://www.patreon.com/Otis_Inf) camera tools (see *Software & Tools*).
+- If you want to code your own, the [Custom Cameras](https://gta5.photography/manuals/cameras) manual shows how to build one in C#, step by step.
+
+## Light and Composition
+
+The game gives you good tools for both. You can choose the time of day and the weather, and with a free camera you can place yourself anywhere in the scene.
+
+### Light
+
+The game world has its own sun, clouds, streetlights and interiors, and they all behave like real light. Your job is to find the right light for your subject, instead of taking whatever the game gives you.
+
+**Time of day.** Director Mode lets you choose between midnight, pre-dawn, dawn, morning, midday, afternoon, sunset and dusk. In Menyoo, you can change the time from [menu path]. A few starting points:
+
+- **Dawn and sunset** give long shadows, warm colour and a low sun. They are the classic times for landscapes and cityscapes.
+- **Midday** gives harsh, high light and short shadows. It is difficult for portraits, but works for graphic, high-contrast architecture.
+- **Dusk and night** put artificial light in the foreground: streetlights, neon, windows and car headlights. Look for pools of light against dark surroundings.
+
+**Weather.** Director Mode offers clear, overcast, hazy, smog, fog, rain, thunder and snow, among other conditions. Overcast gives soft, even light with few shadows. Fog and haze separate the scene into layers of distance. Rain creates reflections on the ground. In Menyoo, you can change the weather from [menu path].
+
+**Direction.** Walk around your subject and watch how the light changes. Light from the front is flat, light from the side shows shape and texture, and light from behind creates silhouettes and glare. Because the free camera is not tied to your character, you can choose the angle that fits the light.
+
+**Waiting.** The sun moves as time passes in the game. If you like the light you have, work quickly or freeze the time in Menyoo.
+
+### Composition
+
+You decide what to include in the frame, and what to leave out.
+
+- **Viewpoint.** Height changes meaning. A low camera makes a subject look monumental, and a high camera makes it look small or exposed. Try the same subject from three heights.
+- **Distance.** Move closer to simplify the image, and further away to show the setting. Moving closer changes what is in the frame, not only its size.
+- **Structure.** Place the main subject on one of the thirds of the frame, not always in the centre. Look for lines that lead the eye, and for layers of foreground, middle ground and background.
+- **Horizon and verticals.** Keep the camera level unless you tilt it on purpose. Tilted verticals make buildings look as if they are falling over.
+- **Edges.** Check every side of the frame for unwanted elements: pedestrians walking in, cars, cut-off objects.
+- **Game artefacts.** Objects and textures may need a moment to load after you move or teleport, and distant objects can appear in low detail. Wait a few seconds before you shoot.
+- **Depth of field.** Blurring the background to isolate a subject is done with ReShade, covered in the next section.
+
+### Starting points by genre
+
+| Genre | Light | Composition |
+| --- | --- | --- |
+| Landscape | Dawn or sunset, with clear or hazy weather | Layers of distance, a clear horizon, a strong foreground |
+| Architecture | Side light that shows form, or overcast for even light | A level camera, straight verticals, symmetry or strong diagonals |
+| Portrait | Soft light: overcast or low sun | A character in the frame at a comfortable distance, simple background |
+| Street | Any light, but look for strong shadows | Wait for a moment, and frame people with their surroundings |
+| Night | Night, with clear weather | Pools of artificial light, reflections after rain |
+
 ## ReShade
 
-## DLSS5
+Out of the box, *GTA V* looks the way its developers made it in 2013. ReShade lets you change that look. It is a post-processing injector developed by crosire: it sits between the game and your screen, and applies a stack of filters to the finished image, much as editing software does. It works with most PC games, supporting Direct3D 9 to 12, OpenGL and Vulkan.
+
+Because ReShade works on the final image, it can change colour, contrast, sharpness, grain and focus, but it cannot change what is in the frame. Composition and light still come from the game, and from where you place the camera.
+
+### Installing ReShade
+
+If you have not installed ReShade yet, follow the steps in *Before you play*. For the ReShade setup, you need to:
+
+1. Download the latest version from [reshade.me](https://reshade.me/) and run the setup.
+2. Browse to your *Grand Theft Auto V* folder and select the game's executable: `GTA5.exe` for Legacy, or `GTA5_Enhanced.exe` for Enhanced. Leave Direct3D 10/11/12 selected.
+3. When asked which effect packages to install, select SweetFX by CeeJay.dk and any others you want. OtisFX by Otis_Inf and CobraFX by SirCobra are good for simulating analogue photography, including depth of field. You can also install all of them and explore.
+
+### Choosing and building a look
+
+1. Start the game and press `Home` to open the ReShade menu. The first time, it offers a short tutorial on choosing and creating presets.
+2. Start from the default preset. It lets you switch each filter on and off, and adjust its parameters at the bottom of the panel.
+3. Create your own preset by duplicating the default one and giving it a name. Experiment with it, and save it as you go.
+4. Change one effect at a time. Switch it on and off to compare, so that you can see what it contributes.
+
+Effects that photographers use most:
+
+- **Colour and tone:** shift the overall colour, contrast and saturation, as in a colour grade.
+- **Sharpening:** brings back detail that the game's smoothing removes.
+- **Depth of field:** blurs the background to isolate a subject. It uses the game's depth information, so it needs a free camera and a still scene to work well.
+- **Grain and vignette:** add texture and draw the eye to the centre, and recall analogue film.
+
+### Tips
+
+- **Compose first, then add effects.** Some effects slow down the game. Frame your shot, then turn on the heavier filters.
+- **Use presets as a record.** A preset is a file that stores your settings. Keep one per project, so that you can return to a look or share it. Share the preset files, never the ReShade files themselves.
+- **ReShade is for single-player.** It switches off depth information in multiplayer to prevent cheating, and modified files should not be used in GTA Online.
+
+## DLSS 5 (optional)
+
+DLSS is NVIDIA's family of AI techniques for games. Earlier versions used machine learning to upscale a low-resolution image or to generate extra frames. DLSS 5, announced at NVIDIA's GTC conference in 2026, goes further: NVIDIA describes it as real-time *neural rendering*. It takes information from the game's own rendering, such as colour, depth and motion, and uses an AI model running on your graphics card to rework the image with more photoreal lighting, shadows and materials, for example the way light behaves on skin, hair and fabric.
+
+This makes it different from every other tool in this tutorial. The camera, ReShade and the game's own settings change how you see the world, but DLSS 5 adds to the picture itself. The result can differ noticeably from the look the developers and artists intended, which is why the technology is controversial, and why it is interesting for image-making.
+
+### What you need to know first
+
+- **It is not officially supported by *GTA V*.** The method in the [manual](https://gta5.photography/manuals/graphic-mods-and-post-processing-tools) is an unofficial community mod that connects DLSS 5 to the game through a ReShade add-on.
+- **It is experimental and demanding.** Results vary between setups, and the frame rate drops sharply. NVIDIA officially limits DLSS 5 to GeForce RTX 50 series cards, and while the mod can run on older RTX cards, it is slower and less stable.
+- **It needs a different ReShade.** You need the version of ReShade with full add-on support, not the standard one.
+- **Single-player only.** Remove the modified files, or use a separate copy of the game, before you start GTA Online.
+
+If your computer cannot run it, you can skip this section and still complete the tutorial. For the installation steps, follow the [Graphic Mods and Post-Processing Tools](https://gta5.photography/manuals/graphic-mods-and-post-processing-tools) manual.
+
+### Photographing with it
+
+- **Compose first.** Frame your shot with DLSS 5 off, then switch it on to capture the image. This keeps the frame rate usable while you work.
+- **Compare.** Photograph the same scene with and without it, and look at where the two images differ. Look at faces, skin, fabric and surfaces in particular.
+- **Ask whose image it is.** If an AI model decides how light falls on a surface, what is left of the game's lighting, and of your choices as a photographer? Decide whether the result is still a game image, and note your answer in your caption.
 
 ## Export your images
-- Screenshot via snipper tool or gamebar
-- NVIDIA Capture tool
+
+Everything you have done so far happens on screen, and the last step is to get a file out of the game. The method you choose decides the quality of the file, so choose it before you start shooting, not after.
+
+| Method | What it captures | Good for | Limits |
+| --- | --- | --- | --- |
+| Game Bar | The game window | Quick, clean captures | Only at the resolution of your screen |
+| Snipping Tool | Any part of the screen | Cropped captures | Also captures anything else that is on screen |
+| NVIDIA app | The game, through its overlay and photo mode | Higher-resolution captures with filters | Needs an NVIDIA graphics card |
+
+### Game Bar
+
+On Windows 10 and 11, the Game Bar takes screenshots and records video of a game.
+
+1. Press the Windows key + G to open the Game Bar while the game is running.
+2. Press the camera icon to take a screenshot of the game window.
+3. Click *See my captures* to open the folder with your images.
+
+You can also press the Windows key + PrtScn to save a screenshot of the whole screen automatically. The files go to the Pictures > Screenshots folder.
+
+### Snipping Tool
+
+The Snipping Tool is useful when you only want part of the screen. Press the Windows key + Shift + S, drag over the area you want, and save the image from the notification that appears. Because it captures whatever is on screen, close all menus first.
+
+### NVIDIA app
+
+If you have an NVIDIA graphics card, the NVIDIA app can capture your game, and its photo mode (see *In-Game Cameras*) lets you capture at a higher resolution than your screen.
+
+1. Open the NVIDIA overlay while the game is running [shortcut].
+2. Take a screenshot from the overlay, or open Photo Mode and use its capture options.
+3. Find your images in [save location].
+
+Higher-resolution capture and interface removal do not work equally well in every game, so test them with a trial shot first.
+
+### Before you capture
+
+- **Close the menus.** Close the Menyoo menu, the ReShade overlay and any other windows, or they will appear in your image.
+- **Hide the interface.** Turn off the HUD and radar, as in *Before you play*.
+- **Check the resolution.** A screenshot has the resolution of your screen or game window. For a larger image, use the NVIDIA app's photo mode.
+- **Capture the effects.** Screen captures include ReShade filters, because they are applied before the image reaches your screen.
+- **Take several versions.** Shoot the same frame a few times, with small changes in framing, light or effects, and choose the best one later.
+
+### After you capture
+
+- **Keep the originals.** Edit copies, and never the original files.
+- **Name your files.** Use clear names, such as project, place and time, so that you can find them later.
+- **Note your settings.** Record the time of day, weather, camera and ReShade preset you used. This helps you repeat a look, and helps your readers understand your images.
+- **Check the files.** Open each image at full size and look for stray menus, cut-off objects and artefacts before you submit.
 
 </div>
 
