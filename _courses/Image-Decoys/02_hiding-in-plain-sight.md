@@ -29,7 +29,7 @@ A similar tactic appears in artist Amy Suo Wu’s Greetings from the Invisible B
 
 ***
 
-## Steganography Tutorial
+## Tutorial
 
 [Steganography Tutorial](https://www.evolving.photography/tutorials/steganography/)
 
@@ -42,7 +42,13 @@ Other works in this cluster use augmented reality to overlay hidden or disruptiv
 ![MoMAR]({{ site.baseurl }}/courses/Image-Decoys/assets/img/momar.webp)
 <figcaption>one of the works from MoMA turned into an AR marker by a MoMAR artist</figcaption>
 
-Since [2018](https://www.vice.com/en/article/moma-augmented-reality-exhibit-jackson-pollock-were-from-the-internet/), the MoMAR artist collective has staged a series of interventions within the New York Museum of Modern Art's Estée and Joseph Lauder Gallery by turning canonical artworks from the permanent collection into AR markers. Downloading a custom app developed by the artists, museum visitors are able to view digital artworks layered on top of the originals: Jackson Pollocks and other works from the museum's collection became sites of intervention and reappropriation. In the 2019 edition of the show, titled Open to the Public, artist Erin Ko's La Barrera used the gallery's Pollocks as markers for an AR collage reflecting on distraction and the signal-to-noise ratio of contemporary attention, while the Japanese duo exonemo's Strokes triggered random painterly gestures to spill across the museum's walls each time the piece was activated – a mischievous echo of the abstract expressionist canvases they were anchored to. MoMAR operates as an unauthorized gallery, effectively transforming MoMA's curated space, governed by institutional gatekeeping, into an open, playful, discursive, and more democratic platform. 
+Since [2018](https://www.vice.com/en/article/moma-augmented-reality-exhibit-jackson-pollock-were-from-the-internet/), the MoMAR artist collective has staged a series of interventions within the New York Museum of Modern Art's Estée and Joseph Lauder Gallery by turning canonical artworks from the permanent collection into AR markers. Downloading a custom app developed by the artists, museum visitors are able to view digital artworks layered on top of the originals: Jackson Pollocks and other works from the museum's collection became sites of intervention and reappropriation. 
+
+![MoMAR]({{ site.baseurl }}/courses/Image-Decoys/assets/img/momar.gif)
+<figcaption>one of the works from MoMA turned into an AR marker by a MoMAR artist</figcaption>
+
+In the 2019 edition of the show, titled Open to the Public, artist Erin Ko's La Barrera used the gallery's Pollocks as markers for an AR collage reflecting on distraction and the signal-to-noise ratio of contemporary attention, while the Japanese duo exonemo's Strokes triggered random painterly gestures to spill across the museum's walls each time the piece was activated – a mischievous echo of the abstract expressionist canvases they were anchored to. MoMAR operates as an unauthorized gallery, effectively transforming MoMA's curated space, governed by institutional gatekeeping, into an open, playful, discursive, and more democratic platform. 
+
 
 Joseph Hocking and Mark Skwarek, [*The leak in your home town*](https://theleakinyourhometown.wordpress.com/), 2010
 ![Joseph Hocking and Mark Skwarek]({{ site.baseurl }}/courses/Image-Decoys/assets/img/hocking-skwarek.jpeg)
@@ -53,7 +59,7 @@ As early as 2010, artists Joseph Hocking and Mark Skwarek developed The Leak in 
 
 ***
 
-## AR Marker Image Tutorial
+## Tutorial
 
 [AR Marker Image Tutorial](https://www.evolving.photography/tutorials/AR-marker-image/)
 

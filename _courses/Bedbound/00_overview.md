@@ -48,6 +48,9 @@ The bed as a site for protest, refusal, and resistance.
 ## Mapping 
 [https://docs.google.com/drawings/d/1PnRJ8H_yVR1ANN0sMPEEEZ_oNKIrFSB39o5blKF08rw/edit?usp=sharing](https://docs.google.com/drawings/d/1PnRJ8H_yVR1ANN0sMPEEEZ_oNKIrFSB39o5blKF08rw/edit?usp=sharing)
 
+![Poll]({{ site.baseurl }}/courses/Bedbound/assets/img/poll.png)
+<figcaption>What did you do in bed before getting up?</figcaption>
+
 
 ## Reading
 [Colomina, Beatriz. "The 24/7 Bed: Privacy and Publicity in the Age of Social Media". How to Relate: Wissen, Künste, Praktiken / Knowledge, Arts, Practices, edited by Annika Haas, Maximilian Haas, Hanna Magauer and Dennis Pohl, Bielefeld: transcript Verlag, 2021, pp. 186-200. https://doi.org/10.1515/9783839457658-015]({{ site.baseurl }}/courses/Bedbound/assets/texts/Colomina-The-24-7-Bed.pdf)
@@ -182,6 +185,9 @@ Das Bett als Ort des Protests, der Verweigerung und des Widerstands.
 
 ## Mapping 
 [https://docs.google.com/drawings/d/1PnRJ8H_yVR1ANN0sMPEEEZ_oNKIrFSB39o5blKF08rw/edit?usp=sharing](https://docs.google.com/drawings/d/1PnRJ8H_yVR1ANN0sMPEEEZ_oNKIrFSB39o5blKF08rw/edit?usp=sharing)
+
+![Poll]({{ site.baseurl }}/courses/Bedbound/assets/img/poll.png)
+<figcaption>What did you do in bed before getting up?</figcaption>
 
 ## Reading
 [Colomina, Beatriz. "The 24/7 Bed: Privacy and Publicity in the Age of Social Media". How to Relate: Wissen, Künste, Praktiken / Knowledge, Arts, Practices, edited by Annika Haas, Maximilian Haas, Hanna Magauer and Dennis Pohl, Bielefeld: transcript Verlag, 2021, pp. 186-200. https://doi.org/10.1515/9783839457658-015]({{ site.baseurl }}/courses/Bedbound/assets/texts/Colomina-The-24-7-Bed.pdf)
