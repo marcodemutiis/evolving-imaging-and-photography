@@ -162,8 +162,8 @@ The Preview panel in Effect House can test your effect with your own images and 
 
 When you are happy with your effect, click `Submit` in the toolbar and complete the publishing flow. TikTok reviews effects before they become public. You do not need to publish to finish this tutorial, since previewing on your phone is enough. See the Effect House guide to [submitting your effect](https://effecthouse.tiktok.com/learn/guides/publishing/submit-your-effect).
 
-{% comment %}
-8th Wall section disabled until tested (remove the comment tags here and before "Troubleshooting" to restore it)
+
+<!--8th Wall section disabled until tested (remove the comment tags here and before "Troubleshooting" to restore it)-->
 
 <!--## AR marker image in 8th Wall -> Web
 
