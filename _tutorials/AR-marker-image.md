@@ -66,27 +66,30 @@ Lens Studio is Snap's free tool for making Lenses. You need a Snapchat account o
 By default, the interface is divided into six panels: Scene Hierarchy, Asset Browser, Scene, Logger, Inspector and Preview.
 
 <!-- IMAGE: Lens Studio default project window with the six panels -->
+![Lens Studio]({{ site.baseurl }}/tutorials/assets/AR_LensStudioSetup.png)
+
 
 ### Create the effect
 
 1. In the top menu, click `Asset Library` and search for "marker image". On the first result, `Marker Image`, click `Import`, then close the Asset Library window.
+
+![Lens Studio Marker Image Import]({{ site.baseurl }}/tutorials/assets/AR_LensStudioMarkerImageImport.png)
+
 2. Drag the image you want to use as a marker from your computer into the Asset Browser panel.
 3. In the Asset Browser panel, click the `>` sign next to `Marker Image.lspkg` and select `Image Marker [EDIT_ME]`.
 4. In the Inspector panel, find the `Marker Texture` field, click the image icon and select your marker image. You can also drag the image onto the field.
+
+![Lens Studio Target Texture]({{ site.baseurl }}/tutorials/assets/AR_LensStudioTargetTexture.png)
+
 5. Still in the Inspector panel, set `Marker Height` to the real height of your printed image in centimetres. This makes the size of the marker in the Scene panel match its size in the physical world.
 6. In the Scene Hierarchy panel, click the `>` sign next to `Marker Image` and select `Tracked Image [REPLACE_ME]`.
 7. In the Inspector panel, change its image to your replacement image. You can also drag the image onto the texture field.
 
 <!-- CHECK: name of the texture field in the inspector for the replacement image -->
-
 <!-- IMAGE: Inspector panel with the Marker Texture and Marker Height fields -->
+![Lens Studio Tracked Texture]({{ site.baseurl }}/tutorials/assets/AR_LensStudioTrackedTexture.png)
 
-Because `Tracked Image [REPLACE_ME]` is attached to the marker, it follows the marker when the camera or the print moves. You can attach other objects to the marker in the same way, for example a video, a text or a 3D object.
-
-Two things to try once this works:
-
-- In the `Marker Image` object, the Image Tracking Controller can send triggers when the marker is found or lost, which lets you play a sound or an animation without writing code.
-- A single Lens can contain up to 10 markers, each with its own content.
+Because `Tracked Image [REPLACE_ME]` is attached to the marker, it follows the marker when the camera or the print moves. You can attach other objects to the marker in the same way, for example a video, a text or a 3D object. A single Lens can contain up to 10 markers, each with its own content.
 
 ### Test the effect
 
@@ -97,6 +100,7 @@ Two things to try once this works:
 If the Lens does not appear on your phone, check that Lens Studio and your phone are paired to the same Snapchat account (see Snap's [Pairing to Snapchat](https://developers.snap.com/lens-studio/lens-studio-workflow/pairing-to-snapchat) guide).
 
 <!-- IMAGE: Phone screenshot of the replacement image covering the marker -->
+![Lens Studio Test on Phone]({{ site.baseurl }}/tutorials/assets/AR_LensStudioTest.png)
 
 The Preview panel in Lens Studio cannot see your marker unless you import a video of it. To test the tracking with your phone's camera, preview the Lens in Snapchat.
 
@@ -117,19 +121,29 @@ Effect House is TikTok's free tool for making effects. You need a TikTok account
 The Effect House window has a Title Bar at the top and six panels: Hierarchy, Assets, Scene, Visual Scripting, Preview and Inspector.
 
 <!-- IMAGE: Effect House window with the Title Bar and the six panels -->
+![Effect House Setup]({{ site.baseurl }}/tutorials/assets/AR_EffectHouseSetup.png)
+
 
 ### Create the effect
 
 1. Drag your marker image and your replacement image into the Assets panel. Select each one and, in the Inspector panel, set `Compression Type` to `None`.
 2. Click `+ Add object` and select `AR Tracking` > `Target Tracker`. Effect House adds a `Target Tracker` with a default image and a cube inside it. You can use the cube to test your setup first.
+
+![Effect House Target Tracker]({{ site.baseurl }}/tutorials/assets/AR_EffectHouseTargetTracker.png)
+
 3. Select `Target Tracker` in the Hierarchy panel. In the Inspector panel, find the `Target Tracker` component and replace the default texture in the `Target Texture` field with your marker image.
 4. Preview the cube on your phone (see "Test the effect" below).
 5. If it works, delete the cube. Click `+ Add object` and select `3D Image`. Drag the `3D Image` onto `Target Tracker` in the Hierarchy panel, so that it is nested inside it. In the Inspector panel, set its texture to your replacement image.
+
+![Effect House Add 3D Image]({{ site.baseurl }}/tutorials/assets/AR_EffectHouse3DImageAdd.png)
+
 6. Rotate the `3D Image` until it is parallel to your marker image, and adjust its size.
+
+![Effect House Adjust 3D Image]({{ site.baseurl }}/tutorials/assets/AR_EffectHouse3DImageAdjust.png)
+
 7. Preview the effect on your phone again.
 
 <!-- CHECK: exact names of the Compression Type field and of the texture field of the 3D Image -->
-
 <!-- IMAGE: Hierarchy and Inspector panels with the Target Tracker and the 3D Image -->
 
 Because the `3D Image` is nested inside the `Target Tracker`, it follows the marker when the camera or the print moves. You can nest other objects in the same way.
@@ -151,7 +165,7 @@ When you are happy with your effect, click `Submit` in the toolbar and complete 
 {% comment %}
 8th Wall section disabled until tested (remove the comment tags here and before "Troubleshooting" to restore it)
 
-## AR marker image in 8th Wall -> Web
+<!--## AR marker image in 8th Wall -> Web
 
 8th Wall was a hosted, paid platform for web AR until 28 February 2026, when the hosted service was retired. It continues at [8thwall.org](https://8thwall.org/) as a free, open source toolset. Its Image Targets work in the phone's browser, so people do not need to install an app, only open a link. You can host your project anywhere you like. This is the option that needs the most web development, but it gives you full control.
 
@@ -160,11 +174,11 @@ When you are happy with your effect, click `Submit` in the toolbar and complete 
 https://8thwall.org/docs/studio/guides/xr/image-targets
 
 1. Go to <a href="https://8thwall.org/">8thwall.org</a> and download 8th Wall Desktop for Mac or Windows from the downloads page. Run the installer and open the app.
-2. Create a new project, or open an existing one. 8th Wall is free to use and does not require a login.
+2. Create a new project, or open an existing one. 8th Wall is free to use and does not require a login. -->
 
 <!-- IMAGE: 8th Wall Desktop project window -->
 
-### Create an image target
+<!--### Create an image target
 
 8th Wall calls a marker an image target. You can create image targets in the Desktop app, or with a command line tool. The command line tool needs [Node.js](https://nodejs.org/). Open Terminal (macOS) or a command prompt (Windows) and type:
 
@@ -199,17 +213,16 @@ window.XR8 ? onxrloaded() : window.addEventListener('xrloaded', onxrloaded)
 
 You can track up to 32 image targets at the same time. The engine reports when a target has been found, updated or lost, so that you can show, move or hide your content (the events are called `imagefound`, `imageupdated` and `imagelost`).
 
-### Show the replacement image
+### Show the replacement image-->
 
 <!-- TODO: attach the replacement image or video to the target (A-Frame or Three.js); the 8th Wall example projects aframe-image-targets-example and studio-image-targets-example on GitHub can be used as a starting point -->
 
-### Test the project
+<!--### Test the project
 
-8th Wall Desktop includes a simulator that can simulate image targets, so you can check your project on the computer. To test it on your phone, the page has to be served over HTTPS, because browsers only give web pages access to the camera on secure connections. Then point the phone at your printed marker.
+8th Wall Desktop includes a simulator that can simulate image targets, so you can check your project on the computer. To test it on your phone, the page has to be served over HTTPS, because browsers only give web pages access to the camera on secure connections. Then point the phone at your printed marker.-->
 
 <!-- IMAGE: Phone screenshot of the web AR experience -->
 
-{% endcomment %}
 
 ## Troubleshooting
 
