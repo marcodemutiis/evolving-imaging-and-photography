@@ -155,59 +155,59 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 [BKD]
 
-- Franke, Sarah
+- Franke, Sarah x
 
-- Höninger Felina
+- Höninger Nina v
 
-- Thiemann Felina
+- Thiemann Felina v
 
-- Willenbrink Nele
+- Willenbrink Nele v
 
-- Le Hong Tuan
+- Le Hong Tuan v
 
-- Bröde Julia
+- Bröde Julia v
 
-- Wegst Emily
+- Wegst Emily v
 
-- Bruckner Mona
+- Bruckner Mona v
 
-- Frisch Ursula
+- Frisch Ursula v
 
-- Avilov Amalia
+- Avilov Amalia v
 
-- Waller Dominique
+- Waller Dominique x 
 
-- Seydel Lotta
+- Seydel Lotta v
 
-- Schmelzer Clara
+- Schmelzer Clara v
 
-- Binner Sunari
+- Binner Sunari v
 
 [MKD]
 
-- Lickert Michaela
+- Lickert Michaela v
 
-- Kilic Merve
+- Kilic Merve v
 
-- Semmelroggen Stina
+- Semmelroggen Stina v
 
-- Dogru Medine
+- Dogru Medine v
 
-- Schmitt Alexandra
+- Schmitt Alexandra v
 
-- Polat Sümeyre
+- Polat Sümeyre v
 
-- Grünewald Janne
+- Grünewald Janne v
 
-- Fuchs Giuliana
+- Fuchs Giuliana v
 
-- Späth Tessa
+- Späth Tessa v
 
-- Basica Sophie
+- Basica Sophie v
 
-- Weber Moritz
+- Weber Moritz v
 
-- Weil Sophie
+- <del>Weil Sophie</del>
 
 
 <!-- online meeting for Sarah and Mona https://meet.google.com/raa-szyf-xyj -->
