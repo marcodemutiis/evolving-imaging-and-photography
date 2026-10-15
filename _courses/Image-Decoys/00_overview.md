@@ -42,13 +42,13 @@ The project must contain:
 | Date       | Topic                               |
 |------------|-------------------------------------|
 | 8.10.2026   | INTRODUCTION                       |
-| 15.10.2026  | 1. Hiding in Plain Sight              |
-| 22.10.2026  | 2. Image Triggers                     |
-| 29.10.2026  | 3. Occupy The Internet                |
+| 15.10.2026  | 1. Hiding in Plain Sight           |
+| 22.10.2026  | 2. Hiding in Plain Sight 2         |
+| 29.10.2026  | 3. Image Triggers                  |
 | 5.11.2026   | -Workshop Week - no class-	       |
 | 12.11.2026  | -Self Study-                       |
-| 19.11.2026  | 4. Superspreaders                     |
-| 26.11.2026  | 5. The Girl Online                    |
+| 19.11.2026  | 4. Occupy The Internet             |
+| 26.11.2026  | 5. Superspreaders                  |
 | 3.12.2026   | MID TERM PRESENTATIONS             |
 | 10.12.2026  | Project Development                |
 | 17.12.2026  | Project Development                |
@@ -145,16 +145,16 @@ Die Abschlussprojekte müssen als Ordner mit eurem Vor- und Nachnamen hier hochg
 
 ## Kalender
 
-| Datum       | Thema                               |
+| Datum       | Thema                              |
 |------------|-------------------------------------|
 | 8.10.2026   | INTRODUCTION                       |
-| 15.10.2026  | 1. Hiding in Plain Sight              |
-| 22.10.2026  | 2. Image Triggers                     |
-| 29.10.2026  | 3. Occupy The Internet                |
+| 15.10.2026  | 1. Hiding in Plain Sight           |
+| 22.10.2026  | 2. Hiding in Plain Sight 2         |
+| 29.10.2026  | 3. Image Triggers                  |
 | 5.11.2026   | -Workshoptage - kein Unterricht-   |
 | 12.11.2026  | -Selbststudium-                    |
-| 19.11.2026  | 4. Superspreaders                     |
-| 26.11.2026  | 5. The Girl Online                    |
+| 19.11.2026  | 4. Occupy The Internet             |
+| 26.11.2026  | 5. Superspreaders                  |
 | 3.12.2026   | MIDTERMS                           |
 | 10.12.2026  | Projektentwicklung                 |
 | 17.12.2026  | Projektentwicklung                 |
@@ -225,43 +225,43 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 ## Student_innen
 </div>
 
-- Matter Lisa v
+- Matter Lisa vv
 
-- Kaufmann Lilian v
+- Kaufmann Lilian vv
 
-- Wegst Emily v
+- Wegst Emily vv
 
-- Bröde Julia v
+- Bröde Julia vv
 
-- Zhuk Diana v
+- Zhuk Diana vv
 
-- Schneider Lisa v
+- Schneider Lisa vv
 
-- Ebini Charleen v
+- Ebini Charleen vv
 
-- Bechinger Daria v
+- Bechinger Daria vv
 
-- Frenzel Josephine v
+- Frenzel Josephine vv
 
-- Prechtel Liesbeth 
+- <del>Prechtel Liesbeth</del> 
 
-- Heidemann Lisa v
+- Heidemann Lisa vv
 
-- Schopf Julia v
+- Schopf Julia vv
 
-- Bär Titus v
+- Bär Titus vv
 
-- Cepuran Mirjam v
+- Cepuran Mirjam vv
 
-- Mörbe Frederik v
+- Mörbe Frederik vv
 
-- Ring Anni v
+- Ring Anni vv
 
-- Nicolai Annike v
+- Nicolai Annike vx
 
-- Lucia Mendaro x
+- Lucia Mendaro xx
 
 [MKD]
 
--  Michaela v
+-  Michaela vv
 
