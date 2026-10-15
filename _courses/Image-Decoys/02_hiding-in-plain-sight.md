@@ -11,7 +11,7 @@ published: true
 
 <div class="lang-en" markdown="1">
 
-This first cluster focuses on tactics that exploit the visibility and ubiquity of images to encode secret messages. These projects rely on images that are publicly accessible – from Google Street View scenes to viral pictures of Kim Kardashian, from the permanent collection of an art museum to a global company logo. Their open circulation is their greatest power in the economy of attention and the logics of branding and marketing, but at the same time their greatest weakness. Artists exploit this accessibility and virality to turn images into encrypted carriers of data through different technologies and operations that layer additional information within, or on top of, existing surfaces.
+This first cluster of image decoys focuses on tactics that exploit the visibility and ubiquity of images to encode secret messages. These projects rely on images that are publicly accessible – from Google Street View scenes to viral pictures of Kim Kardashian, from the permanent collection of an art museum to a global company logo. Their open circulation is their greatest power in the economy of attention and the logics of branding and marketing, but at the same time their greatest weakness. Artists exploit this accessibility and virality to turn images into encrypted carriers of data through different technologies and operations that layer additional information within, or on top of, existing surfaces.
 
 ## Maddy Varner, [*Kardashian Krypt*](https://cargocollective.com/maddyv/KARDASHIAN-KRYPT), 2014
 ![Maddy Varner]({{ site.baseurl }}/courses/Image-Decoys/assets/img/varner2.jpg)
