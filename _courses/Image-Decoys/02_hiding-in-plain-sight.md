@@ -72,8 +72,8 @@ While some of these projects rely on the algorithmic properties of networked ima
 
 ## Assignment
 
-Create your own *Hiding in Plain Sight* image project inspired by the examples seen in class. Use either steganography or AR marker images to smuggles information through images. 
-Upload your name, a description of your project and some iages to the [share document](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.0)
+Create your own *Hiding in Plain Sight* image project inspired by the examples seen in class. Use either steganography or AR marker images to smuggle information through images. 
+Upload your name, a description of your project and some images to the [share document](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.0)
 
 </div>
 
