@@ -93,7 +93,7 @@ More Game Beds: [TheGamer](https://www.thegamer.com/best-bedroom-setups-video-ga
 
 ## Tutorial
 
-[In-Game Photography Tutorial]()
+[In-Game Photography Tutorial](https://www.evolving.photography/tutorials/in-game-photography/)
 
 ***
 
@@ -120,7 +120,110 @@ Add your images, your name and a two-sentence caption to [the shared document](h
 
 <div class="lang-de" markdown="1">
 
+## Präsentationen
 
+Präsentiert die Bildserie aus eurem Bett-Scan. Fügt eure Bilder, euren Namen und eine Bildunterschrift aus zwei Sätzen in [das gemeinsame Dokument](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?tab=t.z4i5gbnavs1g) ein.
+
+
+***
+
+## The Battleground – das Bett, kolonisiert von Arbeit, Kapital und Bildschirm
+
+Letzte Woche war das Bett ein Zufluchtsort, und wir haben gesehen, wie brüchig dieses Versprechen ist. Diese Woche schauen wir uns an, was passiert, wenn der Bildschirm ins Bett kommt. Ab wann wird der Ort des Trostes zum Schlachtfeld? Das Gerät, das uns beruhigt, unterhält und Gesellschaft leistet, macht uns zugleich zu einem Teil des Plattformkapitalismus, und der Schlaf, unsere privateste Tätigkeit, wird zunehmend von digitaler Arbeit kolonisiert. Wie verhandeln wir einen Raum, in dem Ruhe und Arbeit keine Grenze mehr haben?
+
+Ein nützlicher Rahmen ist Jonathan Crarys [*24/7: Late Capitalism and the Ends of Sleep*](https://xenopraxis.net/readings/crary_247.pdf) (2013). Crary beschreibt eine Wirtschaft aus Märkten, Netzwerken und Datenströmen, die nie schließen und in der die Zeit nicht mehr in Arbeitszeit und Ruhe unterteilt ist. In einer solchen Welt ist der Schlaf ein Hindernis: eine Zeitspanne, in der ein Mensch nichts produziert, nichts konsumiert und für niemanden erreichbar ist. Seine Erosion vollzieht sich durch Stimulanzien, Geräte und die Erwartung ständiger Verfügbarkeit, und es ist bezeichnend, dass Streamingunternehmen den Schlaf offen als Konkurrenten bezeichnet haben. In dieser Logik verändert der Bildschirm seinen Charakter. Er beginnt als Trost und endet als Motor für Medienkonsum, Optimierung und Effizienz, und der Moment, in dem er diese Grenze überschreitet, lässt sich schwer bestimmen.
+
+Diese Zweideutigkeit zeigt sich im Bed Rotting. Stundenlang im Bett zu bleiben kann Selbstfürsorge sein, eine berechtigte Erholung von erschöpfenden Tagen. Es kann auch Vermeidung sein, eine Art der Betäubung, die uns erschöpfter zurücklässt als zuvor. Zwischen Erholung und Burnout kann dieselbe Haltung Gegensätzliches bedeuten. Das Bett formt außerdem die Körper, die es benutzen. Es diszipliniert, wer als produktiv und wer als untätig gilt, es transportiert vergeschlechtlichte Vorstellungen von Komfort, Ehrgeiz und Fürsorge, und es trägt ganze Ökonomien aus Matratzen, Schlaftrackern und Apps.
+
+Die Arbeiten dieser Sitzung zeichnen die Frontlinie dieses Konflikts nach. Caesar und Warburton zeigen, wie Arbeit in die Ruhe einsickert, durch die paradoxe Idee der Workation und durch die fragmentierten Nickerchen, die von Renderzeiten diktiert und von einer globalen digitalen Animationsindustrie geprägt sind. Das Meme *Ideal Male Living Space* und Kostic zeigen, wie das Schlafzimmer selbst um die Arbeit herum neu organisiert wird, als reduzierte Plattform oder als eigens gebauter Arbeitsplatz für optimierte Effizienz. Selbst die Verteidigung des Zufluchtsorts kann vom Markt absorbiert werden (z. B. Sleepmaxxing), wo Tracker, Nahrungsergänzungsmittel und Gadgets versprechen, die Ruhe zu optimieren und sie zu einer weiteren Aufgabe zu machen. Am Ende stehen Betten in Videospielen, in denen virtuelle Figuren mehr schlafen und vielleicht mehr ruhen als die Menschen, die sie steuern oder ihnen zuschauen. Die Frage, die sich durch alle Arbeiten zieht, lautet: Wann wird das Bett zum Schlachtfeld, und wie schützen wir unsere Zufluchtsorte vor der schleichenden Infiltration durch Arbeit und Kapital, innerhalb und außerhalb des Bildschirms?
+
+
+### Sofia Caesar, [*Workation*](https://vimeo.com/353834797), 2019
+
+![Sofia Caesar]({{ site.baseurl }}/courses/Bedbound/assets/img/caesar.jpg)
+<figcaption>Sofia Caesar, installation view of <em>Workation</em>, 2019</figcaption>
+
+Sofia Caesars Text zu *Workation* beginnt mit dem Moment, in dem sie ein Wort lernt. Sie war in Rio, im Haus ihrer Mutter, und arbeitete in einer Hängematte, als sie auf ihrem Handy nach „workation“ suchte, der seltsamen Verschmelzung von Arbeit und Urlaub. Die Ergebnisse waren Stockfotos von weißen Männern, die in Betten, Hängematten und an Stränden arbeiten, und sie erkannte, dass sie selbst gerade eines dieser Bilder lebte. „My head felt very heavy so I let its weight go. As I let it go, gravity slowly took me down to the ground. After falling, I dropped my phone on the floor. I imagined the carpet of offices becoming sand on a beach. I imagined the waves coming to take our phones away.“
+
+Die Arbeit zeigt, wie Freizeit von der Arbeit aufgesogen wurde und wie standardisiert und eng die Bilder sind, die dieses Arrangement verkaufen, sowohl in Bezug darauf, wen sie zeigen, als auch auf die surrealen Körper, die sie darstellen. Das Bett, die Hängematte und die Chaiselongue, klassische Embleme der Ruhe, werden zu einem Arbeitsplatz, bewohnt von den unmöglichen Körpern der Stockfotografie, für immer entspannt und für immer produktiv. Dem steht der physische Körper der Künstlerin gegenüber, dessen Müdigkeit und Gewicht die Inszenierung unterbrechen und sie zu Boden ziehen. Ihr abschließender Wunsch, die Wellen mögen die Handys mitnehmen, benennt, was die Verteidigung des Zufluchtsorts erfordern würde: die Geräte auszuschalten.
+
+Mehr Infos: [cargocollective.com/sofiacaesar/workation](https://cargocollective.com/sofiacaesar/workation)
+
+
+### Alan Warburton, Sprites I-IV, 2016
+
+![Alan Warburton]({{ site.baseurl }}/courses/Bedbound/assets/img/warburton.jpg)
+<figcaption>Alan Warburton, still from <em>Sprites I-IV</em>, 2016</figcaption>
+
+*Sprites I-IV* ist eine Serie von 3D-gescannten Selbstporträts, die aus Warburtons Zeit in Peking hervorgegangen ist. 2012 gehörte er zu einem kleinen britischen Team, das in einem Studio für visuelle Effekte arbeitete, das westliche Blockbuster regelmäßig für Auslagerungen nutzten. In jeder Mittagspause holte die rund hundertköpfige chinesische Belegschaft Kissen unter den Schreibtischen hervor und hielt ein Nickerchen, einige an ihren Arbeitsplätzen, andere im Vorführraum. Danach arbeiteten sie weitere sechs Stunden, bis die Studios in London, Los Angeles und Vancouver bereit waren, die über Nacht geleistete Arbeit zu begutachten.
+
+In der Serie verschmelzen Figur und Hintergrund im selben Chromakey-Grün, einem Farbton, den jede:r Effektkünstler:in als Leerstelle erkennt, die ersetzt werden soll. Das spiegelt ein Paradox der digitalen Arbeit: Damit das Bild nahtlos und fotorealistisch wirkt, müssen sowohl die Künstler:innen als auch der Apparat unsichtbar gemacht werden. Der Kunsthistoriker Marcus Verhagen liest die Arbeit als Ausdruck der neuen Formen von Prekarität und Unterwerfung, die mit dem digitalen Kapitalismus einhergehen. Das Bett ist hier auf ein Kissen unter dem Schreibtisch reduziert, und der Schlaf wird um andere Zeitzonen herum geplant, was genau das ist, was Crarys 24/7-Ökonomie vom Körper verlangt. Das Mittagsschläfchen ist zugleich eine kleine Rückzugsinsel, die dem Arbeitstag abgerungen wird, eine minimale Verteidigung des Zufluchtsorts im Studio.
+
+Mehr Infos: [alanwarburton.co.uk/sprites](https://alanwarburton.co.uk/sprites)
+
+
+### Ideal Male Living Space (Meme)
+
+![Ideal male living space]({{ site.baseurl }}/courses/Bedbound/assets/img/ideal-male.jpg)
+<figcaption>"Ideal male living space" meme</figcaption>
+
+Die meisten von uns sind dem Meme „Ideal Male Living Space“ wahrscheinlich schon begegnet: ein spärlich möbliertes Zimmer mit einer Matratze auf dem Boden, einem einsamen Laptop oder PC-Setup und vielleicht einem Campingstuhl. Der Witz ist stark vergeschlechtlicht und unterstellt, dass Männer zu faul seien, Möbel zu kaufen oder ihre Zimmer ansprechend zu gestalten, und daran ist durchaus etwas Wahres. Doch das fehlende Bettgestell spiegelt auch eine ökonomische Prekarität wider, die über das Geschlecht hinausgeht. Bettgestelle sind sperrig, teuer, schwer zu transportieren und mühsam auseinanderzubauen, sodass es nach mehreren Umzügen in kurzer Zeit sinnvoll ist, ganz auf sie zu verzichten. Instabile Wohnverhältnisse erzwangen eine Neuverhandlung dessen, wie Räume funktionieren, und Schlafzimmer wurden zu rationalisierten, funktionalen Räumen, die auf eine Handvoll grundlegender Aktivitäten hin optimiert sind, im Einklang mit dem militärischen Ethos des schnell Demontierbaren und Vorübergehenden.
+
+Das Bett zu vernachlässigen ist außerdem Symptom eines Wirtschaftssystems, das Arbeit wertschätzt und Ruhe verurteilt. Wenn häusliche Räume vor allem der Produktivität dienen, verliert der Schlaf an Priorität, und das Bett wird zur Nebensache. Über seinen Humor hinaus zeigt das Meme, wie Menschen mit isolierten, prekären Bedingungen in immer kleineren Zimmern zurechtkommen, die keine Grenze zwischen Ruhen und Arbeiten bieten, und deshalb legt es die Politik hinter dem häuslichen Raum offen. Dasselbe Bild zirkuliert inzwischen als Wunschbild. Fotos fast leerer Räume werden als Ziele geteilt, millionenschwere Gründer:innen sollen auf dem Boden schlafen, und TikTok-Accounts erzeugen mit generativer KI Bilder luxuriöser Häuser, in denen dennoch eine Matratze ohne Bettgestell steht. Die Bodenmatratze ist zu einem Zeichen unternehmerischer Hingabe geworden, die den Erfolg überdauern soll, und das Schlafzimmer hat die Garage als Symbol der Gründerkultur abgelöst. In dieser Version wird Askese als männlicher Ehrgeiz codiert und ein bequemes Bett als Schwäche. Der Zufluchtsort wird hier nicht von außen gestürmt, sondern freiwillig aufgegeben, als Beweis des Engagements.
+
+Mehr Infos: [nudapaper.com/the-ideal-male-living-space](https://nudapaper.com/the-ideal-male-living-space/)
+
+
+### Filip Kostic, [*Bed PC*](https://filipkostic.computer/), 2021
+
+![Filip Kostic]({{ site.baseurl }}/courses/Bedbound/assets/img/kostic.jpg)
+<figcaption>Filip Kostic, <em>Bed PC 2</em> (2022), installation view at Scherben, Berlin</figcaption>
+
+2021 stellte Filip Kostic fest, dass nur ein schmaler Spalt sein Bett von seinem PC-Arbeitsplatz trennte, und sah darin eine Chance zur Optimierung. Für viele Menschen ist das Schlafzimmer zum neuen Büro-Cubicle geworden, und statt dem Verlust eines Ideals wie der Work-Life-Balance nachzutrauern, baute Kostic *Bed PC*: einen Bogen aus Monitoren, der um das Kopfende eines Betts mit schwarzem Rahmen montiert ist. Er baute es zuerst zu Hause während der Pandemie, als Arbeitsräume in Freizeiträume drängten. Geteilte Tastaturen liegen zu beiden Seiten der Matratze, ein kleiner, am Bettrahmen befestigter Tisch trägt die Maus, und darunter brummt ein selbstgebauter Computer. Das Setup erlaubt Kostic oder jeder anderen Person, jeden digitalen Raum zu betreten, ohne das Bett zu verlassen. In Performances inszenierte er bis zu 24-stündige Livestreams, angetrieben von Energydrinks, in denen er *World of Warcraft* spielte und gleichzeitig YouTube schaute. In der Galerieversion streamte er acht Stunden lang auf Twitch und wechselte zwischen dem Spiel *Risk of Rain 2*, einem Videoanruf mit einem Freund auf Discord und der YouTube-Serie *Art Thoughtz* von Hennessy Youngman.
+
+Kritiker:innen haben *Bed PC* als Bild eines Kapitalismus gelesen, der in alle Bereiche des Alltags vordringt und die Grenzen zwischen Arbeit, Kunst, Spiel und Ruhe auflöst. Ein Leben, das einst in getrennte Tätigkeitsbereiche unterteilt war, wird zu einem einzigen Kontinuum der Erfahrung. Nominell der Erholung dienende virtuelle Räume mögen etwas Entlastung bieten, doch sie können auch die Realität am Leben halten, der wir entkommen wollen, indem sie uns helfen, sie noch ein wenig länger zu ertragen. Ob es sich um eine subversive oder eine aufrichtige Umarmung unseres Zusammenbruchs von Arbeit und Leben handelt, so eine Rezensentin oder ein Rezensent, die Arbeit scheine einen Zustand depressiver Schlaflosigkeit auszulösen, der mit den zersetzenden Wirkungen von Kapital und Reizüberflutung zusammenhängt. Hier ist das Bett vollständig in die Infrastruktur aufgenommen, und der Körper in ihrem Zentrum ist der Teil, der am Laufen gehalten werden muss. Es ist schwer zu sagen, ob das Werk den Kampf kritisiert oder sich ihm ergibt, und genau das macht es so beunruhigend.
+
+Mehr Infos: [Terminal Surrender](https://absdigitalart.substack.com/p/terminal-surrender), [The Brooklyn Rail](https://brooklynrail.org/2022/07/artseen/Klammern-aus-denen-Bltter-Sprieen-II/)
+
+
+### Top 10 Video Game Lists, [“Get Some Sleep! It's the Top 10 Bed's In Video Game's!”](https://www.youtube.com/watch?v=ZhYFUw0EsFk), 2026
+
+![Video Game Beds]({{ site.baseurl }}/courses/Bedbound/assets/img/videogamebeds.jpg)
+
+
+Dies ist kein Kunstwerk, aber es eignet sich gut als Fallstudie. Ein Content Creator zählt die zehn besten Betten in Videospielen herunter, im Geist der Listicles, die einen Großteil der Online-Aufmerksamkeitsökonomie angetrieben haben. In vielen Spielen sind Betten Mechaniken: Orte, an denen sich eine Figur erholt, den Spielstand speichert oder die Nacht überspringt. Das Video behandelt sie als Objekte der Begierde und bewertet sie wie Produkte.
+
+Das Merkwürdige daran ist, wer ruhen darf. Die Spielfiguren scheinen mehr und effizienter zu schlafen als der YouTuber, der ihre Betten auflistet, und vielleicht mehr als wir, die wir das Video im Bett schauen, statt zu schlafen. Ruhe ist zu einem Wert in der Statusleiste geworden, zu einem Merkmal, das optimiert wird, und zu einer Form von Content. In vielen Spielen ist das Bett von Grund auf ein sicherer Ort, und die Regeln der Welt garantieren, dass Ruhe möglich und geschützt ist. Der Zufluchtsort, der für uns so schwer zu verteidigen ist, wurde auf der anderen Seite des Bildschirms für unsere Avatare neu aufgebaut, während die Person hinter dem Bildschirm wach bleibt, um zuzusehen.
+
+Weitere Spielbetten: [TheGamer](https://www.thegamer.com/best-bedroom-setups-video-gaming/)
+
+***
+
+## Tutorial
+
+[In-Game Photography Tutorial](https://www.evolving.photography/tutorials/in-game-photography/)
+
+***
+
+## Aufgabe
+
+### Lesen
+
+Crary, J. (2013). [*24/7: Late Capitalism and the Ends of Sleep*](https://xenopraxis.net/readings/crary_247.pdf). London: Verso. Kapitel 1.
+
+Achtet beim Lesen darauf, wo Crary die Grenze zwischen Schlaf und 24/7-Ökonomie zieht und wo ihr bemerkt, dass sich diese Grenze in eurem eigenen Bett verschiebt.
+
+### Umsetzung
+
+Nutzt In-Game-Fotografie oder Machinima, um ein virtuelles Bett zu erkunden. Das kann ein Bett in einem Spiel sein oder ein Bett in einer anderen digitalen Form eurer Wahl, etwa in einer virtuellen Welt, auf einer Social-Media-Plattform, in einer Simulation oder in einer 3D-Szene, die ihr selbst baut. Behandelt das Bett als umkämpftes Terrain und fragt: Ist es ein Zufluchtsort oder ein Schlachtfeld? Wer darf hier ruhen, was verlangt der Raum von den Spielenden, und was ist mit dem Bildschirm ins Bett gekommen?
+
+Experimentiert mit Kamerawinkeln, Licht, der Benutzeroberfläche und dem Abstand zum Bett, und damit, was das Spiel euch in und um das Bett herum tun lässt. Erstellt eine Serie von 3 bis 5 Bildern (In-Game-Fotografien oder Standbilder aus Machinima).
+
+Fotografiert nur eure eigenen Spielsitzungen und lasst die Nutzernamen und privaten Räume anderer Spieler:innen aus euren Bildern heraus.
+
+### Abgabe
+
+Fügt eure Bilder, euren Namen und eine Bildunterschrift aus zwei Sätzen in [das gemeinsame Dokument](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?tab=t.z4i5gbnavs1g) ein.
 </div>
 
 <!-- the stage
