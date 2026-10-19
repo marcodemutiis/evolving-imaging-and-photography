@@ -34,19 +34,22 @@ This is harder than it sounds, because games are built to resist, forcing you to
 
 ### Four ways photography and games meet
 
-Möring and De Mutiis distinguish four types of in-game photography, according to how each relates to the gameplay condition, the way a game gives you freedom while pushing back with enemies, obstacles and risk.
+Möring and De Mutiis distinguish four types of in-game photography, according to how each relates to the gameplay condition (Leino, 2012), the way a game gives you freedom while pushing back with enemies, obstacles and risk.
 
 | | Photography is… | Example | Gameplay condition |
 | --- | --- | --- | --- |
 | **Simulated photography** | the point of the game: the camera is a game mechanic, often scored | *Afrika* (2008), *Pokémon Snap* (1999) | Central |
 | **Photo mode** | an added feature that freezes the action and offers camera controls | *The Last of Us Remastered* (2014), *Gran Turismo 6* (2013) | Suspended |
-| **Artistic screenshotting** | something you do to the game, with screenshots or a camera pointed at the screen |  | Still applies |
+| **Artistic screenshotting** | something you do to the game, with screenshots or a camera pointed at the screen | A screenshot of a nice vista or a memorable moment, shortly before resuming play | Still applies |
 | **Photo modification** | made possible by changing the game: mods, scripts or edited files | Kent Sheely, *DoD* (2009–13) | Rewritten by the modification |
 
 In this tutorial you will work mostly with the last two types. You start from the game's own cameras and screenshots, then add the photo mode of the NVIDIA app (which needs an NVIDIA graphics card) and mods that give you more freedom to operate the camera, and control over time of day, weather and post-processing filters.
 Further examples of projects and manuals for in-game photography in GTA V can be found on the dedicated website [gta5.photography](https://gta5.photography/)
 
-Source: Möring, S., & De Mutiis, M. (2019). [Camera Ludica: Reflections on Photography in Video Games](https://doi.org/10.5040/9781501330520.ch-003). In M. Fuchs & J. Thoss (Eds.), *Intermedia Games—Games Inter Media*. Bloomsbury Academic, 69–94.
+Sources:
+
+- Möring, S., & De Mutiis, M. (2019). [Camera Ludica: Reflections on Photography in Video Games](https://doi.org/10.5040/9781501330520.ch-003). In M. Fuchs & J. Thoss (Eds.), *Intermedia Games—Games Inter Media*. Bloomsbury Academic, 69–94.
+- Leino, O. T. (2012). [Death Loop as a Feature](https://gamestudies.org/1202/articles/death_loop_as_a_feature). *Game Studies*, 12(2).
 
 
 ## Software & Tools
@@ -422,19 +425,22 @@ Das ist schwieriger, als es klingt, denn Spiele sind darauf angelegt, Widerstand
 
 ### Vier Wege, wie Fotografie und Spiele sich begegnen
 
-Möring und De Mutiis unterscheiden vier Typen der In-Game-Fotografie, danach, wie sie sich jeweils zur *Gameplay Condition* (Spielbedingung) verhalten, also dazu, wie ein Spiel euch Freiheit gibt und zugleich mit Gegnern, Hindernissen und Risiko zurückschlägt.
+Möring und De Mutiis unterscheiden vier Typen der In-Game-Fotografie, danach, wie sie sich jeweils zur *Gameplay Condition* (Spielbedingung; Leino, 2012) verhalten, also dazu, wie ein Spiel euch Freiheit gibt und zugleich mit Gegnern, Hindernissen und Risiko zurückschlägt.
 
 | | Fotografie ist … | Beispiel | Gameplay Condition |
 | --- | --- | --- | --- |
 | **Simulierte Fotografie** | der Sinn des Spiels: Die Kamera ist eine Spielmechanik, oft mit Punktewertung | *Afrika* (2008), *Pokémon Snap* (1999) | Zentral |
 | **Fotomodus** | eine zusätzliche Funktion, die die Handlung anhält und Kamerasteuerung bietet | *The Last of Us Remastered* (2014), *Gran Turismo 6* (2013) | Ausgesetzt |
-| **Künstlerisches Screenshotten** | etwas, das ihr mit dem Spiel macht, mit Screenshots oder einer auf den Bildschirm gerichteten Kamera |  | Gilt weiter |
+| **Künstlerisches Screenshotten** | etwas, das ihr mit dem Spiel macht, mit Screenshots oder einer auf den Bildschirm gerichteten Kamera | Ein Screenshot einer schönen Aussicht oder eines denkwürdigen Moments, kurz bevor das Spiel weitergespielt wird | Gilt weiter |
 | **Foto-Modifikation** | möglich durch Veränderung des Spiels: Mods, Skripte oder bearbeitete Dateien | Kent Sheely, *DoD* (2009–13) | Durch die Modifikation neu geschrieben |
 
 In diesem Tutorial arbeitet ihr hauptsächlich mit den letzten beiden Typen. Ihr beginnt mit den spieleigenen Kameras und Screenshots und fügt dann den Fotomodus der NVIDIA-App hinzu (der eine NVIDIA-Grafikkarte voraussetzt) sowie Mods, die euch mehr Freiheit bei der Kamerasteuerung geben und Kontrolle über Tageszeit, Wetter und Post-Processing-Filter.
 Weitere Beispiele für Projekte und Manuals zur In-Game-Fotografie in GTA V findet ihr auf der Website [gta5.photography](https://gta5.photography/)
 
-Quelle: Möring, S., & De Mutiis, M. (2019). [Camera Ludica: Reflections on Photography in Video Games](https://doi.org/10.5040/9781501330520.ch-003). In M. Fuchs & J. Thoss (Eds.), *Intermedia Games—Games Inter Media*. Bloomsbury Academic, 69–94.
+Quellen:
+
+- Möring, S., & De Mutiis, M. (2019). [Camera Ludica: Reflections on Photography in Video Games](https://doi.org/10.5040/9781501330520.ch-003). In M. Fuchs & J. Thoss (Eds.), *Intermedia Games—Games Inter Media*. Bloomsbury Academic, 69–94.
+- Leino, O. T. (2012). [Death Loop as a Feature](https://gamestudies.org/1202/articles/death_loop_as_a_feature). *Game Studies*, 12(2).
 
 
 ## Software & Tools
