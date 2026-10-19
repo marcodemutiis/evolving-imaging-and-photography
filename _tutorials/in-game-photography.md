@@ -27,6 +27,9 @@ By the end of this tutorial you will be able to:
 
 Playing as a photographer means ignoring, circumventing and sometimes resisting what the game wants you to do, and following your own photographic project instead. You avoid the missions, neglect the plot, and explore the virtual world with a photographic goal and mindset.
 
+![Playing Photographically]({{ site.baseurl }}/tutorials/assets/IGP_playing-photographically.png)
+
+
 This is harder than it sounds, because games are built to resist, forcing you to push back with enemies, obstacles and risk. In *GTA V*, the photographic act does not happen in an isolated moment safe from game consequences: even the in-game smartphone camera does not pause the world. Traffic keeps moving, and a character who stops in the middle of a road to take a picture can easily be run over. Other games incorporate photography as a game mechanic, making the act of taking pictures the goal of the game. Some photographers take screenshots as pockets of limited freedom during gameplay, while others modify the game to take control of the virtual world for free image-making.
 
 ### Four ways photography and games meet
@@ -48,6 +51,9 @@ Source: Möring, S., & De Mutiis, M. (2019). [Camera Ludica: Reflections on Phot
 
 ## Software & Tools
 You will need a PC, the game, and a few free tools. Each tool does a different job, and you do not need all of them for every image.
+
+
+![GTA V on Steam]({{ site.baseurl }}/tutorials/assets/IGP_steam.png)
 
 - [Grand Theft Auto V](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/) (PC): the game and the main example of this tutorial. It comes in two editions, Legacy and Enhanced.
 - [NVIDIA app](https://www.nvidia.com/en-us/software/nvidia-app/) (Windows, NVIDIA graphics card): adds a photo mode and filters to supported games, including *GTA V*, and captures screenshots.
@@ -103,6 +109,9 @@ The game's regular views, in first and third person, are the starting point. The
 
 ### The in-game smartphone
 
+
+![Smartphone Camera]({{ site.baseurl }}/tutorials/assets/IGP_snapmatic.gif)
+
 Snapmatic is the photo app on the in-game phone.
 
 1. Press the Up arrow key to bring up the phone, and open the Snapmatic app at the bottom left of the home screen.
@@ -115,6 +124,8 @@ The gallery is inside the game. To get your photos out, upload them to your Rock
 
 ### Director Mode
 
+![Director Mode]({{ site.baseurl }}/tutorials/assets/IGP_directormode.gif)
+
 Director Mode turns the game into a film set. It lets you choose your character, and control the time of day, the weather, and the density of pedestrians and vehicles. Setting the density to none is a quick way to reduce the game's resistance, and is useful for empty streets and quiet scenes.
 
 You can open it in three ways: from the Rockstar Editor tab of the pause menu, from the Interaction Menu (press M on PC), or by dialling the code from the in-game phone (see the [manual](https://gta5.photography/manuals/director-mode-and-scene-creator) for the number). It is not available when you are in a vehicle, wanted by the police, or on a mission.
@@ -122,6 +133,8 @@ You can open it in three ways: from the Rockstar Editor tab of the pause menu, f
 Inside Director Mode, the Scene Creator lets you place props from the game's library to build a scene, and save it. The [manual](https://gta5.photography/manuals/director-mode-and-scene-creator) lists all the options and controls.
 
 ### Rockstar Editor
+
+![Rockstar Editor]({{ site.baseurl }}/tutorials/assets/IGP_rockstareditor.gif)
 
 The Rockstar Editor is made for video, but it works as a photo mode because it lets you move the camera after the moment has happened.
 
@@ -179,7 +192,7 @@ Menyoo is one option. If it does not work with your version of the game, or you 
 
 ## Light and Composition
 
-Light and composition are what separate a screenshot from a photograph. The game gives you good tools for both. You can choose the time of day and the weather, and with a free camera you can place yourself anywhere in the scene.
+The game gives you good tools for both. You can choose the time of day and the weather, and with a free camera you can place yourself anywhere in the scene.
 
 ### Light
 
@@ -402,6 +415,9 @@ Am Ende dieses Tutorials könnt ihr:
 
 Als Fotograf:in zu spielen bedeutet, das zu ignorieren, zu umgehen und manchmal zu unterlaufen, was das Spiel von euch will, und stattdessen eurem eigenen fotografischen Projekt zu folgen. Ihr meidet die Missionen, vernachlässigt die Handlung und erkundet die virtuelle Welt mit einem fotografischen Ziel und einer fotografischen Haltung.
 
+![Playing Photographically]({{ site.baseurl }}/tutorials/assets/IGP_playing-photographically.png)
+
+
 Das ist schwieriger, als es klingt, denn Spiele sind darauf angelegt, Widerstand zu leisten: Sie schlagen mit Gegnern, Hindernissen und Risiko zurück. In *GTA V* geschieht der fotografische Akt nicht in einem isolierten Moment, der vor den Folgen des Spiels geschützt wäre: Selbst die Smartphone-Kamera im Spiel hält die Welt nicht an. Der Verkehr rollt weiter, und eine Figur, die mitten auf der Straße stehen bleibt, um ein Foto zu machen, kann leicht überfahren werden. Andere Spiele machen Fotografie zu einer Spielmechanik, sodass das Aufnehmen von Bildern das Ziel des Spiels ist. Manche Fotograf:innen nutzen Screenshots als Inseln begrenzter Freiheit während des Spielens, während andere das Spiel modifizieren, um die Kontrolle über die virtuelle Welt für freies Bildermachen zu übernehmen.
 
 ### Vier Wege, wie Fotografie und Spiele sich begegnen
@@ -423,6 +439,8 @@ Quelle: Möring, S., & De Mutiis, M. (2019). [Camera Ludica: Reflections on Phot
 
 ## Software & Tools
 Ihr braucht einen PC, das Spiel und ein paar kostenlose Tools. Jedes Tool erfüllt eine andere Aufgabe, und ihr braucht nicht alle für jedes Bild.
+
+![GTA V on Steam]({{ site.baseurl }}/tutorials/assets/IGP_steam.png)
 
 - [Grand Theft Auto V](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/) (PC): das Spiel und das zentrale Beispiel dieses Tutorials. Es gibt zwei Editionen, Legacy und Enhanced.
 - [NVIDIA-App](https://www.nvidia.com/en-us/software/nvidia-app/) (Windows, NVIDIA-Grafikkarte): fügt unterstützten Spielen, darunter *GTA V*, einen Fotomodus und Filter hinzu und nimmt Screenshots auf.
@@ -478,6 +496,9 @@ Die regulären Ansichten des Spiels, in der Ich- und der Third-Person-Perspektiv
 
 ### Das Smartphone im Spiel
 
+
+![Smartphone Camera]({{ site.baseurl }}/tutorials/assets/IGP_snapmatic.gif)
+
 Snapmatic ist die Foto-App auf dem Smartphone im Spiel.
 
 1. Drückt die Pfeiltaste nach oben, um das Smartphone hervorzuholen, und öffnet die Snapmatic-App unten links auf dem Startbildschirm.
@@ -490,6 +511,8 @@ Die Galerie befindet sich im Spiel. Um eure Fotos herauszubekommen, ladet sie in
 
 ### Director Mode
 
+![Director Mode]({{ site.baseurl }}/tutorials/assets/IGP_directormode.gif)
+
 Der Director Mode verwandelt das Spiel in ein Filmset. Er lässt euch eure Figur wählen und die Tageszeit, das Wetter und die Dichte von Fußgänger:innen und Fahrzeugen steuern. Die Dichte auf null zu setzen ist ein schneller Weg, den Widerstand des Spiels zu verringern, und nützlich für leere Straßen und ruhige Szenen.
 
 Ihr könnt ihn auf drei Wegen öffnen: über den Reiter Rockstar Editor im Pausenmenü, über das Interaktionsmenü (am PC mit M) oder indem ihr den Code über das Smartphone im Spiel wählt (die Nummer steht im [Manual](https://gta5.photography/manuals/director-mode-and-scene-creator)). Er ist nicht verfügbar, wenn ihr in einem Fahrzeug sitzt, von der Polizei gesucht werdet oder in einer Mission seid.
@@ -497,6 +520,8 @@ Ihr könnt ihn auf drei Wegen öffnen: über den Reiter Rockstar Editor im Pause
 Im Director Mode könnt ihr mit dem Scene Creator Props aus der Bibliothek des Spiels platzieren, um eine Szene zu bauen, und sie speichern. Das [Manual](https://gta5.photography/manuals/director-mode-and-scene-creator) listet alle Optionen und Steuerungen auf.
 
 ### Rockstar Editor
+
+![Rockstar Editor]({{ site.baseurl }}/tutorials/assets/IGP_rockstareditor.gif)
 
 Der Rockstar Editor ist für Video gemacht, funktioniert aber als Fotomodus, weil ihr die Kamera bewegen könnt, nachdem der Moment bereits geschehen ist.
 
@@ -554,7 +579,7 @@ Menyoo ist eine Option. Wenn es mit eurer Version des Spiels nicht funktioniert 
 
 ## Licht und Komposition
 
-Licht und Komposition unterscheiden einen Screenshot von einer Fotografie. Das Spiel gibt euch gute Werkzeuge für beides. Ihr könnt Tageszeit und Wetter wählen, und mit einer freien Kamera könnt ihr euch an jeden Ort der Szene stellen.
+Das Spiel gibt euch gute Werkzeuge für beides. Ihr könnt Tageszeit und Wetter wählen, und mit einer freien Kamera könnt ihr euch an jeden Ort der Szene stellen.
 
 ### Licht
 
