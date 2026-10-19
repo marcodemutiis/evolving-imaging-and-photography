@@ -80,6 +80,9 @@ More info: [Terminal Surrender](https://absdigitalart.substack.com/p/terminal-su
 
 ### Top 10 Video Game Lists, [“Get Some Sleep! It's the Top 10 Bed's In Video Game's!”](https://www.youtube.com/watch?v=ZhYFUw0EsFk), 2026
 
+![Video Game Beds]({{ site.baseurl }}/courses/Bedbound/assets/img/videogamebeds.jpg)
+
+
 This is not an artwork, but it makes a useful case study. A content creator counts down the ten best beds in video games, in the spirit of the listicles that have driven much of the online attention economy. In many games, beds are mechanics: places where a character recovers health, saves progress or skips the night. The video treats them as objects of desire and ranks them like products.
 
 The curious detail is who gets to rest. The game characters seem to sleep more, and more efficiently, than the YouTuber who lists their beds, and perhaps more than we do, watching the video in bed instead of sleeping. Rest has been turned into a stat, a feature to optimise and a form of content. In many games the bed is a safe place by design, and the rules of the world guarantee that rest is possible and protected. The sanctuary that is so hard to defend for us has been rebuilt on the other side of the screen, for our avatars, while the person behind the screen stays awake to watch.
