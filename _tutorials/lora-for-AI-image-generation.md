@@ -3,8 +3,8 @@ title: "LoRAs for AI Image Generation"
 title_de: "LoRAs for AI Image Generation"
 description: "Train your own LoRA on a small collection of images, then use it to generate, edit, upscale and animate images with Replicate."
 description_de: ""
-order: 4
-published: true
+order: 5
+published: false
 ---
 
 <div class="lang-en" markdown="1">

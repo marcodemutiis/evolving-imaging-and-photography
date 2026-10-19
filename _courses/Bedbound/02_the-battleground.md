@@ -6,7 +6,7 @@ course_id: bedbound
 course_title: "Bedbound"
 course_title_de: "Bedbound"
 lesson_number: 3
-published: false
+published: true
 ---
 
 
