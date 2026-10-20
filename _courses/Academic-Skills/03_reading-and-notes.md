@@ -11,6 +11,18 @@ published: true
 
 <div class="lang-en" markdown="1">
 
+## Exercise
+Using the research question from last week, collect five sources and bring them to the next session:
+
+1. Two primary sources (for example the work itself, an interview, an artist statement or a design brief)
+2. Three secondary sources (for example books, articles or catalogue texts)
+
+For each source, write two or three sentences explaining what it offers for your question and how you judged its reliability. Give each source as a full reference in Chicago author-date style. If you used an AI tool at any point, note which one and for what.
+
+Create a folder with your name and surname in [this shared folder](https://drive.google.com/drive/folders/1ZQElF1l0KivVyPcaE3qEIUXLfOwp9PhE?usp=sharing), add a word document titled "Sources" with your sources and explanations.
+
+***
+
 ## Introduction
 Once you have collected sources, the next task is to read them in a way that serves your question. Academic texts are rarely meant to be read from the first line to the last, and no one can remember everything they read. This session is about reading strategically, taking notes that you can still use weeks later, and keeping your sources organised so that your text can grow from them.
 
@@ -52,6 +64,19 @@ Also set up a [Zotero](https://www.youtube.com/watch?v=JG7Uq_JFDzE) library, and
 </div>
 
 <div class="lang-de" markdown="1">
+
+## Übung
+Sammelt mit der Forschungsfrage von letzter Woche fünf Quellen und bringt sie zur nächsten Sitzung mit:
+
+1. Zwei Primärquellen (zum Beispiel die Arbeit selbst, ein Interview, ein Künstler:innenstatement oder ein Design-Briefing)
+2. Drei Sekundärquellen (zum Beispiel Bücher, Artikel oder Katalogtexte)
+
+Schreibt zu jeder Quelle zwei bis drei Sätze dazu, was sie für eure Frage leistet und wie ihr ihre Verlässlichkeit beurteilt habt. Gebt jede Quelle als vollständige Referenz im Chicago-Stil (Author-Date) an. Falls ihr an irgendeiner Stelle ein KI-Tool verwendet habt, notiert, welches und wofür.
+
+Create a folder with your name and surname in [this shared folder](https://drive.google.com/drive/folders/1ZQElF1l0KivVyPcaE3qEIUXLfOwp9PhE?usp=sharing), add a word document titled "Sources" with your sources and explanations.
+
+***
+
 
 ## Einführung
 Wenn ihr Quellen gesammelt habt, besteht die nächste Aufgabe darin, sie so zu lesen, dass sie eurer Fragestellung dienen. Wissenschaftliche Texte sind selten dafür gemacht, von der ersten bis zur letzten Zeile gelesen zu werden, und niemand kann sich alles merken, was er oder sie liest. In dieser Sitzung geht es darum, strategisch zu lesen, Notizen zu machen, die ihr auch Wochen später noch nutzen könnt, und eure Quellen so zu ordnen, dass euer Text daraus wachsen kann.
