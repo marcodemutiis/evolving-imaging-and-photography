@@ -78,6 +78,25 @@ Critics have read *Bed PC* as an image of capitalism reaching into every part of
 More info: [Terminal Surrender](https://absdigitalart.substack.com/p/terminal-surrender), [The Brooklyn Rail](https://brooklynrail.org/2022/07/artseen/Klammern-aus-denen-Bltter-Sprieen-II/)
 
 
+### Sleepmaxxing
+
+![Sleepmaxxing]({{ site.baseurl }}/courses/Bedbound/assets/img/sleepmaxxing.webp)
+<figcaption>Beim sogenannten «mouth taping» sollen ein Pflaster, Klebeband oder spezielle Tapes den Mund verschliessen, sodass Menschen beim Schlafen statt durch den Mund durch die Nase atmen. Keystone / Christoph Soeder</figcaption>
+
+Sleepmaxxing is an umbrella term for the routines, gadgets and products that promise to optimise sleep. It spreads through influencers on [TikTok](https://www.tiktok.com/search?q=sleepmaxxing&t=1792479644427) and X, where it has produced tens of millions of posts, and it shows how the sanctuary can be absorbed by the market. Rest is no longer something that happens to us. It becomes a performance to be tuned, tracked and improved, and a market to sell into: mouth tapes, sleep drink powders and "sleepmax gummies" containing melatonin. Many posts are less about health than about appearance, and overlap with "looksmaxxing" ([AFP via RFI, 2025](https://www.rfi.fr/en/international-news/20250807-dangerous-dreams-inside-internet-s-sleepmaxxing-craze)).
+
+The experts quoted in the AFP report are sceptical. Timothy Caulfield, a misinformation researcher at the University of Alberta, calls some of the practices "ridiculous, potentially harmful, and evidence-free", and warns that social media can "normalize the absurd". The insomnia specialist Kathryn Pinkham points out that trying to control sleep with hacks raises vigilance and stress, which makes sleep harder, and that much of the advice comes from people with no clinical grounding. Eric Zhou of Harvard Medical School notes that even good sleepers vary from night to night, so the pressure for perfect sleep is unrealistic from the start. Experts also warn that the trend may feed orthosomnia, an obsession with achieving perfect sleep. This is Crary's logic turned inward: the defence of sleep against the 24/7 economy is recast as one more task to be optimised.
+
+**Popular trends and hacks**
+
+- [**Mouth taping:**](https://www.youtube.com/shorts/LgB8lK-nXgk) taping the lips shut at night to force nasal breathing. There is little scientific support for it, and it can be dangerous for people with sleep apnea or other breathing problems. ([Ärzteblatt](https://www.aerzteblatt.de/news/dubiose-tipps-fur-besseren-schlaf-der-sleepmaxxing-trend-auf-tiktok-und-co-fec38bac-c4b5-4122-a415-1821f3bd687b))
+- [**Neck swinging:**](https://x.com/interesting_aIl/status/1952798970888994982) hanging the body from chin or neck belts or ropes. It has no medical basis and serious safety risks, and a Chinese state broadcaster linked at least one death to a similar routine. ([Medical Xpress](https://medicalxpress.com/news/2025-08-dangerous-internet-sleepmaxxing-craze.html))
+- **Gimmicks and supplements:** ["sleepy girl mocktails"](https://www.tiktok.com/@drinkolipop/video/7327088331828022574?lang=en), two kiwis before bed, or tinted glasses, without robust clinical evidence for general adult use. ([blue News](https://www.bluewin.ch/de/lifestyle/gesundheit/besser-schlafen-dank-tiktok-warum-viele-sleepmaxxing-trends-kaum-wirken-li.3522764))
+- **Obsessive tracking:** relying heavily on consumer wearables, which can trigger [orthosomnia](https://www.facebook.com/watch/?v=1400843235217739), an unhealthy anxiety about achieving "perfect" sleep data. ([Harvard Health](https://www.health.harvard.edu/blog/should-you-be-sleepmaxxing-to-boost-health-and-happiness-202503063090))
+
+More info about sleepmaxxing: [SRF, 10 vor 10](https://www.srf.ch/play/tv/10-vor-10/video/sleepmaxing-der-neue-social-media-trend-fuer-besseren-schlaf?urn=urn:srf:video:cd47d11f-edda-4b46-b24c-3be77da7545c)
+
+
 ### Top 10 Video Game Lists, [“Get Some Sleep! It's the Top 10 Bed's In Video Game's!”](https://www.youtube.com/watch?v=ZhYFUw0EsFk), 2026
 
 ![Video Game Beds]({{ site.baseurl }}/courses/Bedbound/assets/img/videogamebeds.jpg)
@@ -173,7 +192,6 @@ Das Bett zu vernachlässigen ist außerdem Symptom eines Wirtschaftssystems, das
 
 Mehr Infos: [nudapaper.com/the-ideal-male-living-space](https://nudapaper.com/the-ideal-male-living-space/)
 
-
 ### Filip Kostic, [*Bed PC*](https://filipkostic.computer/), 2021
 
 ![Filip Kostic]({{ site.baseurl }}/courses/Bedbound/assets/img/kostic.jpg)
@@ -185,6 +203,23 @@ Kritiker:innen haben *Bed PC* als Bild eines Kapitalismus gelesen, der in alle B
 
 Mehr Infos: [Terminal Surrender](https://absdigitalart.substack.com/p/terminal-surrender), [The Brooklyn Rail](https://brooklynrail.org/2022/07/artseen/Klammern-aus-denen-Bltter-Sprieen-II/)
 
+### Sleepmaxxing
+
+![Sleepmaxxing]({{ site.baseurl }}/courses/Bedbound/assets/img/sleepmaxxing.webp)
+<figcaption>Beim sogenannten «mouth taping» sollen ein Pflaster, Klebeband oder spezielle Tapes den Mund verschliessen, sodass Menschen beim Schlafen statt durch den Mund durch die Nase atmen. Keystone / Christoph Soeder</figcaption>
+
+Sleepmaxxing ist ein Sammelbegriff für Routinen, Gadgets und Produkte, die versprechen, den Schlaf zu optimieren. Verbreitet wird der Trend von Influencer:innen auf [TikTok](https://www.tiktok.com/search?q=sleepmaxxing&t=1792479644427) und X, wo er zehn Millionen von Beiträgen hervorgebracht hat. Er zeigt, wie der Zufluchtsort vom Markt vereinnahmt werden kann. Ruhe ist nicht mehr etwas, das uns einfach geschieht. Sie wird zu einer Leistung, die eingestellt, gemessen und verbessert werden muss, und zu einem Markt, auf dem verkauft wird: Mouth Tapes, Getränkepulver für besseren Schlaf und «Sleepmax Gummies» mit Melatonin. Viele Beiträge drehen sich weniger um Gesundheit als um Aussehen und überschneiden sich mit «Looksmaxxing» ([AFP via RFI, 2025](https://www.rfi.fr/en/international-news/20250807-dangerous-dreams-inside-internet-s-sleepmaxxing-craze)).
+
+Die im AFP-Bericht zitierten Expert:innen sind skeptisch. Timothy Caulfield, Forscher zu Fehlinformation an der University of Alberta, nennt einige der Praktiken "ridiculous, potentially harmful, and evidence-free" und warnt, soziale Medien könnten "normalize the absurd". Die Insomnie-Spezialistin Kathryn Pinkham weist darauf hin, dass der Versuch, den Schlaf mit Hacks zu kontrollieren, Wachsamkeit und Stress erhöht und damit das Einschlafen erschwert, und dass viele Ratschläge von Personen ohne klinische Grundlage stammen. Eric Zhou von der Harvard Medical School merkt an, dass selbst gute Schläfer:innen von Nacht zu Nacht variieren und der Druck zu perfektem Schlaf deshalb von Anfang an unrealistisch ist. Expert:innen warnen ausserdem, der Trend könne Orthosomnie fördern, die Besessenheit, perfekt zu schlafen. Das ist Crarys Logik, nach innen gewendet: Die Verteidigung des Schlafs gegen die 24/7-Ökonomie wird zu einer weiteren Aufgabe, die optimiert werden muss.
+
+**Beliebte Trends und Hacks**
+
+- [**Mouth Taping:**](https://www.youtube.com/shorts/LgB8lK-nXgk) Die Lippen werden nachts zugeklebt, um die Nasenatmung zu erzwingen. Dafür gibt es kaum wissenschaftliche Belege, und es kann für Menschen mit Schlafapnoe oder anderen Atemproblemen gefährlich sein. ([Ärzteblatt](https://www.aerzteblatt.de/news/dubiose-tipps-fur-besseren-schlaf-der-sleepmaxxing-trend-auf-tiktok-und-co-fec38bac-c4b5-4122-a415-1821f3bd687b))
+- [**Neck Swinging:**](https://x.com/interesting_aIl/status/1952798970888994982) Der Körper wird an Kinn- oder Nackengurten oder Seilen aufgehängt. Es gibt keine medizinische Grundlage, aber erhebliche Sicherheitsrisiken, und ein chinesischer Staatssender brachte mindestens einen Todesfall mit einer ähnlichen Routine in Verbindung. ([Medical Xpress](https://medicalxpress.com/news/2025-08-dangerous-internet-sleepmaxxing-craze.html))
+- **Gimmicks und Supplements:** ["Sleepy Girl Mocktails"](https://www.tiktok.com/@drinkolipop/video/7327088331828022574?lang=en), zwei Kiwis vor dem Schlafengehen oder getönte Brillen, ohne belastbare klinische Evidenz für die allgemeine Anwendung bei Erwachsenen. ([blue News](https://www.bluewin.ch/de/lifestyle/gesundheit/besser-schlafen-dank-tiktok-warum-viele-sleepmaxxing-trends-kaum-wirken-li.3522764))
+- **Obsessives Tracking:** Wer sich stark auf Wearables verlässt, kann [Orthosomnie](https://www.facebook.com/watch/?v=1400843235217739) entwickeln, eine ungesunde Angst, keine «perfekten» Schlafdaten zu erreichen. ([Harvard Health](https://www.health.harvard.edu/blog/should-you-be-sleepmaxxing-to-boost-health-and-happiness-202503063090))
+
+Mehr Infos zu Sleepmaxxing: [SRF, 10 vor 10](https://www.srf.ch/play/tv/10-vor-10/video/sleepmaxing-der-neue-social-media-trend-fuer-besseren-schlaf?urn=urn:srf:video:cd47d11f-edda-4b46-b24c-3be77da7545c)
 
 ### Top 10 Video Game Lists, [“Get Some Sleep! It's the Top 10 Bed's In Video Game's!”](https://www.youtube.com/watch?v=ZhYFUw0EsFk), 2026
 
