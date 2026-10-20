@@ -260,11 +260,3 @@ Ihr seid frei, euren eigenen Ansatz zu entwickeln. Falls ihr einen Ausgangspunkt
 Ladet eure Bilder in das [geteilte Dokument](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit?tab=t.d9sntrwpeef9) hoch, zusammen mit einem Titel und einem Satz, der das Thema und das Beispiel nennt, auf das ihr euch bezieht.
 
 </div>
-<!-- notes: do not delete: for session on the body and online identity - psychological effects of the screen on the body
-Buetti
-Jon Yuyi
-tom galle
-Marcus Sperlich https://www.visualflood.com/post/body-surrealism-the-clever-and-powerful-creative-photography-of-marius-sperlich
-Antoine Geiger, sur-fake
-Danii Ploeger
--->
