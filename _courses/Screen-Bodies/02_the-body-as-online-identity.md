@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: "The Screen Time Body"
-title_de: "The Screen Time Body"
+title: "The Body as Online Identity"
+title_de: "The Body as Online Identity"
 course_id: screen-bodies
 course_title: "Screen Bodies"
 course_title_de: "Bildschirmkörper"
