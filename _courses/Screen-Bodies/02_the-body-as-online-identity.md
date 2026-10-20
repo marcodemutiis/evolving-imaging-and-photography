@@ -129,7 +129,7 @@ You are free to develop your own approach. If you are looking for a starting poi
 
 Only photograph people who have agreed to take part, and use temporary, skin-safe materials for anything applied to the body.
 
-Upload your image(s) to the [shared doc](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit?tab=t.d9sntrwpeef9), together with a title and one sentence naming the work you responded to.
+Upload your images to the [shared doc](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit?tab=t.aghu9cdi0cz9), together with a title and one sentence naming the work you responded to.
 
 </div>
 
@@ -240,6 +240,6 @@ Ihr seid frei, euren eigenen Ansatz zu entwickeln. Falls ihr einen Ausgangspunkt
 
 Fotografiert nur Personen, die mit der Teilnahme einverstanden sind, und verwendet für alles, was auf den Körper aufgetragen wird, temporäre, hautverträgliche Materialien.
 
-Ladet eure Bilder in das [geteilte Dokument](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit?tab=t.d9sntrwpeef9) hoch, zusammen mit einem Titel und einem Satz, der das Werk nennt, auf das ihr euch bezieht.
+Ladet eure Bilder in das [geteilte Dokument](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit?tab=t.aghu9cdi0cz9) hoch, zusammen mit einem Titel und einem Satz, der das Werk nennt, auf das ihr euch bezieht.
 
 </div>
