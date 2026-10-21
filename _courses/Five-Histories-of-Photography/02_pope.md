@@ -6,7 +6,7 @@ course_id: five-histories-of-photography
 course_title: "Five Histories of Photography and the Digital Image"
 course_title_de: "Fünf Geschichten der Fotografie und des digitalen Bildes"
 lesson_number: 3
-published: false
+published: true
 ---
 
 <div class="lang-en" markdown="1">
