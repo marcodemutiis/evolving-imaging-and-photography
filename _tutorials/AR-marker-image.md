@@ -137,9 +137,10 @@ The Effect House window has a Title Bar at the top and six panels: Hierarchy, As
 
 ![Effect House Add 3D Image]({{ site.baseurl }}/tutorials/assets/AR_EffectHouse3DImageAdd.png)
 
-6. Rotate the `3D Image` until it is parallel to your marker image, and adjust its size.
+6. Rotate the `3D Image` until it is parallel to your marker image (`Rotate X: -90`), and adjust its size (If the marker image and the replacement image have the same size and you want a same size replacement use `Size X: 2, Y: 2, Z: 2`). The prview might be misleading so you might have to test multiple time. 
 
-![Effect House Adjust 3D Image]({{ site.baseurl }}/tutorials/assets/AR_EffectHouse3DImageAdjust.png)
+![Effect House Adjust 3D Image]({{ site.baseurl }}/tutorials/assets/AR_EffectHouse3DImageAdj.png)
+
 
 7. Preview the effect on your phone again.
 
