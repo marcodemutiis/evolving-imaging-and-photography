@@ -2,7 +2,7 @@
 title: "AR Marker Image"
 title_de: "AR Marker Image"
 description: "Make a printed or on-screen image trigger an augmented reality overlay that replaces it, using marker tracking in Lens Studio (Snapchat) and Effect House (TikTok)."
-description_de: ""
+description_de: "Lasst ein gedrucktes oder auf dem Bildschirm gezeigtes Bild ein Augmented-Reality-Overlay auslösen, das es ersetzt, mit Marker-Tracking in Lens Studio (Snapchat) und Effect House (TikTok)."
 order: 3
 published: true
 ---
@@ -34,14 +34,14 @@ By the end you will be able to:
 
 ## Software & Tools
 
-- <a href="https://ar.snap.com/lens-studio">Lens Studio</a> (macOS, Windows): Snap's free tool for making Snapchat Lenses. You test your Lens on your phone in the Snapchat app.
-- <a href="https://effecthouse.tiktok.com/">Effect House</a> (macOS, Windows): TikTok's free tool for making TikTok effects. You need a TikTok account to log in. Its marker tracking object is called `Target Tracker`.
+- [Lens Studio](https://ar.snap.com/lens-studio) (macOS, Windows): Snap's free tool for making Snapchat Lenses. You test your Lens on your phone in the Snapchat app.
+- [Effect House](https://effecthouse.tiktok.com/) (macOS, Windows): TikTok's free tool for making TikTok effects. You need a TikTok account to log in. Its marker tracking object is called `Target Tracker`.
 
 Alternatives:
 
-- <a href="https://8thwall.org/">8th Wall</a> (macOS, Windows, web): a free, open source toolset for web AR that runs in the phone's browser, with no app to install. The hosted platform closed on 28 February 2026, and the open source engine continues at 8thwall.org.
-- <a href="https://github.com/hiukim/mind-ar-js">MindAR</a> (web): an open source JavaScript library for image tracking in the browser.
-- <a href="https://developer.vuforia.com/">Vuforia</a> (iOS, Android, Unity): a long-established engine with "image targets".
+- [8th Wall](https://8thwall.org/) (macOS, Windows, web): a free, open source toolset for web AR that runs in the phone's browser, with no app to install. The hosted platform closed on 28 February 2026, and the open source engine continues at 8thwall.org.
+- [MindAR](https://github.com/hiukim/mind-ar-js) (web): an open source JavaScript library for image tracking in the browser.
+- [Vuforia](https://developer.vuforia.com/) (iOS, Android, Unity): a long-established engine with "image targets".
 
 ## Before you start
 
@@ -59,7 +59,7 @@ Lens Studio is Snap's free tool for making Lenses. You need a Snapchat account o
 
 ### Install and set up
 
-1. Go to <a href="https://ar.snap.com/lens-studio">ar.snap.com/lens-studio</a> and download Lens Studio.
+1. Go to [ar.snap.com/lens-studio](https://ar.snap.com/lens-studio) and download Lens Studio.
 2. Make sure you have Snapchat on your phone. If you don't, download the app and sign up for an account.
 3. Open Lens Studio and close the Home window. You will be in your default project window.
 
@@ -114,7 +114,7 @@ Effect House is TikTok's free tool for making effects. You need a TikTok account
 
 ### Install and set up
 
-1. Go to <a href="https://effecthouse.tiktok.com/">effecthouse.tiktok.com</a>, then click `Download` at the top of the page. Install the app.
+1. Go to [effecthouse.tiktok.com](https://effecthouse.tiktok.com/), then click `Download` at the top of the page. Install the app.
 2. Open Effect House. It asks you to log in with your TikTok account and shows a QR code.
 3. On your phone, open TikTok, go to `Profile`, tap `Add friends` and tap the scanner icon. Scan the code and tap `Confirm`. You can also click `Log in with other methods`.
 
@@ -137,10 +137,9 @@ The Effect House window has a Title Bar at the top and six panels: Hierarchy, As
 
 ![Effect House Add 3D Image]({{ site.baseurl }}/tutorials/assets/AR_EffectHouse3DImageAdd.png)
 
-6. Rotate the `3D Image` until it is parallel to your marker image (`Rotate X: -90`), and adjust its size (If the marker image and the replacement image have the same size and you want a same size replacement use `Size X: 2, Y: 2, Z: 2`). The prview might be misleading so you might have to test multiple time. 
+6. Rotate the `3D Image` until it is parallel to your marker image (`Rotate X: -90`), and adjust its size. If the marker image and the replacement image have the same size and you want the replacement to be the same size, use `Size X: 2, Y: 2, Z: 2`. The preview can be misleading, so you may have to test several times.
 
 ![Effect House Adjust 3D Image]({{ site.baseurl }}/tutorials/assets/AR_EffectHouse3DImageAdj.png)
-
 
 7. Preview the effect on your phone again.
 
@@ -162,68 +161,6 @@ The Preview panel in Effect House can test your effect with your own images and 
 ### Publish your effect (optional)
 
 When you are happy with your effect, click `Submit` in the toolbar and complete the publishing flow. TikTok reviews effects before they become public. You do not need to publish to finish this tutorial, since previewing on your phone is enough. See the Effect House guide to [submitting your effect](https://effecthouse.tiktok.com/learn/guides/publishing/submit-your-effect).
-
-
-<!--8th Wall section disabled until tested (remove the comment tags here and before "Troubleshooting" to restore it)-->
-
-<!--## AR marker image in 8th Wall -> Web
-
-8th Wall was a hosted, paid platform for web AR until 28 February 2026, when the hosted service was retired. It continues at [8thwall.org](https://8thwall.org/) as a free, open source toolset. Its Image Targets work in the phone's browser, so people do not need to install an app, only open a link. You can host your project anywhere you like. This is the option that needs the most web development, but it gives you full control.
-
-### Install 8th Wall Desktop
-
-https://8thwall.org/docs/studio/guides/xr/image-targets
-
-1. Go to <a href="https://8thwall.org/">8thwall.org</a> and download 8th Wall Desktop for Mac or Windows from the downloads page. Run the installer and open the app.
-2. Create a new project, or open an existing one. 8th Wall is free to use and does not require a login. -->
-
-<!-- IMAGE: 8th Wall Desktop project window -->
-
-<!--### Create an image target
-
-8th Wall calls a marker an image target. You can create image targets in the Desktop app, or with a command line tool. The command line tool needs [Node.js](https://nodejs.org/). Open Terminal (macOS) or a command prompt (Windows) and type:
-
-```bash
-npx @8thwall/image-target-cli@latest
-```
-
-The tool asks a few questions:
-
-1. **Path to the image file:** for example `~/Downloads/target1.png`.
-2. **Image type:** choose flat (the default) for a poster or print. Cylinder is for images wrapped around cans or bottles, and cone for cups.
-3. **Default crop:** press `Y` to accept the default crop.
-4. **Output folder:** the `image-targets` folder of your project.
-5. **Name:** a name for the target, for example `target1`.
-
-The tool writes a JSON file with the image target data, together with the original, cropped, thumbnail and grayscale versions of your image.
-
-### Register the target in your project
-
-In the file `src/app.js` of your project, tell the engine which image targets to look for:
-
-```javascript
-const onxrloaded = () => {
-  XR8.XrController.configure({
-    imageTargetData: [
-      require('../image-targets/target1.json')
-    ],
-  })
-}
-window.XR8 ? onxrloaded() : window.addEventListener('xrloaded', onxrloaded)
-```
-
-You can track up to 32 image targets at the same time. The engine reports when a target has been found, updated or lost, so that you can show, move or hide your content (the events are called `imagefound`, `imageupdated` and `imagelost`).
-
-### Show the replacement image-->
-
-<!-- TODO: attach the replacement image or video to the target (A-Frame or Three.js); the 8th Wall example projects aframe-image-targets-example and studio-image-targets-example on GitHub can be used as a starting point -->
-
-<!--### Test the project
-
-8th Wall Desktop includes a simulator that can simulate image targets, so you can check your project on the computer. To test it on your phone, the page has to be served over HTTPS, because browsers only give web pages access to the camera on secure connections. Then point the phone at your printed marker.-->
-
-<!-- IMAGE: Phone screenshot of the web AR experience -->
-
 
 ## Troubleshooting
 
@@ -247,15 +184,193 @@ Think about what changes when the authority of a printed image can be overwritte
 
 ## Resources
 
-- <a href="https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/image-marker">Lens Studio: Marker</a>
-- <a href="https://developers.snap.com/lens-studio/features/ar-tracking/world/marker-tracking">Lens Studio: Marker Tracking</a>
-- <a href="https://effecthouse.tiktok.com/learn/">Effect House: Learn</a>
-- <a href="https://effecthouse.tiktok.com/learn/guides/getting-started/migrating-to-effect-house/migrating-from-lens-studio-to-effect-house">Effect House: Migrating from Lens Studio</a>
+- [Lens Studio: Marker](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/image-marker)
+- [Lens Studio: Marker Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/world/marker-tracking)
+- [Effect House: Learn](https://effecthouse.tiktok.com/learn/)
+- [Effect House: Migrating from Lens Studio](https://effecthouse.tiktok.com/learn/guides/getting-started/migrating-to-effect-house/migrating-from-lens-studio-to-effect-house)
 
 </div>
 
 <div class="lang-de" markdown="1">
 
+## Überblick
 
+In diesem Tutorial erstellt ihr ein Bild, das eine Smartphone-Kamera erkennt und durch etwas anderes ersetzt: ein anderes Bild, ein Video oder ein 3D-Objekt, das über dem Original liegt und ihm folgt, wenn ihr euch bewegt. Die Technik heißt Marker-Tracking oder Image Tracking. Sie steckt hinter AR-Postern, Museumsführungen, Produktverpackungen und Printkampagnen.
+
+Frühe AR-Systeme beruhten auf Fiducial Markers, schwarz-weißen quadratischen Mustern, die für Computer leicht zu finden sind, etwa in der Bibliothek ARToolKit, die Hirokazu Kato Ende der 1990er-Jahre entwickelte. Heutige Werkzeuge brauchen kein spezielles Muster. Sie analysieren euer Bild im Voraus, speichern seine charakteristischen Merkmale (Ecken, Kanten, Kontrastflächen) und suchen sie im Kamerabild. Fast jedes Bild mit genügend Details kann zum Marker werden. Deshalb ist die Wahl des Bildes wichtig (siehe „Vor dem Start“).
+
+Die beiden Werkzeuge in diesem Tutorial leisten dasselbe auf verschiedenen Plattformen. Folgt dem, das zu eurem Smartphone und euren Accounts passt, oder probiert beide aus und vergleicht sie.
+
+| | Lens Studio | Effect House |
+|---|---|---|
+| Läuft in | Snapchat | TikTok |
+| Ihr braucht | Einen Snapchat-Account auf eurem Smartphone | Einen TikTok-Account auf eurem Smartphone |
+| Code | Keiner nötig | Visual Scripting, wenig oder kein Code |
+| Veröffentlichen | Als Lens veröffentlichen, Prüfung durch Snap | Als Effekt einreichen, Prüfung durch TikTok |
+| Kosten | Kostenlos | Kostenlos |
+
+Am Ende könnt ihr:
+
+- ein Bild auswählen und vorbereiten, das sich gut tracken lässt
+- dieses Bild in Lens Studio oder Effect House durch ein anderes ersetzen
+- das Ergebnis mit einem Ausdruck oder einem zweiten Bildschirm auf eurem Smartphone testen
+- vergleichen, wie die beiden Plattformen dieselbe Idee umsetzen
+
+## Software & Tools
+
+- [Lens Studio](https://ar.snap.com/lens-studio) (macOS, Windows): Snaps kostenloses Werkzeug zum Erstellen von Snapchat Lenses. Ihr testet eure Lens auf dem Smartphone in der Snapchat-App.
+- [Effect House](https://effecthouse.tiktok.com/) (macOS, Windows): TikToks kostenloses Werkzeug zum Erstellen von TikTok-Effekten. Zum Einloggen braucht ihr einen TikTok-Account. Das Objekt für Marker-Tracking heißt `Target Tracker`.
+
+Alternativen:
+
+- [8th Wall](https://8thwall.org/) (macOS, Windows, Web): ein kostenloses, quelloffenes Toolset für Web-AR, das im Browser des Smartphones läuft, ohne dass eine App installiert werden muss. Die gehostete Plattform wurde am 28. Februar 2026 eingestellt, die quelloffene Engine wird auf 8thwall.org weitergeführt.
+- [MindAR](https://github.com/hiukim/mind-ar-js) (Web): eine quelloffene JavaScript-Bibliothek für Image Tracking im Browser.
+- [Vuforia](https://developer.vuforia.com/) (iOS, Android, Unity): eine etablierte Engine mit „Image Targets“.
+
+## Vor dem Start
+
+- **Wählt einen Marker mit vielen Details und hohem Kontrast.** Fotografien mit abwechslungsreicher Textur funktionieren gut. Vermeidet sich wiederholende Muster, große leere Flächen und Bilder mit niedriger Auflösung.
+- **Verlasst euch nicht auf Farbe.** Die Erkennung beruht auf Kontrast und Details, nicht auf Farbe. Bilder, die sich nur in der Farbe unterscheiden, werden möglicherweise nicht auseinandergehalten.
+- **Bereitet eure Dateien vor.** Lens Studio empfiehlt für den Marker eine PNG- oder JPG-Datei mit höchstens 2048 × 2048 Pixeln.
+- **Passt das Ersatzbild an den Marker an.** Gebt dem Ersatzbild dieselben Proportionen wie dem Marker, damit es den Marker genau abdeckt und nicht verzerrt wird.
+- **Achtet auf Oberfläche und Licht.** Flaches, mattes Papier bei gleichmäßigem Licht funktioniert am besten. Glänzende Oberflächen und Spiegelungen auf einem Bildschirm verschlechtern das Tracking. Die Erkennung ist am schnellsten, wenn der Marker in der Mitte des Kamerabilds liegt.
+- **Druckt ihn aus oder zeigt ihn auf einem zweiten Bildschirm.** Die Kamera eures Smartphones muss den Marker sehen, während die AR läuft. Ihr könnt also nicht den Bildschirm desselben Smartphones verwenden. Ein Ausdruck liefert das stabilste Ergebnis.
+- **Geht verantwortungsvoll mit Bildern um.** Ihr könnt eigene Bilder verwenden oder euch vorhandene Bilder aneignen. Ein Teil der Kraft von AR-Markerbildern liegt darin, ein Bild zurückzugewinnen, indem man ein eigenes darüberlegt. Achtet aber darauf, dass das Ergebnis nicht verletzend wird.
+
+## AR Marker Image in Lens Studio -> Snapchat
+
+Lens Studio ist Snaps kostenloses Werkzeug zum Erstellen von Lenses. Ihr braucht einen Snapchat-Account auf eurem Smartphone.
+
+### Installation und Einrichtung
+
+1. Geht auf [ar.snap.com/lens-studio](https://ar.snap.com/lens-studio) und ladet Lens Studio herunter.
+2. Stellt sicher, dass Snapchat auf eurem Smartphone installiert ist. Falls nicht, ladet die App herunter und legt einen Account an.
+3. Öffnet Lens Studio und schließt das Home-Fenster. Ihr seht nun das Standard-Projektfenster.
+
+Standardmäßig ist die Oberfläche in sechs Panels unterteilt: Scene Hierarchy, Asset Browser, Scene, Logger, Inspector und Preview.
+
+<!-- IMAGE: Lens Studio default project window with the six panels -->
+![Lens Studio]({{ site.baseurl }}/tutorials/assets/AR_LensStudioSetup.png)
+
+
+### Den Effekt erstellen
+
+1. Klickt im oberen Menü auf `Asset Library` und sucht nach „marker image“. Klickt beim ersten Ergebnis, `Marker Image`, auf `Import` und schließt dann das Asset-Library-Fenster.
+
+![Lens Studio Marker Image Import]({{ site.baseurl }}/tutorials/assets/AR_LensStudioMarkerImageImport.png)
+
+2. Zieht das Bild, das ihr als Marker verwenden wollt, von eurem Computer in das Asset-Browser-Panel.
+3. Klickt im Asset-Browser-Panel auf das `>` neben `Marker Image.lspkg` und wählt `Image Marker [EDIT_ME]`.
+4. Sucht im Inspector-Panel das Feld `Marker Texture`, klickt auf das Bildsymbol und wählt euer Markerbild. Ihr könnt das Bild auch auf das Feld ziehen.
+
+![Lens Studio Target Texture]({{ site.baseurl }}/tutorials/assets/AR_LensStudioTargetTexture.png)
+
+5. Stellt, weiterhin im Inspector-Panel, `Marker Height` auf die tatsächliche Höhe eures ausgedruckten Bildes in Zentimetern ein. So entspricht die Größe des Markers im Scene-Panel seiner Größe in der physischen Welt.
+6. Klickt im Scene-Hierarchy-Panel auf das `>` neben `Marker Image` und wählt `Tracked Image [REPLACE_ME]`.
+7. Ändert im Inspector-Panel das Bild auf euer Ersatzbild. Ihr könnt das Bild auch auf das Texturfeld ziehen.
+
+<!-- CHECK: name of the texture field in the inspector for the replacement image -->
+<!-- IMAGE: Inspector panel with the Marker Texture and Marker Height fields -->
+![Lens Studio Tracked Texture]({{ site.baseurl }}/tutorials/assets/AR_LensStudioTrackedTexture.png)
+
+Weil `Tracked Image [REPLACE_ME]` am Marker befestigt ist, folgt es dem Marker, wenn sich die Kamera oder der Ausdruck bewegt. Auf dieselbe Weise könnt ihr weitere Objekte am Marker befestigen, zum Beispiel ein Video, einen Text oder ein 3D-Objekt. Eine einzelne Lens kann bis zu 10 Marker enthalten, jeder mit eigenem Inhalt.
+
+### Den Effekt testen
+
+1. Klickt auf `Preview Lens`.
+2. Öffnet Snapchat auf eurem Smartphone und scannt den Code.
+3. Richtet die Kamera auf euren ausgedruckten Marker oder auf den Marker auf einem zweiten Bildschirm. Euer Ersatzbild sollte darüber erscheinen.
+
+Falls die Lens nicht auf eurem Smartphone erscheint, prüft, ob Lens Studio und euer Smartphone mit demselben Snapchat-Account gekoppelt sind (siehe Snaps Anleitung [Pairing to Snapchat](https://developers.snap.com/lens-studio/lens-studio-workflow/pairing-to-snapchat), auf Englisch).
+
+<!-- IMAGE: Phone screenshot of the replacement image covering the marker -->
+![Lens Studio Test on Phone]({{ site.baseurl }}/tutorials/assets/AR_LensStudioTest.png)
+
+Das Preview-Panel in Lens Studio sieht euren Marker nur, wenn ihr ein Video davon importiert. Um das Tracking mit der Kamera eures Smartphones zu testen, startet die Vorschau der Lens in Snapchat.
+
+### Den Effekt veröffentlichen (optional)
+
+Wenn ihr mit eurer Lens zufrieden seid, könnt ihr sie zur Prüfung bei Snap einreichen. Für dieses Tutorial müsst ihr nichts veröffentlichen, die Vorschau auf dem Smartphone genügt. Siehe Snaps Anleitung zum [Einreichen einer Lens](https://developers.snap.com/lens-studio/publishing/submitting/submitting-your-lens) (auf Englisch).
+
+## AR Marker Image in Effect House -> TikTok
+
+Effect House ist TikToks kostenloses Werkzeug zum Erstellen von Effekten. Ihr braucht einen TikTok-Account auf eurem Smartphone.
+
+### Installation und Einrichtung
+
+1. Geht auf [effecthouse.tiktok.com](https://effecthouse.tiktok.com/) und klickt oben auf der Seite auf `Download`. Installiert die App.
+2. Öffnet Effect House. Es fordert euch auf, euch mit eurem TikTok-Account anzumelden, und zeigt einen QR-Code.
+3. Öffnet auf eurem Smartphone TikTok, geht zu `Profile`, tippt auf `Add friends` und dann auf das Scanner-Symbol. Scannt den Code und tippt auf `Confirm`. Alternativ könnt ihr auf `Log in with other methods` klicken.
+
+Das Effect-House-Fenster hat oben eine Title Bar und sechs Panels: Hierarchy, Assets, Scene, Visual Scripting, Preview und Inspector.
+
+<!-- IMAGE: Effect House window with the Title Bar and the six panels -->
+![Effect House Setup]({{ site.baseurl }}/tutorials/assets/AR_EffectHouseSetup.png)
+
+
+### Den Effekt erstellen
+
+1. Zieht euer Markerbild und euer Ersatzbild in das Assets-Panel. Wählt jedes Bild aus und setzt im Inspector-Panel `Compression Type` auf `None`.
+2. Klickt auf `+ Add object` und wählt `AR Tracking` > `Target Tracker`. Effect House fügt einen `Target Tracker` mit einem Standardbild und einem Würfel darin hinzu. Mit dem Würfel könnt ihr zuerst euer Setup testen.
+
+![Effect House Target Tracker]({{ site.baseurl }}/tutorials/assets/AR_EffectHouseTargetTracker.png)
+
+3. Wählt `Target Tracker` im Hierarchy-Panel aus. Sucht im Inspector-Panel die Komponente `Target Tracker` und ersetzt im Feld `Target Texture` die Standardtextur durch euer Markerbild.
+4. Testet den Würfel auf eurem Smartphone (siehe „Den Effekt testen“ unten).
+5. Wenn es funktioniert, löscht den Würfel. Klickt auf `+ Add object` und wählt `3D Image`. Zieht das `3D Image` im Hierarchy-Panel auf `Target Tracker`, sodass es darin verschachtelt ist. Setzt im Inspector-Panel seine Textur auf euer Ersatzbild.
+
+![Effect House Add 3D Image]({{ site.baseurl }}/tutorials/assets/AR_EffectHouse3DImageAdd.png)
+
+6. Dreht das `3D Image`, bis es parallel zu eurem Markerbild liegt (`Rotate X: -90`), und passt seine Größe an. Haben Markerbild und Ersatzbild dieselbe Größe und soll das Ersatzbild gleich groß sein, verwendet `Size X: 2, Y: 2, Z: 2`. Die Vorschau kann irreführend sein, deshalb müsst ihr möglicherweise mehrmals testen.
+
+![Effect House Adjust 3D Image]({{ site.baseurl }}/tutorials/assets/AR_EffectHouse3DImageAdj.png)
+
+7. Testet den Effekt erneut auf eurem Smartphone.
+
+<!-- CHECK: exact names of the Compression Type field and of the texture field of the 3D Image -->
+<!-- IMAGE: Hierarchy and Inspector panels with the Target Tracker and the 3D Image -->
+
+Weil das `3D Image` im `Target Tracker` verschachtelt ist, folgt es dem Marker, wenn sich die Kamera oder der Ausdruck bewegt. Auf dieselbe Weise könnt ihr weitere Objekte verschachteln.
+
+### Den Effekt testen
+
+1. Klickt oben rechts im Fenster auf `Preview in TikTok`, um einen QR-Code zu erzeugen.
+2. Öffnet auf eurem Smartphone TikTok und geht zu `Profile`. Tippt oben rechts auf das Menüsymbol, tippt auf `My QR code`, tippt dann oben rechts auf das Scan-Symbol und scannt den Code.
+3. Richtet die Kamera auf euren ausgedruckten Marker oder auf den Marker auf einem zweiten Bildschirm. Euer Ersatzbild sollte darüber erscheinen.
+
+<!-- IMAGE: Effect House title bar with the preview QR code -->
+
+Im Preview-Panel von Effect House könnt ihr euren Effekt mit eigenen Bildern und Videos testen (klickt auf `+ Add media`). Um das Tracking mit der Kamera eures Smartphones auszuprobieren, startet die Vorschau in TikTok.
+
+### Den Effekt veröffentlichen (optional)
+
+Wenn ihr mit eurem Effekt zufrieden seid, klickt in der Toolbar auf `Submit` und durchlauft den Veröffentlichungsprozess. TikTok prüft Effekte, bevor sie öffentlich werden. Für dieses Tutorial müsst ihr nichts veröffentlichen, die Vorschau auf dem Smartphone genügt. Siehe die Effect-House-Anleitung zum [Einreichen eures Effekts](https://effecthouse.tiktok.com/learn/guides/publishing/submit-your-effect) (auf Englisch).
+
+## Fehlerbehebung
+
+- **Der Marker wird nicht erkannt.** Prüft das Bild anhand der Hinweise oben: Geringer Kontrast, sich wiederholende Muster und große leere Flächen erschweren die Erkennung. Probiert ein anderes Bild.
+- **Die Erkennung ist langsam oder flackert.** Reduziert Spiegelungen, verwendet mattes Papier und gleichmäßiges Licht, haltet das Smartphone ruhig und lasst den Marker in der Mitte des Bildes.
+- **Das Ersatzbild ist zu groß, zu klein oder verschoben.** Prüft in Lens Studio `Marker Height` anhand der gedruckten Größe. Passt in Effect House die Größe des `3D Image` an. Achtet in beiden darauf, dass das Ersatzbild dieselben Proportionen wie der Marker hat.
+- **Die AR-Erfahrung erscheint nicht auf dem Smartphone.** Prüft in Lens Studio, ob euer Smartphone mit demselben Snapchat-Account gekoppelt ist. Prüft in Effect House, ob ihr den Vorschau-QR-Code mit der TikTok-App gescannt habt. Prüft in beiden, ob die App die Berechtigung hat, die Kamera zu verwenden.
+- **Ein zweiter Marker löst falsche Inhalte aus.** Ähnlich aussehende Bilder können verwechselt werden. Macht eure Marker in Form und Details deutlich unterschiedlich, nicht nur in der Farbe.
+
+## Übung: ein Bild überschreiben
+
+Wählt ein Bild, das ihr selbst gemacht habt oder verwenden dürft, und macht es zum Marker. Erstellt dann ein Ersatzbild, das verändert, wie die Betrachter:innen das Original lesen. Zum Beispiel:
+
+- dasselbe Bild zu einem anderen Zeitpunkt, davor und danach
+- dasselbe Bild, bei dem das Verborgene sichtbar wird oder das Sichtbare entfernt ist
+- ein anderes Bild oder eine Bildunterschrift, die dem widerspricht, was das Bild zu zeigen scheint
+
+Druckt den Marker aus, baut das Overlay in Lens Studio oder Effect House und testet es auf eurem Smartphone. Wenn ihr Zeit habt, baut dasselbe Overlay in der anderen App und vergleicht: Wie lange hat es gedauert, wie stabil ist das Tracking und wer kann das Ergebnis sehen?
+
+Überlegt, was sich verändert, wenn die Autorität eines gedruckten Bildes im Moment des Betrachtens überschrieben werden kann, und wer die Ebene darüber kontrolliert.
+
+## Ressourcen
+
+- [Lens Studio: Marker](https://developers.snap.com/lens-studio/features/ar-tracking/world/world-templates/image-marker)
+- [Lens Studio: Marker Tracking](https://developers.snap.com/lens-studio/features/ar-tracking/world/marker-tracking)
+- [Effect House: Learn](https://effecthouse.tiktok.com/learn/)
+- [Effect House: Migrating from Lens Studio](https://effecthouse.tiktok.com/learn/guides/getting-started/migrating-to-effect-house/migrating-from-lens-studio-to-effect-house)
 
 </div>
