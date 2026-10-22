@@ -69,6 +69,54 @@ Add your name, a description of your project and some images to the [share docum
 
 <div class="lang-de" markdown="1">
 
+Dieses Cluster untersucht, wie sich die automatisierten Logiken des Machine Vision ausnutzen, unterwandern oder gegen sich selbst wenden lassen – und damit algorithmische Überwachungssysteme kompromittieren und die Monetarisierung von Aufmerksamkeit stören. Bilder werden heute nicht mehr nur aufgenommen, sondern laufend von Software analysiert, die in alles eingebettet ist, von Smartphones und Überwachungskameras bis zu Türklingeln und selbstfahrenden Autos. Machine-Vision-Systeme suchen nach Gesichtern, Körpern, Gesten und Nummernschildern und behandeln visuelle Daten als verwertbare Information. Netzwerke zur automatischen Nummernschilderkennung (Automated License Plate Recognition, ALPR), die für Verkehrsüberwachung, Mauterhebung und polizeiliche Überwachung eingesetzt werden, sind eine besonders verbreitete Form des computergestützten Sehens.
 
+
+## Kate Rose, [*Adversarial Fashion*](https://www.katebertash.com/adversarial-fashion), 2020
+![Kate Rose]({{ site.baseurl }}/courses/Image-Decoys/assets/img/rose.png)
+<figcaption>Kate Rose, SITUATIONS/Strike Limited Edition T-shirt, 2020</figcaption>
+
+Die Designerin und Aktivistin Kate Rose hat unter dem Projekt Adversarial Fashion eine Kleiderlinie entwickelt, die in diese Systeme eingreift. Die Kleidungsstücke zeigen sorgfältig gestaltete Muster, die von ALPR-Kameras als falsche Nummernschilder interpretiert werden – sie speisen Rauschen in die Datenbanken von Überwachungsnetzwerken ein und legen deren Schwachstellen offen. 2020 realisierte Rose im Auftrag des Fotomuseum Winterthur ein T-Shirt in limitierter Auflage, bedruckt mit einem Zitat des Künstlers und Autors Trevor Paglen, das Teil dieser adversarialen Taktik wurde. Die Shirts täuschen nicht nur die Machine Vision, sondern schreiben kritische Reflexionen direkt in die Systemdatenbank ein: „How do we see the world with machines? What happens if we think about photography in terms of imaging systems instead of images?... What are the implications of a world in which photography is both ubiquitous and, curiously, largely invisible?“
+
+## Sanne Weekers, [*Anonymity Scarf*](https://www.instagram.com/p/C3BEpnVSUJn/), 2017
+![Sanne Weekers]({{ site.baseurl }}/courses/Image-Decoys/assets/img/weekers.jpg)
+<figcaption>Sanne Weekers, <em>Anonymity Scarf</em>, 2017</figcaption>
+
+Andere Designer:innen haben erforscht, wie Kleidung das maschinelle Sehen ausschalten oder verwirren kann. 2017 entwickelte Sanne Weekers den Anonymity Scarf, der mit mehreren Gesichtern bedruckt ist. Diese fungieren als Köder (Decoys) und stören Gesichtserkennungssysteme. Ähnlich stellt das Modestudio Cap_able Textilien her, in die adversariale Bilder eingebettet sind – visuelles Rauschen, das neuronale Netze täuschen soll. Für menschliche Augen wirken diese Kleidungsstücke wie farbenfrohe Abstraktionen, von KI-Systemen werden sie jedoch falsch gelesen: Gesichter bleiben unerkannt, oder Menschen werden fälschlich als Objekte oder Tiere kategorisiert. Solche Image Decoys schützen biometrische Daten und machen die Verwundbarkeit von Überwachungsinfrastrukturen sichtbar.
+
+## [Cap_able](https://www.capable.design/), 2019 –
+![Cap_able]({{ site.baseurl }}/courses/Image-Decoys/assets/img/cap_able.jpg)
+<figcaption>Cap_able, Knit Long Sleeve Dress, Screenshot aus dem Cap_able-Onlineshop</figcaption>
+
+Ein neueres Beispiel ist Digital Camouflage, ein Projekt des Medienkünstlers Simon Weckert, der ein Kleidungsstück entwickelt hat, das sich den Computer-Vision-Technologien entziehen soll, die zunehmend zur Überwachung öffentlicher Räume eingesetzt werden. Für beiläufige Betrachter:innen zeigt das Shirt ein abstraktes, fast hypnotisches Muster. Dieses Muster dient jedoch einem bestimmten Zweck: Es soll Algorithmen zur Objekterkennung stören. Solche Technologien werden Teil der urbanen Überwachungsinfrastruktur, unter anderem am Berliner Kottbusser Tor, während ähnliche Systeme in Städten wie London und Los Angeles bereits im Einsatz sind.
+
+## Simon Weckert, [*Digital Camouflage*](https://www.simonweckert.com/digitalcamouflage.html), 2026
+![Simon Weckert]({{ site.baseurl }}/courses/Image-Decoys/assets/img/weckert.png)
+<figcaption>Simon Weckert, <em>Design Camouflage</em>, 2026</figcaption>
+
+
+Image Triggers entstehen auch in den algorithmischen Ökonomien der sozialen Medien, in denen Bots darauf programmiert sind, populäre Bilder gewinnbringend aufzuspüren. 2019 bemerkten Künstler:innen und Illustrator:innen, dass Bilder, die auf Plattformen wie Twitter gepostet wurden, rasch von automatisierten Skripten abgegriffen (gescraped) und auf Merchandise gedruckt wurden, das über Onlineshops von Drittanbietern verkauft wird – oft ohne Zustimmung oder Namensnennung. Diese Bots durchsuchen Bilder mit hohem Engagement (Likes, Retweets, Kommentare) und Wendungen wie „I want this on a shirt“ und verwandeln so soziales Kapital direkt in kommerzialisierte Waren.
+
+## ["I Want This On A T-Shirt" Bot Bait](https://knowyourmeme.com/memes/i-want-this-on-a-shirt-bot-bait), 2023
+![Bot Bait Tweet]({{ site.baseurl }}/courses/Image-Decoys/assets/img/botbait.png)
+<figcaption>Screenshot eines Tweets von @hannadouken, 2023</figcaption>
+
+In einer bekannten Online-Intervention twitterte die Nutzerin @hannadouken eine Illustration mit der Bildunterschrift „This site sells STOLEN artworks, do NOT buy from them!“ und forderte andere auf, die Bots zu ködern, indem sie mit Shirt-Wünschen antworteten. Der Tweet ging viral, und innerhalb weniger Stunden wurde ihr Protestbild abgegriffen und in Onlineshops auf T-Shirts neu veröffentlicht. Andere schlossen sich an und überschwemmten die Bots mit ähnlichen Ködern – teils mit urheberrechtlich geschütztem Material, um Takedowns und rechtliche Auseinandersetzungen auszulösen. Indem sie das Verhalten nachahmten, nach dem die Bots suchen sollten, machten diese Nutzer:innen automatisierte Extraktionsmechanismen zu unfreiwilligen Beteiligten ihres Protests.
+
+<iframe width="800" height="450" src="https://player.vimeo.com/video/410997208?h=f738f44ab9" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen title="The Curious Case of Bot Bait"></iframe>
+
+In all diesen Projekten werden Bilder zu Triggern für algorithmisches Sehen – sie müssen nicht von Menschen aktiv entschlüsselt werden, sondern werden automatisch von Systemen aktiviert, die nach Inputs suchen. Über ihre repräsentationale Oberfläche ködern sie Maschinen und unterlaufen die Logik der Systeme, in denen sie sich bewegen. Diese Bilder fungieren als Decoys: Sie sind darauf angelegt, Überwachungswerkzeuge, Data-Scraping-Bots und algorithmische Betrachter:innen dazu zu verleiten, sich auf Inhalte einzulassen, die ihren eigenen Zweck untergraben, und so die blinden Flecken und Verwundbarkeiten maschinensehender Apparate offenzulegen.
+
+## Aufgabe
+
+Entwickelt euer eigenes *Image Triggers*-Projekt, inspiriert von den im Unterricht gezeigten Beispielen. Wählt eine von zwei Optionen:
+
+**Option A: Einen Trigger testen.** Wählt ein Machine-Vision-System, auf das ihr Zugriff habt, zum Beispiel eine Gesichtserkennungs-Demo, einen Objektdetektor, Google Lens oder ein Tool für automatische Bildbeschreibungen bzw. Alt-Texte. Gestaltet ein Bild, ein Muster oder eine Intervention, die versucht, die Art und Weise zu verwirren, irrezuführen oder umzulenken, wie das System sieht. Testet mehrere Varianten und dokumentiert, was passiert – auch wenn es scheitert. Was hat das System gesehen, und was hat es übersehen oder falsch gelesen?
+
+**Option B: Einen Köder auslegen.** Überlegt euch einen automatisierten Prozess, der nach bestimmten Bildern sucht, etwa einen Scraper, einen Empfehlungsalgorithmus, einen Indexierungs-Bot oder ein Print-on-Demand-Skript. Gestaltet ein Bild oder eine Bildunterschrift, die für ihn als Köder funktioniert, und beschreibt, wie das System darauf reagieren würde und was diese Reaktion offenlegen würde.
+
+Unabhängig von eurer Wahl gilt: Adversariale Muster funktionieren oft nur bei bestimmten Modellen und können überraschend fragil sein. Ein Trigger, der scheitert, ist trotzdem ein Ergebnis, das sich zu teilen lohnt.
+
+Fügt euren Namen, eine Beschreibung eures Projekts und einige Bilder in das [geteilte Dokument](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.ywqnvnlufn) ein.
 
 </div>
