@@ -153,6 +153,16 @@ Ori Gersht's *Blow Up* series photographs flower arrangements — directly refer
 
 Richard Kuiper's *Dutch Still Life in Plastic* recreates the iconographic vocabulary of seventeenth-century Dutch vanitas painting — flowers, fruit, draped fabric, skulls, hourglasses — using objects made entirely of plastic. The series is immediately legible as a translation of painting into photography, and the formal qualities of the images reinforce that: Kuiper uses the raking sidelight, the dark background, and the studied composition of the Dutch tradition with great precision. But the substitution of plastic for organic material produces a sharp conceptual reversal: the vanitas tradition used beautiful, perishable objects to meditate on mortality and the passage of time, while plastic — designed specifically not to decay, to persist in the environment for centuries — denies the very temporality the tradition was built to represent. A plastic skull is not a memento mori; it is its opposite, a material that refuses to be consumed by time. Kuiper's series is both a loving homage to the painting tradition and a quietly devastating critique of a culture that has replaced organic time with synthetic permanence.
 
+### Evelyn Bencicova, [Anorganic](https://evelynbencicova.com/anorganic/), 2016
+
+![Bencicova]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/bencicova.jpg)
+<figcaption>Evelyn Bencicova, from <em>Anorganic</em>, 2016</figcaption>
+
+"(An)organic explores the history and the purpose of still-life as a genre. Still-life is not just a random constellation of objects. The choice, symbolism, and composition of its particles define the person who owns it and the way it is presented to the public. Every detail is important. Animals display their human-like characters through their interaction with the surrounding “landscape of things”.
+
+Sphynx cat, the symbol of the rich, well-fed, elegant and disinterested does not pay any attention to the tasty, delicate dishes served on the table – as a personification of luxury. Hairless rats feasting on what resembles their own flash. Cruelty. The funeral table is overtaken by a group of mice, whose presence reminds us of the void, something that used to be and does not exist anymore. Mortality."
+
+
 
 ## Food Photography: From the Table to the Screen
 
@@ -352,6 +362,14 @@ Ori Gershts *Blow Up*-Serie fotografiert Blumenarrangements — mit direktem Bez
 
 Richard Kuipers *Dutch Still Life in Plastic* recreiert das ikonografische Vokabular der niederländischen Vanitasmalerei des siebzehnten Jahrhunderts — Blumen, Früchte, drapierte Stoffe, Schädel, Sanduhren — mit Objekten aus reinem Plastik. Die Serie ist sofort als Übersetzung von Malerei in Fotografie lesbar, und die formalen Qualitäten der Bilder unterstreichen das: Kuiper setzt das schräge Seitenlicht, den dunklen Hintergrund und die durchdachte Komposition der niederländischen Tradition mit großer Präzision ein. Aber die Substitution von Plastik für organisches Material erzeugt eine scharfe konzeptuelle Umkehrung: Die Vanitas-Tradition verwendete schöne, vergängliche Objekte, um über Sterblichkeit und den Lauf der Zeit nachzudenken, während Plastik — speziell dafür entwickelt, nicht zu verfallen, Jahrhunderte in der Umwelt zu überdauern — genau die Zeitlichkeit verneint, die die Tradition zu repräsentieren gebaut wurde. Ein Plastikschädel ist kein Memento mori; er ist sein Gegenteil, ein Material, das sich weigert, von der Zeit verzehrt zu werden. Kuipers Serie ist sowohl eine liebevolle Hommage an die Maltradition als auch eine leise vernichtende Kritik an einer Kultur, die organische Zeit durch synthetische Permanenz ersetzt hat.
 
+### Evelyn Bencicova, [Anorganic](https://evelynbencicova.com/anorganic/), 2016
+
+![Bencicova]({{ site.baseurl }}/courses/00_Fundamentals-of-Photography/assets/img/bencicova.jpg)
+<figcaption>Evelyn Bencicova, from <em>Anorganic</em>, 2016</figcaption>
+
+"(An)organic explores the history and the purpose of still-life as a genre. Still-life is not just a random constellation of objects. The choice, symbolism, and composition of its particles define the person who owns it and the way it is presented to the public. Every detail is important. Animals display their human-like characters through their interaction with the surrounding “landscape of things”.
+
+Sphynx cat, the symbol of the rich, well-fed, elegant and disinterested does not pay any attention to the tasty, delicate dishes served on the table – as a personification of luxury. Hairless rats feasting on what resembles their own flash. Cruelty. The funeral table is overtaken by a group of mice, whose presence reminds us of the void, something that used to be and does not exist anymore. Mortality."
 
 ## Foodfotografie: Vom Tisch zum Bildschirm
 
