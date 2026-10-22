@@ -15,7 +15,7 @@ published: true
 
 ## Presentations
 
-Upload a screenshot of your assignment with your name and a caption on [this online document](hhttps://docs.google.com/document/d/1QR50toGt82UPzHh4l9oyBnHd8J9Sl0rxtWLYyFTZTUk/edit?usp=sharing)
+Upload a screenshot of your assignment with your name and a caption on [this online document](https://docs.google.com/document/d/1QR50toGt82UPzHh4l9oyBnHd8J9Sl0rxtWLYyFTZTUk/edit?usp=sharing)
 
 ***
 
