@@ -51,6 +51,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 [Setup](https://editor.p5js.org/disappearhere/sketches/NI7ESEsVw): create a canvas and paint its background with a colour, using the two basic p5.js functions `setup()` and `draw()`.
  
 <iframe src="https://editor.p5js.org/disappearhere/embed/NI7ESEsVw" width="100%" height="450" style="border:0"></iframe>
+
 *Try:* Change the three numbers in `background()` to make a different colour. Then make the canvas wider than it is tall.
  
 **02 Variables**
@@ -58,6 +59,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 [Variables](https://editor.p5js.org/disappearhere/sketches/egB3XY2aW): store numbers, text and true/false values in variables, and display them on the canvas with `text()`.
  
 <iframe src="https://editor.p5js.org/disappearhere/embed/egB3XY2aW" width="100%" height="450" style="border:0"></iframe>
+
 *Try:* Add a new variable with your own text and display it on the canvas. What happens if you remove the parentheses around `myAge + yourAge`?
  
 **03 If-else**
@@ -65,6 +67,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 [If-else](https://editor.p5js.org/disappearhere/sketches/n_3Ubigwk): use a true/false variable and an `if-else` condition to choose between two background colours.
  
 <iframe src="https://editor.p5js.org/disappearhere/embed/n_3Ubigwk" width="100%" height="450" style="border:0"></iframe>
+
 *Try:* Change `isBlue` to `false` and run the sketch again. Then add a third colour with `else if`.
  
 **04 Click**
@@ -72,6 +75,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 [Click](https://editor.p5js.org/disappearhere/sketches/1nAwu6Ilm): count mouse clicks with `mouseClicked()` and change the background colour depending on the number of clicks.
  
 <iframe src="https://editor.p5js.org/disappearhere/embed/1nAwu6Ilm" width="100%" height="450" style="border:0"></iframe>
+
 *Try:* Change the numbers so the colour changes after 3 clicks instead of 5. What colour do you expect at exactly 10 clicks?
  
 **05 MouseMove**
@@ -79,6 +83,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 [MouseMove](https://editor.p5js.org/disappearhere/sketches/T6api34tZ): use `mouseMoved()` and `mouseX` to change the background colour depending on which half of the canvas the mouse is in.
  
 <iframe src="https://editor.p5js.org/disappearhere/embed/T6api34tZ" width="100%" height="450" style="border:0"></iframe>
+
 *Try:* Use `mouseY` instead of `mouseX` so the colour changes between the top and the bottom half.
  
 **06 MouseMove + MouseClick**
@@ -86,6 +91,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 [MouseMove + MouseClick](https://editor.p5js.org/disappearhere/sketches/rNMFst-YY): combine `mouseMoved()` and `mouseClicked()` so the background colour follows the mouse and each click switches between a rectangle and an ellipse.
  
 <iframe src="https://editor.p5js.org/disappearhere/embed/rNMFst-YY" width="100%" height="450" style="border:0"></iframe>
+
 *Try:* Replace the rectangle or the ellipse with another shape, for example a `triangle()` or a `circle()`. Look it up in the p5.js reference.
  
 **07 Image**
@@ -93,6 +99,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 [Image](https://editor.p5js.org/disappearhere/sketches/GjUnQm6Va): upload an image to the sketch, load it with `loadImage()` and display it on the canvas with `image()`.
  
 <iframe src="https://editor.p5js.org/disappearhere/embed/GjUnQm6Va" width="100%" height="450" style="border:0"></iframe>
+
 *Try:* Upload your own image and draw it at half the canvas size in the centre of the canvas.
  
 **08 Image + MouseClick**
@@ -100,6 +107,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 [Image + MouseClick](https://editor.p5js.org/disappearhere/sketches/yCAAroFw9): load two images and switch between them each time the mouse is clicked.
  
 <iframe src="https://editor.p5js.org/disappearhere/embed/yCAAroFw9" width="100%" height="450" style="border:0"></iframe>
+
 *Try:* Switch the images with `mouseMoved()` and `mouseX` instead of a click, so the left half shows one image and the right half the other.
  
 **09 Keyboard**
@@ -107,6 +115,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 [Keyboard](https://editor.p5js.org/disappearhere/sketches/CCjyh7z_I): switch between three images by pressing the keys 1, 2 and 3, using `keyPressed()` and the `key` variable.
  
 <iframe src="https://editor.p5js.org/disappearhere/embed/CCjyh7z_I" width="100%" height="450" style="border:0"></iframe>
+
 *Try:* Add a fourth image and make it appear when you press the key 4.
  
 **10 Webcam**
@@ -114,6 +123,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 [Webcam](https://editor.p5js.org/disappearhere/sketches/f9VYmlJzo): access the webcam with `createCapture()` and draw the live video on the canvas.
  
 <iframe src="https://editor.p5js.org/disappearhere/embed/f9VYmlJzo" width="100%" height="620" style="border:0" allow="camera"></iframe>
+
 *Try:* Mirror the video so it behaves like a mirror: look up `scale(-1, 1)` and `translate()` in the reference. Why does it feel more natural?
  
 <!-- TODO: sketch 08 - fix image aspect ratio or use images sized to the canvas -->
@@ -128,16 +138,53 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 
 BodyPose estimates the position of body parts such as the nose, shoulders and wrists in the video image.
 
-1. [BodyPose Body Recognition](https://editor.p5js.org/disappearhere/sketches/Ci9_fxawo): 
-detect a body in the webcam image with `ml5.bodyPose()`, draw its keypoints and skeleton, and change the background colour depending on the position of the nose and wrists.
+**01 BodyPose Body Recognition**
 
-2. [Nose + Image](https://editor.p5js.org/disappearhere/sketches/aefaeeD7c): 
-track the nose with BodyPose and show a different image depending on whether it is on the left or the right half of the canvas.
+[BodyPose Body Recognition](https://editor.p5js.org/disappearhere/sketches/Ci9_fxawo): detect a body in the webcam image with `ml5.bodyPose()`, draw its keypoints and skeleton, and change the background colour depending on the position of the nose and wrists.
 
-3. [Nose & Wrists + Image](https://editor.p5js.org/disappearhere/sketches/-lInF2l6V)
-4. [Nose & Wrists + Sound Play and Volume](https://editor.p5js.org/disappearhere/sketches/VO-b37VQk)
-5. [Nose + Distance](https://editor.p5js.org/disappearhere/sketches/y65IHV49n)
-6. [Nose + Image + Click](https://editor.p5js.org/disappearhere/sketches/Z6V3Siipy)
+<iframe src="https://editor.p5js.org/disappearhere/embed/Ci9_fxawo" width="100%" height="620" style="border:0" allow="camera"></iframe>
+
+*Try:* Remove the `image(video, ...)` lines to see only what the machine reads, a skeleton on a coloured background. What does the machine keep of you, and what does it lose?
+
+**02 Nose + Image**
+
+[Nose + Image](https://editor.p5js.org/disappearhere/sketches/aefaeeD7c): track the nose with BodyPose and show a different image depending on whether it is on the left or the right half of the canvas.
+
+<iframe src="https://editor.p5js.org/disappearhere/embed/aefaeeD7c" width="100%" height="620" style="border:0" allow="camera"></iframe>
+
+*Try:* Add a third image that appears when your nose is in the top half of the canvas. Which condition do you need to check first?
+
+**03 Nose & Wrists + Image**
+
+[Nose & Wrists + Image](https://editor.p5js.org/disappearhere/sketches/-lInF2l6V): show one of four images depending on whether the nose is on the left or right half of the canvas, or whether the left or right wrist is raised.
+
+<iframe src="https://editor.p5js.org/disappearhere/embed/-lInF2l6V" width="100%" height="620" style="border:0" allow="camera"></iframe>
+
+*Try:* Make the image only change when *both* wrists are raised. Which operator do you need to combine the two conditions? (Look back at sketch 04.)
+
+**04 Nose & Wrists + Sound Play and Volume**
+
+[Nose & Wrists + Sound Play and Volume](https://editor.p5js.org/disappearhere/sketches/VO-b37VQk): play and pause a sound with the position of the nose and change its volume by raising the left or right wrist.
+
+<iframe src="https://editor.p5js.org/disappearhere/embed/VO-b37VQk" width="100%" height="620" style="border:0" allow="camera; autoplay"></iframe>
+
+*Try:* Use the height of your nose instead of the raised wrists to control the volume: the higher your head, the louder the sound. Look up `map()` in the p5.js reference.
+
+**05 Nose + Distance**
+
+[Nose + Distance](https://editor.p5js.org/disappearhere/sketches/y65IHV49n): measure the distance between the nose and an eye to estimate how far you are from the camera, and draw a clown nose that changes size and colour accordingly.
+
+<iframe src="https://editor.p5js.org/disappearhere/embed/y65IHV49n" width="100%" height="620" style="border:0" allow="camera"></iframe>
+
+*Try:* Add a second clown feature, for example a hat above the head or round cheeks, that also scales with the distance between nose and eye. Use the `left_eye` and `right_eye` keypoints for positions.
+
+**06 Nose + Image + Click**
+
+[Nose + Image + Click](https://editor.p5js.org/disappearhere/sketches/Z6V3Siipy): place an image on each detected face, scale it with the distance from the camera, and switch between two images with a mouse click.
+
+<iframe src="https://editor.p5js.org/disappearhere/embed/Z6V3Siipy" width="100%" height="620" style="border:0" allow="camera"></iframe>
+
+*Try:* Add a third image and cycle through all three on each click. Hint: use a number instead of a true/false variable.
 
 ### Hands: HandPose
 
