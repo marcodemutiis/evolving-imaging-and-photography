@@ -4,7 +4,7 @@ title_de: "Machine Vision"
 description: ""
 description_de: ""
 order: 6
-published: false
+published: true
 ---
 
 <div class="lang-en" markdown="1">
@@ -128,8 +128,12 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 
 BodyPose estimates the position of body parts such as the nose, shoulders and wrists in the video image.
 
-1. [BodyPose Body Recognition](https://editor.p5js.org/disappearhere/sketches/Ci9_fxawo)
-2. [Nose + Image](https://editor.p5js.org/disappearhere/sketches/aefaeeD7c)
+1. [BodyPose Body Recognition](https://editor.p5js.org/disappearhere/sketches/Ci9_fxawo): 
+detect a body in the webcam image with `ml5.bodyPose()`, draw its keypoints and skeleton, and change the background colour depending on the position of the nose and wrists.
+
+2. [Nose + Image](https://editor.p5js.org/disappearhere/sketches/aefaeeD7c): 
+track the nose with BodyPose and show a different image depending on whether it is on the left or the right half of the canvas.
+
 3. [Nose & Wrists + Image](https://editor.p5js.org/disappearhere/sketches/-lInF2l6V)
 4. [Nose & Wrists + Sound Play and Volume](https://editor.p5js.org/disappearhere/sketches/VO-b37VQk)
 5. [Nose + Distance](https://editor.p5js.org/disappearhere/sketches/y65IHV49n)
