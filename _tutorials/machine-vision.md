@@ -42,9 +42,12 @@ By the end of the tutorial you will be able to:
 
 p5.js is a JavaScript library for creative coding. The [reference](https://p5js.org/reference/) lists every function used in this tutorial, and the web editor lets you write, run and share sketches in the browser.
 
+![p5.js Web Editor]({{ site.baseurl }}/tutorials/assets/MV_p5js_webweditor.png)
+
 ### Sketches
  
 Work through the sketches in order. Each one adds a single idea to the previous one. Click the title to open a sketch in the p5.js editor, then use *File → Duplicate* to make your own copy.
+
  
 **01 Setup**
  
