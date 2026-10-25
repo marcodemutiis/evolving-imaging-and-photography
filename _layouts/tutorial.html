@@ -17,6 +17,7 @@ layout: default
 <script src="{{ '/assets/js/lightbox.js' | relative_url }}"></script>
 <script>document.body.classList.add('lesson-page');</script>
 
+<!--script for p5js embeds on mobile and desktop-->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   // desktop = wide screen with a mouse
@@ -24,18 +25,79 @@ document.addEventListener("DOMContentLoaded", function () {
     "(min-width: 900px) and (hover: hover) and (pointer: fine)"
   ).matches;
 
+  var ONE_AT_A_TIME = true;   // starting a sketch stops the others
+  var stoppers = [];          // one stop function per manual embed
+
+  var LABELS = {
+    run:  '<span class="lang-en">▶ Run sketch</span><span class="lang-de">▶ Sketch starten</span>',
+    stop: '<span class="lang-en">■ Stop sketch</span><span class="lang-de">■ Sketch stoppen</span>',
+    hint: '<span class="lang-en">Click to run the sketch (uses your camera)</span><span class="lang-de">Klickt, um den Sketch zu starten (nutzt eure Kamera)</span>'
+  };
+
   document.querySelectorAll("iframe[data-src]").forEach(function (frame) {
-    if (isDesktop) {
-      frame.src = frame.dataset.src;       // load the sketch
-    } else {
-      // on mobile, replace the embed with a short note in both languages
+
+    // mobile: replace the embed with a short note in both languages
+    if (!isDesktop) {
       var note = document.createElement("p");
       note.className = "embed-note";
       note.innerHTML =
         '<span class="lang-en">This sketch runs on a computer. Open the link above to view it in the p5.js editor.</span>' +
         '<span class="lang-de">Dieser Sketch läuft auf einem Computer. Öffnet den Link oben, um ihn im p5.js-Editor anzusehen.</span>';
       frame.replaceWith(note);
+      return;
     }
+
+    // desktop, sketches without camera: load straight away
+    var usesCamera = (frame.getAttribute("allow") || "").indexOf("camera") !== -1;
+    if (!usesCamera) {
+      frame.src = frame.dataset.src;
+      return;
+    }
+
+    // desktop, camera sketches: build a wrapper with a toggle button and a placeholder
+    var wrap = document.createElement("div");
+    wrap.className = "embed-wrap";
+    frame.parentNode.insertBefore(wrap, frame);
+
+    var button = document.createElement("button");
+    button.type = "button";
+    button.className = "embed-toggle";
+
+    var placeholder = document.createElement("div");
+    placeholder.className = "embed-placeholder";
+    placeholder.style.height = frame.getAttribute("height") + "px";
+    placeholder.innerHTML = LABELS.hint;
+
+    wrap.appendChild(button);
+    wrap.appendChild(placeholder);
+    wrap.appendChild(frame);
+    frame.style.display = "none";
+
+    var running = false;
+
+    function stop() {
+      running = false;
+      frame.src = "about:blank";          // unloads the sketch and releases the camera
+      frame.style.display = "none";
+      placeholder.style.display = "flex";
+      button.innerHTML = LABELS.run;
+    }
+
+    function start() {
+      if (ONE_AT_A_TIME) stoppers.forEach(function (s) { s(); });
+      running = true;
+      frame.src = frame.dataset.src;
+      frame.style.display = "block";
+      placeholder.style.display = "none";
+      button.innerHTML = LABELS.stop;
+    }
+
+    function toggle() { running ? stop() : start(); }
+
+    button.addEventListener("click", toggle);
+    placeholder.addEventListener("click", start);
+    stoppers.push(function () { if (running) stop(); });
+    button.innerHTML = LABELS.run;
   });
 });
 </script>
