@@ -190,8 +190,21 @@ BodyPose estimates the position of body parts such as the nose, shoulders and wr
 
 HandPose tracks the hand and its fingers (thumb, index finger, middle finger, ring finger and pinky).
 
-7. [Hand + Image Size](https://editor.p5js.org/disappearhere/sketches/LAu6fA9iA)
-8. [Hand + Sound Volume](https://editor.p5js.org/disappearhere/sketches/u9BInKrPS)
+**07 Hand + Image Size**
+
+[Hand + Image Size](https://editor.p5js.org/disappearhere/sketches/LAu6fA9iA): track the 21 keypoints of a hand with `ml5.handPose()`, measure the distance between thumb and index finger, and use it to change the size of an image.
+
+<iframe src="https://editor.p5js.org/disappearhere/embed/LAu6fA9iA" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Try:* Make the image appear only when the fingers are pinched close together (for example when the distance is below 50 pixels). Then use the middle finger tip, `hand.middle_finger_tip`, instead of the index finger. What does the pinch mean to a machine, and what does it mean to you?
+
+**08 Hand + Sound Volume**
+
+[Hand + Sound Volume](https://editor.p5js.org/disappearhere/sketches/u9BInKrPS): measure the distance between thumb and index finger with HandPose and map it to the volume of a looping sound. Click on the canvas once to start the music if you do not hear anything.
+
+<iframe src="https://editor.p5js.org/disappearhere/embed/u9BInKrPS" width="100%" height="500" style="border:0" allow="camera; autoplay"></iframe>
+
+*Try:* Use the height of the wrist instead of the pinch: map `hand.wrist.y` to the volume, so raising your hand makes the sound louder. How does the gesture feel different?
 
 ### Faces: FaceMesh
 
