@@ -25,7 +25,7 @@ By the end of the tutorial you will be able to:
 ## Software and Tools
 
 - [p5.js](https://p5js.org/) and the [p5.js web editor](https://editor.p5js.org/)
-- [ml5.js](https://ml5js.org/) (version 1.x: BodyPose, HandPose, FaceMesh, ObjectDetector, ImageClassifier, SoundClassifier) <!-- TODO: confirm exact version once all sketches are updated -->
+- [ml5.js](https://ml5js.org/) (version 1.x: BodyPose, HandPose, FaceMesh, ObjectDetection, ImageClassifier, SoundClassifier) <!-- TODO: confirm exact version once all sketches are updated -->
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
 ## Before you start
@@ -226,13 +226,29 @@ FaceMesh maps the face as a dense set of points, from which features such as eye
 
 *Try:* Move closer to the camera and further away: what happens, and why? Then show a second image when the mouth is wide open, for example when the opening is above 40 pixels.
 
-### Objects and people: ObjectDetector
+### Objects and people: ObjectDetection
 
 Unlike the models above, object detection does not look for body keypoints. It draws labelled boxes around whatever it recognises in the image, such as persons, chairs or phones. This is closest to how public and private cameras are used for counting, tracking and monitoring people.
 
-11. [Webcam + YOLO Person Detection](https://editor.p5js.org/disappearhere/sketches/QkCfwC4zT)
+The model used here is COCO-SSD, which was trained on COCO ("Common Objects in Context"), a dataset of photographs in which people have marked objects from about 80 categories. The machine can only see what is on that list: whoever made the dataset decided which things are worth detecting.
 
-<!-- TODO: add reflection prompts for this section (what is detected, what is inferred, who decides what counts as a person?) -->
+All the ml5.js models in this tutorial run on [TensorFlow.js](https://www.tensorflow.org/js), an open-source JavaScript library by Google for running machine learning in the browser. ml5.js is built on top of it and hides its complexity behind a few simple functions. Because TensorFlow.js runs the model on your own computer, the webcam image is processed in your browser and does not need to be sent to a server. This is not the case for most commercial camera systems.
+
+**11 Webcam + Object Detection**
+
+[Webcam + Object Detection](https://editor.p5js.org/disappearhere/sketches/QkCfwC4zT): detect people and everyday objects in the webcam image with `ml5.objectDetection()` and draw a labelled box around each one.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/QkCfwC4zT" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Try:* Count the people in the image and write the number on the canvas. Then hold up a phone or a bottle: what does the machine call it, and how sure is it? Who decided that these are the categories worth detecting?
+
+**12 Object Detection + Video**
+
+[Object Detection + Video](https://editor.p5js.org/disappearhere/sketches/bVVvGP16w): play a video only while nobody is in front of the camera. As soon as `ml5.objectDetection()` finds a person, the video pauses and the webcam image with the detection takes its place.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/bVVvGP16w" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Try:* Change the rule so that the video plays only when a person *is* detected. Then replace `"person"` with another label, for example `"cup"` or `"cell phone"`. What rule would a real camera system use, and who would it be watching?
 
 ## Teachable Machine
 
