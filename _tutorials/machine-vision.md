@@ -40,9 +40,24 @@ By the end of the tutorial you will be able to:
 
 ### Sign up and setup
 
-p5.js is a JavaScript library for creative coding. The [reference](https://p5js.org/reference/) lists every function used in this tutorial, and the web editor lets you write, run and share sketches in the browser.
+p5.js is a JavaScript library for creative coding.
+
+**JavaScript** is the programming language of the web: it is what makes web pages interactive, and it runs directly in your browser, so you do not need to install anything. A **library** is a collection of ready-made functions that you can use in your own code: p5.js adds functions for drawing shapes, loading images, using the webcam and reacting to the mouse and keyboard.
+
+**Creative coding** means using code as a medium for art, design and play, rather than to build conventional software. The goal is not an efficient program but something you can see, hear and interact with, and the code is often a way of experimenting. p5.js was started in 2013 by the artist Lauren Lee McCarthy, based on the ideas of Processing, and is maintained by the Processing Foundation and a community of artists and developers. It is made for beginners.
+
+On [p5js.org](https://p5js.org/) click on **Start Coding**. This takes you to the web editor, where you can write, run and share code in the browser. Sign up for a free account, so you will be able to duplicate the sketches from this tutorial, edit them and save them on your account.
 
 ![p5.js Web Editor]({{ site.baseurl }}/tutorials/assets/MV_p5js_webweditor.png)
+
+The editor has a code area on the left, a preview on the right and a **Play** button above them that runs your sketch. A few things are worth knowing before you start:
+
+- **The console** at the bottom of the editor shows messages and error messages. Read it when something does not work: it usually says which line has the problem. You can also print values with `console.log()`.
+- **Saving and duplicating:** with an account you can save a sketch (`Ctrl+S` or `Cmd+S`). Use *File → Duplicate* to make your own copy of someone else's sketch.
+- **Uploading files:** the sketches with images, sounds and videos need files in the sketch folder. Open the sidebar with the arrow next to the sketch name, then use *Upload file*.
+- **The reference** at [p5js.org/reference](https://p5js.org/reference/) lists every function used in this tutorial, with a short example for each one. When you see an unfamiliar function, look it up there.
+- **Sharing and exporting:** the *File* menu lets you share a link to your sketch or download it as a folder, to put on your own website.
+- **The p5.js version:** the sketches in this tutorial use p5.js 2.x. Many tutorials online were written for version 1.x, where for example images were loaded with a function called `preload()`. If code you copy from elsewhere does not work, the version is a likely reason.
 
 ### Sketches
  
@@ -255,18 +270,47 @@ All the ml5.js models in this tutorial run on [TensorFlow.js](https://www.tensor
 
 ## Teachable Machine
 
-[Teachable Machine](https://teachablemachine.withgoogle.com/) lets you train your own image, sound or pose classifier in the browser, without writing code. Where the ml5 models above are pretrained on data you did not choose, here you decide the examples and the categories, and the model learns only from those. The sketches below load a model you have trained and use it in p5.js.
+The models in the previous sections were trained by others, on data you did not choose, and they know a fixed list of things: the parts of a body, a face, about 80 kinds of objects. [Teachable Machine](https://teachablemachine.withgoogle.com/) is a free web tool by Google that lets you train your own model in a few minutes, directly in the browser and without writing code. You show the webcam a few examples of each thing you want it to recognise, the tool trains a classifier on them, and you can then load that model in a p5.js sketch with ml5.js and use it like any other.
 
-<!-- TODO: add short overview: how to train a model, export it, and paste the model URL into a sketch -->
+![Teachable Machine]({{ site.baseurl }}/tutorials/assets/MV_TeachableMachine.png)
 
-<!-- TODO: all three sketches to be redone for current ml5.js; previous versions:
-01 https://editor.p5js.org/angelucci.leonardo/sketches/S3hZ4c6ft
-02 https://editor.p5js.org/angelucci.leonardo/sketches/xaDFNRaKi
-03 https://editor.p5js.org/angelucci.leonardo/sketches/bUaSm0Zgx -->
+Training your own model changes what you learn from it. A model like this does not know what a mug or a face is: it only knows the examples you gave it. Whatever you put in front of the camera, it will choose one of your categories and attach a confidence to it. Seeing where it is right, where it is wrong, and what makes it change its mind is a good way to understand how the larger systems behind public and private cameras are built.
 
-1. Teachable Machine Sound <!-- TODO: link -->
-2. Teachable Machine Video (play the video when you are in front of the camera, pause it when you are not) <!-- TODO: link -->
-3. Teachable Machine Pose <!-- TODO: link -->
+Teachable Machine can train image, sound and pose models. This tutorial starts with images, because they are the simplest to train and show the whole process.
+
+### Train your own model
+
+For a first model, three categories are enough, and they should look very different from each other: **nothing** (an empty background), and **two objects** you can hold up to the camera, for example a mug and a phone. This trains in about a minute and works reliably, so you can focus on the process.
+
+1. Go to [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com/), click **Get started**, and choose **Image Project**, then **Standard image model**.
+2. **Name your classes.** Click the name of *Class 1* and rename it to `Nothing`. Rename *Class 2* to `Mug`, and use **Add a class** to create a third one called `Phone`. The names you choose here are the labels you will see in the sketch.
+3. **Collect examples.** In each class, click **Webcam** and allow camera access. Hold the button **Hold to Record** while you show the object to the camera and move it a little, closer, further, tilted. For `Nothing`, point the camera at the empty background, or step out of the frame. Aim for at least 50 examples per class.
+4. **Train the model.** Click **Train Model** and leave the tab open until it is finished. Do not switch to another tab while it trains, or it may stop.
+5. **Test it.** In the preview on the right, show your objects to the camera. The bars show how confident the model is for each class. Now show it something it has never seen, for example your keys: the model still has to choose one of your three classes, and it will often do so with high confidence. It cannot say "I don't know".
+6. **Export the model.** Click **Export Model**, choose the **Tensorflow.js** tab, then **Upload my model** and click **Upload**. When it is done, copy the **shareable link**. It looks like `https://teachablemachine.withgoogle.com/models/AbCdEfGhI/`.
+
+A few things make a big difference to how well the model works:
+
+- **Variety beats quantity.** Record the same object at different angles, distances and positions. A model trained on one pose of the mug will only recognise that pose.
+- **Train in the place where you will use it.** The model also learns the background and the light. If you train in your room and test in a classroom, it will probably get confused.
+- **Always include a class for "nothing".** Without it, the model has to name one of your objects even when the camera sees only a wall.
+- **The link is public.** Anyone who has it can use the model, and it is hosted by Google. Do not train on images you do not want to share.
+
+<!-- TODO: add screenshots of the Teachable Machine interface (classes, training, export) -->
+
+### Sketches
+
+With the shareable link, you can load your model in a p5.js sketch with `ml5.imageClassifier()`. In the sketches below, replace the model link with your own one.
+
+<!-- TODO: all sketches to be redone for current ml5.js; previous versions:
+01 sound https://editor.p5js.org/angelucci.leonardo/sketches/S3hZ4c6ft
+02 video https://editor.p5js.org/angelucci.leonardo/sketches/xaDFNRaKi
+03 pose https://editor.p5js.org/angelucci.leonardo/sketches/bUaSm0Zgx -->
+
+1. Teachable Machine Image: classify the webcam image and print the label and the confidence on the canvas <!-- TODO: link -->
+2. Teachable Machine Video: play a video when the model recognises you in front of the camera, and pause it when it does not <!-- TODO: link -->
+3. Teachable Machine Pose: train a model on body poses instead of objects <!-- TODO: link -->
+4. Teachable Machine Sound: train a model on sounds instead of images <!-- TODO: link -->
 
 ## Resources
 
