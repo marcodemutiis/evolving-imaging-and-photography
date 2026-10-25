@@ -367,8 +367,14 @@ video {
    IFRAME EMBEDS
    ============================================ */
 iframe {
+  display: block;        /* removes the small gap browsers leave under inline elements */
   max-width: 100%;
-  margin-bottom: 5px;
+  margin-bottom: 0;
+}
+
+/* the paragraph directly after an iframe (the "Try" line) */
+iframe + p {
+  margin-top: 8px;
 }
 
 /* ============================================
