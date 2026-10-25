@@ -395,9 +395,14 @@ iframe + p {
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 1px dashed currentColor;
-  opacity: 0.6;
+  background: #eeeeee;
+  border: 1px solid #dddddd;
+  color: #555555;
   cursor: pointer;
+}
+
+.embed-placeholder:hover {
+  background: #e4e4e4;
 }
 
 /* ============================================
