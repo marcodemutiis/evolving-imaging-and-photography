@@ -183,8 +183,8 @@ BodyPose estimates the position of body parts such as the nose, shoulders and wr
 [Nose + Image + Click](https://editor.p5js.org/disappearhere/sketches/Z6V3Siipy): place an image on each detected face, scale it with the distance from the camera, and switch between two images with a mouse click.
 
 <iframe src="https://editor.p5js.org/disappearhere/embed/Z6V3Siipy" width="100%" height="620" style="border:0" allow="camera"></iframe>
-
 *Try:* Add a third image and cycle through all three on each click. Hint: use a number instead of a true/false variable.
+
 
 ### Hands: HandPose
 
