@@ -210,8 +210,21 @@ HandPose tracks the hand and its fingers (thumb, index finger, middle finger, ri
 
 FaceMesh maps the face as a dense set of points, from which features such as eyes, lips and face outline can be located.
 
-9. [Face Tracking](https://editor.p5js.org/disappearhere/sketches/zfvM-AJEF)
-10. [Face Tracking + Image + Sound](https://editor.p5js.org/disappearhere/sketches/ruKI6Y2Kb)
+**09 Face Tracking**
+
+[Face Tracking](https://editor.p5js.org/disappearhere/sketches/zfvM-AJEF): track a face with `ml5.faceMesh()`, draw its 468 keypoints on the live video, and show or hide the number of each point with a click.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/zfvM-AJEF" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Try:* Click to show the numbers, then find point 1 (the tip of the nose) and colour it red and make it bigger. Which numbers lie on the lips? What could a system read from 468 points on your face?
+
+**10 Face Tracking + Image + Sound**
+
+[Face Tracking + Image + Sound](https://editor.p5js.org/disappearhere/sketches/ruKI6Y2Kb): measure how wide your mouth is open with FaceMesh and use it to show an image in your mouth and set the volume of a sound. Click on the canvas once if you do not hear anything.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/ruKI6Y2Kb" width="100%" height="500" style="border:0" allow="camera; autoplay"></iframe>
+
+*Try:* Move closer to the camera and further away: what happens, and why? Then show a second image when the mouth is wide open, for example when the opening is above 40 pixels.
 
 ### Objects and people: ObjectDetector
 
