@@ -16,3 +16,26 @@ layout: default
 
 <script src="{{ '/assets/js/lightbox.js' | relative_url }}"></script>
 <script>document.body.classList.add('lesson-page');</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // desktop = wide screen with a mouse
+  var isDesktop = window.matchMedia(
+    "(min-width: 900px) and (hover: hover) and (pointer: fine)"
+  ).matches;
+
+  document.querySelectorAll("iframe[data-src]").forEach(function (frame) {
+    if (isDesktop) {
+      frame.src = frame.dataset.src;       // load the sketch
+    } else {
+      // on mobile, replace the embed with a short note in both languages
+      var note = document.createElement("p");
+      note.className = "embed-note";
+      note.innerHTML =
+        '<span class="lang-en">This sketch runs on a computer. Open the link above to view it in the p5.js editor.</span>' +
+        '<span class="lang-de">Dieser Sketch läuft auf einem Computer. Öffnet den Link oben, um ihn im p5.js-Editor anzusehen.</span>';
+      frame.replaceWith(note);
+    }
+  });
+});
+</script>
