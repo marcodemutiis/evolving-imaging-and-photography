@@ -144,9 +144,9 @@ Work through the sketches in order. Each one adds a single idea to the previous 
  
 <iframe data-src="https://editor.p5js.org/disappearhere/embed/f9VYmlJzo" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
-*Try:* Mirror the video so it behaves like a mirror: look up `scale(-1, 1)` and `translate()` in the reference. Why does it feel more natural?
+*Try:* Flip the video horizontally so it behaves like a mirror: look up `createCapture` in the reference to see how that's made. Why does it feel more natural?
  
-<!-- TODO: sketch 08 - fix image aspect ratio or use images sized to the canvas -->
+<!-- TODO: sketch 08 - fixed image aspect ratio but add a comment at the end of the code or here to use images sized to the canvas -->
 
 ## Introduction to ml5.js
 
