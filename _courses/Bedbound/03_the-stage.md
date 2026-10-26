@@ -157,7 +157,7 @@ More info: [instagram.com/stay_in_bed_with_me](https://www.instagram.com/stay_in
 ### Federico Vespignani, [*Nice Rooms with Beautiful Views*](https://www.federicovespignani.com/nice-rooms-with-beautiful-views), 2026
 
 ![Federico Vespignani]({{ site.baseurl }}/courses/Bedbound/assets/img/vespignani.jpg)
-<figcaption>caption</figcaption>
+<figcaption>Federico Vespignani, from <em>Nice Rooms with Beautiful Views</em>, 2026</figcaption>
 
 In *Nice Rooms with Beautiful Views*, Federico Vespignani appropriates Airbnb listings for rooms in Israeli settlements in the occupied West Bank. The images are the ones used to rent them. His project examines, in its own words, the role of "short-term holiday homes in aestheticizing and normalizing life in settlements in the Occupied Palestinian Territory". <!-- CHECK: wording taken from your notes; please confirm against the project page, which I could not open. -->
 
