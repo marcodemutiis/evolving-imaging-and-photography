@@ -152,6 +152,8 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 
 <!-- TODO: add short section "Reading the model output" (keypoints, x/y, confidence, console.log) -->
 
+![ml5.js Webpage]({{ site.baseurl }}/tutorials/assets/MV_ml5js.png)
+
 ### Body: BodyPose
 
 BodyPose estimates the position of body parts such as the nose, shoulders and wrists in the video image.
