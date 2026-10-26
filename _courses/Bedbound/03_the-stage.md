@@ -145,7 +145,7 @@ Here, the sanctuary is turned inside out. The streamer StanleyMov says he makes 
 ### Amélie Pichard, [*Stay in Bed With Me*](https://www.instagram.com/stay_in_bed_with_me), ongoing
 
 ![Amélie Pichard]({{ site.baseurl }}/courses/Bedbound/assets/img/pichard.jpg)
-<figcaption>caption</figcaption>
+<figcaption>screenshot from the Instagram page <em>Stay in Bed With Me</em></figcaption>
 
 *Stay in Bed With Me* is an Instagram account by the designer Amélie Pichard.
 
@@ -218,11 +218,13 @@ Afterwards, transcribe the conversation (or collect the written answers) and edi
 
 ### Read
 
-Tolentino, J. (2019). “The I in Internet”. In *Trick Mirror: Reflections on Self-Delusion*. New York: Random House.
+Tolentino, J. (2019). [“The I in Internet”]({{ site.baseurl }}/courses/Bedbound/assets/texts/Jia-Tolentino_The_I-in-the-Internet.pdf). In *Trick Mirror: Reflections on Self-Delusion*. New York: Random House.
 
 As you read, note where the author performs for an audience, and where you notice yourself doing the same: in your own bedroom, with your own phone.
 
 ### Make
+
+Draft your interview questions.
 
 Stage the same bed three times, each time for a different audience, such as a holiday rental listing, a "get ready with me" video, a "messy girl" or a minimal-room post, or a bedroom you would send to *Interior Motives*. Change only what the audience would expect: the bedding, the objects, the light, the angle, the distance and the crop. Use your own bed and a phone, and keep the three images as similar as possible in everything else, so that the staging does the talking.
 
