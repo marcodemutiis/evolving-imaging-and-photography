@@ -2,8 +2,8 @@
 layout: course
 title: "Bedbound"
 title_de: "Bedbound"
-description: ""
-description_de: ""
+description: "Photography and Digital Images Between Bedtime Stories and Screen Fatigue"
+description_de: "Photography and Digital Images Between Bedtime Stories and Screen Fatigue"
 course_id: bedbound
 order: 2
 published: true
