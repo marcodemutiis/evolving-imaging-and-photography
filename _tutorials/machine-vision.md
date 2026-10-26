@@ -38,13 +38,15 @@ By the end of the tutorial you will be able to:
 
 ## Introduction to p5.js
 
-### Sign up and setup
+[p5js](https://p5js.org/) is a JavaScript library for creative coding. 
 
-p5.js is a JavaScript library for creative coding.
+![p5.js Website]({{ site.baseurl }}/tutorials/assets/MV_p5js.png)
 
 **JavaScript** is the programming language of the web: it is what makes web pages interactive, and it runs directly in your browser, so you do not need to install anything. A **library** is a collection of ready-made functions that you can use in your own code: p5.js adds functions for drawing shapes, loading images, using the webcam and reacting to the mouse and keyboard.
 
 **Creative coding** means using code as a medium for art, design and play, rather than to build conventional software. The goal is not an efficient program but something you can see, hear and interact with, and the code is often a way of experimenting. p5.js was started in 2013 by the artist Lauren Lee McCarthy, based on the ideas of Processing, and is maintained by the Processing Foundation and a community of artists and developers. It is made for beginners.
+
+### Sign up and setup
 
 On [p5js.org](https://p5js.org/) click on **Start Coding**. This takes you to the web editor, where you can write, run and share code in the browser. Sign up for a free account, so you will be able to duplicate the sketches from this tutorial, edit them and save them on your account.
 
