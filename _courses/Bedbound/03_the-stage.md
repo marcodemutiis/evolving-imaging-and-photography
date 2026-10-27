@@ -236,9 +236,9 @@ As you read, note where the author performs for an audience, and where you notic
 
 ### Make
 
-Draft your interview questions.
+- Draft your interview questions (6 to 10 questions), or write a short abstract of your proposed text assignment (300 words).
 
-Stage the same bed three times, each time for a different audience, such as a holiday rental listing, a "get ready with me" video, a "messy girl" or a minimal-room post, or a bedroom you would send to *Interior Motives*. Change only what the audience would expect: the bedding, the objects, the light, the angle, the distance and the crop. Use your own bed and a phone, and keep the three images as similar as possible in everything else, so that the staging does the talking.
+- Stage the same bed three times, each time for a different audience, such as a holiday rental listing, a "get ready with me" video, a "messy girl" or a minimal-room post, or a bedroom you would send to *Interior Motives*. Change only what the audience would expect: the bedding, the objects, the light, the angle, the distance and the crop. Use photography, photogrammetry or digital techniques explored so far, and keep the three images as similar as possible in everything else, so that the staging does the talking.
 
 Create a series of 3 images. For each one, ask: who is this picture for, what does it ask me to be, and what has been moved in or out of the frame?
 
@@ -477,9 +477,10 @@ Achtet beim Lesen darauf, wo die Autorin für ein Publikum performt, und wo ihr 
 
 ### Umsetzung
 
-Entwerft eure Interviewfragen.
+- Draft your interview questions (6 to 10 questions), or write a short abstract of your proposed text assignment (300 words).
 
-Inszeniert dasselbe Bett dreimal, jeweils für ein anderes Publikum, zum Beispiel für ein Inserat einer Ferienunterkunft, ein „Get ready with me“-Video, einen „Messy Girl“- oder Minimalist-Room-Post oder ein Schlafzimmer, das ihr an *Interior Motives* schicken würdet. Verändert nur, was das Publikum erwarten würde: die Bettwäsche, die Objekte, das Licht, den Winkel, die Entfernung und den Ausschnitt. Nutzt euer eigenes Bett und ein Handy, und haltet die drei Bilder in allem anderen so ähnlich wie möglich, damit die Inszenierung für sich spricht.
+- Stage the same bed three times, each time for a different audience, such as a holiday rental listing, a "get ready with me" video, a "messy girl" or a minimal-room post, or a bedroom you would send to *Interior Motives*. Change only what the audience would expect: the bedding, the objects, the light, the angle, the distance and the crop. Use photography, photogrammetry or digital techniques explored so far, and keep the three images as similar as possible in everything else, so that the staging does the talking.
+Entwerft eure Interviewfragen.
 
 Erstellt eine Serie von 3 Bildern. Fragt euch bei jedem: Für wen ist dieses Bild, was verlangt es von mir zu sein, und was wurde in den Bildausschnitt hinein- oder aus ihm herausgenommen?
 
