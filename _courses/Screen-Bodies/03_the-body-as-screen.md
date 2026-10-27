@@ -1,15 +1,29 @@
 ---
 layout: lesson
-title: "The Body as Online Identity"
-title_de: "Der Körper als Online-Identität"
+title: "The Body as Screen"
+title_de: "Der Körper als Bildschirm"
 course_id: screen-bodies
 course_title: "Screen Bodies"
 course_title_de: "Bildschirmkörper"
-lesson_number: 3
-published: true
+lesson_number: 4
+published: false
 ---
 
 <div class="lang-en" markdown="1">
+
+## Presentations
+
+
+## 
+roversi
+
+https://rhizomatiks.com/en/work/cube/
+
+Mads Perch. https://art-sheep.com/mads-perchs-stunning-light-projections-on-human-figures/ 
+
+##
+
+
 
 ## Presentations
  
