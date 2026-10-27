@@ -134,7 +134,7 @@ Photograph only your own game sessions, and keep other players' usernames and pr
 
 ### Submit
 
-Add your images, your name and a two-sentence caption to [the shared document](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?tab=t.z4i5gbnavs1g).
+Add your images, your name and a two-sentence caption to [the shared document](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?tab=t.7ax6jejdzbv0).
 </div>
 
 <div class="lang-de" markdown="1">
@@ -258,7 +258,7 @@ Fotografiert nur eure eigenen Spielsitzungen und lasst die Nutzernamen und priva
 
 ### Abgabe
 
-Fügt eure Bilder, euren Namen und eine Bildunterschrift aus zwei Sätzen in [das gemeinsame Dokument](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?tab=t.z4i5gbnavs1g) ein.
+Fügt eure Bilder, euren Namen und eine Bildunterschrift aus zwei Sätzen in [das gemeinsame Dokument](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?tab=t.7ax6jejdzbv0) ein.
 </div>
 
 <!-- the stage

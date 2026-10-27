@@ -14,7 +14,7 @@ published: true
 
 ## Presentations
 
-Present the series of in-game images of your virtual bed. Add your images, your name and a two-sentence caption to [the shared document](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?tab=t.z4i5gbnavs1g).
+Present the series of in-game images of your virtual bed. Add your images, your name and a two-sentence caption to [the shared document](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?tab=t.7ax6jejdzbv0).
 
 
 ***
@@ -255,7 +255,7 @@ Submit a word document with your proposed interviewee and interview questions, o
 
 ## Präsentationen
 
-Präsentiert die Bildserie eures virtuellen Betts. Fügt eure Bilder, euren Namen und eine zweisätzige Bildunterschrift in [das gemeinsame Dokument](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?tab=t.z4i5gbnavs1g) ein.
+Präsentiert die Bildserie eures virtuellen Betts. Fügt eure Bilder, euren Namen und eine zweisätzige Bildunterschrift in [das gemeinsame Dokument](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?tab=t.7ax6jejdzbv0) ein.
 
 
 ***
