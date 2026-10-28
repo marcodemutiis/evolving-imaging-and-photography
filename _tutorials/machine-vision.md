@@ -17,7 +17,7 @@ By the end of the tutorial you will be able to:
 
 - write and edit simple interactive sketches in the p5.js web editor
 - use a webcam as an input in p5.js
-- use ml5.js models to detect bodies, hands, faces and objects in a video stream
+- use ml5.js models to detect bodies, hands, faces and objects in a video stream, and to separate a person from the background
 - turn detection data (positions, distances, confidence) into images and sounds
 - train a simple classification model with Teachable Machine and use it in a sketch
 - reflect on what these systems can and cannot "see", and on what they infer from images of people
@@ -25,7 +25,7 @@ By the end of the tutorial you will be able to:
 ## Software and Tools
 
 - [p5.js](https://p5js.org/) and the [p5.js web editor](https://editor.p5js.org/)
-- [ml5.js](https://ml5js.org/) (version 1.x: BodyPose, HandPose, FaceMesh, ObjectDetection, ImageClassifier, SoundClassifier) <!-- TODO: confirm exact version once all sketches are updated -->
+- [ml5.js](https://ml5js.org/) (version 1.x: BodyPose, HandPose, FaceMesh, BodySegmentation, ObjectDetection, ImageClassifier, SoundClassifier) <!-- TODO: confirm exact version once all sketches are updated -->
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
 ## Before you start
@@ -150,7 +150,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 
 ## Introduction to ml5.js
 
-[ml5.js](https://ml5js.org/) is a library that makes pretrained machine learning models available in p5.js. The models in this tutorial look at a webcam image and return data: lists of points (keypoints), boxes and labels, each with x and y positions and often a confidence value. Everything you do in the following sketches builds on this data. Once you understand it, the sketches stop being separate recipes and become variations on one idea.
+[ml5.js](https://ml5js.org/) is a library that makes pretrained machine learning models available in p5.js. The models in this tutorial look at a webcam image and return data: lists of points (keypoints), masks (the outline of a body, pixel by pixel), boxes and labels, each with positions and often a confidence value. Everything you do in the following sketches builds on this data. Once you understand it, the sketches stop being separate recipes and become variations on one idea.
 
 <!-- TODO: add short section "Reading the model output" (keypoints, x/y, confidence, console.log) -->
 
@@ -160,69 +160,53 @@ Work through the sketches in order. Each one adds a single idea to the previous 
 
 BodyPose estimates the position of body parts such as the nose, shoulders and wrists in the video image.
 
-**01 BodyPose Body Recognition**
+**01 BodyPose: Body Recognition**
 
-[BodyPose Body Recognition](https://editor.p5js.org/disappearhere/sketches/Ci9_fxawo): detect a body in the webcam image with `ml5.bodyPose()`, draw its keypoints and skeleton, and change the background colour depending on the position of the nose and wrists.
+[BodyPose: Body Recognition](https://editor.p5js.org/disappearhere/sketches/Ci9_fxawo): detect a body in the webcam image with `ml5.bodyPose()`, draw its keypoints and skeleton, and change the background colour depending on the position of the nose and wrists.
 
 <iframe data-src="https://editor.p5js.org/disappearhere/embed/Ci9_fxawo" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
 *Try:* Remove the `image(video, ...)` lines to see only what the machine reads, a skeleton on a coloured background. What does the machine keep of you, and what does it lose?
 
-**02 Nose + Image**
+**02 BodyPose: Nose + Image**
 
-[Nose + Image](https://editor.p5js.org/disappearhere/sketches/aefaeeD7c): track the nose with BodyPose and show a different image depending on whether it is on the left or the right half of the canvas.
+[BodyPose: Nose + Image](https://editor.p5js.org/disappearhere/sketches/aefaeeD7c): track the nose with BodyPose and show a different image depending on whether it is on the left or the right half of the canvas.
 
 <iframe data-src="https://editor.p5js.org/disappearhere/embed/aefaeeD7c" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
 *Try:* Add a third image that appears when your nose is in the top half of the canvas. Which condition do you need to check first?
 
-**03 Nose & Wrists + Image**
+**03 BodyPose: Nose & Wrists + Image**
 
-[Nose & Wrists + Image](https://editor.p5js.org/disappearhere/sketches/-lInF2l6V): show one of four images depending on whether the nose is on the left or right half of the canvas, or whether the left or right wrist is raised.
+[BodyPose: Nose & Wrists + Image](https://editor.p5js.org/disappearhere/sketches/-lInF2l6V): show one of four images depending on whether the nose is on the left or right half of the canvas, or whether the left or right wrist is raised.
 
 <iframe data-src="https://editor.p5js.org/disappearhere/embed/-lInF2l6V" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
-*Try:* Make the image only change when *both* wrists are raised. Which operator do you need to combine the two conditions? (Look back at sketch 04.)
+*Try:* Make the image only change when *both* wrists are raised. Which operator do you need to combine the two conditions? (Look back at the p5.js sketch *Click*.)
 
-**04 Nose & Wrists + Sound Play and Volume**
+**04 BodyPose: Nose & Wrists + Sound Play and Volume**
 
-[Nose & Wrists + Sound Play and Volume](https://editor.p5js.org/disappearhere/sketches/VO-b37VQk): play and pause a sound with the position of the nose and change its volume by raising the left or right wrist.
+[BodyPose: Nose & Wrists + Sound Play and Volume](https://editor.p5js.org/disappearhere/sketches/VO-b37VQk): play and pause a sound with the position of the nose and change its volume by raising the left or right wrist.
 
 <iframe data-src="https://editor.p5js.org/disappearhere/embed/VO-b37VQk" width="100%" height="500" style="border:0" allow="camera; autoplay"></iframe>
 
 *Try:* Use the height of your nose instead of the raised wrists to control the volume: the higher your head, the louder the sound. Look up `map()` in the p5.js reference.
 
-**05 Nose + Distance**
-
-[Nose + Distance](https://editor.p5js.org/disappearhere/sketches/y65IHV49n): measure the distance between the nose and an eye to estimate how far you are from the camera, and draw a clown nose that changes size and colour accordingly.
-
-<iframe data-src="https://editor.p5js.org/disappearhere/embed/y65IHV49n" width="100%" height="500" style="border:0" allow="camera"></iframe>
-
-*Try:* Add a second clown feature, for example a hat above the head or round cheeks, that also scales with the distance between nose and eye. Use the `left_eye` and `right_eye` keypoints for positions.
-
-**06 Nose + Image + Click**
-
-[Nose + Image + Click](https://editor.p5js.org/disappearhere/sketches/Z6V3Siipy): place an image on each detected face, scale it with the distance from the camera, and switch between two images with a mouse click.
-
-<iframe data-src="https://editor.p5js.org/disappearhere/embed/Z6V3Siipy" width="100%" height="500" style="border:0" allow="camera"></iframe>
-
-*Try:* Add a third image and cycle through all three on each click. Hint: use a number instead of a true/false variable, and `%` (modulo) to jump back to the first image.
-
 ### Hands: HandPose
 
-HandPose tracks the hand and its fingers (thumb, index finger, middle finger, ring finger and pinky).
+HandPose tracks the hand and its fingers (thumb, index finger, middle finger, ring finger and pinky). To measure how far apart two points are, for example two fingertips, we use `dist()`: it returns the distance in pixels between two positions.
 
-**07 Hand + Image Size**
+**05 HandPose: Hand + Image Size**
 
-[Hand + Image Size](https://editor.p5js.org/disappearhere/sketches/LAu6fA9iA): track the 21 keypoints of a hand with `ml5.handPose()`, measure the distance between thumb and index finger, and use it to change the size of an image.
+[HandPose: Hand + Image Size](https://editor.p5js.org/disappearhere/sketches/LAu6fA9iA): track the 21 keypoints of a hand with `ml5.handPose()`, measure the distance between thumb and index finger, and use it to change the size of an image.
 
 <iframe data-src="https://editor.p5js.org/disappearhere/embed/LAu6fA9iA" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
 *Try:* Make the image appear only when the fingers are pinched close together (for example when the distance is below 50 pixels). Then use the middle finger tip, `hand.middle_finger_tip`, instead of the index finger. What does the pinch mean to a machine, and what does it mean to you?
 
-**08 Hand + Sound Volume**
+**06 HandPose: Hand + Sound Volume**
 
-[Hand + Sound Volume](https://editor.p5js.org/disappearhere/sketches/u9BInKrPS): measure the distance between thumb and index finger with HandPose and map it to the volume of a looping sound. Click on the canvas once to start the music if you do not hear anything.
+[HandPose: Hand + Sound Volume](https://editor.p5js.org/disappearhere/sketches/u9BInKrPS): measure the distance between thumb and index finger with HandPose and map it to the volume of a looping sound. Click on the canvas once to start the music if you do not hear anything.
 
 <iframe data-src="https://editor.p5js.org/disappearhere/embed/u9BInKrPS" width="100%" height="500" style="border:0" allow="camera; autoplay"></iframe>
 
@@ -230,43 +214,83 @@ HandPose tracks the hand and its fingers (thumb, index finger, middle finger, ri
 
 ### Faces: FaceMesh
 
-FaceMesh maps the face as a dense set of points, from which features such as eyes, lips and face outline can be located.
+FaceMesh maps the face as a dense set of points, from which features such as eyes, lips and face outline can be located. Parts of the face such as the eyes and the lips are available as regions with a centre (`centerX`, `centerY`), and each of the 468 points has a number, which is how we find single points like the tip of the nose.
 
-**09 Face Tracking**
+**07 FaceMesh: Face Tracking**
 
-[Face Tracking](https://editor.p5js.org/disappearhere/sketches/zfvM-AJEF): track a face with `ml5.faceMesh()`, draw its 468 keypoints on the live video, and show or hide the number of each point with a click.
+[FaceMesh: Face Tracking](https://editor.p5js.org/disappearhere/sketches/zfvM-AJEF): track a face with `ml5.faceMesh()`, draw its 468 keypoints on the live video, and show or hide the number of each point with a click.
 
 <iframe data-src="https://editor.p5js.org/disappearhere/embed/zfvM-AJEF" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
 *Try:* Click to show the numbers, then find point 1 (the tip of the nose) and colour it red and make it bigger. Which numbers lie on the lips? What could a system read from 468 points on your face?
 
-**10 Face Tracking + Image + Sound**
+**08 FaceMesh: Nose + Distance**
 
-[Face Tracking + Image + Sound](https://editor.p5js.org/disappearhere/sketches/ruKI6Y2Kb): measure how wide your mouth is open with FaceMesh and use it to show an image in your mouth and set the volume of a sound. Click on the canvas once if you do not hear anything.
+<!-- TODO: rewrite for FaceMesh and add link (previous BodyPose version: https://editor.p5js.org/disappearhere/sketches/y65IHV49n) -->
+[FaceMesh: Nose + Distance](#): measure the distance between the eyes with FaceMesh to estimate how far you are from the camera, and draw a clown nose on the tip of the nose that changes size and colour accordingly.
+
+<!-- TODO: add embed: <iframe data-src="https://editor.p5js.org/disappearhere/embed/ID" width="100%" height="500" style="border:0" allow="camera"></iframe> -->
+
+*Try:* Add a second clown feature, for example a hat above the head or round cheeks, that also scales with the distance between the eyes. Use the centres of the eyes, `face.leftEye` and `face.rightEye`, for positions.
+
+**09 FaceMesh: Nose + Image + Click**
+
+<!-- TODO: rewrite for FaceMesh and add link (previous BodyPose version: https://editor.p5js.org/disappearhere/sketches/Z6V3Siipy) -->
+[FaceMesh: Nose + Image + Click](#): place an image on each detected face, scale it with the distance between the eyes, and switch between two images with a mouse click.
+
+<!-- TODO: add embed: <iframe data-src="https://editor.p5js.org/disappearhere/embed/ID" width="100%" height="500" style="border:0" allow="camera"></iframe> -->
+
+*Try:* Add a third image and cycle through all three on each click. Hint: use a number instead of a true/false variable, and `%` (modulo) to jump back to the first image. Then make the image tilt with your head: look up `atan2()` and `rotate()`.
+
+**10 FaceMesh: Face Tracking + Image + Sound**
+
+[FaceMesh: Face Tracking + Image + Sound](https://editor.p5js.org/disappearhere/sketches/ruKI6Y2Kb): measure how wide your mouth is open with FaceMesh and use it to show an image in your mouth and set the volume of a sound. Click on the canvas once if you do not hear anything.
 
 <iframe data-src="https://editor.p5js.org/disappearhere/embed/ruKI6Y2Kb" width="100%" height="500" style="border:0" allow="camera; autoplay"></iframe>
 
 *Try:* Move closer to the camera and further away: what happens, and why? Then show a second image when the mouth is wide open, for example when the opening is above 40 pixels.
 
+### Body and background: BodySegmentation
+
+The models above return points. Segmentation works at the level of pixels: BodySegmentation looks at every pixel of the video and decides whether it belongs to a person or to the background. The result is a **mask**, an image the same size as the video that marks where the body is. A mask is what video-call software uses to blur or replace your background. Unlike keypoints, it follows the actual outline of a body, with hair, clothes and anything the person is holding. This is the heaviest model in the tutorial, so the first start can take a few seconds.
+
+**11 BodySegmentation: Silhouette**
+
+<!-- TODO: write the simple silhouette sketch and add link -->
+[BodySegmentation: Silhouette](#): separate a person from the background with `ml5.bodySegmentation()`: the model returns a mask that marks which pixels belong to the body, and the sketch draws it in a solid colour on top of the video.
+
+<!-- TODO: add embed: <iframe data-src="https://editor.p5js.org/disappearhere/embed/ID" width="100%" height="500" style="border:0" allow="camera"></iframe> -->
+
+*Try:* Switch the `maskType` between `"person"` and `"background"`: what changes? Then change the colour of the silhouette, or hide the video and keep only the mask. What does the machine keep of you, and what does it lose?
+
+**12 BodySegmentation: Projection**
+
+<!-- TODO: add link to the projection sketch (code updated, comment the compositing steps) -->
+[BodySegmentation: Projection](#): project an image onto your body: the mask cuts the image so that it only shows where the body is, and without an image an animated pattern is projected instead.
+
+<!-- TODO: add embed: <iframe data-src="https://editor.p5js.org/disappearhere/embed/ID" width="100%" height="500" style="border:0" allow="camera"></iframe> -->
+
+*Try:* Upload your own image and set `IMAGE_FILE`, then lower `OPACITY` until the projection is only a tint. What happens to the mask when two people stand in the frame?
+
 ### Objects and people: ObjectDetection
 
-Unlike the models above, object detection does not look for body keypoints. It draws labelled boxes around whatever it recognises in the image, such as persons, chairs or phones. This is closest to how public and private cameras are used for counting, tracking and monitoring people.
+Unlike the models above, object detection does not look for keypoints or outlines. It draws labelled boxes around whatever it recognises in the image, such as persons, chairs or phones. This is closest to how public and private cameras are used for counting, tracking and monitoring people.
 
 The model used here is COCO-SSD, which was trained on COCO ("Common Objects in Context"), a dataset of photographs in which people have marked objects from about 80 categories. The machine can only see what is on that list: whoever made the dataset decided which things are worth detecting.
 
 All the ml5.js models in this tutorial run on [TensorFlow.js](https://www.tensorflow.org/js), an open-source JavaScript library by Google for running machine learning in the browser. ml5.js is built on top of it and hides its complexity behind a few simple functions. Because TensorFlow.js runs the model on your own computer, the webcam image is processed in your browser and does not need to be sent to a server. This is not the case for most commercial camera systems.
 
-**11 Webcam + Object Detection**
+**13 ObjectDetection: Webcam**
 
-[Webcam + Object Detection](https://editor.p5js.org/disappearhere/sketches/QkCfwC4zT): detect people and everyday objects in the webcam image with `ml5.objectDetection()` and draw a labelled box around each one.
+[ObjectDetection: Webcam](https://editor.p5js.org/disappearhere/sketches/QkCfwC4zT): detect people and everyday objects in the webcam image with `ml5.objectDetection()` and draw a labelled box around each one.
 
 <iframe data-src="https://editor.p5js.org/disappearhere/embed/QkCfwC4zT" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
 *Try:* Count the people in the image and write the number on the canvas. Then hold up a phone or a bottle: what does the machine call it, and how sure is it? Who decided that these are the categories worth detecting?
 
-**12 Object Detection + Video**
+**14 ObjectDetection: Video**
 
-[Object Detection + Video](https://editor.p5js.org/disappearhere/sketches/bVVvGP16w): play a video only while nobody is in front of the camera. As soon as `ml5.objectDetection()` finds a person, the video pauses and the webcam image with the detection takes its place.
+[ObjectDetection: Video](https://editor.p5js.org/disappearhere/sketches/bVVvGP16w): play a video only while nobody is in front of the camera. As soon as `ml5.objectDetection()` finds a person, the video pauses and the webcam image with the detection takes its place.
 
 <iframe data-src="https://editor.p5js.org/disappearhere/embed/bVVvGP16w" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
