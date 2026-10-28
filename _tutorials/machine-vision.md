@@ -226,19 +226,17 @@ FaceMesh maps the face as a dense set of points, from which features such as eye
 
 **08 FaceMesh: Nose + Distance**
 
-<!-- TODO: rewrite for FaceMesh and add link (previous BodyPose version: https://editor.p5js.org/disappearhere/sketches/y65IHV49n) -->
-[FaceMesh: Nose + Distance](#): measure the distance between the eyes with FaceMesh to estimate how far you are from the camera, and draw a clown nose on the tip of the nose that changes size and colour accordingly.
+[FaceMesh: Nose + Distance](https://editor.p5js.org/disappearhere/sketches/OW7UyYJlN): measure the distance between the eyes with FaceMesh to estimate how far you are from the camera, and draw a clown nose on the tip of the nose that changes size and colour accordingly.
 
-<!-- TODO: add embed: <iframe data-src="https://editor.p5js.org/disappearhere/embed/ID" width="100%" height="500" style="border:0" allow="camera"></iframe> -->
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/OW7UyYJlN" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
 *Try:* Add a second clown feature, for example a hat above the head or round cheeks, that also scales with the distance between the eyes. Use the centres of the eyes, `face.leftEye` and `face.rightEye`, for positions.
 
 **09 FaceMesh: Nose + Image + Click**
 
-<!-- TODO: rewrite for FaceMesh and add link (previous BodyPose version: https://editor.p5js.org/disappearhere/sketches/Z6V3Siipy) -->
-[FaceMesh: Nose + Image + Click](#): place an image on each detected face, scale it with the distance between the eyes, and switch between two images with a mouse click.
+[FaceMesh: Nose + Image + Click](https://editor.p5js.org/disappearhere/sketches/4U0llx9lT): place an image on each detected face, scale it with the distance between the eyes, and switch between two images with a mouse click.
 
-<!-- TODO: add embed: <iframe data-src="https://editor.p5js.org/disappearhere/embed/ID" width="100%" height="500" style="border:0" allow="camera"></iframe> -->
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/4U0llx9lT" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
 *Try:* Add a third image and cycle through all three on each click. Hint: use a number instead of a true/false variable, and `%` (modulo) to jump back to the first image. Then make the image tilt with your head: look up `atan2()` and `rotate()`.
 
@@ -256,10 +254,9 @@ The models above return points. Segmentation works at the level of pixels: BodyS
 
 **11 BodySegmentation: Silhouette**
 
-<!-- TODO: write the simple silhouette sketch and add link -->
-[BodySegmentation: Silhouette](#): separate a person from the background with `ml5.bodySegmentation()`: the model returns a mask that marks which pixels belong to the body, and the sketch draws it in a solid colour on top of the video.
+[BodySegmentation: Silhouette](https://editor.p5js.org/disappearhere/sketches/bCTLN6Nko): separate a person from the background with `ml5.bodySegmentation()`: the model returns a mask that marks which pixels belong to the body, and the sketch draws it in a solid colour on top of the video.
 
-<!-- TODO: add embed: <iframe data-src="https://editor.p5js.org/disappearhere/embed/ID" width="100%" height="500" style="border:0" allow="camera"></iframe> -->
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/bCTLN6Nko" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
 *Try:* Switch the `maskType` between `"person"` and `"background"`: what changes? Then change the colour of the silhouette, or hide the video and keep only the mask. What does the machine keep of you, and what does it lose?
 
