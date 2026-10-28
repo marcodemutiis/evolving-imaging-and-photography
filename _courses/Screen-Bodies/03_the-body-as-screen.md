@@ -6,14 +6,14 @@ course_id: screen-bodies
 course_title: "Screen Bodies"
 course_title_de: "Bildschirmkörper"
 lesson_number: 4
-published: false
+published: true
 ---
 
 <div class="lang-en" markdown="1">
 
 ## Presentations
 
-Upload your images from the body as online identity assignment to the [shared doc](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit/edit?tab=t.aghu9cdi0cz9), together with a title and one sentence naming the work you responded to.
+Upload your images from the body as online identity assignment to the [shared doc](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit?tab=t.aghu9cdi0cz9), together with a title and one sentence naming the work you responded to.
 
 ***
 
@@ -38,9 +38,9 @@ Upload your images from the body as online identity assignment to the [shared do
 ![Elevenplay x Rhizomatiks Research]({{ site.baseurl }}/courses/Screen-Bodies/assets/img/rhizomatiks.jpg)
 <figcaption>Elevenplay x Rhizomatiks Research, <em>Cube</em>, 2017</figcaption>
 
-<blockquote><p>The performance uses the bodies of five dancers and five cubes as canvases. [...]</p>
+<!--<blockquote><p>The performance uses the bodies of five dancers and five cubes as canvases. [...]</p>
 <p>This performance updates the technique of projection mapping in a cutting-edge way through live theater and dance.</p>
-<p>Source: <a href="https://rhizomatiks.com/en/work/cube/">rhizomatiks.com/en/work/cube</a></p></blockquote>
+<p>Source: <a href="https://rhizomatiks.com/en/work/cube/">rhizomatiks.com/en/work/cube</a></p></blockquote>-->
 
 ### Daito Manabe x Elevenplay, [*dot*](https://www.youtube.com/watch?v=4g7Eo3c6SrY), 2011
 
@@ -57,7 +57,7 @@ Upload your images from the body as online identity assignment to the [shared do
 
 ## Assignment
 
-Choose one of the works from today's session and create a photographic series of 3 – 5 images in response to it. As in the previous weeks, the work should be made with a camera (in the studio or outside), and the projection should happen physically in front of the camera rather than in post-production.
+Choose one of the works from today's session and create a photographic series of 3 – 5 images in response to it. The work should be made with a camera with a physical projection in front of it, or with digital tools to live mask the body/background – but not in post-production.
 
 You are free to develop your own approach. If you are looking for a starting point, here are some ideas:
 
@@ -76,7 +76,7 @@ Upload your images to the [shared doc](https://docs.google.com/document/d/11vETX
 
 ## Präsentationen
 
-Ladet eure Bilder aus der Aufgabe zum Thema „Der Körper als Online-Identität“ in das [geteilte Dokument](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit/edit?tab=t.aghu9cdi0cz9) hoch, zusammen mit einem Titel und einem Satz, der das Werk nennt, auf das ihr euch bezieht.
+Ladet eure Bilder aus der Aufgabe zum Thema „Der Körper als Online-Identität“ in das [geteilte Dokument](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit?tab=t.aghu9cdi0cz9) hoch, zusammen mit einem Titel und einem Satz, der das Werk nennt, auf das ihr euch bezieht.
 
 ***
 
@@ -94,17 +94,16 @@ Ladet eure Bilder aus der Aufgabe zum Thema „Der Körper als Online-Identität
 ![Mads Perch]({{ site.baseurl }}/courses/Screen-Bodies/assets/img/perch.webp)
 <figcaption>Mads Perch, light projections on human figures</figcaption>
 
-<blockquote><p>Mads Perch is a Danish, London-based photographer. His work is vivid, bright and plays with the light in unique ways.</p>
-<p>Quelle: <a href="https://art-sheep.com/mads-perchs-stunning-light-projections-on-human-figures/">art-sheep.com/mads-perchs-stunning-light-projections-on-human-figures</a></p></blockquote>
+
 
 ### Elevenplay x Rhizomatiks Research, [*Cube*](https://rhizomatiks.com/en/work/cube/), 2017
 
 ![Elevenplay x Rhizomatiks Research]({{ site.baseurl }}/courses/Screen-Bodies/assets/img/rhizomatiks.jpg)
 <figcaption>Elevenplay x Rhizomatiks Research, <em>Cube</em>, 2017</figcaption>
 
-<blockquote><p>The performance uses the bodies of five dancers and five cubes as canvases. [...]</p>
+<!--<blockquote><p>The performance uses the bodies of five dancers and five cubes as canvases. [...]</p>
 <p>This performance updates the technique of projection mapping in a cutting-edge way through live theater and dance.</p>
-<p>Quelle: <a href="https://rhizomatiks.com/en/work/cube/">rhizomatiks.com/en/work/cube</a></p></blockquote>
+<p>Quelle: <a href="https://rhizomatiks.com/en/work/cube/">rhizomatiks.com/en/work/cube</a></p></blockquote>-->
 
 ### Daito Manabe x Elevenplay, [*dot*](https://www.youtube.com/watch?v=4g7Eo3c6SrY), 2011
 
@@ -121,7 +120,7 @@ Ladet eure Bilder aus der Aufgabe zum Thema „Der Körper als Online-Identität
 
 ## Aufgabe
 
-Wählt eines der Werke der heutigen Sitzung und entwickelt eine fotografische Serie aus 3 – 5 Bildern als Antwort darauf. Wie in den vorherigen Wochen soll die Arbeit mit einer Kamera entstehen (im Studio oder draußen), und die Projektion soll physisch vor der Kamera stattfinden und nicht in der Postproduktion.
+Wählt eines der Werke der heutigen Sitzung und entwickelt eine fotografische Serie aus 3 – 5 Bildern als Antwort darauf. Die Arbeit soll mit einer Kamera entstehen, entweder mit einer physischen Projektion davor oder mit digitalen Tools, die Körper oder Hintergrund live maskieren – aber nicht in der Postproduktion.
 
 Ihr seid frei, euren eigenen Ansatz zu entwickeln. Falls ihr einen Ausgangspunkt sucht, hier einige Ideen:
 
@@ -131,8 +130,6 @@ Ihr seid frei, euren eigenen Ansatz zu entwickeln. Falls ihr einen Ausgangspunkt
 
 Falls ihr keinen Zugang zu einem Projektor habt, funktioniert auch ein Laptop- oder Handybildschirm, der an den Körper gehalten wird. Fotografiert nur Personen, die mit der Teilnahme einverstanden sind.
 
-Ladet eure Bilder in das [geteilte Dokument](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit/edit) hoch, zusammen mit einem Titel und einem Satz, der das Werk nennt, auf das ihr euch bezieht.
-
-<!-- TODO: add link to the new tab of the shared doc -->
+Ladet eure Bilder in das [geteilte Dokument](https://docs.google.com/document/d/11vETXh-5hIMwRI7BrlrTQS5nLR35g1phnfOYlGiM31g/edit?tab=t.yl8vru83o5vg) hoch, zusammen mit einem Titel und einem Satz, der das Werk nennt, auf das ihr euch bezieht.
 
 </div>
