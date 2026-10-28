@@ -308,7 +308,7 @@ For a first model, three categories are enough, and they should look very differ
 
 1. Go to [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com/), click **Get started**, and choose **Image Project**, then **Standard image model**.
 2. **Name your classes.** Click the name of *Class 1* and rename it to `Nothing`. Rename *Class 2* to `Mug`, and use **Add a class** to create a third one called `Phone`. The names you choose here are the labels you will see in the sketch.
-3. **Collect examples.** In each class, click **Webcam** and allow camera access. Hold the button **Hold to Record** while you show the object to the camera and move it a little, closer, further, tilted. For `Nothing`, point the camera at the empty background, or step out of the frame. Aim for at least 50 examples per class.
+3. **Collect examples.** In each class, click **Webcam** and allow camera access. Hold the button **Hold to Record** while you show the object to the camera and move it a little, closer, further, tilted. For `Nothing`, record the empty background and also yourself: sitting still, moving, with your hands raised or empty. Aim for 100–200 examples per class, and roughly the same number for each.
 4. **Train the model.** Click **Train Model** and leave the tab open until it is finished. Do not switch to another tab while it trains, or it may stop.
 5. **Test it.** In the preview on the right, show your objects to the camera. The bars show how confident the model is for each class. Now show it something it has never seen, for example your keys: the model still has to choose one of your three classes, and it will often do so with high confidence. It cannot say "I don't know".
 6. **Export the model.** Click **Export Model**, choose the **Tensorflow.js** tab, then **Upload my model** and click **Upload**. When it is done, copy the **shareable link**. It looks like `https://teachablemachine.withgoogle.com/models/AbCdEfGhI/`.
@@ -317,7 +317,9 @@ A few things make a big difference to how well the model works:
 
 - **Variety beats quantity.** Record the same object at different angles, distances and positions. A model trained on one pose of the mug will only recognise that pose.
 - **Train in the place where you will use it.** The model also learns the background and the light. If you train in your room and test in a classroom, it will probably get confused.
-- **Always include a class for "nothing".** Without it, the model has to name one of your objects even when the camera sees only a wall.
+- **Always include a class for "nothing", and make it the most varied one.** Without it, the model has to name one of your objects even when the camera sees only a wall. If it only knows an empty desk, it will call anything else a mug.
+- **Test before you export.** Try the cases that fail (the empty scene, the phone at an angle), record more examples for them and train again.
+- **Retrained models can look unchanged.** If you update a model and keep the same link, your browser may keep showing the old version. Reload the page without the cache (Cmd/Ctrl + Shift + R), or upload the model again to get a new link.
 - **The link is public.** Anyone who has it can use the model, and it is hosted by Google. Do not train on images you do not want to share.
 
 <!-- TODO: add screenshots of the Teachable Machine interface (classes, training, export) -->
@@ -326,15 +328,22 @@ A few things make a big difference to how well the model works:
 
 With the shareable link, you can load your model in a p5.js sketch with `ml5.imageClassifier()`. In the sketches below, replace the model link with your own one.
 
-<!-- TODO: all sketches to be redone for current ml5.js; previous versions:
-01 sound https://editor.p5js.org/angelucci.leonardo/sketches/S3hZ4c6ft
-02 video https://editor.p5js.org/angelucci.leonardo/sketches/xaDFNRaKi
-03 pose https://editor.p5js.org/angelucci.leonardo/sketches/bUaSm0Zgx -->
+**15 Teachable Machine: Image**
 
-1. Teachable Machine Image: classify the webcam image and print the label and the confidence on the canvas <!-- TODO: link -->
-2. Teachable Machine Video: play a video when the model recognises you in front of the camera, and pause it when it does not <!-- TODO: link -->
-3. Teachable Machine Pose: train a model on body poses instead of objects <!-- TODO: link -->
-4. Teachable Machine Sound: train a model on sounds instead of images <!-- TODO: link -->
+[Teachable Machine: Image](https://editor.p5js.org/disappearhere/sketches/n3fOz5Hdn): classify the webcam image with `ml5.imageClassifier()` and print the label and the confidence of the best guess on the canvas.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/n3fOz5Hdn" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Try:* Replace `MODEL_URL` with the link to your own model. Then hold up an object the model has never seen, for example a pen: what does it say, and how sure is it? Add a fourth class in Teachable Machine, train again, and see what changes.
+
+<!-- TODO: remaining Teachable Machine sketches, to be redone for current ml5.js; previous versions:
+video https://editor.p5js.org/angelucci.leonardo/sketches/xaDFNRaKi
+pose https://editor.p5js.org/angelucci.leonardo/sketches/bUaSm0Zgx
+sound https://editor.p5js.org/angelucci.leonardo/sketches/S3hZ4c6ft
+
+16 Teachable Machine Video: play a video when the model recognises you in front of the camera, and pause it when it does not
+17 Teachable Machine Pose: train a model on body poses instead of objects
+18 Teachable Machine Sound: train a model on sounds instead of images -->
 
 ## Resources
 
