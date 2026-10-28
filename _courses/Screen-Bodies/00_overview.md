@@ -49,7 +49,7 @@ The project must contain:
 | 4.11.2026   | -Workshop Week - no class-	       |
 | 11.11.2026  | -Self Study-                       |
 | 18.11.2026  | 4. The Screen Body Double          | <!-- Cooper, Lu Yang, Nina Davies -> avatars and metahuman -->
-| 25.11.2026  | 5. The Networked Body              | <!-- Alina Frieske, Jenny Rova Tinder -> digital collage -->
+| 25.11.2026  | 5. The Networked Body              | <!-- Alina Frieske, Jenny Rova Tinder, Tom Galle Tinder VR -> digital collage -->
 | 2.12.2026   | MID TERM PRESENTATIONS             |
 | 9.12.2026  | 6. The Captured Body               | <!-- Granular Synthesis Modell 5, Elisa Hampe -> Photogrammetry -->
 | 16.12.2026  | 7. The Augmented Body              | <!-- Ines ALpha -> Face Filters -->
@@ -155,57 +155,57 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 [BKD]
 
-- Franke, Sarah x
+- Franke, Sarah xx
 
-- Höninger Nina v
+- Höninger Nina vv
 
-- Thiemann Felina v
+- Thiemann Felina vv
 
-- Willenbrink Nele v
+- Willenbrink Nele vv
 
-- Le Hong Tuan v
+- Le Hong Tuan vx
 
-- Bröde Julia v
+- Bröde Julia vx
 
-- Wegst Emily v
+- Wegst Emily vv
 
-- Bruckner Mona v
+- Bruckner Mona vv
 
-- Frisch Ursula v
+- Frisch Ursula vv
 
-- Avilov Amalia v
+- Avilov Amalia vv
 
-- Waller Dominique x 
+- Waller Dominique xx 
 
-- Seydel Lotta v
+- Seydel Lotta vv
 
 - Schmelzer Clara v
 
-- Binner Sunari v
+- Binner Sunari vv
 
 [MKD]
 
-- Lickert Michaela v
+- <del>Lickert Michaela v</del>
 
-- Kilic Merve v
+- Kilic Merve vv
 
-- Semmelroggen Stina v
+- Semmelroggen Stina vv
 
-- Dogru Medine v
+- Dogru Medine vv
 
-- Schmitt Alexandra v
+- Schmitt Alexandra vv
 
-- Polat Sümeyre v
+- Polat Sümeyre vv
 
-- Grünewald Janne v
+- Grünewald Janne vv
 
-- Fuchs Giuliana v
+- Fuchs Giuliana vv
 
-- Späth Tessa v
+- Späth Tessa vv
 
-- Basica Sophie v
+- Basica Sophie vv
 
-- Weber Moritz v
+- Weber Moritz vv
 
 - <del>Weil Sophie</del>
 
