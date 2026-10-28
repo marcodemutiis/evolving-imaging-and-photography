@@ -11,6 +11,18 @@ published: true
 
 <div class="lang-en" markdown="1">
 
+## Exercise
+Choose the most important secondary source from your collection and read it with your question in mind. Then prepare:
+
+1. A summary of its main argument in one paragraph (about 100 words), in your own words
+2. Three passages that matter for your question, each as a quotation or a paraphrase with the page number
+3. Two or three comments of your own: where you agree, where you disagree, and what it makes you want to look at next
+4. The full reference in Chicago author-date style
+
+Also set up a [Zotero](https://www.youtube.com/watch?v=JG7Uq_JFDzE) library, and add your five sources to it. Bring your notes to the next session, where we will use them to practise describing and analysing.
+
+***
+
 ## Introduction
 Whether you write about your own project or about someone else's work, your text depends on one skill: describing what is there and then saying something about it. This session is about moving from looking to describing, from describing to analysing, and from analysing to interpreting. It also covers how to treat the context and the statements that surround a work, and what changes when the work is an image, an interface or something that only exists on a screen.
 
@@ -56,6 +68,18 @@ Add one sentence on the context you still need to research. Cite your sources in
 </div>
 
 <div class="lang-de" markdown="1">
+	
+## Übung
+Wählt die wichtigste Sekundärquelle aus eurer Sammlung und lest sie mit Blick auf eure Frage. Bereitet dann vor:
+
+1. Eine Zusammenfassung ihres Hauptarguments in einem Absatz (etwa 100 Wörter), in euren eigenen Worten
+2. Drei Passagen, die für eure Frage wichtig sind, jeweils als Zitat oder Paraphrase mit Seitenzahl
+3. Zwei oder drei eigene Kommentare: wo ihr zustimmt, wo ihr widersprecht und was ihr als Nächstes betrachten möchtet
+4. Die vollständige Referenz im Chicago-Stil (Author-Date)
+
+Legt außerdem eine [Zotero-Bibliothek](https://www.youtube.com/watch?v=JG7Uq_JFDzE) an und fügt eure fünf Quellen hinzu. Bringt eure Notizen zur nächsten Sitzung mit, in der wir damit das Beschreiben und Analysieren üben.
+
+***
 
 ## Einführung
 Ob ihr über euer eigenes Projekt oder über die Arbeit anderer schreibt, euer Text hängt von einer Fähigkeit ab: zu beschreiben, was da ist, und dann etwas darüber zu sagen. In dieser Sitzung geht es darum, vom Schauen zum Beschreiben, vom Beschreiben zum Analysieren und vom Analysieren zum Interpretieren zu kommen. Außerdem geht es darum, wie ihr mit dem Kontext und den Aussagen umgeht, die eine Arbeit umgeben, und was sich ändert, wenn die Arbeit ein Bild, eine Benutzeroberfläche oder etwas ist, das nur auf einem Bildschirm existiert.
