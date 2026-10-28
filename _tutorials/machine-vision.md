@@ -262,10 +262,9 @@ The models above return points. Segmentation works at the level of pixels: BodyS
 
 **12 BodySegmentation: Projection**
 
-<!-- TODO: add link to the projection sketch (code updated, comment the compositing steps) -->
-[BodySegmentation: Projection](#): project an image onto your body: the mask cuts the image so that it only shows where the body is, and without an image an animated pattern is projected instead.
+[BodySegmentation: Projection](https://editor.p5js.org/disappearhere/sketches/TtDCc_aRN): project an image onto your body: the mask cuts the image so that it only shows where the body is, and without an image an animated pattern is projected instead.
 
-<!-- TODO: add embed: <iframe data-src="https://editor.p5js.org/disappearhere/embed/ID" width="100%" height="500" style="border:0" allow="camera"></iframe> -->
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/TtDCc_aRN" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
 *Try:* Upload your own image and set `IMAGE_FILE`, then lower `OPACITY` until the projection is only a tint. What happens to the mask when two people stand in the frame?
 
