@@ -304,7 +304,10 @@ Teachable Machine can train image, sound and pose models. This tutorial starts w
 
 ### Train your own model
 
-For a first model, three categories are enough, and they should look very different from each other: **nothing** (an empty background), and **two objects** you can hold up to the camera, for example a mug and a phone. This trains in about a minute and works reliably, so you can focus on the process.
+For a first model, three categories are enough, and they should look very different from each other: **nothing** (an empty background), and **two objects** you can hold up to the camera, for example a mug and a phone. This trains in about a minute and works reliably – but in a more specific and less general way– so you can focus on the process.
+
+![Teachable Machine Training]({{ site.baseurl }}/tutorials/assets/MV_TeachableMachine_train.png)
+
 
 1. Go to [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com/), click **Get started**, and choose **Image Project**, then **Standard image model**.
 2. **Name your classes.** Click the name of *Class 1* and rename it to `Nothing`. Rename *Class 2* to `Mug`, and use **Add a class** to create a third one called `Phone`. The names you choose here are the labels you will see in the sketch.
