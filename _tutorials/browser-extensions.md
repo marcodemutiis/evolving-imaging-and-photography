@@ -8,8 +8,7 @@ published: false
 ---
 
 <div class="lang-en" markdown="1">
-
-https://docs.google.com/document/d/1qRUcMeeBig_-yCaayUIRmDm8yw5N3JXburfJXDGPLik/edit?tab=t.0
+examples: https://docs.google.com/document/d/1AKkm0FaDOA_X2KPPjugay778GXnsdFOROzxtuu1Z7Nk/edit?tab=t.0
 
 
 

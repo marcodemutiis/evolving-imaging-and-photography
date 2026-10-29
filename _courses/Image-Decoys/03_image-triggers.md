@@ -54,6 +54,14 @@ In one notable online intervention, user @hannadouken tweeted an illustration ca
 
 In all these projects, images become triggers for algorithmic vision—they do not need to be actively decrypted by humans but are automatically activated by systems scanning for inputs. Through their representational surface, they bait machines and short-circuit the logic of the systems they inhabit. These images perform as decoys: designed to lure surveillance tools, data-scraping bots, and algorithmic viewers into engaging with content that undermines their purpose, revealing the blind spots and vulnerabilities of machine-seeing apparatuses.
 
+***
+
+## Tutorial
+
+[Machine Vision Tutorial](https://www.evolving.photography/tutorials/machine-vision/)
+
+***
+
 ## Assignment
 
 Create your own *Image Triggers* project inspired by the examples seen in class. Choose one of two options:

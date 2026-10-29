@@ -14,3 +14,14 @@ How is publishing transformed by contemporary digital and networked technologies
 How can formats photo books, postcards, poster and photographic prints be augmented, challenged and reshaped by computational and networked technologies of distribution?
 
 From distributed offline media storage (El Paquete Semanal, dead drops) to AR technology (Making Memeries), from digital decoys and steganography (Kardashian Krypt) to texture packs mods, from peer-to-peer networks to airdrop exchanges, from rubber duckies to local routers, from NFC tags to computer viruses, from click baits to bot baits.
+
+
+tutorials:
+- rubber ducky automated publishing
+- browser extension coding
+- dead drop as publishing
+- AR marker replacement
+- modding
+- local SSID publishing
+
+browser extensions examples https://docs.google.com/document/d/1AKkm0FaDOA_X2KPPjugay778GXnsdFOROzxtuu1Z7Nk/edit?tab=t.0

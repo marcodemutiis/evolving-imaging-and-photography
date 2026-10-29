@@ -1,8 +1,8 @@
 ---
 title: "Machine Vision"
 title_de: "Machine Vision"
-description: ""
-description_de: ""
+description: "Use machine vision to track faces, hands, body poses, and objects in p5.js to interact with images and sound"
+description_de: "Mit Machine Vision Gesichter, Hände, Körperposen und Objekte in p5.js erkennen und damit Bilder und Klänge steuern"
 order: 6
 published: true
 ---
@@ -25,7 +25,7 @@ By the end of the tutorial you will be able to:
 ## Software and Tools
 
 - [p5.js](https://p5js.org/) and the [p5.js web editor](https://editor.p5js.org/)
-- [ml5.js](https://ml5js.org/) (version 1.x: BodyPose, HandPose, FaceMesh, BodySegmentation, ObjectDetection, ImageClassifier, SoundClassifier) <!-- TODO: confirm exact version once all sketches are updated -->
+- [ml5.js](https://ml5js.org/) (version 1.4: BodyPose, HandPose, FaceMesh, BodySegmentation, ObjectDetection, ImageClassifier, SoundClassifier)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
 ## Before you start
@@ -38,7 +38,7 @@ By the end of the tutorial you will be able to:
 
 ## Introduction to p5.js
 
-[p5js](https://p5js.org/) is a JavaScript library for creative coding. 
+[p5.js](https://p5js.org/) is a JavaScript library for creative coding.
 
 ![p5.js Website]({{ site.baseurl }}/tutorials/assets/MV_p5js.png)
 
@@ -65,7 +65,6 @@ The editor has a code area on the left, a preview on the right and a **Play** bu
  
 Work through the sketches in order. Each one adds a single idea to the previous one. Click the title to open a sketch in the p5.js editor, then use *File → Duplicate* to make your own copy.
 
- 
 **01 Setup**
  
 [Setup](https://editor.p5js.org/disappearhere/sketches/NI7ESEsVw): create a canvas and paint its background with a colour, using the two basic p5.js functions `setup()` and `draw()`.
@@ -144,7 +143,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
  
 <iframe data-src="https://editor.p5js.org/disappearhere/embed/f9VYmlJzo" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
-*Try:* Flip the video horizontally so it behaves like a mirror: look up `createCapture` in the reference to see how that's made. Why does it feel more natural?
+*Try:* Flip the video horizontally so it behaves like a mirror: look up `createCapture` in the reference to see how that is done. Why does it feel more natural?
  
 <!-- TODO: sketch 08 - fixed image aspect ratio but add a comment at the end of the code or here to use images sized to the canvas -->
 
@@ -250,15 +249,15 @@ FaceMesh maps the face as a dense set of points, from which features such as eye
 
 ### Body and background: BodySegmentation
 
-The models above return points. Segmentation works at the level of pixels: BodySegmentation looks at every pixel of the video and decides whether it belongs to a person or to the background. The result is a **mask**, an image the same size as the video that marks where the body is. A mask is what video-call software uses to blur or replace your background. Unlike keypoints, it follows the actual outline of a body, with hair, clothes and anything the person is holding. This is the heaviest model in the tutorial, so the first start can take a few seconds.
+The models above return points. Segmentation works at the level of pixels: BodySegmentation looks at every pixel of the video and decides whether it belongs to a person or to the background. The result is a **mask**, an image the same size as the video that marks where the body is. A mask is what video-call software uses to blur or replace your background. Unlike keypoints, it follows the actual outline of a body, with hair, clothes and anything the person is holding. It is one of the heaviest models in the tutorial, so the first start can take a few seconds.
 
 **11 BodySegmentation: Silhouette**
 
-[BodySegmentation: Silhouette](https://editor.p5js.org/disappearhere/sketches/bCTLN6Nko): separate a person from the background with `ml5.bodySegmentation()`: the model returns a mask that marks which pixels belong to the body, and the sketch draws it in a solid colour on top of the video.
+[BodySegmentation: Silhouette](https://editor.p5js.org/disappearhere/sketches/bCTLN6Nko): separate a person from the background with `ml5.bodySegmentation()`: the model returns a mask that marks which pixels belong to the body, and the sketch draws that mask on a coloured background.
 
 <iframe data-src="https://editor.p5js.org/disappearhere/embed/bCTLN6Nko" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
-*Try:* Switch the `maskType` between `"person"` and `"background"`: what changes? Then change the colour of the silhouette, or hide the video and keep only the mask. What does the machine keep of you, and what does it lose?
+*Try:* Switch the `maskType` between `"person"` and `"background"`: what changes? Then change the background colour, or draw the video first and the mask on top of it. What does the machine keep of you, and what does it lose?
 
 **12 BodySegmentation: Projection**
 
@@ -274,7 +273,7 @@ Unlike the models above, object detection does not look for keypoints or outline
 
 The model used here is COCO-SSD, which was trained on COCO ("Common Objects in Context"), a dataset of photographs in which people have marked objects from about 80 categories. The machine can only see what is on that list: whoever made the dataset decided which things are worth detecting.
 
-All the ml5.js models in this tutorial run on [TensorFlow.js](https://www.tensorflow.org/js), an open-source JavaScript library by Google for running machine learning in the browser. ml5.js is built on top of it and hides its complexity behind a few simple functions. Because TensorFlow.js runs the model on your own computer, the webcam image is processed in your browser and does not need to be sent to a server. This is not the case for most commercial camera systems.
+All the ml5.js models in this tutorial run on [TensorFlow.js](https://www.tensorflow.org/js), an open-source JavaScript library by Google for running machine learning in the browser. ml5.js is built on top of it and hides its complexity behind a few simple functions. Because TensorFlow.js runs the model on your own computer, the webcam image is processed in your browser and does not need to be sent to a server. This is not the case for many commercial camera systems.
 
 **13 ObjectDetection: Webcam**
 
@@ -304,17 +303,16 @@ Teachable Machine can train image, sound and pose models. This tutorial starts w
 
 ### Train your own model
 
-For a first model, three categories are enough, and they should look very different from each other: **nothing** (an empty background), and **two objects** you can hold up to the camera, for example a mug and a phone. This trains in about a minute and works reliably – but in a more specific and less general way– so you can focus on the process.
+For a first model, three categories are enough, and they should look very different from each other: **nothing** (an empty background), and **two objects** you can hold up to the camera, for example a mug and a phone. This trains in about a minute and works reliably for these particular objects, although it will not recognise every mug or phone, so you can focus on the process.
 
 ![Teachable Machine Training]({{ site.baseurl }}/tutorials/assets/MV_TeachableMachine_train.png)
-
 
 1. Go to [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com/), click **Get started**, and choose **Image Project**, then **Standard image model**.
 2. **Name your classes.** Click the name of *Class 1* and rename it to `Nothing`. Rename *Class 2* to `Mug`, and use **Add a class** to create a third one called `Phone`. The names you choose here are the labels you will see in the sketch.
 3. **Collect examples.** In each class, click **Webcam** and allow camera access. Hold the button **Hold to Record** while you show the object to the camera and move it a little, closer, further, tilted. For `Nothing`, record the empty background and also yourself: sitting still, moving, with your hands raised or empty. Aim for 100–200 examples per class, and roughly the same number for each.
 4. **Train the model.** Click **Train Model** and leave the tab open until it is finished. Do not switch to another tab while it trains, or it may stop.
 5. **Test it.** In the preview on the right, show your objects to the camera. The bars show how confident the model is for each class. Now show it something it has never seen, for example your keys: the model still has to choose one of your three classes, and it will often do so with high confidence. It cannot say "I don't know".
-6. **Export the model.** Click **Export Model**, choose the **Tensorflow.js** tab, then **Upload my model** and click **Upload**. When it is done, copy the **shareable link**. It looks like `https://teachablemachine.withgoogle.com/models/AbCdEfGhI/`.
+6. **Export the model.** Click **Export Model**, choose the **TensorFlow.js** tab, then **Upload my model** and click **Upload**. When it is done, copy the **shareable link**. It looks like `https://teachablemachine.withgoogle.com/models/AbCdEfGhI/`.
 
 A few things make a big difference to how well the model works:
 
@@ -357,5 +355,333 @@ sound https://editor.p5js.org/angelucci.leonardo/sketches/S3hZ4c6ft
 </div>
 
 <div class="lang-de" markdown="1">
+
+## Überblick
+
+Dieses Tutorial ist eine Einführung in das Programmieren mit p5.js und zielt darauf, zu verstehen, wie Machine-Vision-Systeme funktionieren: Software, die Körper, Gesichter und Objekte in den Bildern heutiger öffentlicher und privater Kameras liest. Ihr beginnt mit den Grundlagen des Programmierens in p5.js, geht dann zu vortrainierten Modellen mit ml5.js über und trainiert zum Schluss mit Teachable Machine eigene Modelle.
+
+Am Ende des Tutorials könnt ihr:
+
+- einfache interaktive Sketches im p5.js Web Editor schreiben und bearbeiten
+- eine Webcam als Eingabe in p5.js verwenden
+- ml5.js-Modelle nutzen, um Körper, Hände, Gesichter und Objekte in einem Videostream zu erkennen und eine Person vom Hintergrund zu trennen
+- Erkennungsdaten (Positionen, Abstände, Konfidenz) in Bilder und Klänge übersetzen
+- mit Teachable Machine ein einfaches Klassifikationsmodell trainieren und in einem Sketch verwenden
+- darüber nachdenken, was diese Systeme „sehen“ können und was nicht, und was sie aus Bildern von Menschen ableiten
+
+## Software und Tools
+
+- [p5.js](https://p5js.org/) und der [p5.js Web Editor](https://editor.p5js.org/)
+- [ml5.js](https://ml5js.org/) (Version 1.4: BodyPose, HandPose, FaceMesh, BodySegmentation, ObjectDetection, ImageClassifier, SoundClassifier)
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
+
+## Bevor ihr beginnt
+
+- Ihr braucht keine Programmiererfahrung.
+- Ihr braucht einen Laptop mit Webcam und eine aktuelle Version von Chrome oder Firefox.
+- Erlaubt den Zugriff auf Kamera (und, für die Klang-Beispiele, Mikrofon), wenn der Browser danach fragt. Ohne Zugriff laufen die Webcam-Sketches nicht.
+- Erstellt ein kostenloses Konto im [p5.js Web Editor](https://editor.p5js.org/), damit ihr Sketches speichern und duplizieren könnt.
+- Alle Sketches unten lassen sich im Editor öffnen, bearbeiten und ausführen. Verwendet *File → Duplicate*, um eine eigene Kopie anzulegen, bevor ihr etwas ändert.
+
+## Einführung in p5.js
+
+[p5.js](https://p5js.org/) ist eine JavaScript-Bibliothek für Creative Coding.
+
+![p5.js Website]({{ site.baseurl }}/tutorials/assets/MV_p5js.png)
+
+**JavaScript** ist die Programmiersprache des Webs: Sie macht Webseiten interaktiv und läuft direkt im Browser, ihr müsst also nichts installieren. Eine **Bibliothek** (englisch *library*) ist eine Sammlung vorgefertigter Funktionen, die ihr in eurem eigenen Code verwenden könnt: p5.js bringt Funktionen mit, um Formen zu zeichnen, Bilder zu laden, die Webcam zu nutzen und auf Maus und Tastatur zu reagieren.
+
+**Creative Coding** bedeutet, Code als Medium für Kunst, Design und Spiel zu nutzen, statt konventionelle Software zu bauen. Das Ziel ist nicht ein effizientes Programm, sondern etwas, das man sehen, hören und mit dem man interagieren kann; der Code ist oft eine Form des Experimentierens. p5.js wurde 2013 von der Künstlerin Lauren Lee McCarthy gestartet, basierend auf den Ideen von Processing, und wird von der Processing Foundation und einer Community von Künstler:innen und Entwickler:innen gepflegt. Es ist für Einsteiger:innen gemacht.
+
+### Registrierung und Einrichtung
+
+Klickt auf [p5js.org](https://p5js.org/) auf **Start Coding**. Das führt euch zum Web Editor, in dem ihr Code im Browser schreiben, ausführen und teilen könnt. Legt ein kostenloses Konto an, damit ihr die Sketches aus diesem Tutorial duplizieren, bearbeiten und in eurem Konto speichern könnt.
+
+![p5.js Web Editor]({{ site.baseurl }}/tutorials/assets/MV_p5js_webweditor.png)
+
+Der Editor hat links einen Codebereich, rechts eine Vorschau und darüber einen **Play**-Button, der euren Sketch ausführt. Ein paar Dinge solltet ihr kennen, bevor ihr loslegt:
+
+- **Die Konsole** am unteren Rand des Editors zeigt Meldungen und Fehlermeldungen. Schaut dort nach, wenn etwas nicht funktioniert: Meist steht dort, in welcher Zeile das Problem liegt. Mit `console.log()` könnt ihr auch selbst Werte ausgeben.
+- **Speichern und Duplizieren:** Mit einem Konto könnt ihr einen Sketch speichern (`Ctrl+S` oder `Cmd+S`). Mit *File → Duplicate* legt ihr eine eigene Kopie des Sketches von jemand anderem an.
+- **Dateien hochladen:** Die Sketches mit Bildern, Klängen und Videos brauchen Dateien im Sketch-Ordner. Öffnet die Seitenleiste mit dem Pfeil neben dem Sketch-Namen und verwendet dann *Upload file*.
+- **Die Referenz** unter [p5js.org/reference](https://p5js.org/reference/) listet alle Funktionen auf, die in diesem Tutorial verwendet werden, jeweils mit einem kurzen Beispiel. Wenn ihr eine unbekannte Funktion seht, schlagt sie dort nach.
+- **Teilen und Exportieren:** Über das Menü *File* könnt ihr einen Link zu eurem Sketch teilen oder ihn als Ordner herunterladen, um ihn auf eurer eigenen Website zu verwenden.
+- **Die p5.js-Version:** Die Sketches in diesem Tutorial verwenden p5.js 2.x. Viele Tutorials im Netz wurden für Version 1.x geschrieben, in der zum Beispiel Bilder mit einer Funktion namens `preload()` geladen wurden. Wenn Code, den ihr von anderswo kopiert, nicht funktioniert, ist die Version eine wahrscheinliche Ursache.
+
+### Sketches
+
+Arbeitet die Sketches der Reihe nach durch. Jeder fügt dem vorherigen eine einzige Idee hinzu. Klickt auf den Titel, um einen Sketch im p5.js Editor zu öffnen, und legt dann mit *File → Duplicate* eine eigene Kopie an.
+
+**01 Setup**
+
+[Setup](https://editor.p5js.org/disappearhere/sketches/NI7ESEsVw): Ein Canvas erstellen und seinen Hintergrund mit einer Farbe füllen, mit den zwei grundlegenden p5.js-Funktionen `setup()` und `draw()`.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/NI7ESEsVw" width="100%" height="450" style="border:0"></iframe>
+
+*Probiert aus:* Ändert die drei Zahlen in `background()`, um eine andere Farbe zu erzeugen. Macht danach das Canvas breiter als hoch.
+
+**02 Variables**
+
+[Variables](https://editor.p5js.org/disappearhere/sketches/egB3XY2aW): Zahlen, Text und Wahrheitswerte (true/false) in Variablen speichern und mit `text()` auf dem Canvas anzeigen.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/egB3XY2aW" width="100%" height="450" style="border:0"></iframe>
+
+*Probiert aus:* Fügt eine neue Variable mit eurem eigenen Text hinzu und zeigt sie auf dem Canvas an. Was passiert, wenn ihr die Klammern um `myAge + yourAge` entfernt?
+
+**03 If-else**
+
+[If-else](https://editor.p5js.org/disappearhere/sketches/n_3Ubigwk): Mit einer true/false-Variable und einer `if-else`-Bedingung zwischen zwei Hintergrundfarben wählen.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/n_3Ubigwk" width="100%" height="450" style="border:0"></iframe>
+
+*Probiert aus:* Setzt `isBlue` auf `false` und führt den Sketch erneut aus. Fügt dann mit `else if` eine dritte Farbe hinzu.
+
+**04 Click**
+
+[Click](https://editor.p5js.org/disappearhere/sketches/1nAwu6Ilm): Mausklicks mit `mouseClicked()` zählen und die Hintergrundfarbe abhängig von der Anzahl der Klicks ändern.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/1nAwu6Ilm" width="100%" height="450" style="border:0"></iframe>
+
+*Probiert aus:* Ändert die Zahlen so, dass die Farbe nach 3 statt nach 5 Klicks wechselt. Welche Farbe erwartet ihr bei genau 10 Klicks?
+
+**05 MouseMove**
+
+[MouseMove](https://editor.p5js.org/disappearhere/sketches/T6api34tZ): Mit `mouseMoved()` und `mouseX` die Hintergrundfarbe ändern, je nachdem, in welcher Hälfte des Canvas sich die Maus befindet.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/T6api34tZ" width="100%" height="450" style="border:0"></iframe>
+
+*Probiert aus:* Verwendet `mouseY` statt `mouseX`, sodass die Farbe zwischen der oberen und der unteren Hälfte wechselt.
+
+**06 MouseMove + MouseClick**
+
+[MouseMove + MouseClick](https://editor.p5js.org/disappearhere/sketches/rNMFst-YY): `mouseMoved()` und `mouseClicked()` kombinieren: Die Hintergrundfarbe folgt der Maus, und jeder Klick wechselt zwischen einem Rechteck und einer Ellipse.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/rNMFst-YY" width="100%" height="450" style="border:0"></iframe>
+
+*Probiert aus:* Ersetzt das Rechteck oder die Ellipse durch eine andere Form, zum Beispiel ein `triangle()` oder einen `circle()`. Schlagt sie in der p5.js-Referenz nach.
+
+**07 Image**
+
+[Image](https://editor.p5js.org/disappearhere/sketches/GjUnQm6Va): Ein Bild in den Sketch hochladen, mit `loadImage()` laden und mit `image()` auf dem Canvas anzeigen.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/GjUnQm6Va" width="100%" height="450" style="border:0"></iframe>
+
+*Probiert aus:* Ladet ein eigenes Bild hoch und zeichnet es in halber Canvas-Größe in die Mitte des Canvas.
+
+**08 Image + MouseClick**
+
+[Image + MouseClick](https://editor.p5js.org/disappearhere/sketches/yCAAroFw9): Zwei Bilder laden und bei jedem Mausklick zwischen ihnen wechseln.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/yCAAroFw9" width="100%" height="450" style="border:0"></iframe>
+
+*Probiert aus:* Wechselt die Bilder mit `mouseMoved()` und `mouseX` statt mit einem Klick, sodass die linke Hälfte das eine und die rechte Hälfte das andere Bild zeigt.
+
+**09 Keyboard**
+
+[Keyboard](https://editor.p5js.org/disappearhere/sketches/CCjyh7z_I): Mit `keyPressed()` und der Variable `key` durch Drücken der Tasten 1, 2 und 3 zwischen drei Bildern wechseln.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/CCjyh7z_I" width="100%" height="450" style="border:0"></iframe>
+
+*Probiert aus:* Fügt ein viertes Bild hinzu und lasst es erscheinen, wenn ihr die Taste 4 drückt.
+
+**10 Webcam**
+
+[Webcam](https://editor.p5js.org/disappearhere/sketches/f9VYmlJzo): Mit `createCapture()` auf die Webcam zugreifen und das Live-Video auf dem Canvas zeichnen.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/f9VYmlJzo" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Probiert aus:* Spiegelt das Video horizontal, sodass es sich wie ein Spiegel verhält: Schlagt `createCapture` in der Referenz nach, um zu sehen, wie das geht. Warum fühlt es sich natürlicher an?
+
+## Einführung in ml5.js
+
+[ml5.js](https://ml5js.org/) ist eine Bibliothek, die vortrainierte Machine-Learning-Modelle in p5.js verfügbar macht. Die Modelle in diesem Tutorial betrachten ein Webcam-Bild und liefern Daten zurück: Listen von Punkten (Keypoints), Masken (der Umriss eines Körpers, Pixel für Pixel), Boxen und Labels, jeweils mit Positionen und oft mit einem Konfidenzwert. Alles, was ihr in den folgenden Sketches macht, baut auf diesen Daten auf. Sobald ihr sie versteht, sind die Sketches keine getrennten Rezepte mehr, sondern Variationen einer einzigen Idee.
+
+![ml5.js Webseite]({{ site.baseurl }}/tutorials/assets/MV_ml5js.png)
+
+### Körper: BodyPose
+
+BodyPose schätzt die Position von Körperteilen wie Nase, Schultern und Handgelenken im Videobild.
+
+**01 BodyPose: Body Recognition**
+
+[BodyPose: Body Recognition](https://editor.p5js.org/disappearhere/sketches/Ci9_fxawo): Mit `ml5.bodyPose()` einen Körper im Webcam-Bild erkennen, seine Keypoints und sein Skelett zeichnen und die Hintergrundfarbe abhängig von der Position von Nase und Handgelenken ändern.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/Ci9_fxawo" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Probiert aus:* Entfernt die Zeilen mit `image(video, ...)`, um nur zu sehen, was die Maschine liest: ein Skelett auf farbigem Hintergrund. Was behält die Maschine von euch, und was verliert sie?
+
+**02 BodyPose: Nose + Image**
+
+[BodyPose: Nose + Image](https://editor.p5js.org/disappearhere/sketches/aefaeeD7c): Die Nase mit BodyPose verfolgen und ein anderes Bild zeigen, je nachdem, ob sie in der linken oder der rechten Hälfte des Canvas ist.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/aefaeeD7c" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Probiert aus:* Fügt ein drittes Bild hinzu, das erscheint, wenn eure Nase in der oberen Hälfte des Canvas ist. Welche Bedingung müsst ihr zuerst prüfen?
+
+**03 BodyPose: Nose & Wrists + Image**
+
+[BodyPose: Nose & Wrists + Image](https://editor.p5js.org/disappearhere/sketches/-lInF2l6V): Eines von vier Bildern zeigen, je nachdem, ob die Nase in der linken oder rechten Hälfte des Canvas ist oder ob das linke oder rechte Handgelenk gehoben ist.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/-lInF2l6V" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Probiert aus:* Lasst das Bild nur wechseln, wenn *beide* Handgelenke gehoben sind. Welchen Operator braucht ihr, um die beiden Bedingungen zu kombinieren? (Schaut auf den p5.js-Sketch *Click* zurück.)
+
+**04 BodyPose: Nose & Wrists + Sound Play and Volume**
+
+[BodyPose: Nose & Wrists + Sound Play and Volume](https://editor.p5js.org/disappearhere/sketches/VO-b37VQk): Einen Klang mit der Position der Nase abspielen und pausieren und seine Lautstärke ändern, indem man das linke oder rechte Handgelenk hebt.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/VO-b37VQk" width="100%" height="500" style="border:0" allow="camera; autoplay"></iframe>
+
+*Probiert aus:* Steuert die Lautstärke mit der Höhe eurer Nase statt mit den gehobenen Handgelenken: Je höher euer Kopf, desto lauter der Klang. Schlagt `map()` in der p5.js-Referenz nach.
+
+### Hände: HandPose
+
+HandPose verfolgt die Hand und ihre Finger (Daumen, Zeigefinger, Mittelfinger, Ringfinger und kleiner Finger). Um zu messen, wie weit zwei Punkte voneinander entfernt sind, zum Beispiel zwei Fingerspitzen, verwenden wir `dist()`: Die Funktion gibt den Abstand in Pixeln zwischen zwei Positionen zurück.
+
+**05 HandPose: Hand + Image Size**
+
+[HandPose: Hand + Image Size](https://editor.p5js.org/disappearhere/sketches/LAu6fA9iA): Mit `ml5.handPose()` die 21 Keypoints einer Hand verfolgen, den Abstand zwischen Daumen und Zeigefinger messen und damit die Größe eines Bildes ändern.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/LAu6fA9iA" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Probiert aus:* Lasst das Bild nur erscheinen, wenn die Finger nah zusammengeführt sind (zum Beispiel, wenn der Abstand unter 50 Pixeln liegt). Verwendet dann statt des Zeigefingers die Spitze des Mittelfingers, `hand.middle_finger_tip`. Was bedeutet das Zusammenführen der Finger für eine Maschine, und was bedeutet es für euch?
+
+**06 HandPose: Hand + Sound Volume**
+
+[HandPose: Hand + Sound Volume](https://editor.p5js.org/disappearhere/sketches/u9BInKrPS): Den Abstand zwischen Daumen und Zeigefinger mit HandPose messen und auf die Lautstärke eines Klangs in Endlosschleife abbilden. Klickt einmal auf das Canvas, um die Musik zu starten, falls ihr nichts hört.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/u9BInKrPS" width="100%" height="500" style="border:0" allow="camera; autoplay"></iframe>
+
+*Probiert aus:* Verwendet die Höhe des Handgelenks statt der Fingerbewegung: Bildet `hand.wrist.y` auf die Lautstärke ab, sodass der Klang lauter wird, wenn ihr die Hand hebt. Wie fühlt sich die Geste anders an?
+
+### Gesichter: FaceMesh
+
+FaceMesh bildet das Gesicht als dichtes Netz von Punkten ab, aus dem sich Merkmale wie Augen, Lippen und Gesichtskontur bestimmen lassen. Teile des Gesichts wie die Augen und die Lippen stehen als Regionen mit einem Mittelpunkt (`centerX`, `centerY`) zur Verfügung, und jeder der 468 Punkte hat eine Nummer, über die wir einzelne Punkte wie die Nasenspitze finden.
+
+**07 FaceMesh: Face Tracking**
+
+[FaceMesh: Face Tracking](https://editor.p5js.org/disappearhere/sketches/zfvM-AJEF): Mit `ml5.faceMesh()` ein Gesicht verfolgen, seine 468 Keypoints auf das Live-Video zeichnen und die Nummer jedes Punktes per Klick ein- oder ausblenden.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/zfvM-AJEF" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Probiert aus:* Klickt, um die Nummern anzuzeigen, sucht dann den Punkt 1 (die Nasenspitze), färbt ihn rot und macht ihn größer. Welche Nummern liegen auf den Lippen? Was könnte ein System aus 468 Punkten in eurem Gesicht ablesen?
+
+**08 FaceMesh: Nose + Distance**
+
+[FaceMesh: Nose + Distance](https://editor.p5js.org/disappearhere/sketches/OW7UyYJlN): Mit FaceMesh den Abstand zwischen den Augen messen, um zu schätzen, wie weit ihr von der Kamera entfernt seid, und eine Clownsnase auf die Nasenspitze zeichnen, die entsprechend Größe und Farbe ändert.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/OW7UyYJlN" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Probiert aus:* Fügt ein zweites Clown-Element hinzu, zum Beispiel einen Hut über dem Kopf oder runde Wangen, das ebenfalls mit dem Abstand zwischen den Augen skaliert. Verwendet für die Positionen die Mittelpunkte der Augen, `face.leftEye` und `face.rightEye`.
+
+**09 FaceMesh: Nose + Image + Click**
+
+[FaceMesh: Nose + Image + Click](https://editor.p5js.org/disappearhere/sketches/4U0llx9lT): Ein Bild auf jedem erkannten Gesicht platzieren, es mit dem Abstand zwischen den Augen skalieren und per Mausklick zwischen zwei Bildern wechseln.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/4U0llx9lT" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Probiert aus:* Fügt ein drittes Bild hinzu und wechselt bei jedem Klick durch alle drei. Tipp: Verwendet eine Zahl statt einer true/false-Variable und `%` (Modulo), um zum ersten Bild zurückzuspringen. Lasst das Bild dann mit eurem Kopf kippen: Schlagt `atan2()` und `rotate()` nach.
+
+**10 FaceMesh: Face Tracking + Image + Sound**
+
+[FaceMesh: Face Tracking + Image + Sound](https://editor.p5js.org/disappearhere/sketches/ruKI6Y2Kb): Mit FaceMesh messen, wie weit der Mund geöffnet ist, und damit ein Bild im Mund zeigen und die Lautstärke eines Klangs steuern. Klickt einmal auf das Canvas, falls ihr nichts hört.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/ruKI6Y2Kb" width="100%" height="500" style="border:0" allow="camera; autoplay"></iframe>
+
+*Probiert aus:* Bewegt euch näher an die Kamera heran und weiter weg: Was passiert, und warum? Zeigt dann ein zweites Bild, wenn der Mund weit geöffnet ist, zum Beispiel wenn die Öffnung größer als 40 Pixel ist.
+
+### Körper und Hintergrund: BodySegmentation
+
+Die bisherigen Modelle liefern Punkte. Segmentierung arbeitet auf der Ebene der Pixel: BodySegmentation betrachtet jedes Pixel des Videos und entscheidet, ob es zu einer Person oder zum Hintergrund gehört. Das Ergebnis ist eine **Maske**, ein Bild in der Größe des Videos, das markiert, wo sich der Körper befindet. Eine solche Maske nutzt Videokonferenz-Software, um euren Hintergrund zu verwischen oder zu ersetzen. Anders als Keypoints folgt sie dem tatsächlichen Umriss eines Körpers, samt Haaren, Kleidung und allem, was die Person hält. Es ist eines der schwersten Modelle in diesem Tutorial, der erste Start kann deshalb einige Sekunden dauern.
+
+**11 BodySegmentation: Silhouette**
+
+[BodySegmentation: Silhouette](https://editor.p5js.org/disappearhere/sketches/bCTLN6Nko): Mit `ml5.bodySegmentation()` eine Person vom Hintergrund trennen: Das Modell liefert eine Maske, die markiert, welche Pixel zum Körper gehören, und der Sketch zeichnet diese Maske auf einen farbigen Hintergrund.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/bCTLN6Nko" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Probiert aus:* Wechselt `maskType` zwischen `"person"` und `"background"`: Was ändert sich? Ändert dann die Hintergrundfarbe, oder zeichnet zuerst das Video und darüber die Maske. Was behält die Maschine von euch, und was verliert sie?
+
+**12 BodySegmentation: Projection**
+
+[BodySegmentation: Projection](https://editor.p5js.org/disappearhere/sketches/TtDCc_aRN): Ein Bild auf den eigenen Körper projizieren: Die Maske schneidet das Bild so zu, dass es nur dort erscheint, wo sich der Körper befindet; ohne Bild wird stattdessen ein animiertes Muster projiziert.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/TtDCc_aRN" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Probiert aus:* Ladet ein eigenes Bild hoch und setzt `IMAGE_FILE`, verringert dann `OPACITY`, bis die Projektion nur noch eine Tönung ist. Was passiert mit der Maske, wenn zwei Personen im Bild stehen?
+
+### Objekte und Personen: ObjectDetection
+
+Anders als die bisherigen Modelle sucht die Objekterkennung weder nach Keypoints noch nach Umrissen. Sie zeichnet beschriftete Boxen um alles, was sie im Bild erkennt, etwa Personen, Stühle oder Telefone. Das kommt der Art am nächsten, wie öffentliche und private Kameras zum Zählen, Verfolgen und Überwachen von Menschen eingesetzt werden.
+
+Das hier verwendete Modell ist COCO-SSD, das auf COCO („Common Objects in Context“) trainiert wurde, einem Datensatz von Fotografien, in denen Menschen Objekte aus etwa 80 Kategorien markiert haben. Die Maschine kann nur sehen, was auf dieser Liste steht: Wer den Datensatz erstellt hat, hat entschieden, welche Dinge es wert sind, erkannt zu werden.
+
+Alle ml5.js-Modelle in diesem Tutorial laufen auf [TensorFlow.js](https://www.tensorflow.org/js), einer Open-Source-JavaScript-Bibliothek von Google, mit der Machine Learning im Browser ausgeführt wird. ml5.js baut darauf auf und verbirgt die Komplexität hinter einigen einfachen Funktionen. Weil TensorFlow.js das Modell auf eurem eigenen Computer ausführt, wird das Webcam-Bild in eurem Browser verarbeitet und muss nicht an einen Server geschickt werden. Bei vielen kommerziellen Kamerasystemen ist das nicht der Fall.
+
+**13 ObjectDetection: Webcam**
+
+[ObjectDetection: Webcam](https://editor.p5js.org/disappearhere/sketches/QkCfwC4zT): Mit `ml5.objectDetection()` Personen und Alltagsgegenstände im Webcam-Bild erkennen und um jeden eine beschriftete Box zeichnen.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/QkCfwC4zT" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Probiert aus:* Zählt die Personen im Bild und schreibt die Anzahl auf das Canvas. Haltet dann ein Telefon oder eine Flasche hoch: Wie nennt die Maschine es, und wie sicher ist sie sich? Wer hat entschieden, dass diese Kategorien erkennenswert sind?
+
+**14 ObjectDetection: Video**
+
+[ObjectDetection: Video](https://editor.p5js.org/disappearhere/sketches/bVVvGP16w): Ein Video nur abspielen, solange niemand vor der Kamera ist. Sobald `ml5.objectDetection()` eine Person findet, pausiert das Video, und das Webcam-Bild mit der Erkennung nimmt seinen Platz ein.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/bVVvGP16w" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Probiert aus:* Ändert die Regel so, dass das Video nur abgespielt wird, wenn eine Person erkannt *wird*. Ersetzt dann `"person"` durch ein anderes Label, zum Beispiel `"cup"` oder `"cell phone"`. Welche Regel würde ein echtes Kamerasystem verwenden, und wen würde es beobachten?
+
+## Teachable Machine
+
+Die Modelle in den vorigen Abschnitten wurden von anderen trainiert, mit Daten, die ihr nicht ausgewählt habt, und sie kennen eine feste Liste von Dingen: die Teile eines Körpers, ein Gesicht, etwa 80 Arten von Objekten. [Teachable Machine](https://teachablemachine.withgoogle.com/) ist ein kostenloses Web-Tool von Google, mit dem ihr in wenigen Minuten ein eigenes Modell trainieren könnt, direkt im Browser und ohne Code zu schreiben. Ihr zeigt der Webcam einige Beispiele für jedes Ding, das erkannt werden soll, das Tool trainiert darauf einen Klassifikator, und ihr könnt dieses Modell dann mit ml5.js in einem p5.js-Sketch laden und wie jedes andere verwenden.
+
+![Teachable Machine]({{ site.baseurl }}/tutorials/assets/MV_TeachableMachine.png)
+
+Ein eigenes Modell zu trainieren verändert, was ihr daraus lernt. Ein solches Modell weiß nicht, was eine Tasse oder ein Gesicht ist: Es kennt nur die Beispiele, die ihr ihm gegeben habt. Was auch immer ihr vor die Kamera haltet, es wählt eine eurer Kategorien aus und ordnet ihr eine Konfidenz zu. Zu sehen, wo es richtig liegt, wo es sich irrt und was es umstimmt, ist ein guter Weg, um zu verstehen, wie die größeren Systeme hinter öffentlichen und privaten Kameras aufgebaut sind.
+
+Teachable Machine kann Bild-, Klang- und Pose-Modelle trainieren. Dieses Tutorial beginnt mit Bildern, weil sie am einfachsten zu trainieren sind und den ganzen Prozess zeigen.
+
+### Trainiert ein eigenes Modell
+
+Für ein erstes Modell reichen drei Kategorien, die sich stark voneinander unterscheiden sollten: **nothing** (ein leerer Hintergrund) und **zwei Objekte**, die ihr in die Kamera halten könnt, zum Beispiel eine Tasse und ein Telefon. Das Training dauert etwa eine Minute und funktioniert für diese bestimmten Objekte zuverlässig, auch wenn das Modell nicht jede Tasse oder jedes Telefon erkennt, sodass ihr euch auf den Prozess konzentrieren könnt.
+
+![Teachable Machine Training]({{ site.baseurl }}/tutorials/assets/MV_TeachableMachine_train.png)
+
+1. Geht auf [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com/), klickt auf **Get started** und wählt **Image Project**, dann **Standard image model**.
+2. **Benennt eure Klassen.** Klickt auf den Namen von *Class 1* und benennt sie in `Nothing` um. Benennt *Class 2* in `Mug` um und legt mit **Add a class** eine dritte namens `Phone` an. Die Namen, die ihr hier wählt, sind die Labels, die ihr im Sketch seht.
+3. **Sammelt Beispiele.** Klickt in jeder Klasse auf **Webcam** und erlaubt den Kamerazugriff. Haltet die Taste **Hold to Record** gedrückt, während ihr das Objekt in die Kamera haltet und es ein wenig bewegt, näher, weiter weg, gekippt. Nehmt für `Nothing` den leeren Hintergrund und auch euch selbst auf: ruhig sitzend, in Bewegung, mit erhobenen oder leeren Händen. Zielt auf 100–200 Beispiele pro Klasse, und ungefähr gleich viele für jede.
+4. **Trainiert das Modell.** Klickt auf **Train Model** und lasst den Tab geöffnet, bis es fertig ist. Wechselt während des Trainings nicht zu einem anderen Tab, sonst kann es abbrechen.
+5. **Testet es.** Zeigt in der Vorschau rechts der Kamera eure Objekte. Die Balken zeigen, wie sicher sich das Modell für jede Klasse ist. Zeigt ihm nun etwas, das es noch nie gesehen hat, zum Beispiel eure Schlüssel: Das Modell muss trotzdem eine eurer drei Klassen wählen und tut das oft mit hoher Konfidenz. Es kann nicht sagen „Ich weiß es nicht“.
+6. **Exportiert das Modell.** Klickt auf **Export Model**, wählt den Tab **TensorFlow.js**, dann **Upload my model** und klickt auf **Upload**. Wenn es fertig ist, kopiert den **shareable link**. Er sieht so aus: `https://teachablemachine.withgoogle.com/models/AbCdEfGhI/`.
+
+Einige Dinge machen einen großen Unterschied dafür, wie gut das Modell funktioniert:
+
+- **Vielfalt schlägt Menge.** Nehmt dasselbe Objekt aus verschiedenen Winkeln, Abständen und Positionen auf. Ein Modell, das auf eine einzige Haltung der Tasse trainiert wurde, erkennt nur diese Haltung.
+- **Trainiert dort, wo ihr es verwenden werdet.** Das Modell lernt auch den Hintergrund und das Licht. Wenn ihr in eurem Zimmer trainiert und im Seminarraum testet, wird es wahrscheinlich verwirrt sein.
+- **Nehmt immer eine Klasse für „nothing“ auf und macht sie zur abwechslungsreichsten.** Ohne sie muss das Modell eines eurer Objekte nennen, auch wenn die Kamera nur eine Wand sieht. Kennt es nur einen leeren Schreibtisch, nennt es alles andere eine Tasse.
+- **Testet, bevor ihr exportiert.** Probiert die Fälle aus, die scheitern (die leere Szene, das Telefon im Winkel), nehmt dafür mehr Beispiele auf und trainiert erneut.
+- **Neu trainierte Modelle können unverändert wirken.** Wenn ihr ein Modell aktualisiert und denselben Link behaltet, zeigt euer Browser möglicherweise weiter die alte Version. Ladet die Seite ohne Cache neu (Cmd/Ctrl + Shift + R) oder ladet das Modell erneut hoch, um einen neuen Link zu erhalten.
+- **Der Link ist öffentlich.** Jede:r, der oder die ihn hat, kann das Modell verwenden, und es wird von Google gehostet. Trainiert nicht mit Bildern, die ihr nicht teilen möchtet.
+
+### Sketches
+
+Mit dem Shareable Link könnt ihr euer Modell mit `ml5.imageClassifier()` in einem p5.js-Sketch laden. Ersetzt in den Sketches unten den Modell-Link durch euren eigenen.
+
+**15 Teachable Machine: Image**
+
+[Teachable Machine: Image](https://editor.p5js.org/disappearhere/sketches/n3fOz5Hdn): Das Webcam-Bild mit `ml5.imageClassifier()` klassifizieren und das Label und die Konfidenz der besten Vermutung auf das Canvas schreiben.
+
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/n3fOz5Hdn" width="100%" height="500" style="border:0" allow="camera"></iframe>
+
+*Probiert aus:* Ersetzt `MODEL_URL` durch den Link zu eurem eigenen Modell. Haltet dann einen Gegenstand hoch, den das Modell noch nie gesehen hat, zum Beispiel einen Stift: Was sagt es, und wie sicher ist es? Fügt in Teachable Machine eine vierte Klasse hinzu, trainiert erneut und schaut, was sich ändert.
+
+## Ressourcen
+
+- [Introduction to Machine Learning for the Arts, Fall 2024: face and hand models](https://github.com/ml5js/Intro-ML-Arts-IMA-F24/tree/main/04-face-and-hand-models)
+- [ml5.js-Dokumentation](https://docs.ml5js.org/)
+- [p5.js-Referenz](https://p5js.org/reference/)
 
 </div>
