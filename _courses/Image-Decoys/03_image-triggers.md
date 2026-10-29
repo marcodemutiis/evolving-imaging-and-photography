@@ -11,6 +11,14 @@ published: true
 
 <div class="lang-en" markdown="1">
 
+## Presentations
+
+Upload your marker and your Snapchat code or TikTok QR code to the [shared doc](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.bd7l67a0ehpo).
+
+We are going on a tour of the building to check your image decoys!
+
+***
+
 This cluster explores how the automated logics of machine vision can be exploited, subverted, or turned against themselves—compromising algorithmic surveillance systems and disrupting the monetization of attention. Today, images are not merely captured; they are continually analyzed by software embedded in everything from smartphones and CCTV to doorbells and self-driving cars. Machine vision systems scan for faces, bodies, gestures, license plates—treating visual data as actionable information. Automated License Plate Recognition (ALPR) networks, used for traffic enforcement, toll collection, and law enforcement surveillance, represent a particularly pervasive form of computational seeing.
 
 
@@ -78,6 +86,15 @@ Add your name, a description of your project and some images to the [share docum
 </div>
 
 <div class="lang-de" markdown="1">
+
+## Presentations
+
+Upload your marker and your Snapchat code or TikTok QR code to the [shared doc](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.bd7l67a0ehpo).
+
+We are going on a tour of the building to check your image decoys!
+
+***
+
 
 Dieses Cluster untersucht, wie sich die automatisierten Logiken des Machine Vision ausnutzen, unterwandern oder gegen sich selbst wenden lassen – und damit algorithmische Überwachungssysteme kompromittieren und die Monetarisierung von Aufmerksamkeit stören. Bilder werden heute nicht mehr nur aufgenommen, sondern laufend von Software analysiert, die in alles eingebettet ist, von Smartphones und Überwachungskameras bis zu Türklingeln und selbstfahrenden Autos. Machine-Vision-Systeme suchen nach Gesichtern, Körpern, Gesten und Nummernschildern und behandeln visuelle Daten als verwertbare Information. Netzwerke zur automatischen Nummernschilderkennung (Automated License Plate Recognition, ALPR), die für Verkehrsüberwachung, Mauterhebung und polizeiliche Überwachung eingesetzt werden, sind eine besonders verbreitete Form des computergestützten Sehens.
 
