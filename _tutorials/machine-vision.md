@@ -239,6 +239,8 @@ FaceMesh maps the face as a dense set of points, from which features such as eye
 
 *Try:* Add a third image and cycle through all three on each click. Hint: use a number instead of a true/false variable, and `%` (modulo) to jump back to the first image. Then make the image tilt with your head: look up `atan2()` and `rotate()`.
 
+BONUS! [FaceMesh: Nose + Image + Click SMARTPHONE REAR CAMERA](https://editor.p5js.org/disappearhere/sketches/GMRcUOH-1): This is a version of the same sketch made to run on mobile with the rear camera. You need to download your code and asset files, and upload them to your server with a https. Try this test [https://marcodemutiis.com/documents/testml5](https://marcodemutiis.com/documents/testml5) on mobile-->
+
 **10 FaceMesh: Face Tracking + Image + Sound**
 
 [FaceMesh: Face Tracking + Image + Sound](https://editor.p5js.org/disappearhere/sketches/ruKI6Y2Kb): measure how wide your mouth is open with FaceMesh and use it to show an image in your mouth and set the volume of a sound. Click on the canvas once if you do not hear anything.
