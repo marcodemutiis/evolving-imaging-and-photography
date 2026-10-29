@@ -48,11 +48,11 @@ By the end of this tutorial you will be able to:
 - a credit card, to add prepaid credit to your Replicate account
 - a folder of 10 to 20 images (see below)
 
-Replicate is not free, but it costs very little to generate a few images with a custom model (see the [pricing page](https://replicate.com/pricing)). Training your own LoRA typically costs a couple of dollars at most. Video generation is considerably more expensive, so check prices before running a model.
+Replicate is not free, but it costs very little to generate a few images with a custom model (see the [pricing page](https://replicate.com/pricing)). Training your own LoRA typically costs between 1 and 2 US dollars at the time of writing. Video generation is considerably more expensive, so check prices before running a model.
 
 **Think about your dataset.** Decide whether you want to train a **style** (for example the look of CCTV stills, or of a video game's photo mode) or a **subject** (a particular object, place or character). Then collect images that share that aesthetic. You can use screenshots from a video game, photographs you took yourself, or images you find online. Whatever you use, consider where the images come from:
 
-- use images you made yourself, or that you have the right to use
+- consider using images you made yourself, and not just using appropriated images
 - do not train on the face or the work of a person who has not agreed to it
 - keep track of your sources: you will want to be able to say what your model was trained on
 

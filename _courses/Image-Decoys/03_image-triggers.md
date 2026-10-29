@@ -64,11 +64,13 @@ In all these projects, images become triggers for algorithmic vision—they do n
 
 ## Assignment
 
-Create your own *Image Triggers* project inspired by the examples seen in class. Choose one of two options:
+Create your own *Image Triggers* project inspired by the examples seen in class. Choose one of three options:
 
 **Option A: Test a trigger.** Pick a machine vision system you can access, such as a face-detection demo, an object detector, Google Lens, or an automatic captioning or alt-text tool. Design an image, pattern or intervention that tries to confuse, mislead or redirect how the system sees. Test several variants and document what happens, including when it fails. What did the system see, and what did it miss or misread?
 
 **Option B: Set a bait.** Think of an automated process that looks for specific images, such as a scraper, a recommendation algorithm, an indexing bot or a print-on-demand script. Design an image or caption that works as bait for it, and describe how the system would respond and what that response would expose.
+
+**Option C: Build a trigger.** Using the examples from the [Machine Vision Tutorial](https://www.evolving.photography/tutorials/machine-vision/), create a custom machine vision system that is triggered by a specific image. Decide which image the system responds to and what happens when it recognizes it, such as a message, a sound, a visual change or an action. Test how reliably it works and document what the system sees and what it misses. Share screenshots or a short screen recording, and a link to your sketch if you have one.
 
 Whichever option you choose, remember that adversarial patterns often work only on specific models and can be surprisingly fragile. A trigger that fails is still a result worth sharing.
 
@@ -117,11 +119,13 @@ In all diesen Projekten werden Bilder zu Triggern für algorithmisches Sehen –
 
 ## Aufgabe
 
-Entwickelt euer eigenes *Image Triggers*-Projekt, inspiriert von den im Unterricht gezeigten Beispielen. Wählt eine von zwei Optionen:
+Entwickelt euer eigenes *Image Triggers*-Projekt, inspiriert von den im Unterricht gezeigten Beispielen. Wählt eine von drei Optionen:
 
 **Option A: Einen Trigger testen.** Wählt ein Machine-Vision-System, auf das ihr Zugriff habt, zum Beispiel eine Gesichtserkennungs-Demo, einen Objektdetektor, Google Lens oder ein Tool für automatische Bildbeschreibungen bzw. Alt-Texte. Gestaltet ein Bild, ein Muster oder eine Intervention, die versucht, die Art und Weise zu verwirren, irrezuführen oder umzulenken, wie das System sieht. Testet mehrere Varianten und dokumentiert, was passiert – auch wenn es scheitert. Was hat das System gesehen, und was hat es übersehen oder falsch gelesen?
 
 **Option B: Einen Köder auslegen.** Überlegt euch einen automatisierten Prozess, der nach bestimmten Bildern sucht, etwa einen Scraper, einen Empfehlungsalgorithmus, einen Indexierungs-Bot oder ein Print-on-Demand-Skript. Gestaltet ein Bild oder eine Bildunterschrift, die für ihn als Köder funktioniert, und beschreibt, wie das System darauf reagieren würde und was diese Reaktion offenlegen würde.
+
+**Option C: Einen Trigger bauen.** Erstellt anhand der Beispiele aus dem [Machine Vision Tutorial](https://www.evolving.photography/tutorials/machine-vision/) ein eigenes Machine-Vision-System, das durch ein bestimmtes Bild ausgelöst wird. Entscheidet, auf welches Bild das System reagiert und was passiert, wenn es dieses erkennt, etwa eine Meldung, ein Ton, eine visuelle Veränderung oder eine Aktion. Testet, wie zuverlässig es funktioniert, und dokumentiert, was das System sieht und was es übersieht. Teilt Screenshots oder eine kurze Bildschirmaufnahme sowie, wenn vorhanden, einen Link zu eurem Sketch.
 
 Unabhängig von eurer Wahl gilt: Adversariale Muster funktionieren oft nur bei bestimmten Modellen und können überraschend fragil sein. Ein Trigger, der scheitert, ist trotzdem ein Ergebnis, das sich zu teilen lohnt.
 
