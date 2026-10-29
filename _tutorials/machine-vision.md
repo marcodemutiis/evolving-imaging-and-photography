@@ -11,7 +11,7 @@ published: true
 
 ## Overview
 
-This tutorial is an introduction to programming in p5.js, geared toward understanding how machine vision systems operate: software that reads bodies, faces and objects in the images of contemporary public and private cameras. You will start with the basics of scripting in p5.js, move on to pretrained models through ml5.js, and finish by training your own models with Teachable Machine.
+This tutorial is an introduction to programming in p5.js, geared toward understanding how machine vision systems operate: software that reads bodies, faces and objects in the images of contemporary public and private cameras. You will start with the basics of scripting in p5.js, move on to pretrained models through ml5.js, and finish by training your own models with Teachable Machine. The sketch examples in this tutorial were originally created by Leonardo Angelucci and have been updated and revised to work with the current version of p5.js (version 2) and ml5.js (version 1.4).
 
 By the end of the tutorial you will be able to:
 
@@ -358,7 +358,7 @@ sound https://editor.p5js.org/angelucci.leonardo/sketches/S3hZ4c6ft
 
 ## Überblick
 
-Dieses Tutorial ist eine Einführung in das Programmieren mit p5.js und zielt darauf, zu verstehen, wie Machine-Vision-Systeme funktionieren: Software, die Körper, Gesichter und Objekte in den Bildern heutiger öffentlicher und privater Kameras liest. Ihr beginnt mit den Grundlagen des Programmierens in p5.js, geht dann zu vortrainierten Modellen mit ml5.js über und trainiert zum Schluss mit Teachable Machine eigene Modelle.
+Dieses Tutorial ist eine Einführung in das Programmieren mit p5.js und zielt darauf, zu verstehen, wie Machine-Vision-Systeme funktionieren: Software, die Körper, Gesichter und Objekte in den Bildern heutiger öffentlicher und privater Kameras liest. Ihr beginnt mit den Grundlagen des Programmierens in p5.js, geht dann zu vortrainierten Modellen mit ml5.js über und trainiert zum Schluss mit Teachable Machine eigene Modelle. Die Sketch-Beispiele in diesem Tutorial wurden ursprünglich von Leonardo Angelucci erstellt und für die aktuellen Versionen von p5.js (Version 2) und ml5.js (Version 1.4) überarbeitet und aktualisiert.
 
 Am Ende des Tutorials könnt ihr:
 
