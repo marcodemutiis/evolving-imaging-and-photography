@@ -28,9 +28,9 @@ Moving from representation to circulation, and from human agency to computationa
 | 14.10.2026  | -Illo Konstanz - no class-         |
 | 21.10.2026  | 1. The pope 					   |
 | 28.10.2026  | 2. The woman                	   |
-| 4.11.2026   | 3. The baby	                       |
-| 11.11.2026  | -Workshop Week - no class-	       |
-| 18.11.2026  | -Self Study-                       |
+| 4.11.2026   | -Workshop Week - no class-	       |
+| 11.11.2026  | -Self Study-	                   |
+| 18.11.2026  | 3. The baby                        |
 | 25.11.2026  | 4. The animal                      | 
 | 2.12.2026   | 5. The dress.                      |
 | 9.12.2026   | SUMMARY 			               |
@@ -204,9 +204,9 @@ Vom Darstellen zum Zirkulieren und von menschlichem Handeln zu computergestützt
 | 14.10.2026  | -Illo Konstanz – kein Unterricht-  |
 | 21.10.2026  | 1. Der Papst                       |
 | 28.10.2026  | 2. Die Frau                        |
-| 4.11.2026   | 3. Das Baby                        |
-| 11.11.2026  | -Workshopwoche – kein Unterricht-  |
-| 18.11.2026  | -Selbststudium-                    |
+| 4.11.2026   | -Workshopwoche – kein Unterricht-  |
+| 11.11.2026  | -Selbststudium-                    |
+| 18.11.2026  | 3. Das Baby                        |
 | 25.11.2026  | 4. Das Tier                        |
 | 2.12.2026   | 5. Das Kleid                       |
 | 9.12.2026   | ZUSAMMENFASSUNG                    |
