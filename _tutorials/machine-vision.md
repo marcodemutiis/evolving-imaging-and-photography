@@ -93,7 +93,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
  
 [Click](https://editor.p5js.org/disappearhere/sketches/1nAwu6Ilm): count mouse clicks with `mouseClicked()` and change the background colour depending on the number of clicks.
  
-<iframe data-src="https://editor.p5js.org/disappearhere/embed/1nAwu6Ilm" width="100%" height="450" style="border:0"></iframe>
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/1nAwu6Ilm" width="100%" height="450" style="border:0" data-desktop-only></iframe>
 
 *Try:* Change the numbers so the colour changes after 3 clicks instead of 5. What colour do you expect at exactly 10 clicks?
  
@@ -125,7 +125,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
  
 [Image + MouseClick](https://editor.p5js.org/disappearhere/sketches/yCAAroFw9): load two images and switch between them each time the mouse is clicked.
  
-<iframe data-src="https://editor.p5js.org/disappearhere/embed/yCAAroFw9" width="100%" height="450" style="border:0"></iframe>
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/yCAAroFw9" width="100%" height="450" style="border:0" data-desktop-only></iframe>
 
 *Try:* Switch the images with `mouseMoved()` and `mouseX` instead of a click, so the left half shows one image and the right half the other.
  
@@ -442,7 +442,7 @@ Arbeitet die Sketches der Reihe nach durch. Jeder fügt dem vorherigen eine einz
 
 [Click](https://editor.p5js.org/disappearhere/sketches/1nAwu6Ilm): Mausklicks mit `mouseClicked()` zählen und die Hintergrundfarbe abhängig von der Anzahl der Klicks ändern.
 
-<iframe data-src="https://editor.p5js.org/disappearhere/embed/1nAwu6Ilm" width="100%" height="450" style="border:0"></iframe>
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/1nAwu6Ilm" width="100%" height="450" style="border:0" data-desktop-only></iframe>
 
 *Probiert aus:* Ändert die Zahlen so, dass die Farbe nach 3 statt nach 5 Klicks wechselt. Welche Farbe erwartet ihr bei genau 10 Klicks?
 
@@ -474,7 +474,7 @@ Arbeitet die Sketches der Reihe nach durch. Jeder fügt dem vorherigen eine einz
 
 [Image + MouseClick](https://editor.p5js.org/disappearhere/sketches/yCAAroFw9): Zwei Bilder laden und bei jedem Mausklick zwischen ihnen wechseln.
 
-<iframe data-src="https://editor.p5js.org/disappearhere/embed/yCAAroFw9" width="100%" height="450" style="border:0"></iframe>
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/yCAAroFw9" width="100%" height="450" style="border:0" data-desktop-only></iframe>
 
 *Probiert aus:* Wechselt die Bilder mit `mouseMoved()` und `mouseX` statt mit einem Klick, sodass die linke Hälfte das eine und die rechte Hälfte das andere Bild zeigt.
 
