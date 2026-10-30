@@ -405,6 +405,37 @@ iframe + p {
   background: #e4e4e4;
 }
 
+/*image placeholders*/
+/* desktop: placeholder with a poster image */
+.embed-placeholder.has-poster {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+/* keeps the hint readable on top of any image */
+.embed-placeholder.has-poster > span {
+  background: rgba(0, 0, 0, 0.65);
+  color: #fff;
+  padding: 6px 12px;
+  border-radius: 4px;
+}
+
+/* mobile: poster image (4:3, like the sketches) with the note underneath */
+.embed-poster-mobile {
+  margin: 16px 0;
+}
+.embed-poster-img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  background: #eeeeee;               /* grey box if the image does not load */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.embed-poster-mobile .embed-note {
+  margin-top: 8px;
+}
+
 /* ============================================
    IMAGE CAPTIONS
    ============================================ */

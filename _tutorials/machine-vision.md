@@ -239,7 +239,7 @@ FaceMesh maps the face as a dense set of points, from which features such as eye
 
 *Try:* Add a third image and cycle through all three on each click. Hint: use a number instead of a true/false variable, and `%` (modulo) to jump back to the first image. Then make the image tilt with your head: look up `atan2()` and `rotate()`.
 
-💥*BONUS!*💥 [FaceMesh: Nose + Image + Click SMARTPHONE REAR CAMERA FULLY RESPONSIVE EDITION](https://editor.p5js.org/disappearhere/sketches/GMRcUOH-1): This is a version of the same sketch made to run on mobile with the rear camera. You need to download your code and asset files, and upload them to your server with a https. Try this test [https://marcodemutiis.com/teaching/mobileml5](https://marcodemutiis.com/teaching/mobileml5) on mobile
+💥*BONUS!*💥 [FaceMesh: Nose + Image + Click SMARTPHONE REAR CAMERA FULLY RESPONSIVE EDITION](https://editor.p5js.org/disappearhere/sketches/GMRcUOH-1): This is a version of the same sketch made to run on mobile with the rear camera. You need to download your code and asset files, and upload them to your server with https. Try this test on mobile: [marcodemutiis.com/teaching/mobileml5](https://marcodemutiis.com/teaching/mobileml5)
 
 **10 FaceMesh: Face Tracking + Image + Sound**
 
@@ -583,6 +583,8 @@ FaceMesh bildet das Gesicht als dichtes Netz von Punkten ab, aus dem sich Merkma
 <iframe data-src="https://editor.p5js.org/disappearhere/embed/4U0llx9lT" width="100%" height="500" style="border:0" allow="camera"></iframe>
 
 *Probiert aus:* Fügt ein drittes Bild hinzu und wechselt bei jedem Klick durch alle drei. Tipp: Verwendet eine Zahl statt einer true/false-Variable und `%` (Modulo), um zum ersten Bild zurückzuspringen. Lasst das Bild dann mit eurem Kopf kippen: Schlagt `atan2()` und `rotate()` nach.
+
+💥*BONUS!*💥 [FaceMesh: Nose + Image + Click SMARTPHONE REAR CAMERA FULLY RESPONSIVE EDITION](https://editor.p5js.org/disappearhere/sketches/GMRcUOH-1): Dies ist eine Version desselben Sketches, die auf dem Smartphone mit der Rückkamera läuft. Ihr müsst euren Code und die Bilddateien herunterladen und auf euren Server mit https hochladen. Probiert diesen Test auf dem Smartphone aus: [marcodemutiis.com/teaching/mobileml5](https://marcodemutiis.com/teaching/mobileml5)
 
 **10 FaceMesh: Face Tracking + Image + Sound**
 

@@ -34,16 +34,43 @@ document.addEventListener("DOMContentLoaded", function () {
     hint: '<span class="lang-en">Click to run the sketch (uses your camera)</span><span class="lang-de">Klickt, um den Sketch zu starten (nutzt eure Kamera)</span>'
   };
 
+  // Optional poster image: add data-poster="path/to/image.jpg" to an iframe.
+  // The image is only applied if it loads. If the attribute is missing or the
+  // file cannot be found, nothing happens and the light grey box stays.
+  function applyPoster(el, url) {
+    if (!url) return;
+    var img = new Image();
+    img.onload = function () {
+      el.style.backgroundImage = 'url("' + url + '")';
+      el.classList.add("has-poster");
+    };
+    img.src = url;
+  }
+
   document.querySelectorAll("iframe[data-src]").forEach(function (frame) {
+    var posterUrl = frame.getAttribute("data-poster");
 
     // mobile: replace the embed with a short note in both languages
+    // (below the poster image, if there is one)
     if (!isDesktop) {
       var note = document.createElement("p");
       note.className = "embed-note";
       note.innerHTML =
         '<span class="lang-en"><em>This sketch runs on a computer. Open the link above to view it in the p5.js editor.</em></span>' +
         '<span class="lang-de"><em>Dieser Sketch läuft auf einem Computer. Öffnet den Link oben, um ihn im p5.js-Editor anzusehen.</em></span>';
-      frame.replaceWith(note);
+
+      if (posterUrl) {
+        var box = document.createElement("div");
+        box.className = "embed-poster-mobile";
+        var pic = document.createElement("div");
+        pic.className = "embed-poster-img";
+        applyPoster(pic, posterUrl);
+        box.appendChild(pic);
+        box.appendChild(note);
+        frame.replaceWith(box);
+      } else {
+        frame.replaceWith(note);
+      }
       return;
     }
 
@@ -67,6 +94,7 @@ document.addEventListener("DOMContentLoaded", function () {
     placeholder.className = "embed-placeholder";
     placeholder.style.height = frame.getAttribute("height") + "px";
     placeholder.innerHTML = LABELS.hint;
+    applyPoster(placeholder, posterUrl);
 
     wrap.appendChild(button);
     wrap.appendChild(placeholder);
