@@ -50,14 +50,29 @@ document.addEventListener("DOMContentLoaded", function () {
   document.querySelectorAll("iframe[data-src]").forEach(function (frame) {
     var posterUrl = frame.getAttribute("data-poster");
 
+    var usesCamera = (frame.getAttribute("allow") || "").indexOf("camera") !== -1;
+    var desktopOnly = frame.hasAttribute("data-desktop-only");   // needs a mouse or keyboard
+
+    // mobile, sketches without camera that work with touch: load straight away
+    if (!isDesktop && !usesCamera && !desktopOnly) {
+      frame.src = frame.dataset.src;
+      return;
+    }
+
     // mobile: replace the embed with a short note in both languages
     // (below the poster image, if there is one)
     if (!isDesktop) {
       var note = document.createElement("p");
       note.className = "embed-note";
-      note.innerHTML =
-        '<span class="lang-en"><em>This sketch runs on a computer. Open the link above to view it in the p5.js editor.</em></span>' +
-        '<span class="lang-de"><em>Dieser Sketch läuft auf einem Computer. Öffnet den Link oben, um ihn im p5.js-Editor anzusehen.</em></span>';
+      if (desktopOnly) {
+        note.innerHTML =
+          '<span class="lang-en"><em>This sketch needs a mouse or a keyboard. Open the link above to view it in the p5.js editor.</em></span>' +
+          '<span class="lang-de"><em>Dieser Sketch braucht eine Maus oder eine Tastatur. Öffnet den Link oben, um ihn im p5.js-Editor anzusehen.</em></span>';
+      } else {
+        note.innerHTML =
+          '<span class="lang-en"><em>This sketch runs on a computer. Open the link above to view it in the p5.js editor.</em></span>' +
+          '<span class="lang-de"><em>Dieser Sketch läuft auf einem Computer. Öffnet den Link oben, um ihn im p5.js-Editor anzusehen.</em></span>';
+      }
 
       if (posterUrl) {
         var box = document.createElement("div");
@@ -75,7 +90,6 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     // desktop, sketches without camera: load straight away
-    var usesCamera = (frame.getAttribute("allow") || "").indexOf("camera") !== -1;
     if (!usesCamera) {
       frame.src = frame.dataset.src;
       return;

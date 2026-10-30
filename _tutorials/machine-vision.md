@@ -101,7 +101,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
  
 [MouseMove](https://editor.p5js.org/disappearhere/sketches/T6api34tZ): use `mouseMoved()` and `mouseX` to change the background colour depending on which half of the canvas the mouse is in.
  
-<iframe data-src="https://editor.p5js.org/disappearhere/embed/T6api34tZ" width="100%" height="450" style="border:0"></iframe>
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/T6api34tZ" width="100%" height="450" style="border:0" data-desktop-only></iframe>
 
 *Try:* Use `mouseY` instead of `mouseX` so the colour changes between the top and the bottom half.
  
@@ -109,7 +109,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
  
 [MouseMove + MouseClick](https://editor.p5js.org/disappearhere/sketches/rNMFst-YY): combine `mouseMoved()` and `mouseClicked()` so the background colour follows the mouse and each click switches between a rectangle and an ellipse.
  
-<iframe data-src="https://editor.p5js.org/disappearhere/embed/rNMFst-YY" width="100%" height="450" style="border:0"></iframe>
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/rNMFst-YY" width="100%" height="450" style="border:0" data-desktop-only></iframe>
 
 *Try:* Replace the rectangle or the ellipse with another shape, for example a `triangle()` or a `circle()`. Look it up in the p5.js reference.
  
@@ -133,7 +133,7 @@ Work through the sketches in order. Each one adds a single idea to the previous 
  
 [Keyboard](https://editor.p5js.org/disappearhere/sketches/CCjyh7z_I): switch between three images by pressing the keys 1, 2 and 3, using `keyPressed()` and the `key` variable.
  
-<iframe data-src="https://editor.p5js.org/disappearhere/embed/CCjyh7z_I" width="100%" height="450" style="border:0"></iframe>
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/CCjyh7z_I" width="100%" height="450" style="border:0" data-desktop-only></iframe>
 
 *Try:* Add a fourth image and make it appear when you press the key 4.
  
@@ -450,7 +450,7 @@ Arbeitet die Sketches der Reihe nach durch. Jeder fügt dem vorherigen eine einz
 
 [MouseMove](https://editor.p5js.org/disappearhere/sketches/T6api34tZ): Mit `mouseMoved()` und `mouseX` die Hintergrundfarbe ändern, je nachdem, in welcher Hälfte des Canvas sich die Maus befindet.
 
-<iframe data-src="https://editor.p5js.org/disappearhere/embed/T6api34tZ" width="100%" height="450" style="border:0"></iframe>
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/T6api34tZ" width="100%" height="450" style="border:0" data-desktop-only></iframe>
 
 *Probiert aus:* Verwendet `mouseY` statt `mouseX`, sodass die Farbe zwischen der oberen und der unteren Hälfte wechselt.
 
@@ -458,7 +458,7 @@ Arbeitet die Sketches der Reihe nach durch. Jeder fügt dem vorherigen eine einz
 
 [MouseMove + MouseClick](https://editor.p5js.org/disappearhere/sketches/rNMFst-YY): `mouseMoved()` und `mouseClicked()` kombinieren: Die Hintergrundfarbe folgt der Maus, und jeder Klick wechselt zwischen einem Rechteck und einer Ellipse.
 
-<iframe data-src="https://editor.p5js.org/disappearhere/embed/rNMFst-YY" width="100%" height="450" style="border:0"></iframe>
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/rNMFst-YY" width="100%" height="450" style="border:0" data-desktop-only></iframe>
 
 *Probiert aus:* Ersetzt das Rechteck oder die Ellipse durch eine andere Form, zum Beispiel ein `triangle()` oder einen `circle()`. Schlagt sie in der p5.js-Referenz nach.
 
@@ -482,7 +482,7 @@ Arbeitet die Sketches der Reihe nach durch. Jeder fügt dem vorherigen eine einz
 
 [Keyboard](https://editor.p5js.org/disappearhere/sketches/CCjyh7z_I): Mit `keyPressed()` und der Variable `key` durch Drücken der Tasten 1, 2 und 3 zwischen drei Bildern wechseln.
 
-<iframe data-src="https://editor.p5js.org/disappearhere/embed/CCjyh7z_I" width="100%" height="450" style="border:0"></iframe>
+<iframe data-src="https://editor.p5js.org/disappearhere/embed/CCjyh7z_I" width="100%" height="450" style="border:0" data-desktop-only></iframe>
 
 *Probiert aus:* Fügt ein viertes Bild hinzu und lasst es erscheinen, wenn ihr die Taste 4 drückt.
 
