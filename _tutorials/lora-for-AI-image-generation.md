@@ -195,6 +195,27 @@ Be aware that this is the **most expensive** step in this tutorial: video genera
 
 **Optional challenge: "break" the dataset.** Train a second LoRA on a deliberately narrow or odd dataset: only one angle, only blurry images, only one colour. Challenge the idea of photorealism, which these systems often subtly steer users towards. Observe how the model exaggerates and distorts what you gave it, and decide whether that distortion can become the subject of your work. If you want to go further, turn your most succesful images into a short clip with an image-to-video model.
 
+## Bonus: concept hijacking
+
+A LoRA does not learn from images alone, but from images *and their captions*. During training, the model connects what it sees with the words used to describe it. This is why Replicate recommends an invented trigger word: it gives your concept a name the model does not already know.
+
+You can also do the opposite and attach your images to a word the model already knows well. This is sometimes called **concept hijacking** or **caption swapping**: a word that normally produces one thing starts to produce something else.
+
+For example, train a LoRA on photographs of trees, but caption every image as "a photo of a flower". The model learns that a "flower" looks like a tree. Afterwards, prompt for a flower and see what happens.
+
+Do not expect a clean swap. You are more likely to get hybrids, such as flowers with trunks and canopies or trees with petals, and different results with every seed. How strong the effect is depends on the number of images, the training steps, how consistent your captions are, and the `lora_scale` you generate with. Related words (a bouquet, a garden) may be affected too, because the model connects them to the hijacked word. A LoRA is applied to every prompt once it is loaded, so the effect does not depend on a special trigger word.
+
+The artist Sunny Attias used this process in *Compromised Unit* (2024). He explains how he works in [this video](https://www.youtube.com/watch?v=6mH9CO1nOK8), part of the [Screen Walks](https://screenwalks.com/) programme. It is worth watching before you try the steps below.
+
+1. Collect 10 to 20 images of the thing you want to hijack, for example trees.
+2. Write a caption for each image in a **.txt** file with the same name as the image: `tree_01.jpg` is captioned by `tree_01.txt`. Use the word you want to hijack, for example `a photo of a flower`, and keep the captions consistent.
+3. Put the images and the .txt files together in one folder and compress it into a .zip file.
+4. On the training page, turn off the **autocaptioning** option. Otherwise Replicate's captioning model describes your images itself, instead of using your captions.
+5. The **trigger_word** field is still required: enter the word you are hijacking, for example `flower`.
+6. After training, generate images with prompts that use the hijacked word, without any special trigger, for example "a flower in a vase" or "a field of flowers". Compare the results with the same prompts on the base FLUX model, and try different `lora_scale` values.
+
+**Try:** hijack a word with a strong visual identity (a flower, a face, a car) and one with a weak one (a feeling, a place name). In which case does the model resist more? What does this tell you about how it connects words and images?
+
 </div>
 
 <div class="lang-de" markdown="1">
@@ -385,5 +406,26 @@ Beachtet, dass dies der **teuerste** Schritt in diesem Tutorial ist: Die Videoer
 5. Vergleicht eure Ergebnisse mit euren Trainingsbildern: Was hat das Modell aufgenommen, was ignoriert und was erfunden? Gibt es eure Bilder wieder oder einen Durchschnitt davon? Was verrät es darüber, wie ihr sie gesammelt und gerahmt habt?
 
 **Optionale Zusatzaufgabe: den Datensatz „brechen“.** Trainiert ein zweites LoRA mit einem bewusst engen oder merkwürdigen Datensatz: nur ein Blickwinkel, nur unscharfe Bilder, nur eine Farbe. Stellt die Idee des Fotorealismus infrage, zu der diese Systeme ihre Nutzer:innen oft unmerklich lenken. Beobachtet, wie das Modell das, was ihr ihm gegeben habt, übertreibt und verzerrt, und entscheidet, ob diese Verzerrung zum Gegenstand eurer Arbeit werden kann. Wenn ihr weitergehen wollt, verwandelt eure gelungensten Bilder mit einem Image-to-Video-Modell in einen kurzen Clip.
+
+## Bonus: Concept Hijacking
+
+Ein LoRA lernt nicht allein aus Bildern, sondern aus Bildern *und ihren Captions* (Bildunterschriften). Beim Training verbindet das Modell, was es sieht, mit den Wörtern, die es beschreiben. Deshalb empfiehlt Replicate ein erfundenes Trigger Word: Es gibt eurem Konzept einen Namen, den das Modell noch nicht kennt.
+
+Ihr könnt auch das Gegenteil tun und eure Bilder an ein Wort binden, das das Modell bereits gut kennt. Das nennt man manchmal **Concept Hijacking** (Konzept-Entführung) oder **Caption Swapping** (Caption-Tausch): Ein Wort, das normalerweise etwas Bestimmtes erzeugt, erzeugt plötzlich etwas anderes.
+
+Trainiert zum Beispiel ein LoRA mit Fotografien von Bäumen, beschriftet aber jedes Bild mit „a photo of a flower“. Das Modell lernt, dass eine „flower“ wie ein Baum aussieht. Gebt danach einen Prompt für eine Blume ein und schaut, was passiert.
+
+Erwartet keinen sauberen Tausch. Wahrscheinlicher sind Hybride, etwa Blumen mit Stamm und Krone oder Bäume mit Blütenblättern, und bei jedem Seed andere Ergebnisse. Wie stark der Effekt ausfällt, hängt von der Anzahl der Bilder, den Trainingsschritten, der Einheitlichkeit eurer Captions und dem `lora_scale` ab, mit dem ihr erzeugt. Verwandte Wörter (ein Blumenstrauß, ein Garten) können ebenfalls betroffen sein, weil das Modell sie mit dem gekaperten Wort verbindet. Ein LoRA wird nach dem Laden auf jeden Prompt angewendet, der Effekt hängt also nicht von einem besonderen Trigger Word ab.
+
+Der Künstler Sunny Attias hat dieses Verfahren in *Compromised Unit* (2024) eingesetzt. Wie er arbeitet, erklärt er in [diesem Video](https://www.youtube.com/watch?v=6mH9CO1nOK8), das Teil des Programms [Screen Walks](https://screenwalks.com/) ist. Es lohnt sich, es anzusehen, bevor ihr die folgenden Schritte ausprobiert.
+
+1. Sammelt 10 bis 20 Bilder des Motivs, das ihr kapern wollt, zum Beispiel Bäume.
+2. Schreibt für jedes Bild eine Caption in eine **.txt**-Datei mit demselben Namen wie das Bild: `tree_01.jpg` wird durch `tree_01.txt` beschriftet. Verwendet das Wort, das ihr kapern wollt, zum Beispiel `a photo of a flower`, und haltet die Captions einheitlich.
+3. Legt die Bilder und die .txt-Dateien zusammen in einen Ordner und komprimiert ihn zu einer .zip-Datei.
+4. Schaltet auf der Trainingsseite die Option **autocaptioning** aus. Sonst beschreibt das Captioning-Modell von Replicate eure Bilder selbst, anstatt eure Captions zu verwenden.
+5. Das Feld **trigger_word** ist weiterhin erforderlich: Gebt das Wort ein, das ihr kapert, zum Beispiel `flower`.
+6. Erzeugt nach dem Training Bilder mit Prompts, die das gekaperte Wort enthalten, ohne besonderes Trigger Word, zum Beispiel „a flower in a vase“ oder „a field of flowers“. Vergleicht die Ergebnisse mit denselben Prompts auf dem FLUX-Basismodell und probiert verschiedene `lora_scale`-Werte aus.
+
+*Probiert aus:* Kapert ein Wort mit starker visueller Identität (eine Blume, ein Gesicht, ein Auto) und eines mit schwacher (ein Gefühl, einen Ortsnamen). In welchem Fall leistet das Modell mehr Widerstand? Was verrät das darüber, wie es Wörter und Bilder verbindet?
 
 </div>
