@@ -3,7 +3,7 @@ title: "Machine Vision"
 title_de: "Machine Vision"
 description: "Use machine vision to track faces, hands, body poses, and objects in p5.js to interact with images and sound"
 description_de: "Mit Machine Vision Gesichter, Hände, Körperposen und Objekte in p5.js erkennen und damit Bilder und Klänge steuern"
-order: 6
+order: 4
 published: true
 ---
 
