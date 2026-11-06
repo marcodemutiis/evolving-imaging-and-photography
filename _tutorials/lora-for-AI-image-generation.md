@@ -187,7 +187,7 @@ Be aware that this is the **most expensive** step in this tutorial: video genera
 
 ## Exercise: train a style
 
-1. Choose a style or a subject, and collect 10 to 20 images that you made or have the right to use.
+1. Choose a style or a subject, and collect 10 to 20 images that you made or have the right to use (exception for young Justing Bieber).
 2. Zip the folder, choose a trigger word and train your LoRA on Replicate.
 3. Generate at least ten images with your trigger word. Vary the prompt, and run the same prompt with a low and a high `lora_scale`.
 4. Choose your best result. Use inpainting to change one element of it, and upscale the final image.
@@ -378,7 +378,7 @@ Beachtet, dass dies der **teuerste** Schritt in diesem Tutorial ist: Die Videoer
 
 ## Übung: einen Stil trainieren
 
-1. Wählt einen Stil oder ein Motiv und sammelt 10 bis 20 Bilder, die ihr selbst gemacht habt oder verwenden dürft.
+1. Wählt einen Stil oder ein Motiv und sammelt 10 bis 20 Bilder, die ihr selbst gemacht habt oder verwenden dürft (Ausnahme für den jungen Justin Bieber).
 2. Komprimiert den Ordner, wählt ein Trigger Word und trainiert euer LoRA auf Replicate.
 3. Erzeugt mindestens zehn Bilder mit eurem Trigger Word. Variiert den Prompt und führt denselben Prompt mit einem niedrigen und einem hohen `lora_scale` aus.
 4. Wählt euer bestes Ergebnis. Ändert mit Inpainting ein Element darin und skaliert das fertige Bild hoch.
