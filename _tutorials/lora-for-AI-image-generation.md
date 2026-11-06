@@ -1,10 +1,10 @@
 ---
 title: "LoRAs for AI Image Generation"
-title_de: "LoRAs for AI Image Generation"
+title_de: "LoRAs für KI-Bildgenerierung"
 description: "Train your own LoRA on a small collection of images, then use it to generate, edit, upscale and animate images with Replicate."
-description_de: ""
+description_de: "Trainiert ein eigenes LoRA mit einer kleinen Bildsammlung und nutzt es anschließend, um mit Replicate Bilder zu erzeugen, zu bearbeiten, hochzuskalieren und zu animieren."
 order: 5
-published: false
+published: true
 ---
 
 <div class="lang-en" markdown="1">
@@ -14,6 +14,9 @@ published: false
 Over the past decade, image generation with neural networks has moved from a research curiosity to an everyday tool. A very short history: in 2015, *DeepDream* turned a classification network "inside out", amplifying whatever patterns it recognised in a photograph and producing the hallucinatory, dog-eyed images that became its signature look. Around the same time, Generative Adversarial Networks (GANs) introduced a new approach, in which two networks are trained against each other: one generates images, the other tries to tell them apart from real ones. GANs dominated the late 2010s, from face synthesis to the first generative art sold at auction. Since 2021–22, diffusion models have taken over: they learn to generate images by gradually removing noise, guided by a text prompt. Systems such as Stable Diffusion, Midjourney and FLUX are all built on this principle.
 
 These models are trained on enormous datasets, and they reproduce the aesthetic of that data in an averaged, generic form. This is where fine-tuning comes in.
+
+<iframe width="800" height="450" src="https://player.vimeo.com/video/832284202?h=bc9966128c" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" allowfullscreen title="Eryk Salvaggio: Flowers Blooming Backward Into Noise"></iframe>
+<figcaption>Eryk Salvaggio, <em>Flowers Blooming Backward Into Noise</em>, 2023</figcaption>
 
 A **LoRA** (*Low-Rank Adaptation*) is a small add-on file that adapts a large pre-trained model to a specific style, subject or aesthetic, without retraining the whole model. The original model stays frozen. The LoRA only stores a small set of additional weights, which are applied on top of it when you generate an image. In practice, this means:
 
@@ -64,6 +67,9 @@ Before working with current models, it is useful to see where they come from. Th
 
 [Replicate](https://replicate.com) is a platform where people can run, and upload private or public, open-source models for generative AI, including models fine-tuned on custom datasets. You can also run any of the public models available on the [Explore page](https://replicate.com/explore).
 
+![Replicate]({{ site.baseurl }}/tutorials/assets/AI_ReplicateOverview.png)
+
+
 Alternatives:
 
 - [fal.ai](https://fal.ai/explore/best-lora-trainers)
@@ -80,10 +86,15 @@ This section follows and paraphrases Replicate's own guide, [Fine-tune an image 
 
 Collect **10 to 20 images** with a similar look and feel. According to Replicate, the technical minimum is as low as two images, but around ten is a sensible lower limit for good results. More images can improve the outcome, but make training slower.
 
+![LoRA Dataset]({{ site.baseurl }}/tutorials/assets/AI_LoRADataset.png)
+
 - JPG, PNG and WebP files all work. Where possible use a resolution of 1024 × 1024 pixels or higher. File names and aspect ratios do not matter.
 - Aim for **variety within coherence**: if you train a subject, vary the setting, lighting and angle; if you train a style, vary the content but keep the visual language consistent.
 
 Put your images in a folder and compress it into a single **.zip** file.
+
+![LoRA Dataset Zipped]({{ site.baseurl }}/tutorials/assets/AI_LoRADatasetZip.png)
+
 
 ### 2. Choose a trigger word
 
@@ -106,11 +117,12 @@ Replicate's advice for choosing one:
 6. Leave **training_steps** (under advanced options) at the default value of 1000. Replicate warns that fewer steps will not teach the model your concept properly, while more steps add time and cost without much improvement.
 7. Leave the other fields at their defaults and click **Create training**.
 
+![LoRA Training]({{ site.baseurl }}/tutorials/assets/AI_LoRATraining.png)
+
 Training is billed per second of computing time. At the time Replicate's guide was written, a training with about 20 images and 1000 steps took around two minutes and cost roughly 1.50 USD. Prices change, so check the current rates on the pricing page. Wait for the training to complete, which is a good moment for a break.
 
 **Training fails on a Mac?** Hidden "ghost" files created by macOS can break the upload. Open the Terminal, `cd` into the folder that contains your dataset folder, and type: `dot_clean LORA_FOLDER_NAME`. Then zip the folder again and upload the new file.
 
-<!-- IMAGE: The Replicate training form, filled in -->
 
 ### 4. Generate images with your model
 
@@ -118,7 +130,7 @@ When the training is complete, you can click **Run trained model** to use the mo
 
 Write a prompt that includes your trigger word. FLUX follows long, descriptive prompts well, so the more detailed your description, the better. If you run out of ideas, Replicate suggests asking a language model to write ten detailed, varied prompts that all include your trigger word.
 
-<!-- IMAGE: Generating an image with the trained model in the Replicate web playground -->
+![LoRA Generating Images]({{ site.baseurl }}/tutorials/assets/AI_LoRAGeneratingImages.png)
 
 ### Parameters
 
@@ -139,7 +151,7 @@ Inpainting is a technique for replacing or repairing parts of an image. It fills
 
 1. Go to the [Replicate playground](https://replicate.com/playground)
 2. Select the model **flux-fill-pro**
-3. Upload an image
+3. Upload an image or enter the image URL (each image generated from your LoRA has a URL you can find in the JSON tabl of your Output)
 4. In the **mask** field, select **Inpainting > Open inpainting canvas**
 5. Use the tools at the top of the canvas to adjust the brush size
 6. Paint over the whole area you want to replace, and click **Save mask**
@@ -148,7 +160,7 @@ Inpainting is a technique for replacing or repairing parts of an image. It fills
 
 Once you get a good starting point, copy the **seed** number of your result and paste it into the **seed** field. This lets you keep the composition stable while you tweak the prompt or the guidance, and compare the results.
 
-<!-- IMAGE: Inpainting canvas with a mask, and the result -->
+![LoRA Inpainting]({{ site.baseurl }}/tutorials/assets/AI_LoRAInpainting.png)
 
 ## Upscaling
 
@@ -180,12 +192,193 @@ Be aware that this is the **most expensive** step in this tutorial: video genera
 4. Choose your best result. Use inpainting to change one element of it, and upscale the final image.
 5. Compare your outputs with your training images: what did the model pick up, what did it ignore, and what did it invent? Does it reproduce your images, or an average of them? What does it reveal about the way you collected and framed them?
 
-**Optional challenge: break the dataset.** Train a second LoRA on a deliberately narrow or odd dataset: only one angle, only blurry images, only one colour. Observe how the model exaggerates and distorts what you gave it, and decide whether that distortion can become the subject of your work. If you want to go further, turn your best images into a short clip with an image-to-video model.
+**Optional challenge: "break" the dataset.** Train a second LoRA on a deliberately narrow or odd dataset: only one angle, only blurry images, only one colour. Challenge the idea of photorealism, which these systems often subtly steer users towards. Observe how the model exaggerates and distorts what you gave it, and decide whether that distortion can become the subject of your work. If you want to go further, turn your most succesful images into a short clip with an image-to-video model.
 
 </div>
 
 <div class="lang-de" markdown="1">
 
+## Überblick
 
+In den letzten zehn Jahren hat sich die Bilderzeugung mit neuronalen Netzen von einer Kuriosität der Forschung zu einem Alltagswerkzeug entwickelt. Eine sehr kurze Geschichte: 2015 stülpte *DeepDream* ein Klassifikationsnetz gewissermaßen „von innen nach außen“ und verstärkte alle Muster, die es in einer Fotografie erkannte. Das Ergebnis waren die halluzinatorischen Bilder voller Hundeaugen, die zu seinem Markenzeichen wurden. Etwa zur gleichen Zeit führten Generative Adversarial Networks (GANs) einen neuen Ansatz ein, bei dem zwei Netze gegeneinander trainiert werden: Das eine erzeugt Bilder, das andere versucht, sie von echten zu unterscheiden. GANs prägten die späten 2010er-Jahre, von der Gesichtssynthese bis zur ersten generativen Kunst, die bei einer Auktion verkauft wurde. Seit 2021–22 haben Diffusionsmodelle übernommen: Sie lernen, Bilder zu erzeugen, indem sie schrittweise Rauschen entfernen, geleitet von einem Text-Prompt. Systeme wie Stable Diffusion, Midjourney und FLUX beruhen alle auf diesem Prinzip.
+
+Diese Modelle werden mit riesigen Datensätzen trainiert und geben die Ästhetik dieser Daten in gemittelter, generischer Form wieder. Hier kommt das Fine-Tuning ins Spiel.
+
+<iframe width="800" height="450" src="https://player.vimeo.com/video/832284202?h=bc9966128c" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" allowfullscreen title="Eryk Salvaggio: Flowers Blooming Backward Into Noise"></iframe>
+<figcaption>Eryk Salvaggio, <em>Flowers Blooming Backward Into Noise</em>, 2023</figcaption>
+
+Ein **LoRA** (*Low-Rank Adaptation*) ist eine kleine Zusatzdatei, die ein großes, vortrainiertes Modell an einen bestimmten Stil, ein Motiv oder eine Ästhetik anpasst, ohne das gesamte Modell neu zu trainieren. Das ursprüngliche Modell bleibt dabei unverändert. Das LoRA speichert nur eine kleine Menge zusätzlicher Gewichte, die beim Erzeugen eines Bildes auf das Modell angewendet werden. In der Praxis bedeutet das:
+
+- ihr braucht nur einen **kleinen Datensatz**: 10 bis 20 Bilder reichen für den Anfang oft aus
+- das Training ist im Vergleich zum Training eines Modells von Grund auf **schnell und günstig**
+- die entstehende Datei ist **klein** und lässt sich an- oder ausschalten, verstärken oder abschwächen oder mit anderen LoRAs kombinieren
+- ihr aktiviert es in einem Prompt mit einem **Trigger Word** eurer Wahl
+
+Für Künstler:innen und Fotograf:innen sind LoRAs interessant, weil sie die Frage verschieben: von *Was weiß das Modell?* zu *Womit füttere ich es?* Euer eigenes Archiv, eine Serie von Videospiel-Screenshots oder ein visuelles Genre, das ihr untersuchen wollt, wird zum Trainingsmaterial, und damit kommen Fragen nach Urheberschaft, Einwilligung und der Herkunft der verwendeten Bilder auf. Aus kreativer Sicht ermöglicht es außerdem mehr Kontrolle über den Prozess: Ihr steuert die kreative Erzeugung, anstatt die kreative Handlungsmacht an generische Maschinen abzugeben.
+
+In diesem Tutorial trainiert ihr ein LoRA auf Replicate, einer Plattform, auf der ihr das im Browser tun könnt, und setzt es anschließend zusammen mit anderen Werkzeugen ein, um Bilder zu bearbeiten und zu animieren.
+
+## Was ihr lernt
+
+Am Ende dieses Tutorials könnt ihr:
+
+- erklären, was ein LoRA ist und wie es sich von einem vollständigen Bildmodell unterscheidet
+- einen kleinen, kohärenten Datensatz für einen Stil oder ein Motiv zusammenstellen
+- ein LoRA auf Replicate trainieren, ohne Code zu schreiben
+- Bilder mit eurem Trigger Word erzeugen und die Ergebnisse mit den Parametern des Modells anpassen
+- Teile eines Bildes mit Inpainting ersetzen
+- die Auflösung eines Bildes mit einem Upscaling-Modell erhöhen
+- verstehen, wie erzeugte Bilder mit Image-to-Video-Modellen animiert werden können
+
+## Vor dem Start
+
+**Ihr braucht:**
+
+- ein [GitHub](https://github.com)-Konto (kostenlos), mit dem ihr euch bei Replicate anmeldet
+- eine Kreditkarte, um Guthaben auf euer Replicate-Konto zu laden
+- einen Ordner mit 10 bis 20 Bildern (siehe unten)
+
+Replicate ist nicht kostenlos, aber das Erzeugen einiger Bilder mit einem eigenen Modell kostet sehr wenig (siehe die [Preisseite](https://replicate.com/pricing)). Das Training eures eigenen LoRAs kostet zum Zeitpunkt der Erstellung zwischen 1 und 2 US-Dollar. Die Videoerzeugung ist deutlich teurer, prüft die Preise also, bevor ihr ein Modell ausführt.
+
+**Überlegt euch euren Datensatz.** Entscheidet, ob ihr einen **Stil** trainieren wollt (zum Beispiel den Look von Überwachungskamerabildern oder des Fotomodus eines Videospiels) oder ein **Motiv** (ein bestimmtes Objekt, einen Ort oder eine Figur). Sammelt dann Bilder, die diese Ästhetik teilen. Ihr könnt Screenshots aus einem Videospiel verwenden, Fotografien, die ihr selbst gemacht habt, oder Bilder, die ihr online findet. Was auch immer ihr verwendet, überlegt, woher die Bilder stammen:
+
+- erwägt, eigene Bilder zu verwenden, anstatt nur angeeignete Bilder zu nutzen
+- trainiert nicht mit dem Gesicht oder dem Werk einer Person, die dem nicht zugestimmt hat
+- dokumentiert eure Quellen: Ihr solltet später sagen können, womit euer Modell trainiert wurde
+
+## Experimente mit älteren Modellen
+
+Bevor ihr mit aktuellen Modellen arbeitet, lohnt sich ein Blick darauf, woher sie kommen. Die [Old Models Foundation](https://www.oldmodels.org/sandbox) bewahrt generative KI-Modelle von historischer und kultureller Bedeutung und stellt sie zur Verfügung. Auf ihrer Webseite könnt ihr frühere Generationen von Bildmodellen ausprobieren und vergleichen, wie stark sich ihre Ergebnisse von heutigen unterscheiden. Achtet darauf, wie diese Modelle funktionieren und welche ästhetischen Qualitäten sie haben, die neuere, glattere Modelle verloren haben.
+
+## Replicate
+
+[Replicate](https://replicate.com) ist eine Plattform, auf der Open-Source-Modelle für generative KI ausgeführt und, privat oder öffentlich, hochgeladen werden können, darunter auch Modelle, die mit eigenen Datensätzen feinabgestimmt wurden. Ihr könnt außerdem jedes öffentliche Modell ausführen, das auf der [Explore-Seite](https://replicate.com/explore) verfügbar ist.
+
+![Replicate]({{ site.baseurl }}/tutorials/assets/AI_ReplicateOverview.png)
+
+
+Alternativen:
+
+- [fal.ai](https://fal.ai/explore/best-lora-trainers)
+- [CivitAI](https://education.civitai.com/using-civitai-the-on-site-lora-trainer/)
+- [Krea](https://www.krea.ai/train)
+
+Diese Plattformen bieten ein ähnliches LoRA-Training mit anderen Oberflächen und Preisen.
+
+## Euer eigenes LoRA trainieren
+
+Dieser Abschnitt folgt der Anleitung von Replicate, [Fine-tune an image model](https://replicate.com/docs/get-started/fine-tune-with-flux), und gibt sie sinngemäß wieder. Sie verwendet die FLUX-Modellfamilie. Replicate beschreibt Fine-Tuning als Möglichkeit, eine Version eines Bildmodells zu erhalten, die durchgehend einen bestimmten Stil erzeugt oder immer eine bestimmte Figur oder ein bestimmtes Motiv enthält. Dafür braucht es kein tiefes technisches Wissen: Der gesamte Prozess lässt sich im Browser durchführen.
+
+### 1. Euren Datensatz vorbereiten
+
+Sammelt **10 bis 20 Bilder** mit einem ähnlichen Look and Feel. Laut Replicate liegt das technische Minimum bei nur zwei Bildern, aber etwa zehn sind eine sinnvolle Untergrenze für gute Ergebnisse. Mehr Bilder können das Ergebnis verbessern, verlangsamen aber das Training.
+
+![LoRA Dataset]({{ site.baseurl }}/tutorials/assets/AI_LoRADataset.png)
+
+- JPG-, PNG- und WebP-Dateien funktionieren alle. Verwendet wenn möglich eine Auflösung von 1024 × 1024 Pixeln oder höher. Dateinamen und Seitenverhältnisse spielen keine Rolle.
+- Strebt **Vielfalt innerhalb der Kohärenz** an: Wenn ihr ein Motiv trainiert, variiert Umgebung, Licht und Blickwinkel; wenn ihr einen Stil trainiert, variiert den Inhalt, aber behaltet die visuelle Sprache bei.
+
+Legt eure Bilder in einen Ordner und komprimiert ihn zu einer einzigen **.zip**-Datei.
+
+![LoRA Dataset Zipped]({{ site.baseurl }}/tutorials/assets/AI_LoRADatasetZip.png)
+
+
+### 2. Ein Trigger Word wählen
+
+Zusammen mit den Bildern wählt ihr ein **Trigger Word**, das ihr später in euren Prompts schreibt, um das LoRA zu „aktivieren“, zum Beispiel: `photo of MYTRGGR walking through a market`.
+
+Replicates Tipps für die Wahl:
+
+- wählt ein einzigartiges, erfundenes Wort, wie ein Wunschkennzeichen (z. B. `MY_UNIQ_TRGGR`)
+- verwendet kein Wort, das in irgendeiner Sprache existiert (wie *dog* oder *cyberpunk*), da das Modell damit bereits etwas verbindet
+- vermeidet `TOK`, ein sehr verbreitetes Trigger Word, das mit anderen Fine-Tunes kollidieren kann, wenn ihr sie später kombinieren wollt
+- Großbuchstaben sind optional, helfen aber, das Trigger Word vom Rest des Prompts abzuheben
+
+### 3. Das Modell trainieren
+
+1. Geht zu [replicate.com/replicate/fast-flux-trainer/train](https://replicate.com/replicate/fast-flux-trainer/train)
+2. Wählt im Feld **destination** ein Modell > **Create a new model** und gebt einen Namen ein. Euer Modell kann öffentlich oder privat sein.
+3. Ladet eure .zip-Datei im Feld **input_images** hoch.
+4. Gebt in **trigger_word** das gewählte Trigger Word ein.
+5. Wählt in **lora_type** je nach Datensatz **subject** oder **style**.
+6. Belasst **training_steps** (unter den erweiterten Optionen) beim Standardwert 1000. Replicate warnt, dass weniger Schritte dem Modell euer Konzept nicht richtig beibringen, während mehr Schritte Zeit und Kosten erhöhen, ohne viel zu verbessern.
+7. Belasst die übrigen Felder bei ihren Standardwerten und klickt auf **Create training**.
+
+![LoRA Training]({{ site.baseurl }}/tutorials/assets/AI_LoRATraining.png)
+
+Das Training wird pro Sekunde Rechenzeit abgerechnet. Als Replicates Anleitung geschrieben wurde, dauerte ein Training mit etwa 20 Bildern und 1000 Schritten rund zwei Minuten und kostete etwa 1,50 USD. Preise ändern sich, prüft also die aktuellen Tarife auf der Preisseite. Wartet, bis das Training abgeschlossen ist. Das ist ein guter Moment für eine Pause.
+
+**Das Training schlägt auf einem Mac fehl?** Versteckte „Geisterdateien“, die macOS erzeugt, können den Upload stören. Öffnet das Terminal, wechselt mit `cd` in den Ordner, der euren Datensatzordner enthält, und gebt ein: `dot_clean LORA_FOLDER_NAME`. Komprimiert den Ordner danach erneut und ladet die neue Datei hoch.
+
+
+### 4. Bilder mit eurem Modell erzeugen
+
+Wenn das Training abgeschlossen ist, könnt ihr auf **Run trained model** klicken, um das Modell im Browser zu verwenden, oder auf **Download weights**, um das LoRA anderswo einzusetzen (zum Beispiel in einem lokalen Tool wie ComfyUI). Ihr erreicht euer Modell jederzeit auch über [replicate.com/models](https://replicate.com/models), indem ihr auf seinen Namen klickt.
+
+Schreibt einen Prompt, der euer Trigger Word enthält. FLUX folgt langen, beschreibenden Prompts gut: Je detaillierter eure Beschreibung, desto besser. Wenn euch die Ideen ausgehen, empfiehlt Replicate, ein Sprachmodell zu bitten, zehn detaillierte, abwechslungsreiche Prompts zu schreiben, die alle euer Trigger Word enthalten.
+
+![LoRA Generating Images]({{ site.baseurl }}/tutorials/assets/AI_LoRAGeneratingImages.png)
+
+### Parameter
+
+Wenn das Training gut verlaufen ist, sollte euer Modell auf sein Trigger Word reagieren, aber rechnet damit, einige Zeit mit der Feinabstimmung eurer Ergebnisse zu verbringen. Das sind die wichtigsten Parameter:
+
+- `prompt`: beschreibt das gewünschte Bild. Denkt daran, das Trigger Word eures LoRAs aufzunehmen.
+- `image`: ladet optional ein Bild hoch, das als Ausgangspunkt für die Erzeugung dient.
+- `width` und `height`: die Größe des erzeugten Bildes in Pixeln.
+- `num_outputs`: wie viele Bilder auf einmal erzeugt werden.
+- `prompt_strength`: wenn ihr ein `image` angebt, legt dieser Wert fest, wie stark euer Prompt es beeinflusst (0 bis 1). Niedrige Werte bleiben nah am Originalbild.
+- `lora_scale`: wie stark euer eigenes Fine-Tuning das Ergebnis beeinflusst (-1 bis 3). Niedrigere Werte ergeben einen subtileren Effekt, höhere einen extremeren, und negative Werte bewegen sich von eurem Stil weg.
+
+**Tipp:** Ändert immer nur einen Parameter und notiert, was ihr geändert habt, damit ihr versteht, was jeder einzelne bewirkt.
+
+## Inpainting
+
+Inpainting ist eine Technik, um Teile eines Bildes zu ersetzen oder zu reparieren. Sie füllt fehlende oder beschädigte Bereiche auf oder entfernt ein unerwünschtes Objekt, um ein vollständiges Bild herzustellen. Mit generativen Modellen könnt ihr damit auch einen ausgewählten Bereich durch etwas ganz Neues ersetzen.
+
+1. Geht zum [Replicate Playground](https://replicate.com/playground)
+2. Wählt das Modell **flux-fill-pro**
+3. Ladet ein Bild hoch oder gebt die Bild-URL ein (jedes mit eurem LoRA erzeugte Bild hat eine URL, die ihr im JSON-Tab eures Outputs findet)
+4. Wählt im Feld **mask** die Option **Inpainting > Open inpainting canvas**
+5. Passt mit den Werkzeugen am oberen Rand der Zeichenfläche die Pinselgröße an
+6. Malt über den gesamten Bereich, den ihr ersetzen wollt, und klickt auf **Save mask**
+7. Schreibt im **prompt** eine einfache Beschreibung dessen, was in diesem Bereich erscheinen soll, zum Beispiel „a boy with pink hair“
+8. Erhöht für größere Änderungen den Wert für **guidance** (für das Ersetzen von Haaren funktioniert ein Wert von 30 gut)
+
+Sobald ihr einen guten Ausgangspunkt habt, kopiert die **seed**-Nummer eures Ergebnisses und fügt sie in das Feld **seed** ein. So bleibt die Komposition stabil, während ihr den Prompt oder den guidance-Wert anpasst, und ihr könnt die Ergebnisse vergleichen.
+
+![LoRA Inpainting]({{ site.baseurl }}/tutorials/assets/AI_LoRAInpainting.png)
+
+## Upscaling
+
+Upscaling erhöht die Auflösung eines Bildes. KI wird eingesetzt, um das Bild zu verbessern, indem sie Details hinzufügt und Artefakte korrigiert.
+
+Stellt euch ein kleines, etwas unscharfes Foto vor, das ihr größer und klarer machen wollt, etwa wenn ihr ein Foto im Passbildformat zu einem Poster vergrößert, ohne an Qualität zu verlieren. Herkömmliche Methoden würden das Foto vergrößern, aber es würde dabei auch unschärfer. KI-Upscaling-Modelle funktionieren wie eine geschickte Künstlerin, die das Foto nicht nur vergrößert, sondern auch auf kluge Weise Details ergänzt, damit die größere Version scharf und klar aussieht. Beachtet, dass diese Details vom Modell *erfunden* werden, ein Punkt, der sich bei der Arbeit mit Fotografien zu diskutieren lohnt.
+
+Zwischen Upscaling und Bildrestaurierung gibt es außerdem große Überschneidungen. KI-Modelle für die Restaurierung beheben Makel, entfernen Rauschen und ergänzen Details, was sich gut für den Upscaling-Prozess eignet.
+
+Verschiedene Upscaling-Modelle dienen unterschiedlichen Zwecken. Probiert die Optionen aus und vergleicht ihre jeweiligen Stärken: Gesichtsrestaurierung, Kreativität, Schärfeverbesserung und so weiter. Ihr findet sie in Replicates [Super-Resolution-Kollektion](https://replicate.com/collections/super-resolution) und könnt mehr dazu in der Anleitung [Upscale images with AI models](https://replicate.com/docs/guides/run/upscale-images-with-ai-models) lesen.
+
+## Image to Video
+
+Ihr könnt euer LoRA verwenden, um eine Reihe konsistenter Bilder zu erzeugen (zum Beispiel verschiedene Momente derselben Szene oder derselben Figur) und diese anschließend mit Image-to-Video-Modellen zu animieren. Ladet ein Standbild als Startbild hoch, beschreibt im Prompt die gewünschte Bewegung, und das Modell erzeugt einen kurzen Clip.
+
+Beachtet, dass dies der **teuerste** Schritt in diesem Tutorial ist: Die Videoerzeugung kostet viel mehr als das Erzeugen von Standbildern. Prüft den Preis eines Modells auf seiner Seite, bevor ihr es ausführt, beginnt mit kurzen Clips und testet eure Ideen zuerst im Kleinen.
+
+## Weitere Ressourcen
+
+- [Replicate: Fine-tune an image model](https://replicate.com/docs/get-started/fine-tune-with-flux)
+- [Replicate: Working with LoRAs](https://replicate.com/docs/guides/extend/working-with-loras)
+- [Replicate: Kollektion von FLUX-Fine-Tunes](https://replicate.com/collections/flux-fine-tunes), zur Inspiration
+
+## Übung: einen Stil trainieren
+
+1. Wählt einen Stil oder ein Motiv und sammelt 10 bis 20 Bilder, die ihr selbst gemacht habt oder verwenden dürft.
+2. Komprimiert den Ordner, wählt ein Trigger Word und trainiert euer LoRA auf Replicate.
+3. Erzeugt mindestens zehn Bilder mit eurem Trigger Word. Variiert den Prompt und führt denselben Prompt mit einem niedrigen und einem hohen `lora_scale` aus.
+4. Wählt euer bestes Ergebnis. Ändert mit Inpainting ein Element darin und skaliert das fertige Bild hoch.
+5. Vergleicht eure Ergebnisse mit euren Trainingsbildern: Was hat das Modell aufgenommen, was ignoriert und was erfunden? Gibt es eure Bilder wieder oder einen Durchschnitt davon? Was verrät es darüber, wie ihr sie gesammelt und gerahmt habt?
+
+**Optionale Zusatzaufgabe: den Datensatz „brechen“.** Trainiert ein zweites LoRA mit einem bewusst engen oder merkwürdigen Datensatz: nur ein Blickwinkel, nur unscharfe Bilder, nur eine Farbe. Stellt die Idee des Fotorealismus infrage, zu der diese Systeme ihre Nutzer:innen oft unmerklich lenken. Beobachtet, wie das Modell das, was ihr ihm gegeben habt, übertreibt und verzerrt, und entscheidet, ob diese Verzerrung zum Gegenstand eurer Arbeit werden kann. Wenn ihr weitergehen wollt, verwandelt eure gelungensten Bilder mit einem Image-to-Video-Modell in einen kurzen Clip.
 
 </div>
