@@ -27,7 +27,8 @@ A **LoRA** (*Low-Rank Adaptation*) is a small add-on file that adapts a large pr
 
 For artists and photographers, LoRAs are interesting because they shift the question from *what does the model know?* to *what do I feed it?* Your own archive, a series of video game screenshots or a visual genre you want to study becomes the training material, and with it come questions of authorship, consent and the sources of the images you use. From a creative standpoint, it also allows more control over the process where you are leading the creative generation rather than giving up creative agency to generic machines.
 
-<!-- IMAGE: Example outputs of a LoRA trained on a small dataset, next to a few of the training images -->
+![LoRA Explained]({{ site.baseurl }}/tutorials/assets/AI_LoRAexplainedEN.png)
+
 
 In this tutorial you will train a LoRA on Replicate, a platform that lets you do it in the browser, and then use it together with other tools for editing and animating images.
 
@@ -80,7 +81,7 @@ These platforms offer similar LoRA training, with different interfaces and prici
 
 ## Train your own LoRA
 
-This section follows and paraphrases Replicate's own guide, [Fine-tune an image model](https://replicate.com/docs/get-started/fine-tune-with-flux), which uses the FLUX model family. Replicate describes fine-tuning as a way to get a version of an image model that consistently produces a particular style, or always includes a specific character or subject. No deep technical knowledge is needed: the whole process can be done in the browser.
+This section follows and paraphrases Replicate's own guide, [Fine-tune an image model](https://replicate.com/docs/get-started/fine-tune-with-flux), which uses the FLUX model family. Replicate describes fine-tuning as a way to get a version of an image model that consistently produces a particular **style**, or always includes a specific character or **subject**. No deep technical knowledge is needed: the whole process can be done in the browser.
 
 ### 1. Prepare your dataset
 
@@ -217,6 +218,10 @@ Ein **LoRA** (*Low-Rank Adaptation*) ist eine kleine Zusatzdatei, die ein große
 Für Künstler:innen und Fotograf:innen sind LoRAs interessant, weil sie die Frage verschieben: von *Was weiß das Modell?* zu *Womit füttere ich es?* Euer eigenes Archiv, eine Serie von Videospiel-Screenshots oder ein visuelles Genre, das ihr untersuchen wollt, wird zum Trainingsmaterial, und damit kommen Fragen nach Urheberschaft, Einwilligung und der Herkunft der verwendeten Bilder auf. Aus kreativer Sicht ermöglicht es außerdem mehr Kontrolle über den Prozess: Ihr steuert die kreative Erzeugung, anstatt die kreative Handlungsmacht an generische Maschinen abzugeben.
 
 In diesem Tutorial trainiert ihr ein LoRA auf Replicate, einer Plattform, auf der ihr das im Browser tun könnt, und setzt es anschließend zusammen mit anderen Werkzeugen ein, um Bilder zu bearbeiten und zu animieren.
+
+![LoRA Explained]({{ site.baseurl }}/tutorials/assets/AI_LoRAexplainedDE.png)
+
+
 
 ## Was ihr lernt
 
