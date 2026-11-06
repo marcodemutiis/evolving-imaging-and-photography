@@ -173,9 +173,12 @@ There is also a big overlap between upscaling and image restoration. AI models f
 
 Different upscaling models serve different purposes. Explore the options and compare their specific strengths: face restoration, creativity, sharpness improvement and so on. You can find them in Replicate's [super-resolution collection](https://replicate.com/collections/super-resolution), and read more in the guide [Upscale images with AI models](https://replicate.com/docs/guides/run/upscale-images-with-ai-models).
 
+![Replicate Upscale]({{ site.baseurl }}/tutorials/assets/AI_ReplicateUpscale.png)
+
+
 ## Image to video
 
-You can use your LoRA to generate a series of consistent images (for instance, different moments in the same scene or the same character) and then animate them with image-to-video models. Upload a still image as the starting frame, describe the movement you want in the prompt, and the model generates a short clip.
+You can use your LoRA to generate a series of consistent images (for instance, different moments in the same scene or the same character) and then animate them with [image-to-video models](https://replicate.com/collections/text-to-video). Upload a still image as the starting frame, describe the movement you want in the prompt, and the model generates a short clip.
 
 Be aware that this is the **most expensive** step in this tutorial: video generation costs much more than generating still images. Check the price of a model on its page before running it, start with short clips, and test your ideas on a small scale first.
 
@@ -385,9 +388,12 @@ Zwischen Upscaling und Bildrestaurierung gibt es außerdem große Überschneidun
 
 Verschiedene Upscaling-Modelle dienen unterschiedlichen Zwecken. Probiert die Optionen aus und vergleicht ihre jeweiligen Stärken: Gesichtsrestaurierung, Kreativität, Schärfeverbesserung und so weiter. Ihr findet sie in Replicates [Super-Resolution-Kollektion](https://replicate.com/collections/super-resolution) und könnt mehr dazu in der Anleitung [Upscale images with AI models](https://replicate.com/docs/guides/run/upscale-images-with-ai-models) lesen.
 
+![Replicate Upscale]({{ site.baseurl }}/tutorials/assets/AI_ReplicateUpscale.png)
+
+
 ## Image to Video
 
-Ihr könnt euer LoRA verwenden, um eine Reihe konsistenter Bilder zu erzeugen (zum Beispiel verschiedene Momente derselben Szene oder derselben Figur) und diese anschließend mit Image-to-Video-Modellen zu animieren. Ladet ein Standbild als Startbild hoch, beschreibt im Prompt die gewünschte Bewegung, und das Modell erzeugt einen kurzen Clip.
+Ihr könnt euer LoRA verwenden, um eine Reihe konsistenter Bilder zu erzeugen (zum Beispiel verschiedene Momente derselben Szene oder derselben Figur) und diese anschließend mit [Image-to-Video-Modellen](https://replicate.com/collections/text-to-video) zu animieren. Ladet ein Standbild als Startbild hoch, beschreibt im Prompt die gewünschte Bewegung, und das Modell erzeugt einen kurzen Clip.
 
 Beachtet, dass dies der **teuerste** Schritt in diesem Tutorial ist: Die Videoerzeugung kostet viel mehr als das Erzeugen von Standbildern. Prüft den Preis eines Modells auf seiner Seite, bevor ihr es ausführt, beginnt mit kurzen Clips und testet eure Ideen zuerst im Kleinen.
 
