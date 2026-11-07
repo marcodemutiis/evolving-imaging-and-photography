@@ -11,14 +11,15 @@ published: true
 
 ## Overview
 
-Over the past decade, image generation with neural networks has moved from a research curiosity to an everyday tool. A very short history: in 2015, *DeepDream* turned a classification network "inside out", amplifying whatever patterns it recognised in a photograph and producing the hallucinatory, dog-eyed images that became its signature look. Around the same time, Generative Adversarial Networks (GANs) introduced a new approach, in which two networks are trained against each other: one generates images, the other tries to tell them apart from real ones. GANs dominated the late 2010s, from face synthesis to the first generative art sold at auction. Since 2021–22, diffusion models have taken over: they learn to generate images by gradually removing noise, guided by a text prompt. Systems such as Stable Diffusion, Midjourney and FLUX are all built on this principle.
+Over the past decade, image generation with neural networks has moved from a research curiosity to a ubiquitous and accessible tool. A very short history: in 2015, *DeepDream* turned a classification network "inside out", amplifying whatever patterns it recognised in a photograph and producing the hallucinatory, dog-eyed images that became its signature look. Around the same time, Generative Adversarial Networks (GANs) introduced a new approach, in which two networks are trained against each other: one generates images, the other tries to tell them apart from real ones. GANs dominated the late 2010s, from face synthesis to the first generative art sold at auction. Since 2021–22, diffusion models have taken over: they learn to generate images by gradually removing noise, guided by a text prompt. Systems such as Stable Diffusion, Midjourney and FLUX are all built on this principle.
 
-<iframe width="800" height="450" src="https://player.vimeo.com/video/832284202?h=bc9966128c" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" allowfullscreen title="Eryk Salvaggio: Flowers Blooming Backward Into Noise"></iframe><br/>
-<figcaption>Eryk Salvaggio, <em>Flowers Blooming Backward Into Noise</em>, 2023</figcaption>
+These models are trained on enormous datasets, and they reproduce the aesthetic of that data in an averaged, generic form. Eryk Salvaggio's 2024 video essay [*Flowers Blooming Backward Into Noise*](https://vimeo.com/832284202) explains how diffusion models work, as well as pointing out the discriminatory bias and politics of representation embedded in the imaging system.
 
-These models are trained on enormous datasets, and they reproduce the aesthetic of that data in an averaged, generic form. This is where fine-tuning comes in.
+<iframe width="800" height="450" src="https://player.vimeo.com/video/832284202?h=bc9966128c" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen" allowfullscreen title="Eryk Salvaggio: Flowers Blooming Backward Into Noise"></iframe>
 
-A **LoRA** (*Low-Rank Adaptation*) is a small add-on file that adapts a large pre-trained model to a specific style, subject or aesthetic, without retraining the whole model. The original model stays frozen. The LoRA only stores a small set of additional weights, which are applied on top of it when you generate an image. In practice, this means:
+
+
+A **LoRA** (*Low-Rank Adaptation*) is a fine-tuning of an existing model: it is a small add-on file that adapts a large pre-trained model to a specific style, subject or aesthetic, without retraining the whole model. The original model stays frozen. The LoRA only stores a small set of additional weights, which are applied on top of it when you generate an image. In practice, this means:
 
 - you only need a **small dataset**: 10 to 20 images are often enough to start
 - training is **fast and cheap** compared to training a model from scratch
@@ -30,7 +31,7 @@ For artists and photographers, LoRAs are interesting because they shift the ques
 ![LoRA Explained]({{ site.baseurl }}/tutorials/assets/AI_LoRAexplainedEN.png)
 
 
-In this tutorial you will train a LoRA on Replicate, a platform that lets you do it in the browser, and then use it together with other tools for editing and animating images.
+In this tutorial you will train a LoRA on [Replicate](https://replicate.com/), a platform that lets you do it in the browser, and then use it together with other tools for editing and animating images.
 
 ## What you'll learn
 
@@ -52,7 +53,7 @@ By the end of this tutorial you will be able to:
 - a credit card, to add prepaid credit to your Replicate account
 - a folder of 10 to 20 images (see below)
 
-Replicate is not free, but it costs very little to generate a few images with a custom model (see the [pricing page](https://replicate.com/pricing)). Training your own LoRA typically costs between 1 and 2 US dollars at the time of writing. Video generation is considerably more expensive, so check prices before running a model.
+Replicate is not free, but it costs very little to generate a few images with a custom model (see the [pricing page](https://replicate.com/pricing)). Training your own LoRA typically costs between 1 and 2 US dollars. Video generation is considerably more expensive, so check prices before running a model.
 
 **Think about your dataset.** Decide whether you want to train a **style** (for example the look of CCTV stills, or of a video game's photo mode) or a **subject** (a particular object, place or character). Then collect images that share that aesthetic. You can use screenshots from a video game, photographs you took yourself, or images you find online. Whatever you use, consider where the images come from:
 
@@ -152,7 +153,7 @@ Inpainting is a technique for replacing or repairing parts of an image. It fills
 
 1. Go to the [Replicate playground](https://replicate.com/playground)
 2. Select the model **flux-fill-pro**
-3. Upload an image or enter the image URL (each image generated from your LoRA has a URL you can find in the JSON tabl of your Output)
+3. Upload an image or enter the image URL (each image generated from your LoRA has a URL you can find in the JSON table of your Output)
 4. In the **mask** field, select **Inpainting > Open inpainting canvas**
 5. Use the tools at the top of the canvas to adjust the brush size
 6. Paint over the whole area you want to replace, and click **Save mask**
@@ -180,6 +181,10 @@ Different upscaling models serve different purposes. Explore the options and com
 
 You can use your LoRA to generate a series of consistent images (for instance, different moments in the same scene or the same character) and then animate them with [image-to-video models](https://replicate.com/collections/text-to-video). Upload a still image as the starting frame, describe the movement you want in the prompt, and the model generates a short clip.
 
+<video muted autoplay controls playsinline width="100%">
+<source src="{{ site.baseurl }}/tutorials/assets/AI_LoRAtoVideo.mp4" type="video/mp4">
+</video>
+
 Be aware that this is the **most expensive** step in this tutorial: video generation costs much more than generating still images. Check the price of a model on its page before running it, start with short clips, and test your ideas on a small scale first.
 
 ## Further resources
@@ -190,13 +195,13 @@ Be aware that this is the **most expensive** step in this tutorial: video genera
 
 ## Exercise: train a style
 
-1. Choose a style or a subject, and collect 10 to 20 images that you made or have the right to use (exception for young Justing Bieber).
+1. Choose a style or a subject, and collect 10 to 20 images that you made or have the right to use (exception for young Justin Bieber).
 2. Zip the folder, choose a trigger word and train your LoRA on Replicate.
 3. Generate at least ten images with your trigger word. Vary the prompt, and run the same prompt with a low and a high `lora_scale`.
 4. Choose your best result. Use inpainting to change one element of it, and upscale the final image.
 5. Compare your outputs with your training images: what did the model pick up, what did it ignore, and what did it invent? Does it reproduce your images, or an average of them? What does it reveal about the way you collected and framed them?
 
-**Optional challenge: "break" the dataset.** Train a second LoRA on a deliberately narrow or odd dataset: only one angle, only blurry images, only one colour. Challenge the idea of photorealism, which these systems often subtly steer users towards. Observe how the model exaggerates and distorts what you gave it, and decide whether that distortion can become the subject of your work. If you want to go further, turn your most succesful images into a short clip with an image-to-video model.
+**Optional challenge: "break" the dataset.** Train a second LoRA on a deliberately narrow or odd dataset: only one angle, only blurry images, only one colour. Challenge the idea of photorealism, which these systems often subtly steer users towards. Observe how the model exaggerates and distorts what you gave it, and decide whether that distortion can become the subject of your work. If you want to go further, turn your most successful images into a short clip with an image-to-video model.
 
 ## Bonus: concept hijacking
 
@@ -225,14 +230,13 @@ The artist Sunny Attias used this process in *Compromised Unit* (2024). He expla
 
 ## Überblick
 
-In den letzten zehn Jahren hat sich die Bilderzeugung mit neuronalen Netzen von einer Kuriosität der Forschung zu einem Alltagswerkzeug entwickelt. Eine sehr kurze Geschichte: 2015 stülpte *DeepDream* ein Klassifikationsnetz gewissermaßen „von innen nach außen“ und verstärkte alle Muster, die es in einer Fotografie erkannte. Das Ergebnis waren die halluzinatorischen Bilder voller Hundeaugen, die zu seinem Markenzeichen wurden. Etwa zur gleichen Zeit führten Generative Adversarial Networks (GANs) einen neuen Ansatz ein, bei dem zwei Netze gegeneinander trainiert werden: Das eine erzeugt Bilder, das andere versucht, sie von echten zu unterscheiden. GANs prägten die späten 2010er-Jahre, von der Gesichtssynthese bis zur ersten generativen Kunst, die bei einer Auktion verkauft wurde. Seit 2021–22 haben Diffusionsmodelle übernommen: Sie lernen, Bilder zu erzeugen, indem sie schrittweise Rauschen entfernen, geleitet von einem Text-Prompt. Systeme wie Stable Diffusion, Midjourney und FLUX beruhen alle auf diesem Prinzip.
+In den letzten zehn Jahren hat sich die Bilderzeugung mit neuronalen Netzen von einer Kuriosität der Forschung zu einem allgegenwärtigen und zugänglichen Werkzeug entwickelt. Eine sehr kurze Geschichte: 2015 stülpte *DeepDream* ein Klassifikationsnetz gewissermaßen „von innen nach außen“ und verstärkte alle Muster, die es in einer Fotografie erkannte. Das Ergebnis waren die halluzinatorischen Bilder voller Hundeaugen, die zu seinem Markenzeichen wurden. Etwa zur gleichen Zeit führten Generative Adversarial Networks (GANs) einen neuen Ansatz ein, bei dem zwei Netze gegeneinander trainiert werden: Das eine erzeugt Bilder, das andere versucht, sie von echten zu unterscheiden. GANs prägten die späten 2010er-Jahre, von der Gesichtssynthese bis zur ersten generativen Kunst, die bei einer Auktion verkauft wurde. Seit 2021–22 haben Diffusionsmodelle übernommen: Sie lernen, Bilder zu erzeugen, indem sie schrittweise Rauschen entfernen, geleitet von einem Text-Prompt. Systeme wie Stable Diffusion, Midjourney und FLUX beruhen alle auf diesem Prinzip.
 
-<iframe width="800" height="450" src="https://player.vimeo.com/video/832284202?h=bc9966128c" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" allowfullscreen title="Eryk Salvaggio: Flowers Blooming Backward Into Noise"></iframe><br/>
-<figcaption>Eryk Salvaggio, <em>Flowers Blooming Backward Into Noise</em>, 2023</figcaption>
+Diese Modelle werden mit riesigen Datensätzen trainiert und geben die Ästhetik dieser Daten in gemittelter, generischer Form wieder. Eryk Salvaggios Videoessay von 2024, [*Flowers Blooming Backward Into Noise*](https://vimeo.com/832284202), erklärt, wie Diffusionsmodelle funktionieren, und weist zugleich auf die diskriminierenden Verzerrungen (Bias) und die Politik der Repräsentation hin, die in das Bildgebungssystem eingeschrieben sind.
 
-Diese Modelle werden mit riesigen Datensätzen trainiert und geben die Ästhetik dieser Daten in gemittelter, generischer Form wieder. Hier kommt das Fine-Tuning ins Spiel.
+<iframe width="800" height="450" src="https://player.vimeo.com/video/832284202?h=bc9966128c" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen" allowfullscreen title="Eryk Salvaggio: Flowers Blooming Backward Into Noise"></iframe>
 
-Ein **LoRA** (*Low-Rank Adaptation*) ist eine kleine Zusatzdatei, die ein großes, vortrainiertes Modell an einen bestimmten Stil, ein Motiv oder eine Ästhetik anpasst, ohne das gesamte Modell neu zu trainieren. Das ursprüngliche Modell bleibt dabei unverändert. Das LoRA speichert nur eine kleine Menge zusätzlicher Gewichte, die beim Erzeugen eines Bildes auf das Modell angewendet werden. In der Praxis bedeutet das:
+Ein **LoRA** (*Low-Rank Adaptation*) ist ein Fine-Tuning eines bestehenden Modells: eine kleine Zusatzdatei, die ein großes, vortrainiertes Modell an einen bestimmten Stil, ein Motiv oder eine Ästhetik anpasst, ohne das gesamte Modell neu zu trainieren. Das ursprüngliche Modell bleibt dabei unverändert. Das LoRA speichert nur eine kleine Menge zusätzlicher Gewichte, die beim Erzeugen eines Bildes auf das Modell angewendet werden. In der Praxis bedeutet das:
 
 - ihr braucht nur einen **kleinen Datensatz**: 10 bis 20 Bilder reichen für den Anfang oft aus
 - das Training ist im Vergleich zum Training eines Modells von Grund auf **schnell und günstig**
@@ -241,7 +245,7 @@ Ein **LoRA** (*Low-Rank Adaptation*) ist eine kleine Zusatzdatei, die ein große
 
 Für Künstler:innen und Fotograf:innen sind LoRAs interessant, weil sie die Frage verschieben: von *Was weiß das Modell?* zu *Womit füttere ich es?* Euer eigenes Archiv, eine Serie von Videospiel-Screenshots oder ein visuelles Genre, das ihr untersuchen wollt, wird zum Trainingsmaterial, und damit kommen Fragen nach Urheberschaft, Einwilligung und der Herkunft der verwendeten Bilder auf. Aus kreativer Sicht ermöglicht es außerdem mehr Kontrolle über den Prozess: Ihr steuert die kreative Erzeugung, anstatt die kreative Handlungsmacht an generische Maschinen abzugeben.
 
-In diesem Tutorial trainiert ihr ein LoRA auf Replicate, einer Plattform, auf der ihr das im Browser tun könnt, und setzt es anschließend zusammen mit anderen Werkzeugen ein, um Bilder zu bearbeiten und zu animieren.
+In diesem Tutorial trainiert ihr ein LoRA auf [Replicate](https://replicate.com/), einer Plattform, auf der ihr das im Browser tun könnt, und setzt es anschließend zusammen mit anderen Werkzeugen ein, um Bilder zu bearbeiten und zu animieren.
 
 ![LoRA Explained]({{ site.baseurl }}/tutorials/assets/AI_LoRAexplainedDE.png)
 
@@ -267,7 +271,7 @@ Am Ende dieses Tutorials könnt ihr:
 - eine Kreditkarte, um Guthaben auf euer Replicate-Konto zu laden
 - einen Ordner mit 10 bis 20 Bildern (siehe unten)
 
-Replicate ist nicht kostenlos, aber das Erzeugen einiger Bilder mit einem eigenen Modell kostet sehr wenig (siehe die [Preisseite](https://replicate.com/pricing)). Das Training eures eigenen LoRAs kostet zum Zeitpunkt der Erstellung zwischen 1 und 2 US-Dollar. Die Videoerzeugung ist deutlich teurer, prüft die Preise also, bevor ihr ein Modell ausführt.
+Replicate ist nicht kostenlos, aber das Erzeugen einiger Bilder mit einem eigenen Modell kostet sehr wenig (siehe die [Preisseite](https://replicate.com/pricing)). Das Training eures eigenen LoRAs kostet in der Regel zwischen 1 und 2 US-Dollar. Die Videoerzeugung ist deutlich teurer, prüft die Preise also, bevor ihr ein Modell ausführt.
 
 **Überlegt euch euren Datensatz.** Entscheidet, ob ihr einen **Stil** trainieren wollt (zum Beispiel den Look von Überwachungskamerabildern oder des Fotomodus eines Videospiels) oder ein **Motiv** (ein bestimmtes Objekt, einen Ort oder eine Figur). Sammelt dann Bilder, die diese Ästhetik teilen. Ihr könnt Screenshots aus einem Videospiel verwenden, Fotografien, die ihr selbst gemacht habt, oder Bilder, die ihr online findet. Was auch immer ihr verwendet, überlegt, woher die Bilder stammen:
 
@@ -394,6 +398,10 @@ Verschiedene Upscaling-Modelle dienen unterschiedlichen Zwecken. Probiert die Op
 ## Image to Video
 
 Ihr könnt euer LoRA verwenden, um eine Reihe konsistenter Bilder zu erzeugen (zum Beispiel verschiedene Momente derselben Szene oder derselben Figur) und diese anschließend mit [Image-to-Video-Modellen](https://replicate.com/collections/text-to-video) zu animieren. Ladet ein Standbild als Startbild hoch, beschreibt im Prompt die gewünschte Bewegung, und das Modell erzeugt einen kurzen Clip.
+
+<video muted autoplay controls playsinline width="100%">
+<source src="{{ site.baseurl }}/tutorials/assets/AI_LoRAtoVideo.mp4" type="video/mp4">
+</video>
 
 Beachtet, dass dies der **teuerste** Schritt in diesem Tutorial ist: Die Videoerzeugung kostet viel mehr als das Erzeugen von Standbildern. Prüft den Preis eines Modells auf seiner Seite, bevor ihr es ausführt, beginnt mit kurzen Clips und testet eure Ideen zuerst im Kleinen.
 
