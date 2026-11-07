@@ -168,7 +168,7 @@ Once you get a good starting point, copy the **seed** number of your result and 
 
 Upscaling increases an image's resolution. AI is used to enhance the image by adding detail and fixing artefacts.
 
-Imagine you have a small, somewhat blurry photo, and you want to make it larger and clearer, like turning a wallet-sized photo into a poster without losing quality. Traditional methods would make the photo bigger, but it would also become blurrier. AI upscaling models work like a smart artist who not only enlarges the photo, but also cleverly adds details to make the larger version look sharp and clear. Note that these details are *invented* by the model, a point worth discussing when working with photographs.
+Imagine you have a small, somewhat blurry photo, and you want to make it larger and clearer, like turning a wallet-sized photo into a poster without losing quality. Traditional methods would make the photo bigger, but it would also become blurrier. AI upscaling models enlarge the photo, but also add details, interpreting the missing data to make the larger version look sharp and clear. Note that these details are *invented* by the model, which can sometimes visibly distort the original image – a point worth discussing when working with photographs.
 
 There is also a big overlap between upscaling and image restoration. AI models for restoration fix blemishes, remove noise and add detail, which is well suited to the upscaling process.
 
@@ -179,15 +179,21 @@ Different upscaling models serve different purposes. Explore the options and com
 
 ## Image to video
 
-You can use your LoRA to generate a series of consistent images (for instance, different moments in the same scene or the same character) and then animate them with [image-to-video models](https://replicate.com/collections/text-to-video). Upload a still image as the starting frame, describe the movement you want in the prompt, and the model generates a short clip. Some models provide the possibility to upload a still image for both the starting and ending frames.
+You can use your LoRA to generate a series of consistent images (for instance, different moments in the same scene or the same character) and then animate them with [image-to-video models](https://replicate.com/collections/text-to-video). Upload a still image as the starting frame, describe the movement you want in the prompt, and the model generates a short clip. Some models let you upload a still image for both the starting and the ending frame.
 
-Here I changed the clothes of young Justin Bieber in the forest with inpainting, added another character through image-to-image generation, and used the scene as the starting frame of the video. I created multiple clips of 15 seconds, downloaded them and imported them into a software for editing and add additional colour correction.
+Here I changed the clothes of young Justin Bieber in the forest with inpainting, added another character through image-to-image generation, and used the scene as the starting frame of the video. I created multiple clips of 15 seconds, downloaded them and imported them into editing software to add colour correction.
 
 <video muted autoplay controls playsinline width="100%">
 <source src="{{ site.baseurl }}/tutorials/assets/AI_LoRAtoVideo.mp4" type="video/mp4">
 </video>
 
 Be aware that this is the **most expensive** step in this tutorial: video generation costs much more than generating still images. Check the price of a model on its page before running it, start with short clips, and test your ideas on a small scale first.
+
+To export the last frame of a video as a PNG – which you can use as a starting frame for the next video if you want a fluid camera movement – you can use this ffmpeg command from the terminal:
+
+```
+ffmpeg -sseof -1 -i nameofyourclip.mp4 -vf "scale=in_range=tv:out_range=pc:in_color_matrix=bt709" -update 1 last.png
+```
 
 ## Further resources
 
@@ -388,7 +394,7 @@ Sobald ihr einen guten Ausgangspunkt habt, kopiert die **seed**-Nummer eures Erg
 
 Upscaling erhöht die Auflösung eines Bildes. KI wird eingesetzt, um das Bild zu verbessern, indem sie Details hinzufügt und Artefakte korrigiert.
 
-Stellt euch ein kleines, etwas unscharfes Foto vor, das ihr größer und klarer machen wollt, etwa wenn ihr ein Foto im Passbildformat zu einem Poster vergrößert, ohne an Qualität zu verlieren. Herkömmliche Methoden würden das Foto vergrößern, aber es würde dabei auch unschärfer. KI-Upscaling-Modelle funktionieren wie eine geschickte Künstlerin, die das Foto nicht nur vergrößert, sondern auch auf kluge Weise Details ergänzt, damit die größere Version scharf und klar aussieht. Beachtet, dass diese Details vom Modell *erfunden* werden, ein Punkt, der sich bei der Arbeit mit Fotografien zu diskutieren lohnt.
+Stellt euch ein kleines, etwas unscharfes Foto vor, das ihr größer und klarer machen wollt, etwa wenn ihr ein Foto im Brieftaschenformat zu einem Poster vergrößert, ohne an Qualität zu verlieren. Herkömmliche Methoden würden das Foto vergrößern, aber es würde dabei auch unschärfer. KI-Upscaling-Modelle vergrößern das Foto, ergänzen aber auch Details, indem sie die fehlenden Daten interpretieren, damit die größere Version scharf und klar aussieht. Beachtet, dass diese Details vom Modell *erfunden* werden und das Originalbild dadurch manchmal sichtbar verfälschen können – ein Punkt, der sich bei der Arbeit mit Fotografien zu diskutieren lohnt.
 
 Zwischen Upscaling und Bildrestaurierung gibt es außerdem große Überschneidungen. KI-Modelle für die Restaurierung beheben Makel, entfernen Rauschen und ergänzen Details, was sich gut für den Upscaling-Prozess eignet.
 
@@ -401,13 +407,19 @@ Verschiedene Upscaling-Modelle dienen unterschiedlichen Zwecken. Probiert die Op
 
 Ihr könnt euer LoRA verwenden, um eine Reihe konsistenter Bilder zu erzeugen (zum Beispiel verschiedene Momente derselben Szene oder derselben Figur) und diese anschließend mit [Image-to-Video-Modellen](https://replicate.com/collections/text-to-video) zu animieren. Ladet ein Standbild als Startbild hoch, beschreibt im Prompt die gewünschte Bewegung, und das Modell erzeugt einen kurzen Clip. Einige Modelle erlauben es, sowohl für das Start- als auch für das Endbild ein Standbild hochzuladen.
 
-Hier habe ich mit Inpainting die Kleidung des jungen Justin Bieber im Wald verändert, durch Image-to-Image-Generierung eine weitere Figur hinzugefügt und die Szene als Startbild des Videos verwendet. Ich habe mehrere Clips von 15 Sekunden erzeugt, sie heruntergeladen und in eine Schnittsoftware importiert, um sie zu schneiden und zusätzlich farblich zu korrigieren.
+Hier habe ich mit Inpainting die Kleidung des jungen Justin Bieber im Wald verändert, durch Image-to-Image-Generierung eine weitere Figur hinzugefügt und die Szene als Startbild des Videos verwendet. Ich habe mehrere Clips von 15 Sekunden erzeugt, sie heruntergeladen und in eine Schnittsoftware importiert, um sie zu schneiden und farblich zu korrigieren.
 
 <video muted autoplay controls playsinline width="100%">
 <source src="{{ site.baseurl }}/tutorials/assets/AI_LoRAtoVideo.mp4" type="video/mp4">
 </video>
 
 Beachtet, dass dies der **teuerste** Schritt in diesem Tutorial ist: Die Videoerzeugung kostet viel mehr als das Erzeugen von Standbildern. Prüft den Preis eines Modells auf seiner Seite, bevor ihr es ausführt, beginnt mit kurzen Clips und testet eure Ideen zuerst im Kleinen.
+
+Um das letzte Bild eines Videos als PNG zu exportieren – das ihr als Startbild für das nächste Video verwenden könnt, wenn ihr eine fließende Kamerabewegung wollt – könnt ihr diesen ffmpeg-Befehl im Terminal verwenden:
+
+```
+ffmpeg -sseof -1 -i nameofyourclip.mp4 -vf "scale=in_range=tv:out_range=pc:in_color_matrix=bt709" -update 1 last.png
+```
 
 ## Weitere Ressourcen
 
