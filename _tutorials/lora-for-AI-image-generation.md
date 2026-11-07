@@ -179,7 +179,9 @@ Different upscaling models serve different purposes. Explore the options and com
 
 ## Image to video
 
-You can use your LoRA to generate a series of consistent images (for instance, different moments in the same scene or the same character) and then animate them with [image-to-video models](https://replicate.com/collections/text-to-video). Upload a still image as the starting frame, describe the movement you want in the prompt, and the model generates a short clip.
+You can use your LoRA to generate a series of consistent images (for instance, different moments in the same scene or the same character) and then animate them with [image-to-video models](https://replicate.com/collections/text-to-video). Upload a still image as the starting frame, describe the movement you want in the prompt, and the model generates a short clip. Some models provide the possibility to upload a still image for both the starting and ending frames.
+
+Here I changed the clothes of young Justin Bieber in the forest with inpainting, added another character through image-to-image generation, and used the scene as the starting frame of the video. I created multiple clips of 15 seconds, downloaded them and imported them into a software for editing and add additional colour correction.
 
 <video muted autoplay controls playsinline width="100%">
 <source src="{{ site.baseurl }}/tutorials/assets/AI_LoRAtoVideo.mp4" type="video/mp4">
@@ -397,7 +399,9 @@ Verschiedene Upscaling-Modelle dienen unterschiedlichen Zwecken. Probiert die Op
 
 ## Image to Video
 
-Ihr könnt euer LoRA verwenden, um eine Reihe konsistenter Bilder zu erzeugen (zum Beispiel verschiedene Momente derselben Szene oder derselben Figur) und diese anschließend mit [Image-to-Video-Modellen](https://replicate.com/collections/text-to-video) zu animieren. Ladet ein Standbild als Startbild hoch, beschreibt im Prompt die gewünschte Bewegung, und das Modell erzeugt einen kurzen Clip.
+Ihr könnt euer LoRA verwenden, um eine Reihe konsistenter Bilder zu erzeugen (zum Beispiel verschiedene Momente derselben Szene oder derselben Figur) und diese anschließend mit [Image-to-Video-Modellen](https://replicate.com/collections/text-to-video) zu animieren. Ladet ein Standbild als Startbild hoch, beschreibt im Prompt die gewünschte Bewegung, und das Modell erzeugt einen kurzen Clip. Einige Modelle erlauben es, sowohl für das Start- als auch für das Endbild ein Standbild hochzuladen.
+
+Hier habe ich mit Inpainting die Kleidung des jungen Justin Bieber im Wald verändert, durch Image-to-Image-Generierung eine weitere Figur hinzugefügt und die Szene als Startbild des Videos verwendet. Ich habe mehrere Clips von 15 Sekunden erzeugt, sie heruntergeladen und in eine Schnittsoftware importiert, um sie zu schneiden und zusätzlich farblich zu korrigieren.
 
 <video muted autoplay controls playsinline width="100%">
 <source src="{{ site.baseurl }}/tutorials/assets/AI_LoRAtoVideo.mp4" type="video/mp4">
