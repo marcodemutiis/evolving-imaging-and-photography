@@ -477,10 +477,9 @@ Achtet beim Lesen darauf, wo die Autorin für ein Publikum performt, und wo ihr 
 
 ### Umsetzung
 
-- Draft your interview questions (6 to 10 questions), or write a short abstract of your proposed text assignment (300 words).
+- Entwerft eure Interviewfragen (6 bis 10 Fragen) oder schreibt ein kurzes Abstract zu eurem geplanten Textauftrag (300 Wörter). 
 
-- Stage the same bed three times, each time for a different audience, such as a holiday rental listing, a "get ready with me" video, a "messy girl" or a minimal-room post, or a bedroom you would send to *Interior Motives*. Change only what the audience would expect: the bedding, the objects, the light, the angle, the distance and the crop. Use photography, photogrammetry or digital techniques explored so far, and keep the three images as similar as possible in everything else, so that the staging does the talking.
-Entwerft eure Interviewfragen.
+- Inszeniert dasselbe Bett dreimal, jedes Mal für eine andere Zielgruppe, beispielsweise für eine Ferienwohnungsanzeige, ein „Get Ready With Me“-Video, einen „Messy Girl“- oder Minimal-Room-Post oder ein Schlafzimmer, das ihr an *Interior Motives* schicken würdet. Verändert dabei nur das, was die jeweilige Zielgruppe erwarten würde: die Bettwäsche, die Gegenstände, das Licht, den Blickwinkel, die Entfernung und den Bildausschnitt. Nutzt Fotografie, Photogrammetrie oder digitale Techniken, die ihr bisher kennengelernt habt, und achtet darauf, dass die drei Bilder in allen anderen Aspekten so ähnlich wie möglich bleiben, damit die Inszenierung für sich spricht.
 
 Erstellt eine Serie von 3 Bildern. Fragt euch bei jedem: Für wen ist dieses Bild, was verlangt es von mir zu sein, und was wurde in den Bildausschnitt hinein- oder aus ihm herausgenommen?
 
