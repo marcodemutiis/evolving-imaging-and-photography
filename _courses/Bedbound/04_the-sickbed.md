@@ -139,9 +139,9 @@ Use an image as a material texture to customise the 3D model of a bed. This tuto
 
 ![Projection settings of the fill layer]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial3.jpg)
 
-![The bed with the new texture]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial4.png)
-
 5. Click on *Mode* and select *Rendering (path trace)*, and click on *Save Render...* once done.
+
+![The bed with the new texture]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial4.png)
 
 ***
 
@@ -300,9 +300,11 @@ Verwendet ein Bild als Materialtextur, um das 3D-Modell eines Betts zu gestalten
 
 ![Projektionseinstellungen des Fill Layers]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial3.jpg)
 
+5. Klickt auf *Mode*, wählt *Rendering (path trace)* und klickt danach auf *Save Render...*, sobald das Rendering fertig ist.
+
 ![Das Bett mit der neuen Textur]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial4.png)
 
-5. Klickt auf *Mode*, wählt *Rendering (path trace)* und klickt danach auf *Save Render...*, sobald das Rendering fertig ist.
+
 
 ***
 
