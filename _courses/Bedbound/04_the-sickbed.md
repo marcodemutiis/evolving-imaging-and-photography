@@ -122,7 +122,27 @@ More info: [artnews.com/art-news/news/bedrot-aphex-redditor-qualeasha-wood-viral
 
 ## Tutorial
 
-[LoRAs for AI Image Generation](https://www.evolving.photography/tutorials/lora-for-AI-image-generation/)
+### Texturing a 3D bed
+
+Use an image as a material texture to customise the 3D model of a bed. This tutorial uses [TextureCraft](https://getartcraft.com/apps/texturecraft), a free and open-source application for Mac and Windows.
+
+1. **Open your model.** Download TextureCraft and open a new project. Import your own 3D model of your bed or download one from Sketchfab, and drag it into TextureCraft.
+2. **Add a fill layer.** In the *Layers* panel, click *Add Fill Layer* and select the new layer.
+
+![Adding a fill layer in TextureCraft]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial1.jpg)
+<!-- TO DO: TC_tutorial1 had no file extension in the draft; .jpg is assumed, and the image folder path is assumed to be the same as the other images. -->
+
+3. **Import your image.** Open the *Properties* panel and find the *Base Color* channel. Click the ⋯ button next to its name, choose *Import…* and select your JPG.
+
+![Importing an image into the Base Color channel]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial2.jpg)
+
+4. **Adjust the projection.** In the fill layer properties, choose the projection (UV, planar, tri-planar, etc.) and adjust the UV scale, rotation and offset until the image sits on the bed the way you want.
+
+![Projection settings of the fill layer]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial3.jpg)
+
+![The bed with the new texture]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial4.png)
+
+5. **Take a screenshot** of the result for your submission.
 
 ***
 
@@ -142,7 +162,7 @@ Use a bedsheet and/or pillow covers as a surface for images. Make one image (or 
 
 Interpret “trace” in one of these three ways, or combine them, mixing techniques and experimenting with different aesthetics and concepts.
 
-You can also work with generative AI: use the [LoRA tutorial](https://www.evolving.photography/tutorials/lora-for-AI-image-generation/) to train a LoRA on your own material (photographs of sheets, screenshots, scans of handwritten notes) and use it to generate or extend your image.
+Follow the tutorial above to apply your image to a 3D model of your bed.
 
 ### Submit
 
@@ -264,7 +284,26 @@ Mehr Infos: [artnews.com/art-news/news/bedrot-aphex-redditor-qualeasha-wood-vira
 
 ## Tutorial
 
-[LoRAs for AI Image Generation](https://www.evolving.photography/tutorials/lora-for-AI-image-generation/)
+### Ein 3D-Bett texturieren
+
+Verwendet ein Bild als Materialtextur, um das 3D-Modell eines Betts zu gestalten. Dieses Tutorial nutzt [TextureCraft](https://getartcraft.com/apps/texturecraft), eine kostenlose Open-Source-Anwendung für Mac und Windows.
+
+1. **Modell öffnen.** Ladet TextureCraft herunter und öffnet ein neues Projekt. Importiert ein eigenes 3D-Modell eures Betts oder ladet eines von Sketchfab herunter, und zieht es in TextureCraft.
+2. **Fill Layer hinzufügen.** Klickt im Bereich *Layers* auf *Add Fill Layer* und wählt die neue Ebene aus.
+
+![Einen Fill Layer in TextureCraft hinzufügen]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial1.jpg)
+
+3. **Bild importieren.** Öffnet den Bereich *Properties* und sucht den Kanal *Base Color*. Klickt auf die Schaltfläche ⋯ neben seinem Namen, wählt *Import…* und wählt euer JPG aus.
+
+![Ein Bild in den Kanal Base Color importieren]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial2.jpg)
+
+4. **Projektion anpassen.** Wählt in den Eigenschaften des Fill Layers die Projektion (UV, planar, tri-planar usw.) und passt UV Scale, Rotation und Offset an, bis das Bild so auf dem Bett sitzt, wie ihr es wollt.
+
+![Projektionseinstellungen des Fill Layers]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial3.jpg)
+
+![Das Bett mit der neuen Textur]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial4.png)
+
+5. **Screenshot machen.** Macht einen Screenshot des Ergebnisses für eure Abgabe.
 
 ***
 
@@ -284,7 +323,7 @@ Nutzt ein Bettlaken und/oder Kissenbezüge als Oberfläche für Bilder. Macht ei
 
 Interpretiert „Spur“ auf eine dieser drei Arten oder kombiniert sie, mischt Techniken und experimentiert mit verschiedenen Ästhetiken und Konzepten.
 
-Ihr könnt auch mit generativer KI arbeiten: Nutzt das [LoRA-Tutorial](https://www.evolving.photography/tutorials/lora-for-AI-image-generation/), um ein LoRA auf eurem eigenen Material (Fotos von Laken, Screenshots, Scans handschriftlicher Notizen) zu trainieren, und erzeugt oder erweitert damit euer Bild.
+Folgt dem Tutorial oben, um euer Bild auf ein 3D-Modell eures Betts zu legen.
 
 ### Abgabe
 
