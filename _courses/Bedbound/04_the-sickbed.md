@@ -130,7 +130,6 @@ Use an image as a material texture to customise the 3D model of a bed. This tuto
 2. **Add a fill layer.** In the *Layers* panel, click *Add Fill Layer* and select the new layer.
 
 ![Adding a fill layer in TextureCraft]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial1.jpg)
-<!-- TO DO: TC_tutorial1 had no file extension in the draft; .jpg is assumed, and the image folder path is assumed to be the same as the other images. -->
 
 3. **Import your image.** Open the *Properties* panel and find the *Base Color* channel. Click the ⋯ button next to its name, choose *Import…* and select your JPG.
 
@@ -142,7 +141,7 @@ Use an image as a material texture to customise the 3D model of a bed. This tuto
 
 ![The bed with the new texture]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial4.png)
 
-5. **Take a screenshot** of the result for your submission.
+5. Click on *Mode* and select *Rendering (path trace)*, and click on *Save Render...* once done.
 
 ***
 
@@ -168,7 +167,7 @@ Follow the tutorial above to apply your image to a 3D model of your bed.
 
 Add your image, your name and a two-sentence caption to [the shared document](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?tab=t.jqdbv38mvhad).
 
-Also add a screenshot of the image previewed on a bedsheet or pillow cover in a 3D mockup or an online print-on-demand shop (for example Redbubble, Society6 or Spreadshirt). You only need the shop's preview of your design, you do not have to order anything.
+Also add a screenshot or render of the image previewed on a bedsheet or pillow cover in a 3D mockup or an online print-on-demand shop (for example Redbubble, Society6 or Spreadshirt). If you use a shop, you only need its preview of your design, you do not have to order anything.
 
 
 </div>
@@ -303,7 +302,7 @@ Verwendet ein Bild als Materialtextur, um das 3D-Modell eines Betts zu gestalten
 
 ![Das Bett mit der neuen Textur]({{ site.baseurl }}/courses/Bedbound/assets/img/TC_tutorial4.png)
 
-5. **Screenshot machen.** Macht einen Screenshot des Ergebnisses für eure Abgabe.
+5. Klickt auf *Mode*, wählt *Rendering (path trace)* und klickt danach auf *Save Render...*, sobald das Rendering fertig ist.
 
 ***
 
@@ -329,6 +328,6 @@ Folgt dem Tutorial oben, um euer Bild auf ein 3D-Modell eures Betts zu legen.
 
 Fügt euer Bild, euren Namen und eine zweisätzige Bildunterschrift in [das gemeinsame Dokument](https://docs.google.com/document/d/1bOUnf8612hV7KNlkn1MF4mayiAJEVsrXqhSHDMhreNg/edit?tab=t.jqdbv38mvhad) ein.
 
-Fügt außerdem einen Screenshot der Vorschau eures Bildes auf einem Bettlaken oder Kissenbezug hinzu, entweder in einem 3D-Mockup oder in einem Print-on-Demand-Shop (zum Beispiel Redbubble, Society6 oder Spreadshirt). Ihr braucht nur die Vorschau des Shops für euer Design, bestellen müsst ihr nichts.
+Fügt außerdem einen Screenshot oder ein Rendering der Vorschau eures Bildes auf einem Bettlaken oder Kissenbezug hinzu, entweder in einem 3D-Mockup oder in einem Print-on-Demand-Shop (zum Beispiel Redbubble, Society6 oder Spreadshirt). Wenn ihr einen Shop nutzt, braucht ihr nur dessen Vorschau eures Designs, bestellen müsst ihr nichts.
 
 </div>
