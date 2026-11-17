@@ -199,7 +199,7 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 - Grünewald Janne vv
 
-- Fuchs Giuliana vv
+- <del>Fuchs Giuliana vv</del>
 
 - Späth Tessa vv
 
