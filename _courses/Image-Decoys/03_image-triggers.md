@@ -72,7 +72,9 @@ In all these projects, images become triggers for algorithmic vision—they do n
 
 ## Assignment
 
-1. Create your own *Image Triggers* project inspired by the examples seen in class. Choose one of three options:
+**1.** -> 19.11
+
+Create your own *Image Triggers* project inspired by the examples seen in class. Choose one of three options:
 
 **Option A: Test a trigger.** Pick a machine vision system you can access, such as a face-detection demo, an object detector, Google Lens, or an automatic captioning or alt-text tool. Design an image, pattern or intervention that tries to confuse, mislead or redirect how the system sees. Test several variants and document what happens, including when it fails. What did the system see, and what did it miss or misread?
 
@@ -84,7 +86,11 @@ Whichever option you choose, remember that adversarial patterns often work only 
 
 Add your name, a description of your project and some images to the [share document](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.ywqnvnlufn).
 
-2. Use machine vision in p5.js to hide and reveal images based on specific pose, face or hand tracking, or use teacheable machine to create your own classification.
+***
+
+**2.** -> 26.11.
+
+Use machine vision in p5.js to hide and reveal images based on specific pose, face or hand tracking, or use teacheable machine to create your own classification.
 
 Add your name, a description of your project and some images to the [share document](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.j7c0xsv0uhen).
 
@@ -139,7 +145,8 @@ In all diesen Projekten werden Bilder zu Triggern für algorithmisches Sehen –
 
 ## Aufgabe
 
-1. Entwickelt euer eigenes *Image Triggers*-Projekt, inspiriert von den im Unterricht gezeigten Beispielen. Wählt eine von drei Optionen:
+**1.** -> 19.11.
+Entwickelt euer eigenes *Image Triggers*-Projekt, inspiriert von den im Unterricht gezeigten Beispielen. Wählt eine von drei Optionen:
 
 **Option A: Einen Trigger testen.** Wählt ein Machine-Vision-System, auf das ihr Zugriff habt, zum Beispiel eine Gesichtserkennungs-Demo, einen Objektdetektor, Google Lens oder ein Tool für automatische Bildbeschreibungen bzw. Alt-Texte. Gestaltet ein Bild, ein Muster oder eine Intervention, die versucht, die Art und Weise zu verwirren, irrezuführen oder umzulenken, wie das System sieht. Testet mehrere Varianten und dokumentiert, was passiert – auch wenn es scheitert. Was hat das System gesehen, und was hat es übersehen oder falsch gelesen?
 
@@ -151,7 +158,9 @@ Unabhängig von eurer Wahl gilt: Adversariale Muster funktionieren oft nur bei b
 
 Fügt euren Namen, eine Beschreibung eures Projekts und einige Bilder in das [geteilte Dokument](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.ywqnvnlufn) ein.
 
-2. Nutze Machine Vision in p5.js, um Bilder abhängig von bestimmten Posen sowie der Gesichts- oder Handerkennung ein- und auszublenden. Alternativ kannst du mit Teachable Machine ein eigenes Klassifikationsmodell erstellen.
+**2.** -> 26.11.
+
+Nutze Machine Vision in p5.js, um Bilder abhängig von bestimmten Posen sowie der Gesichts- oder Handerkennung ein- und auszublenden. Alternativ kannst du mit Teachable Machine ein eigenes Klassifikationsmodell erstellen.
 
 Füge deinen Namen, eine Beschreibung deines Projekts und einige Bilder zum [gemeinsamen Dokument](<https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.j7c0xsv0uhen&utm_source=chatgpt.com>) hinzu.
 
