@@ -225,43 +225,43 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 ## Student_innen
 </div>
 
-- Matter Lisa vvv
+- Matter Lisa vvvv
 
-- Kaufmann Lilian vvv
+- Kaufmann Lilian vvvv
 
-- Wegst Emily vvv
+- Wegst Emily vvvv
 
-- Bröde Julia vvv
+- Bröde Julia vvvv
 
-- Zhuk Diana vvv
+- Zhuk Diana vvvv
 
-- Schneider Lisa vvv
+- Schneider Lisa vvvx
 
-- Ebini Charleen vvv
+- Ebini Charleen vvvv
 
-- Bechinger Daria vvv
+- Bechinger Daria vvvv
 
-- Frenzel Josephine vvv
+- Frenzel Josephine vvvv
 
 - <del>Prechtel Liesbeth</del> 
 
-- Heidemann Lisa vvv
+- Heidemann Lisa vvvv
 
-- Schopf Julia vvv
+- Schopf Julia vvvv
 
-- Bär Titus vvx
+- Bär Titus vvxv
 
-- Cepuran Mirjam vvv
+- Cepuran Mirjam vvvx
 
-- Mörbe Frederik vvv
+- Mörbe Frederik vvvx
 
-- Ring Anni vvv
+- Ring Anni vvvx
 
-- Nicolai Annike vxv
+- Nicolai Annike vxvv
 
-- Lucia Mendaro xxv
+- Mendaro Lucia xxvv
 
 [MKD]
 
--  Michaela vvv
+-  Michaela vvvv
 

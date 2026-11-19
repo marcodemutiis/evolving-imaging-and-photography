@@ -1,0 +1,36 @@
+{
+ "images": [
+  {
+   "file": "1.jpeg",
+   "thumb": "thumbs/1.jpeg",
+   "width": 554,
+   "height": 554,
+   "likes": 177,
+   "comments": 21
+  },
+  {
+   "file": "2.jpg",
+   "thumb": "thumbs/2.jpg",
+   "width": 1200,
+   "height": 1200,
+   "likes": 19,
+   "comments": 1
+  },
+  {
+   "file": "cat1.jpg",
+   "thumb": "thumbs/cat1.jpg",
+   "width": 1080,
+   "height": 1080,
+   "likes": 61,
+   "comments": 5
+  },
+  {
+   "file": "signal-2026-11-15-12-06-25-314_002.jpg",
+   "thumb": "thumbs/signal-2026-11-15-12-06-25-314_002.jpg",
+   "width": 1200,
+   "height": 1600,
+   "likes": 77,
+   "comments": 3
+  }
+ ]
+}

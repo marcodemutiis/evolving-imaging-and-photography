@@ -72,7 +72,7 @@ In all these projects, images become triggers for algorithmic vision—they do n
 
 ## Assignment
 
-Create your own *Image Triggers* project inspired by the examples seen in class. Choose one of three options:
+1. Create your own *Image Triggers* project inspired by the examples seen in class. Choose one of three options:
 
 **Option A: Test a trigger.** Pick a machine vision system you can access, such as a face-detection demo, an object detector, Google Lens, or an automatic captioning or alt-text tool. Design an image, pattern or intervention that tries to confuse, mislead or redirect how the system sees. Test several variants and document what happens, including when it fails. What did the system see, and what did it miss or misread?
 
@@ -82,16 +82,19 @@ Create your own *Image Triggers* project inspired by the examples seen in class.
 
 Whichever option you choose, remember that adversarial patterns often work only on specific models and can be surprisingly fragile. A trigger that fails is still a result worth sharing.
 
-Add your name, a description of your project and some images to the [share document](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.ywqnvnlufn). 
+Add your name, a description of your project and some images to the [share document](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.ywqnvnlufn).
+
+2. Use machine vision in p5.js to hide and reveal images based on specific pose, face or hand tracking, or use teacheable machine to create your own classification.
+
+Add your name, a description of your project and some images to the [share document](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.j7c0xsv0uhen).
+
 </div>
 
 <div class="lang-de" markdown="1">
 
 ## Presentations
 
-Upload your marker and your Snapchat code or TikTok QR code to the [shared doc](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.bd7l67a0ehpo).
-
-We are going on a tour of the building to check your image decoys!
+Lade euren Marker und euren Snapchat-Code oder TikTok-QR-Code in das [gemeinsame Dokument](<https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.bd7l67a0ehpo&utm_source=chatgpt.com>) hoch. Wir machen einen Rundgang durch das Gebäude, um eure Bild-Tarnungen zu überprüfen!
 
 ***
 
@@ -136,7 +139,7 @@ In all diesen Projekten werden Bilder zu Triggern für algorithmisches Sehen –
 
 ## Aufgabe
 
-Entwickelt euer eigenes *Image Triggers*-Projekt, inspiriert von den im Unterricht gezeigten Beispielen. Wählt eine von drei Optionen:
+1. Entwickelt euer eigenes *Image Triggers*-Projekt, inspiriert von den im Unterricht gezeigten Beispielen. Wählt eine von drei Optionen:
 
 **Option A: Einen Trigger testen.** Wählt ein Machine-Vision-System, auf das ihr Zugriff habt, zum Beispiel eine Gesichtserkennungs-Demo, einen Objektdetektor, Google Lens oder ein Tool für automatische Bildbeschreibungen bzw. Alt-Texte. Gestaltet ein Bild, ein Muster oder eine Intervention, die versucht, die Art und Weise zu verwirren, irrezuführen oder umzulenken, wie das System sieht. Testet mehrere Varianten und dokumentiert, was passiert – auch wenn es scheitert. Was hat das System gesehen, und was hat es übersehen oder falsch gelesen?
 
@@ -147,5 +150,10 @@ Entwickelt euer eigenes *Image Triggers*-Projekt, inspiriert von den im Unterric
 Unabhängig von eurer Wahl gilt: Adversariale Muster funktionieren oft nur bei bestimmten Modellen und können überraschend fragil sein. Ein Trigger, der scheitert, ist trotzdem ein Ergebnis, das sich zu teilen lohnt.
 
 Fügt euren Namen, eine Beschreibung eures Projekts und einige Bilder in das [geteilte Dokument](https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.ywqnvnlufn) ein.
+
+2. Nutze Machine Vision in p5.js, um Bilder abhängig von bestimmten Posen sowie der Gesichts- oder Handerkennung ein- und auszublenden. Alternativ kannst du mit Teachable Machine ein eigenes Klassifikationsmodell erstellen.
+
+Füge deinen Namen, eine Beschreibung deines Projekts und einige Bilder zum [gemeinsamen Dokument](<https://docs.google.com/document/d/16iRfE4wmEdfgtDQ03-WwIJDvqvegzwPMfz8YotXb-Zk/edit?tab=t.j7c0xsv0uhen&utm_source=chatgpt.com>) hinzu.
+
 
 </div>
