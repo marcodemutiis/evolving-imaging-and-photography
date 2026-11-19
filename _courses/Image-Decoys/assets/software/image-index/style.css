@@ -20,7 +20,7 @@ a { color: inherit; }
 .small { font-size: 0.82rem; color: var(--muted); margin: 0.4rem 0; }
 
 /* ---- every box: a double dotted line (a dotted border plus a dotted line 3px inside it) ---- */
-.menu, .tile, .drop, .inspector, .inspector img.big, details pre,
+.menu, .tile, .drop, .inspector img.big, details pre,
 input[type="search"], input[type="text"], input[type="password"], input[type="number"], input[type="datetime-local"], textarea,
 button, .slider input[type="color"] {
   border: 1px dotted var(--ink);
@@ -100,11 +100,8 @@ details pre { background: #f4f4f1; padding: 0.7rem; overflow: auto; font: inheri
 .tile.nomatch { opacity: 0.4; }
 .tile.slipped { border-color: var(--bad); outline-color: var(--bad); }
 
-/* ---- inspector ---- */
-.inspector { position: fixed; top: 0.6rem; right: 0.6rem; bottom: 0.6rem; width: min(470px, calc(100vw - 1.2rem)); background: var(--panel); overflow: auto; padding: 1.3rem; z-index: 10; }
-.inspector[hidden] { display: none; }
-.inspector .close { position: absolute; top: 0.6rem; right: 0.7rem; font-size: 1.1rem; line-height: 1; padding: 0.15rem 0.55rem; }
-.inspector img.big { width: 100%; display: block; margin: 1.8rem 0 0.7rem; padding: 6px; background: #fff; }
+/* ---- inspector (a menu in the sidebar) ---- */
+.inspector img.big { width: 100%; display: block; margin: 0 0 0.7rem; padding: 6px; background: #fff; }
 .inspector h3 { font-size: 1rem; text-transform: none; letter-spacing: 0; color: inherit; margin: 0 0 0.2rem; word-break: break-all; }
 .inspector h4 { font-size: 0.78rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 1.2rem 0 0.5rem; }
 table.meta { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
@@ -140,3 +137,5 @@ details.raw pre { max-height: 14rem; font-size: 0.72rem; }
 #editStatus.error { color: var(--bad); }
 button:disabled { color: var(--muted); background: #fff; cursor: default; outline-color: var(--muted); border-color: var(--muted); }
 .engage { margin-top: 1rem; }
+.tile.selected { background: var(--ink); }
+.tile.selected .rank { background: #fff; color: var(--ink); }

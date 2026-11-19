@@ -76,6 +76,14 @@ exiftool -all= photo.jpg</pre>
           </div>
           </div>
         </section>
+
+        <section class="menu" id="menu-inspector">
+          <h2 class="menu-head"><button type="button" aria-expanded="false" aria-controls="body-inspector" data-i18n="inspector">Inspector</button></h2>
+          <div class="menu-body inspector" id="body-inspector">
+            <p id="inspectorEmpty" class="small" data-i18n="inspectorEmpty">Click on an image to display file and metadata information.</p>
+            <div id="inspectorBody"></div>
+          </div>
+        </section>
       </aside>
 
       <main>
@@ -87,11 +95,6 @@ exiftool -all= photo.jpg</pre>
         <div id="grid" class="grid"></div>
       </main>
     </div>
-
-    <aside id="inspector" class="inspector" hidden aria-label="Image details">
-      <button id="closeInspector" type="button" class="close" aria-label="Close">×</button>
-      <div id="inspectorBody"></div>
-    </aside>
 
     <script src="vendor/exifr.full.umd.js"></script>
     <script src="vendor/piexif.js"></script>

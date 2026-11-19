@@ -75,6 +75,8 @@
       badgeTrue: 'actually AI',
       badgeSlipped: 'AI, not declared',
       copied: 'Copied',
+      inspector: 'Inspector',
+      inspectorEmpty: 'Click on an image to display file and metadata information.',
       noPreview: 'No preview in this browser',
       unreadable: 'Could not read metadata from this file.'
     },
@@ -105,7 +107,6 @@
   const $ = (id) => document.getElementById(id);
   const grid = $('grid');
   const status = $('status');
-  const inspector = $('inspector');
   const inspectorBody = $('inspectorBody');
 
   function el(tag, props, ...kids) {
@@ -353,8 +354,7 @@
     ['dragenter', 'dragover'].forEach((ev) => document.addEventListener(ev, (e) => { e.preventDefault(); drop.classList.add('over'); }));
     ['dragleave', 'drop'].forEach((ev) => document.addEventListener(ev, (e) => { e.preventDefault(); if (ev === 'drop' || e.target === document.documentElement) drop.classList.remove('over'); }));
     document.addEventListener('drop', (e) => { if (e.dataTransfer && e.dataTransfer.files.length) addFiles(e.dataTransfer.files); });
-    $('closeInspector').addEventListener('click', closeInspector);
-    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeInspector(); });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && openId) closeInspector(); });
   }
 
   function syncControls() {
@@ -393,7 +393,7 @@
     const alt = e.description || e.title || it.name;
     const q = Core.keywordRaw(e, state.query);
     const hasQuery = state.query.trim() !== '';
-    const b = el('button', { type: 'button', class: 'tile' + (hasQuery && !r.queryMatch ? ' nomatch' : '') + (slipped ? ' slipped' : ''), title: it.name });
+    const b = el('button', { type: 'button', class: 'tile' + (hasQuery && !r.queryMatch ? ' nomatch' : '') + (slipped ? ' slipped' : '') + (it.id === openId ? ' selected' : ''), title: it.name });
     b.append(it.thumbUrl ? el('img', { src: it.thumbUrl, alt, loading: 'lazy' }) : el('div', { class: 'noimg', text: it.name }));
     b.append(el('span', { class: 'rank', text: '#' + (idx + 1) }));
     b.append(el('span', { class: 'score', text: r.score.toFixed(2) }));
@@ -426,7 +426,12 @@
   }
 
   // ---- inspector ----
-  function closeInspector() { openId = null; inspector.hidden = true; }
+  function closeInspector() {
+    openId = null;
+    inspectorBody.replaceChildren();
+    $('inspectorEmpty').hidden = false;
+    render();
+  }
 
   // EXIF dates carry no time zone; exifr gives local-time Dates, so format with local getters
   function pad(n) { return String(n).padStart(2, '0'); }
@@ -436,9 +441,10 @@
 
   function openInspector(id) {
     openId = id;
-    inspector.hidden = false;
+    $('inspectorEmpty').hidden = true;
     buildInspector();
-    refreshInspector();
+    showMenu('menu-inspector');
+    render();
   }
 
   function field(label, input, inline) {
@@ -639,14 +645,18 @@
   }
 
   // ---- collapsible menus (one open at a time) ----
+  function showMenu(id) {
+    document.querySelectorAll('.menu').forEach((m) => {
+      const on = m.id === id;
+      m.classList.toggle('open', on);
+      m.querySelector('.menu-head button').setAttribute('aria-expanded', String(on));
+    });
+  }
   function initMenus() {
-    const menus = Array.from(document.querySelectorAll('.menu'));
-    menus.forEach((m) => {
-      const btn = m.querySelector('.menu-head button');
-      btn.addEventListener('click', () => {
-        const open = !m.classList.contains('open');
-        menus.forEach((o) => { o.classList.remove('open'); o.querySelector('.menu-head button').setAttribute('aria-expanded', 'false'); });
-        if (open) { m.classList.add('open'); btn.setAttribute('aria-expanded', 'true'); }
+    document.querySelectorAll('.menu').forEach((m) => {
+      m.querySelector('.menu-head button').addEventListener('click', () => {
+        if (m.classList.contains('open')) { m.classList.remove('open'); m.querySelector('.menu-head button').setAttribute('aria-expanded', 'false'); }
+        else showMenu(m.id);
       });
     });
   }
