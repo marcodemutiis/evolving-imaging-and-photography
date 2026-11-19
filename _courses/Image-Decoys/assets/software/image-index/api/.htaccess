@@ -1,0 +1,5 @@
+# Phone photos are often 3-8 MB; PHP's default limit is only 2 MB.
+<IfModule mod_php.c>
+  php_value upload_max_filesize 12M
+  php_value post_max_size 14M
+</IfModule>

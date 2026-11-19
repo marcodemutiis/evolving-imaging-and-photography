@@ -2,6 +2,9 @@
 (function () {
   'use strict';
 
+  // The in-page file editor is switched off: students are meant to change metadata with ExifTool.
+  // To bring it back, add <script>window.IMAGE_INDEX_EDIT = true;</script> before app.js in index.html.
+  const ENABLE_FILE_EDIT = window.IMAGE_INDEX_EDIT === true;
   const OPTS = { tiff: true, ifd0: true, exif: true, gps: true, xmp: true, iptc: true, mergeOutput: true };
 
   // ---- strings. English is the default; add German under T.de (missing keys fall back to English). ----
@@ -13,11 +16,6 @@
       empty: 'Nothing matches. Nobody has written about this yet: a data void. Add an image that does.',
       rankOf: 'Rank {r} of {n}, score {s}',
       filteredOut: 'Not shown: it does not match the query.',
-      read: 'What the index read from this file',
-      why: 'Why it ranks here',
-      simulate: 'Simulate an edit',
-      simulateNote: 'This changes only what the index believes. The file stays as it is. To change the file itself, edit it with a metadata tool and drop it here again.',
-      resetEdits: 'Undo my edits',
       raw: 'Raw tags as read from the file',
       none: '(none)',
       yes: 'yes',
@@ -39,8 +37,7 @@
       popNote: '{likes} likes, {comments} comments (not stored in the file)',
       eCamera: 'Camera (make and model)',
       eDate: 'Date taken',
-      eGps: 'Has a location',
-      eAI: 'Declared as AI',
+      eAI: 'Declared as AI (DigitalSourceType)',
       eLikes: 'Likes',
       eComments: 'Comments',
       eKeywords: 'Keywords, separated by commas',
@@ -48,6 +45,33 @@
       badgeCam: 'cam',
       badgeGps: 'GPS',
       badgeYours: 'yours',
+      editHeading: 'Edit this file',
+      editNote: 'Apply writes these values into the JPEG itself, and the index then reads the file again. Download it to check the result with ExifTool. Title, description and keywords are stored as XMP, which replaces the XMP and IPTC blocks that were there. Camera, author and copyright accept plain ASCII only.',
+      copyNote: 'This image cannot be changed in place, so Apply makes an edited copy that stays in your browser.',
+      eFilename: 'Filename',
+      eMake: 'Camera make',
+      eModel: 'Camera model',
+      eLat: 'Latitude',
+      eLon: 'Longitude',
+      aiNote: 'A tool named in Software (Midjourney, DALL-E ...) also counts as declared.',
+      likesNote: 'Likes and comments are not part of an image file. They are kept next to it.',
+      likeBtn: '+1 like',
+      liked: 'liked',
+      commentBtn: '+1 comment',
+      commented: 'commented',
+      engageNote: 'One like and one comment per image. They are not stored in the file and are reset when you reload the page.',
+      apply: 'Apply to file',
+      download: 'Download file',
+      restore: 'Restore original',
+      working: 'Writing the file ...',
+      editFail: 'The file could not be changed.',
+      needCode: 'Enter the class code to see and add shared images.',
+      needHandle: 'Enter a name or nickname first.',
+      sharedCount: 'Class index: {n}',
+      sharedError: 'The class index could not be reached.',
+      uploading: 'Uploading {name} ...',
+      uploaded: 'Shared. It now appears in the index.',
+      gpsFail: 'Could not remove the location from {name}, so it was not uploaded.',
       badgeTrue: 'actually AI',
       badgeSlipped: 'AI, not declared',
       copied: 'Copied',
@@ -127,7 +151,8 @@
     };
   }
 
-  async function addFile(f) {
+  async function addFile(f, extra) {
+    extra = extra || {};
     let raw = null;
     try { raw = await exifr.parse(f, OPTS); } catch (err) { console.warn(tr('unreadable'), f.name, err); }
     const url = URL.createObjectURL(f);
@@ -137,9 +162,9 @@
     const id = 'upload:' + f.name;
     const old = items.findIndex((i) => i.id === id);
     const item = {
-      id, source: 'upload', name: f.name, thumbUrl: img ? url : '', fullUrl: img ? url : '',
+      id, source: 'upload', name: f.name, blob: f, orig: extra.orig || null, thumbUrl: img ? url : '', fullUrl: img ? url : '',
       raw, avgColor: avg, ov: {},
-      base: Core.derive(raw, { filename: f.name, width: img ? img.naturalWidth : 0, height: img ? img.naturalHeight : 0, likes: 0, comments: 0 })
+      base: Core.derive(raw, { filename: f.name, width: img ? img.naturalWidth : 0, height: img ? img.naturalHeight : 0, likes: extra.likes || 0, comments: extra.comments || 0 })
     };
     if (old >= 0) items[old] = item; else items.push(item);
     return id;
@@ -147,10 +172,126 @@
 
   async function addFiles(fileList) {
     const files = Array.from(fileList).filter((f) => /\.jpe?g$/i.test(f.name));
+    if (share.available && $('shareOn').checked) {
+      let last = null;
+      for (const f of files) {
+        try {
+          shareSay(tr('uploading', { name: f.name }), false);
+          const r = await uploadShared(f);
+          last = 'shared:' + r.handle + '/' + r.file;
+        } catch (err) { shareSay(err.message, true); await refreshShared(); return; }
+      }
+      await refreshShared();
+      if (last && items.some((i) => i.id === last)) { shareSay(tr('uploaded'), false); if (files.length === 1) openInspector(last); }
+      return;
+    }
     let last = null;
     for (const f of files) last = await addFile(f);
     render();
     if (files.length === 1 && last) openInspector(last);
+  }
+
+  // ---- shared class index (optional: needs the PHP files in api/) ----
+  const share = { available: false, loaded: false };
+  const store = {
+    get(k) { try { return sessionStorage.getItem(k) || ''; } catch (e) { return ''; } },
+    set(k, v) { try { sessionStorage.setItem(k, v); } catch (e) { /* ignore */ } }
+  };
+  function shareSay(msg, isError) {
+    const n = $('shareStatus');
+    n.textContent = msg || '';
+    n.classList.toggle('error', !!isError);
+  }
+  async function api(path, opts) {
+    const o = Object.assign({ cache: 'no-store', headers: {} }, opts);
+    o.headers = Object.assign({ 'X-Class-Code': $('code').value }, o.headers);
+    const res = await fetch(path, o);
+    if (!(res.headers.get('content-type') || '').includes('json')) throw new Error('no api');
+    return { status: res.status, body: await res.json() };
+  }
+  async function loadShared(m) {
+    let raw = null;
+    try { raw = await exifr.parse(m.url, OPTS); } catch (err) { console.warn(tr('unreadable'), m.file, err); }
+    let avg = [128, 128, 128];
+    try { avg = averageColor(await loadImg(m.thumb)); } catch (err) { /* keep grey */ }
+    return {
+      id: 'shared:' + m.handle + '/' + m.file, source: 'shared', owner: m.handle, name: m.file, thumbUrl: m.thumb, fullUrl: m.url,
+      raw, avgColor: avg, ov: {},
+      base: Core.derive(raw, { filename: m.file, width: m.width, height: m.height, likes: m.likes || 0, comments: m.comments || 0 })
+    };
+  }
+  async function refreshShared() {
+    if (!share.available) return;
+    try {
+      const { status, body } = await api('api/list.php');
+      if (status === 401) { shareSay(tr('needCode'), false); items = items.filter((i) => i.source !== 'shared'); render(); return; }
+      if (!body.ok) throw new Error(body.error);
+      const old = new Map(items.filter((i) => i.source === 'shared').map((i) => [i.id, i]));
+      const fresh = await Promise.all(body.images.map(async (m) => {
+        const id = 'shared:' + m.handle + '/' + m.file;
+        const prev = old.get(id);
+        const item = await loadShared(m);
+        if (prev) item.ov = prev.ov;                       // keep simulated edits across refreshes
+        return item;
+      }));
+      items = items.filter((i) => i.source !== 'shared').concat(fresh);
+      shareSay(tr('sharedCount', { n: fresh.length }), false);
+      render();
+    } catch (err) {
+      console.warn('shared list', err);
+      shareSay(tr('sharedError'), true);
+    }
+  }
+  // Remove GPS from the EXIF block only. Everything else (camera, date, IPTC, XMP) stays as it is.
+  function readBinary(file) {
+    return new Promise((resolve, reject) => {
+      const r = new FileReader();
+      r.onload = () => resolve(r.result);
+      r.onerror = reject;
+      r.readAsBinaryString(file);
+    });
+  }
+  async function withoutGps(file) {
+    const bin = await readBinary(file);
+    const exif = piexif.load(bin);
+    if (!exif.GPS || !Object.keys(exif.GPS).length) return file;
+    exif.GPS = {};
+    const out = piexif.insert(piexif.dump(exif), bin);
+    const bytes = new Uint8Array(out.length);
+    for (let i = 0; i < out.length; i++) bytes[i] = out.charCodeAt(i);
+    return new Blob([bytes], { type: 'image/jpeg' });
+  }
+  async function uploadShared(file) {
+    const handle = $('handle').value.trim();
+    if (!handle) throw new Error(tr('needHandle'));
+    let body = file;
+    if ($('stripGps').checked) {
+      try { body = await withoutGps(file); }
+      catch (err) { throw new Error(tr('gpsFail', { name: file.name })); }   // never upload a file whose GPS we could not remove
+    }
+    const fd = new FormData();
+    fd.append('file', body, file.name);
+    fd.append('handle', handle);
+    const { body: res } = await api('api/upload.php', { method: 'POST', body: fd });
+    if (!res.ok) throw new Error(res.error || tr('sharedError'));
+    return res;
+  }
+  async function probeShared() {
+    try {
+      const { status } = await api('api/list.php');
+      share.available = status === 200 || status === 401;
+    } catch (err) { share.available = false; }
+    if (!share.available) return;
+    $('share').hidden = false;
+    $('handle').value = store.get('handle');
+    $('code').value = store.get('code');
+    $('shareOn').checked = store.get('shareOn') === '1';
+    const syncShare = () => { $('shareFields').hidden = !$('shareOn').checked; $('privacy').hidden = $('shareOn').checked; };
+    syncShare();
+    $('shareOn').addEventListener('change', () => { syncShare(); store.set('shareOn', $('shareOn').checked ? '1' : '0'); });
+    $('handle').addEventListener('change', () => store.set('handle', $('handle').value));
+    $('code').addEventListener('change', () => { store.set('code', $('code').value); refreshShared(); });
+    await refreshShared();
   }
 
   // ---- controls ----
@@ -205,7 +346,6 @@
       if (navigator.clipboard) navigator.clipboard.writeText(location.href).then(done, () => window.prompt('Link', location.href));
       else window.prompt('Link', location.href);
     });
-    $('export').addEventListener('click', exportSettings);
 
     const file = $('file');
     file.addEventListener('change', () => { addFiles(file.files); file.value = ''; });
@@ -238,18 +378,6 @@
     return o;
   }
 
-  function exportSettings() {
-    const data = {
-      settings: { weights: nonZero(state.weights), query: state.query, onlyMatchesQuery: state.onlyMatches, colour: state.color, shuffleSeed: state.seed },
-      topTen: lastRows.slice(0, 10).map((r) => r.item.ref.name),
-      link: location.href
-    };
-    const a = el('a', { href: URL.createObjectURL(new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' })), download: 'image-index-settings.json' });
-    document.body.append(a);
-    a.click();
-    a.remove();
-  }
-
   // ---- ranking and drawing ----
   function currentList() {
     return items.map((i) => ({ id: i.id, rec: Core.effective(i.base, i.ov), avgColor: i.avgColor, ref: i }));
@@ -271,6 +399,7 @@
     b.append(el('span', { class: 'score', text: r.score.toFixed(2) }));
     const badges = el('div', { class: 'badges' });
     if (it.source === 'upload') badges.append(badge(tr('badgeYours'), 'yours'));
+    if (it.source === 'shared') badges.append(badge(it.owner, 'yours'));
     if (e.aiDeclared) badges.append(badge(tr('badgeAI')));
     if (e.hasCamera) badges.append(badge(tr('badgeCam')));
     if (e.hasGPS) badges.append(badge(tr('badgeGps')));
@@ -313,7 +442,59 @@
   }
 
   function field(label, input, inline) {
-    return el('div', { class: 'field' + (inline ? ' inline' : '') }, inline ? [input, label] : [label, input]);
+    const l = typeof label === 'string' ? el('label', { text: label }) : label;
+    return el('div', { class: 'field' + (inline ? ' inline' : '') }, inline ? [input, l] : [l, input]);
+  }
+
+  // ---- editing the file itself ----
+  const origCache = new Map(); // shared images: the file as it was before the first edit (this session only)
+  const cleanHandle = (v) => String(v || '').toLowerCase().trim().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 24);
+  const canEditInPlace = (it) => it.source === 'upload' || (it.source === 'shared' && share.available && it.owner === cleanHandle($('handle').value));
+  async function bytesOf(it) {
+    if (it.blob) return new Uint8Array(await it.blob.arrayBuffer());
+    const res = await fetch(it.fullUrl, { cache: 'no-store' });
+    if (!res.ok) throw new Error(tr('editFail'));
+    return new Uint8Array(await res.arrayBuffer());
+  }
+  function jpgName(n) {
+    n = String(n || '').replace(/[\\/]+/g, '-').trim() || 'image';
+    return /\.jpe?g$/i.test(n) ? n : n + '.jpg';
+  }
+  async function putShared(it, blob, likes, comments) {
+    const fd = new FormData();
+    fd.append('file', blob, it.name);
+    fd.append('handle', $('handle').value.trim());
+    const { body: res } = await api('api/upload.php', { method: 'POST', body: fd });
+    if (!res.ok) throw new Error(res.error || tr('sharedError'));
+    const md = new FormData();
+    md.append('handle', res.handle); md.append('file', res.file); md.append('likes', likes); md.append('comments', comments);
+    await api('api/meta.php', { method: 'POST', body: md });
+    await refreshShared();
+    return 'shared:' + res.handle + '/' + res.file;
+  }
+  // Write the form values into the JPEG, then read the new file again.
+  async function applyEdit(it, v) {
+    const bytes = await bytesOf(it);
+    const out = JpegEdit.edit(bytes, v.fields);
+    if (it.source === 'shared' && canEditInPlace(it)) {
+      if (!origCache.has(it.id)) origCache.set(it.id, new Blob([bytes], { type: 'image/jpeg' }));
+      return putShared(it, new Blob([out], { type: 'image/jpeg' }), v.likes, v.comments);
+    }
+    const inPlace = it.source === 'upload';
+    const name = jpgName(v.filename || it.name);
+    const file = new File([out], name, { type: 'image/jpeg' });
+    const id = await addFile(file, { likes: v.likes, comments: v.comments, orig: inPlace ? it.orig || it.blob : new Blob([bytes], { type: 'image/jpeg' }) });
+    if (inPlace && name !== it.name) items = items.filter((i) => i !== it);
+    return id;
+  }
+  async function restoreOriginal(it) {
+    if (it.source === 'shared') return putShared(it, origCache.get(it.id), it.base.likes, it.base.comments);
+    return addFile(new File([it.orig], it.name, { type: 'image/jpeg' }), { likes: it.base.likes, comments: it.base.comments, orig: it.orig });
+  }
+  function download(it) {
+    const href = it.blob ? URL.createObjectURL(it.blob) : it.fullUrl;
+    const a = el('a', { href, download: it.name });
+    document.body.append(a); a.click(); a.remove();
   }
 
   function buildInspector() {
@@ -323,35 +504,88 @@
     b.append(it.fullUrl ? el('img', { class: 'big', src: it.fullUrl, alt: it.name }) : el('div', { class: 'tile noimg', text: tr('noPreview') }));
     b.append(el('h3', { text: it.name }));
     b.append(el('p', { class: 'rankline', id: 'insp-rank' }));
-    b.append(el('h4', { text: tr('read') }), el('table', { class: 'meta', id: 'insp-table' }));
-    b.append(el('h4', { text: tr('why') }), el('div', { id: 'insp-breakdown' }));
-    b.append(el('h4', { text: tr('simulate') }), el('p', { class: 'small', text: tr('simulateNote') }));
+    b.append(el('table', { class: 'meta', id: 'insp-table' }));
+    b.append(el('div', { id: 'insp-breakdown', class: 'breakdown' }));
 
-    const base = it.base;
-    const bind = (key, node, read) => {
-      node.addEventListener('input', () => { it.ov[key] = read(node); render(); });
-      return node;
-    };
-    const form = el('div');
-    form.append(field(tr('fTitle'), bind('title', el('input', { type: 'text', value: base.title }), (n) => n.value)));
-    form.append(field(tr('fDescription'), bind('description', el('textarea', { text: base.description }), (n) => n.value)));
-    form.append(field(tr('eKeywords'), bind('keywords', el('input', { type: 'text', value: base.keywords.join(', ') }), (n) => n.value)));
-    form.append(field(tr('eCamera'), bind('camera', el('input', { type: 'text', value: base.camera }), (n) => n.value)));
-    form.append(field(tr('eDate'), bind('date', el('input', { type: 'datetime-local', value: fmtDate(base.date, 'T') }), (n) => n.value)));
-    const gps = el('input', { type: 'checkbox' });
-    gps.checked = base.hasGPS;
-    form.append(field(tr('eGps'), bind('gps', gps, (n) => n.checked), true));
-    const ai = el('input', { type: 'checkbox' });
-    ai.checked = base.aiDeclared;
-    form.append(field(tr('eAI'), bind('ai', ai, (n) => n.checked), true));
-    form.append(el('div', { class: 'two' },
-      field(tr('eLikes'), bind('likes', el('input', { type: 'number', min: 0, value: base.likes }), (n) => n.value)),
-      field(tr('eComments'), bind('comments', el('input', { type: 'number', min: 0, value: base.comments }), (n) => n.value))));
-    const reset = el('button', { type: 'button', text: tr('resetEdits') });
-    reset.addEventListener('click', () => { it.ov = {}; buildInspector(); render(); });
-    form.append(reset);
-    b.append(form);
+    if (ENABLE_FILE_EDIT) {
+      const base = it.base;
+      const inPlace = canEditInPlace(it);
+      const aiSet = /algorithmicMedia/i.test(String((it.raw && it.raw.DigitalSourceType) || ''));
+      const inputs = {};
+      const add = (form, key, label, node, inline) => { inputs[key] = node; form.append(field(label, node, inline)); return node; };
+      const text = (val) => el('input', { type: 'text', value: val || '' });
+      const form = el('div', { class: 'editform' });
+      b.append(el('h4', { text: tr('editHeading') }));
+      b.append(el('p', { class: 'small', text: tr('editNote') }));
+      if (!inPlace) b.append(el('p', { class: 'small', text: tr('copyNote') }));
 
+      if (it.source === 'upload' || !inPlace) add(form, 'filename', tr('eFilename'), text(inPlace ? it.name : it.name.replace(/(\.jpe?g)?$/i, '-edit.jpg')));
+      add(form, 'title', tr('fTitle'), text(base.title));
+      add(form, 'description', tr('fDescription'), el('textarea', { text: base.description }));
+      add(form, 'keywords', tr('eKeywords'), text(base.keywords.join(', ')));
+      form.append(el('div', { class: 'two' }, field(tr('eMake'), inputs.make = text(base.make)), field(tr('eModel'), inputs.model = text(base.model))));
+      add(form, 'software', tr('fSoftware'), text(base.software));
+      form.append(el('div', { class: 'two' }, field(tr('fAuthor'), inputs.artist = text(base.artist)), field(tr('fCopyright'), inputs.copyright = text(base.copyright))));
+      add(form, 'date', tr('eDate'), el('input', { type: 'datetime-local', value: fmtDate(base.date, 'T') }));
+      form.append(el('div', { class: 'two' },
+        field(tr('eLat'), inputs.lat = el('input', { type: 'number', step: 'any', min: -90, max: 90, value: base.lat != null ? base.lat : '' })),
+        field(tr('eLon'), inputs.lon = el('input', { type: 'number', step: 'any', min: -180, max: 180, value: base.lon != null ? base.lon : '' }))));
+      const ai = el('input', { type: 'checkbox' });
+      ai.checked = aiSet;
+      add(form, 'ai', tr('eAI'), ai, true);
+      form.append(el('p', { class: 'small', text: tr('aiNote') }));
+      form.append(el('p', { class: 'small', text: tr('likesNote') }));
+      form.append(el('div', { class: 'two' },
+        field(tr('eLikes'), inputs.likes = el('input', { type: 'number', min: 0, value: base.likes })),
+        field(tr('eComments'), inputs.comments = el('input', { type: 'number', min: 0, value: base.comments }))));
+
+      const msg = el('p', { class: 'small', role: 'status', id: 'editStatus' });
+      const run = (fn) => async () => {
+        msg.classList.remove('error'); msg.textContent = tr('working');
+        try { const id = await fn(); render(); openInspector(id); }
+        catch (err) { msg.classList.add('error'); msg.textContent = err.message || tr('editFail'); }
+      };
+      const num = (n) => (n.value === '' ? null : Number(n.value));
+      const apply = el('button', { type: 'button', text: tr('apply') });
+      apply.addEventListener('click', run(() => applyEdit(it, {
+        filename: inputs.filename ? inputs.filename.value : it.name,
+        likes: Math.max(0, parseInt(inputs.likes.value, 10) || 0), comments: Math.max(0, parseInt(inputs.comments.value, 10) || 0),
+        fields: {
+          title: inputs.title.value, description: inputs.description.value,
+          keywords: inputs.keywords.value.split(/[,;]/).map((k) => k.trim()).filter(Boolean),
+          make: inputs.make.value, model: inputs.model.value, software: inputs.software.value,
+          artist: inputs.artist.value, copyright: inputs.copyright.value,
+          date: inputs.date.value, lat: num(inputs.lat), lon: num(inputs.lon), ai: inputs.ai.checked
+        }
+      })));
+      const dl = el('button', { type: 'button', text: tr('download') });
+      dl.addEventListener('click', () => download(it));
+      const row = el('div', { class: 'buttons' }, apply, dl);
+      if (it.orig || (it.source === 'shared' && origCache.has(it.id))) {
+        const rs = el('button', { type: 'button', text: tr('restore') });
+        rs.addEventListener('click', run(() => restoreOriginal(it)));
+        row.append(rs);
+      }
+      form.append(row, msg);
+      b.append(form);
+    } else {
+      // likes and comments: one click each per image, until the page is reloaded
+      const engage = (key, label, done) => {
+        const btn = el('button', { type: 'button', text: it.ov[key] != null ? done : label });
+        btn.disabled = it.ov[key] != null;
+        btn.addEventListener('click', () => {
+          it.ov[key] = it.base[key] + 1;
+          btn.disabled = true;
+          btn.textContent = done;
+          render();
+        });
+        return btn;
+      };
+      const dl = el('button', { type: 'button', text: tr('download') });
+      dl.addEventListener('click', () => download(it));
+      b.append(el('div', { class: 'buttons engage' }, engage('likes', tr('likeBtn'), tr('liked')), engage('comments', tr('commentBtn'), tr('commented')), dl));
+      b.append(el('p', { class: 'small', text: tr('engageNote') }));
+    }
     const raw = el('details', { class: 'raw' }, el('summary', { text: tr('raw') }),
       el('pre', { text: it.raw ? JSON.stringify(it.raw, (k, v) => (v instanceof Date ? v.toISOString() : v), 1) : tr('none') }));
     b.append(raw);
@@ -404,12 +638,30 @@
     if (!br.children.length) br.append(el('p', { class: 'small', text: '—' }));
   }
 
+  // ---- collapsible menus (one open at a time) ----
+  function initMenus() {
+    const menus = Array.from(document.querySelectorAll('.menu'));
+    menus.forEach((m) => {
+      const btn = m.querySelector('.menu-head button');
+      btn.addEventListener('click', () => {
+        const open = !m.classList.contains('open');
+        menus.forEach((o) => { o.classList.remove('open'); o.querySelector('.menu-head button').setAttribute('aria-expanded', 'false'); });
+        if (open) { m.classList.add('open'); btn.setAttribute('aria-expanded', 'true'); }
+      });
+    });
+  }
+
   // ---- start ----
   async function init() {
+    if (typeof exifr === 'undefined') {
+      status.textContent = 'The metadata reader (vendor/exifr.full.umd.js) did not load. Check that the vendor folder is on the server, with that exact file name.';
+      console.error('exifr is not defined: vendor/exifr.full.umd.js was not loaded (404?)');
+    }
+    initMenus();
     buildControls();
     render();
     try {
-      const manifest = await (await fetch('manifest.json')).json();
+      const manifest = await (await fetch('manifest.json', { cache: 'no-store' })).json();
       const loaded = await Promise.all(manifest.images.map(loadBundled));
       items = loaded.concat(items);
     } catch (err) {
@@ -418,6 +670,7 @@
       return;
     }
     render();
+    probeShared();
   }
   init();
 })();

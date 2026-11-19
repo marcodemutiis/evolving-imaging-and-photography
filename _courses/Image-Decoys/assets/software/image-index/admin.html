@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex" />
+  <title>Image Index: admin</title>
+  <link rel="icon" href="data:," />
+  <link rel="stylesheet" href="style.css" />
+  <style>body{padding:1.2rem;max-width:56rem;margin:auto} table{border-collapse:collapse;width:100%} td,th{border-bottom:1px solid var(--line);padding:.35rem .5rem;text-align:left;font-size:.9rem} img{height:48px;display:block} input{font:inherit;padding:.35rem .5rem;margin-right:.4rem}</style>
+</head>
+<body>
+  <h1>Class index: admin</h1>
+  <p class="small">Enter the class code and the admin code (both set in <code>api/config.php</code>).</p>
+  <p><input id="code" type="password" placeholder="class code" /><input id="admin" type="password" placeholder="admin code" /><button id="load" type="button">Load</button></p>
+  <p id="msg" class="small" role="status"></p>
+  <table id="t" hidden><thead><tr><th></th><th>Student</th><th>File</th><th>Uploaded</th><th></th></tr></thead><tbody></tbody></table>
+  <script>
+    const $ = (id) => document.getElementById(id);
+    const say = (m) => { $('msg').textContent = m; };
+    async function call(path, opts) {
+      const o = Object.assign({ cache: 'no-store', headers: {} }, opts);
+      o.headers = Object.assign({ 'X-Class-Code': $('code').value, 'X-Admin-Code': $('admin').value }, o.headers);
+      const r = await fetch(path, o);
+      return r.json();
+    }
+    async function del(handle, file) {
+      const fd = new FormData(); fd.append('handle', handle); if (file) fd.append('file', file);
+      const r = await call('api/delete.php', { method: 'POST', body: fd });
+      say(r.ok ? 'Deleted ' + r.deleted + ' file(s).' : r.error);
+      load();
+    }
+    async function load() {
+      const r = await call('api/list.php');
+      if (!r.ok) { say(r.error); return; }
+      const body = $('t').querySelector('tbody');
+      body.replaceChildren();
+      const handles = [...new Set(r.images.map((i) => i.handle))];
+      for (const i of r.images) {
+        const tr = document.createElement('tr');
+        const img = document.createElement('img'); img.src = i.thumb;
+        const a = document.createElement('a'); a.href = i.url; a.textContent = i.file; a.target = '_blank';
+        const b = document.createElement('button'); b.textContent = 'Delete'; b.type = 'button';
+        b.onclick = () => confirm('Delete ' + i.handle + '/' + i.file + '?') && del(i.handle, i.file);
+        for (const c of [img, i.handle, a, new Date(i.mtime * 1000).toLocaleString(), b]) {
+          const td = document.createElement('td'); td.append(c); tr.append(td);
+        }
+        body.append(tr);
+      }
+      $('t').hidden = false;
+      say(r.images.length + ' images from ' + handles.length + ' students.' + (handles.length ? ' To remove everything of one student, delete their files one by one or use api/delete.php with only a handle.' : ''));
+    }
+    $('load').onclick = load;
+  </script>
+</body>
+</html>

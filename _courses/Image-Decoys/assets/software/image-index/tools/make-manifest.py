@@ -52,5 +52,10 @@ for f in sorted(p for p in images.iterdir() if p.suffix.lower() in (".jpg", ".jp
         entry["actuallyAI"] = bool(ai)
     entries.append(entry)
 
+keep = {e["file"] for e in entries}
+for stale in thumbs.iterdir():  # remove thumbnails of deleted images
+    if stale.name not in keep:
+        stale.unlink()
+
 manifest_path.write_text(json.dumps({"images": entries}, indent=1))
 print("wrote", len(entries), "entries to", manifest_path)

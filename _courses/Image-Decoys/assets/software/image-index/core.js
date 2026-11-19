@@ -40,6 +40,9 @@
     return String(v);
   }
 
+  // exifr hands back XMP text as it is stored, with XML escapes (&amp; &lt; ...). Turn them back into characters.
+  const unxml = (t) => String(t).replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&apos;/g, "'").replace(/&amp;/g, '&');
+
   function keywordList(v) {
     if (v == null) return [];
     if (Array.isArray(v)) return v.map(text).filter(Boolean);
@@ -53,9 +56,10 @@
     const make = text(raw.Make).trim();
     const model = text(raw.Model).trim();
     const software = text(raw.Software).trim();
-    const title = text(raw.title) || text(raw.ObjectName);
-    const description = text(raw.description) || text(raw.Caption) || text(raw.ImageDescription);
-    const keywords = keywordList(raw.subject).concat(keywordList(raw.Keywords));
+    const title = unxml(text(raw.title)) || text(raw.ObjectName);
+    const description = unxml(text(raw.description)) || text(raw.Caption) || text(raw.ImageDescription);
+    const xmpKeywords = keywordList(raw.subject).map(unxml);
+    const keywords = xmpKeywords.length ? xmpKeywords : keywordList(raw.Keywords); // XMP wins over IPTC, as in most editors
     const uniqueKeywords = Array.from(new Set(keywords));
     const date = raw.DateTimeOriginal instanceof Date && !isNaN(raw.DateTimeOriginal) ? raw.DateTimeOriginal : null;
     const hasGPS = typeof raw.latitude === 'number' && typeof raw.longitude === 'number';

@@ -5,54 +5,61 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Image Index</title>
     <link rel="icon" href="data:," />
+    <link rel="preload" href="vendor/fonts/ibm-plex-mono-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <header class="top">
-      <h1 data-i18n="title">Image Index</h1>
-      <p class="lede" data-i18n="lede">
-        A mock image search engine. It reads the real metadata inside every file, gives each image a score and sorts
-        them. You decide what counts: move the sliders, search, click an image to see what the index knows about it, or
-        add your own photographs.
-      </p>
-    </header>
-
     <div class="layout">
       <aside class="panel" aria-label="Controls">
-        <section>
-          <h2 data-i18n="search">Search</h2>
-          <input id="query" type="search" placeholder="e.g. sunset" data-i18n-placeholder="queryPlaceholder" />
-          <label class="check"><input type="checkbox" id="only" checked /> <span data-i18n="onlyMatches">only show images that match</span></label>
+        <section class="menu open" id="menu-search">
+          <h2 class="menu-head"><button type="button" aria-expanded="true" aria-controls="body-search" data-i18n="search">Search</button></h2>
+          <div class="menu-body" id="body-search">
+          <div class="group">
+            <input id="query" type="search" placeholder="e.g. sunset" data-i18n-placeholder="queryPlaceholder" aria-label="Search" />
+            <label class="check"><input type="checkbox" id="only" checked /> <span data-i18n="onlyMatches">only show images that match</span></label>
+          </div>
+
+          <div class="group">
+            <h3 data-i18n="presets">Presets</h3>
+            <div id="presets" class="presets"></div>
+            <p id="presetText" class="small"></p>
+          </div>
+
+          <div class="group">
+            <div id="sliders"></div>
+          </div>
+
+          <div class="group">
+            <label class="check"><input type="checkbox" id="reveal" /> <span data-i18n="reveal">Reveal which images are actually AI-generated</span></label>
+          </div>
+
+          <div class="group buttons">
+            <button id="reset" type="button" data-i18n="reset">Reset</button>
+            <button id="copy" type="button" data-i18n="copyLink">Copy link</button>
+          </div>
+          </div>
         </section>
 
-        <section>
-          <h2 data-i18n="presets">Presets</h2>
-          <div id="presets" class="presets"></div>
-          <p id="presetText" class="small"></p>
-        </section>
-
-        <section>
-          <h2 data-i18n="ranking">What counts</h2>
-          <p class="small" data-i18n="rankingHelp">
-            Every image gets a score from these signals. Slide right to boost, left to bury, in the middle to ignore.
-          </p>
-          <div id="sliders"></div>
-        </section>
-
-        <section class="buttons">
-          <button id="reset" type="button" data-i18n="reset">Reset</button>
-          <button id="copy" type="button" data-i18n="copyLink">Copy link</button>
-          <button id="export" type="button" data-i18n="exportJson">Export settings</button>
-        </section>
-
-        <section>
-          <h2 data-i18n="addImages">Add your own images</h2>
+        <section class="menu" id="menu-upload">
+          <h2 class="menu-head"><button type="button" aria-expanded="false" aria-controls="body-upload" data-i18n="addImages">Upload</button></h2>
+          <div class="menu-body" id="body-upload">
+          <div class="group">
           <label class="drop" id="drop">
             <input id="file" type="file" accept=".jpg,.jpeg,image/jpeg" multiple />
             <span data-i18n="dropText">Drop photographs here, or click to choose.</span>
           </label>
           <p class="small" data-i18n="jpegOnly">JPG / JPEG files only. Other formats (PNG, HEIC, WebP) store metadata differently and are not read here.</p>
-          <p class="small" data-i18n="privacy">
+          <div id="share" hidden>
+            <label class="check"><input type="checkbox" id="shareOn" /> <span data-i18n="shareOn">Share my uploads with the class</span></label>
+            <div id="shareFields" hidden>
+              <input id="handle" type="text" maxlength="24" placeholder="your name or nickname" data-i18n-placeholder="handlePlaceholder" autocomplete="off" />
+              <input id="code" type="password" placeholder="class code" data-i18n-placeholder="codePlaceholder" autocomplete="off" />
+              <label class="check"><input type="checkbox" id="stripGps" checked /> <span data-i18n="stripGps">Remove the GPS location from my files before sharing</span></label>
+              <p class="small" data-i18n="shareNote">Shared files are uploaded to the server and visible to everyone who has the class code. Other metadata stays in the file.</p>
+            </div>
+            <p id="shareStatus" class="small" role="status"></p>
+          </div>
+          <p id="privacy" class="small" data-i18n="privacy">
             Files are read in your browser only. Nothing is uploaded to a server, and they disappear when you reload.
           </p>
           <details class="help">
@@ -66,14 +73,16 @@ exiftool -DateTimeOriginal="2026:11:19 08:00:00" photo.jpg
 exiftool -all= photo.jpg</pre>
             <p class="small">The last one strips everything. See the tutorial for more.</p>
           </details>
-        </section>
-
-        <section>
-          <label class="check"><input type="checkbox" id="reveal" /> <span data-i18n="reveal">Reveal which images are actually AI-generated</span></label>
+          </div>
+          </div>
         </section>
       </aside>
 
       <main>
+        <header class="top">
+          <h1 data-i18n="title">Image Index</h1>
+          <p class="lede" data-i18n="lede">This is a mock image search engine. It reads the real metadata inside every file, gives each image a score and sorts them. Customise parameters and search values to see different forms of image indexing; click an image to see what information are contained in the jpg code; upload your images locally or publicly to add them to the index.</p>
+        </header>
         <p id="status" class="status" role="status"></p>
         <div id="grid" class="grid"></div>
       </main>
@@ -85,7 +94,9 @@ exiftool -all= photo.jpg</pre>
     </aside>
 
     <script src="vendor/exifr.full.umd.js"></script>
+    <script src="vendor/piexif.js"></script>
     <script src="core.js"></script>
+    <script src="jpegedit.js"></script>
     <script src="app.js"></script>
   </body>
 </html>
