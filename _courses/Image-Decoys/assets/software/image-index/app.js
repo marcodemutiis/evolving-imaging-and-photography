@@ -71,7 +71,9 @@
       sharedError: 'The class index could not be reached.',
       uploading: 'Uploading {name} ...',
       uploaded: 'Shared. It now appears in the index.',
-      gpsFail: 'Could not remove the location from {name}, so it was not uploaded.',
+      uploadFailed: 'Not uploaded: {list}',
+      uploadRejected: 'The server refused the file (probably too large; see upload_max_filesize and post_max_size).',
+      gpsFail: 'Could not remove the location from {name}, so it was not uploaded. Remove it first with ExifTool (exiftool -gps:all= file.jpg) or switch the option off.',
       badgeTrue: 'actually AI',
       badgeSlipped: 'AI, not declared',
       copied: 'Copied',
@@ -100,6 +102,7 @@
   let state = Core.defaultState();
   const fromHash = location.hash.length > 1 ? Core.decodeState(location.hash.slice(1)) : null;
   if (fromHash) state = fromHash;
+  else state.seed = Math.floor(Math.random() * 1e6); // a new random order on every visit; a shared link carries its own seed
   let items = []; // every image: bundled or uploaded
   let lastRows = [];
   let openId = null;
@@ -175,15 +178,19 @@
     const files = Array.from(fileList).filter((f) => /\.jpe?g$/i.test(f.name));
     if (share.available && $('shareOn').checked) {
       let last = null;
+      const failed = [];
       for (const f of files) {
         try {
           shareSay(tr('uploading', { name: f.name }), false);
           const r = await uploadShared(f);
           last = 'shared:' + r.handle + '/' + r.file;
-        } catch (err) { shareSay(err.message, true); await refreshShared(); return; }
+        } catch (err) {
+          failed.push(f.name + ': ' + (err.message === 'no api' ? tr('uploadRejected') : err.message));
+        }
       }
-      await refreshShared();
-      if (last && items.some((i) => i.id === last)) { shareSay(tr('uploaded'), false); if (files.length === 1) openInspector(last); }
+      await refreshShared();                       // this rewrites the status line, so the result is written after it
+      shareSay(failed.length ? tr('uploadFailed', { list: failed.join(' | ') }) : tr('uploaded'), failed.length > 0);
+      if (last && files.length === 1 && !failed.length && items.some((i) => i.id === last)) openInspector(last);
       return;
     }
     let last = null;
@@ -253,6 +260,10 @@
     });
   }
   async function withoutGps(file) {
+    // no location in the file: nothing to remove, and the file stays exactly as it is
+    let g = null;
+    try { g = await exifr.gps(file); } catch (err) { g = null; }
+    if (!g || typeof g.latitude !== 'number') return file;
     const bin = await readBinary(file);
     const exif = piexif.load(bin);
     if (!exif.GPS || !Object.keys(exif.GPS).length) return file;
@@ -336,7 +347,9 @@
     $('only').addEventListener('change', (e) => { state.onlyMatches = e.target.checked; render(); });
     $('reveal').addEventListener('change', render);
     $('reset').addEventListener('click', () => {
+      const seed = state.seed;
       state = Core.defaultState();
+      state.seed = seed;
       $('presetText').textContent = '';
       render();
     });

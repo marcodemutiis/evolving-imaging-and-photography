@@ -40,7 +40,7 @@ Open the [Image Index](TODO). Every image has a score, which is the sum of ten s
 - Click **Feed**, **Search engine** and **Provenance** one after the other and watch the top row change.
 - Type a query, for example `sunset`. The index looks for the words in the filename, the title, the description and the keywords. Repeating a word helps up to three times; a field stuffed with it is punished.
 - Search for a phrase nobody has used, for example `biennial of imaginary photographs 2027`. Nothing comes back: a *data void*. Add an image that contains the phrase and it comes back first.
-- Click an image. The panel shows **what the index read from the file**, the raw tags, and **why it ranks where it does**.
+- Click an image. The **Inspector** menu on the left shows **what the index read from the file**, the raw tags, and **why it ranks where it does**.
 - Each image has **+1 like** and **+1 comment** buttons, one click each, so you can see how popularity moves a ranking. They reset when you reload the page. **Download file** gives you the original JPEG, which you can open in ExifTool (see Part 3).
 - **Copy link** stores your settings in the address, so you can send your ranking to someone else.
 
@@ -88,7 +88,7 @@ Each signal is turned into a number between 0 and 1. The score of an image is th
 | **Has a location** | file: GPS latitude and longitude | 1 if both are present, otherwise 0. |
 | **High resolution** | pixels: width × height | Megapixels, scaled from the smallest image (0) to the largest (1). |
 | **Well documented** | file: nine fields | How many of these are filled in: camera, date, GPS, software, title, description, keywords, author, copyright. Divided by nine. |
-| **Random** | outside the file | A fixed pseudo-random number per image. **Shuffle** draws new ones. |
+| **Random** | outside the file | A pseudo-random number per image. You get new numbers every time you load the page; **Shuffle** draws new ones, and a copied link keeps them. |
 
 Some of these are yes or no (camera, AI, location), others are a gradient. A real index mixes hundreds of signals and learns the weights from behaviour. This one has ten and lets you set them by hand.
 

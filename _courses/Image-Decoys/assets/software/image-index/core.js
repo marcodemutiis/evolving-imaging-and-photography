@@ -27,7 +27,8 @@
     { id: 'seo', name: 'Search engine', text: 'Keywords and complete metadata win.', weights: { keyword: 100, completeness: 40, popularity: 10 } },
     { id: 'provenance', name: 'Provenance', text: 'Camera photos up, declared AI down.', weights: { camera: 70, ai: -100, gps: 20, completeness: 30 } },
     { id: 'obscure', name: 'Obscure first', text: 'The least popular images on top.', weights: { popularity: -100 } },
-    { id: 'colour', name: 'Colour field', text: 'Closest to the picked colour first.', weights: { colour: 100 }, color: '#2f5fd0' }
+    { id: 'colour', name: 'Colour field', text: 'Closest to the picked colour first.', weights: { colour: 100 }, color: '#2f5fd0' },
+    { id: 'clear', name: 'Clear', text: 'Every slider at zero. Move one to see a single signal at work.', weights: {} },
   ];
 
   const AI_SOURCE_RE = /algorithmicMedia/i; // IPTC DigitalSourceType: trainedAlgorithmicMedia, compositeWithTrainedAlgorithmicMedia

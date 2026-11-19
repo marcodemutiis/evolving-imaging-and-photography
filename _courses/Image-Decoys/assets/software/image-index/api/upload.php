@@ -4,6 +4,9 @@ require __DIR__ . '/lib.php';
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') fail('POST only', 405);
 require_class_code();
 
+// When a file is bigger than post_max_size, PHP drops the whole request: no fields and no file arrive.
+if ((int) ($_SERVER['CONTENT_LENGTH'] ?? 0) > 0 && empty($_POST) && empty($_FILES)) fail('File too large for the server (post_max_size).', 413);
+
 $handle = clean_handle($_POST['handle'] ?? '');
 if ($handle === '') fail('Please enter a name or nickname.');
 

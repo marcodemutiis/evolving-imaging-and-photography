@@ -1,6 +1,46 @@
 {
  "images": [
   {
+   "file": "0_0 (1).jpeg",
+   "thumb": "thumbs/0_0 (1).jpeg",
+   "width": 816,
+   "height": 1456,
+   "likes": 177,
+   "comments": 21
+  },
+  {
+   "file": "0_0.jpeg",
+   "thumb": "thumbs/0_0.jpeg",
+   "width": 928,
+   "height": 1232,
+   "likes": 177,
+   "comments": 21
+  },
+  {
+   "file": "0_1.jpeg",
+   "thumb": "thumbs/0_1.jpeg",
+   "width": 816,
+   "height": 1456,
+   "likes": 19,
+   "comments": 1
+  },
+  {
+   "file": "0_2.jpeg",
+   "thumb": "thumbs/0_2.jpeg",
+   "width": 928,
+   "height": 1232,
+   "likes": 77,
+   "comments": 3
+  },
+  {
+   "file": "0bs1zdxbgx8nhs8kf01aeehmm0.jpg",
+   "thumb": "thumbs/0bs1zdxbgx8nhs8kf01aeehmm0.jpg",
+   "width": 1200,
+   "height": 800,
+   "likes": 127,
+   "comments": 15
+  },
+  {
    "file": "1.jpeg",
    "thumb": "thumbs/1.jpeg",
    "width": 554,
@@ -17,6 +57,70 @@
    "comments": 1
   },
   {
+   "file": "2026-02-15 15.06.25.jpg",
+   "thumb": "thumbs/2026-02-15 15.06.25.jpg",
+   "width": 4032,
+   "height": 3024,
+   "likes": 127,
+   "comments": 15
+  },
+  {
+   "file": "2026-02-15 15.15.21.jpg",
+   "thumb": "thumbs/2026-02-15 15.15.21.jpg",
+   "width": 4032,
+   "height": 3024,
+   "likes": 9,
+   "comments": 0
+  },
+  {
+   "file": "3666994781_b24f850642_c.jpg",
+   "thumb": "thumbs/3666994781_b24f850642_c.jpg",
+   "width": 799,
+   "height": 533,
+   "likes": 31,
+   "comments": 4
+  },
+  {
+   "file": "Facebook_AI_slop,__Shrimp_Jesus__1.jpg",
+   "thumb": "thumbs/Facebook_AI_slop,__Shrimp_Jesus__1.jpg",
+   "width": 1900,
+   "height": 1140,
+   "likes": 85,
+   "comments": 3
+  },
+  {
+   "file": "Fotomuseum Winterthur_Schattenwesen_2026_09_LowRes_sRGB.jpg",
+   "thumb": "thumbs/Fotomuseum Winterthur_Schattenwesen_2026_09_LowRes_sRGB.jpg",
+   "width": 2200,
+   "height": 1650,
+   "likes": 34,
+   "comments": 1
+  },
+  {
+   "file": "Fotomuseum Winterthur_Schattenwesen_2026_18_LowRes_sRGB.jpg",
+   "thumb": "thumbs/Fotomuseum Winterthur_Schattenwesen_2026_18_LowRes_sRGB.jpg",
+   "width": 2200,
+   "height": 1650,
+   "likes": 23,
+   "comments": 0
+  },
+  {
+   "file": "IMG_8423.jpg",
+   "thumb": "thumbs/IMG_8423.jpg",
+   "width": 4032,
+   "height": 3024,
+   "likes": 115,
+   "comments": 6
+  },
+  {
+   "file": "Symposium_Politics of Presence \u00a9  Jewgeni Roppel HR-65.jpg",
+   "thumb": "thumbs/Symposium_Politics of Presence \u00a9  Jewgeni Roppel HR-65.jpg",
+   "width": 4944,
+   "height": 3296,
+   "likes": 235,
+   "comments": 12
+  },
+  {
    "file": "cat1.jpg",
    "thumb": "thumbs/cat1.jpg",
    "width": 1080,
@@ -25,12 +129,36 @@
    "comments": 5
   },
   {
+   "file": "out-0.jpeg",
+   "thumb": "thumbs/out-0.jpeg",
+   "width": 784,
+   "height": 1088,
+   "likes": 34,
+   "comments": 0
+  },
+  {
+   "file": "sebastien-gabriel--IMlv9Jlb24-unsplash.jpg",
+   "thumb": "thumbs/sebastien-gabriel--IMlv9Jlb24-unsplash.jpg",
+   "width": 5347,
+   "height": 3565,
+   "likes": 267,
+   "comments": 15
+  },
+  {
    "file": "signal-2026-11-15-12-06-25-314_002.jpg",
    "thumb": "thumbs/signal-2026-11-15-12-06-25-314_002.jpg",
    "width": 1200,
    "height": 1600,
    "likes": 77,
    "comments": 3
+  },
+  {
+   "file": "tmpcq6v3vft.jpeg",
+   "thumb": "thumbs/tmpcq6v3vft.jpeg",
+   "width": 1024,
+   "height": 1024,
+   "likes": 830,
+   "comments": 108
   }
  ]
 }
