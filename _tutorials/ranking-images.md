@@ -9,6 +9,8 @@ published: true
 
 <div class="lang-en" markdown="1">
 
+*Work in progress*
+
 ## Overview
 
 Feeds and search engines decide which images we see, but they rarely say how. They read what is in the image file, such as the date, the camera and the location, and what surrounds it, such as the filename, the alt text and the likes. This tutorial accompanies the lesson *Occupy the Internet*. You work with the *Image Index*, a mock image search engine in which every rule is visible: you change what counts, look at what the index reads from a file, edit that file yourself and drop it back in.
