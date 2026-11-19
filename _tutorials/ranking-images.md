@@ -4,7 +4,7 @@ title_de: "Ranking Images"
 description: "Use a mock image search engine that reads the real metadata inside image files, change what counts in the ranking, and edit a file's metadata to see how an index reacts."
 description_de: "" # TODO: translate once the English is final
 order: 2 # TODO: check against the Machine Vision tutorial
-published: false
+published: true
 ---
 
 <div class="lang-en" markdown="1">
