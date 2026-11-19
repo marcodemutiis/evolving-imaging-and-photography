@@ -47,10 +47,10 @@ The project must contain:
 | 29.10.2026  | 3. Image Triggers                  |
 | 5.11.2026   | -Workshop Week - no class-	       |
 | 12.11.2026  | -Self Study-                       |
-| 19.11.2026  | 4. Occupy The Internet             |
-| 26.11.2026  | 5. Superspreaders                  |
-| 3.12.2026   | MID TERM PRESENTATIONS             |
-| 10.12.2026  | Project Development                |
+| 19.11.2026  | 3. Image Triggers 2            |
+| 26.11.2026  | 4. Occupy The Internet                   |
+| 3.12.2026   | 5. Superspreaders             |
+| 10.12.2026  | MID TERM PRESENTATIONS                |
 | 17.12.2026  | Project Development                |
 | 7.1.2027    | Project Development                |
 | 14.1.2027   | Project Development                |
@@ -153,10 +153,10 @@ Die Abschlussprojekte müssen als Ordner mit eurem Vor- und Nachnamen hier hochg
 | 29.10.2026  | 3. Image Triggers                  |
 | 5.11.2026   | -Workshoptage - kein Unterricht-   |
 | 12.11.2026  | -Selbststudium-                    |
-| 19.11.2026  | 4. Occupy The Internet             |
-| 26.11.2026  | 5. Superspreaders                  |
-| 3.12.2026   | MIDTERMS                           |
-| 10.12.2026  | Projektentwicklung                 |
+| 19.11.2026  | 3. Image Triggers 2           |
+| 26.11.2026  | 4. Occupy The Internet                 |
+| 3.12.2026   | 5. Superspreaders                           |
+| 10.12.2026  | MIDTERMS                 |
 | 17.12.2026  | Projektentwicklung                 |
 | 7.1.2027    | Projektentwicklung                 |
 | 14.1.2027   | Projektentwicklung                 |
