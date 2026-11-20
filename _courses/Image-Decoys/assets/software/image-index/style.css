@@ -88,7 +88,7 @@ details pre { background: #f4f4f1; padding: 0.7rem; overflow: auto; font: inheri
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 0.8rem; }
 .tile { position: relative; padding: 6px; background: #fff; aspect-ratio: 4 / 3; overflow: hidden; text-align: left; }
 .tile:hover { background: var(--ink); color: inherit; }
-.tile img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.tile img { position: absolute; top: 6px; left: 6px; width: calc(100% - 12px); height: calc(100% - 12px); object-fit: cover; display: block; } /* fixed to the padding box: a percentage height on a button is unreliable on mobile browsers */
 .tile .noimg { display: grid; place-items: center; height: 100%; font-size: 0.75rem; color: var(--muted); padding: 0.5rem; text-align: center; background: #e9e9e6; }
 .tile .rank { position: absolute; top: 6px; left: 6px; background: var(--ink); color: #fff; padding: 0 0.4rem; font-size: 0.78rem; font-variant-numeric: tabular-nums; }
 .tile .score { position: absolute; bottom: 6px; right: 6px; background: #fff; padding: 0 0.35rem; font-size: 0.72rem; font-variant-numeric: tabular-nums; }

@@ -2,9 +2,9 @@
 (function () {
   'use strict';
 
-  // The in-page file editor is switched off: students are meant to change metadata with ExifTool.
-  // To bring it back, add <script>window.IMAGE_INDEX_EDIT = true;</script> before app.js in index.html.
-  const ENABLE_FILE_EDIT = window.IMAGE_INDEX_EDIT === true;
+  // The in-page file editor is on. To hide it (students then use only ExifTool), add
+  // <script>window.IMAGE_INDEX_EDIT = false;</script> before app.js in index.html.
+  const ENABLE_FILE_EDIT = window.IMAGE_INDEX_EDIT !== false;
   const OPTS = { tiff: true, ifd0: true, exif: true, gps: true, xmp: true, iptc: true, mergeOutput: true };
 
   // ---- strings. English is the default; add German under T.de (missing keys fall back to English). ----
@@ -48,6 +48,12 @@
       editHeading: 'Edit this file',
       editNote: 'Apply writes these values into the JPEG itself, and the index then reads the file again. Download it to check the result with ExifTool. Title, description and keywords are stored as XMP, which replaces the XMP and IPTC blocks that were there. Camera, author and copyright accept plain ASCII only.',
       copyNote: 'This image cannot be changed in place, so Apply makes an edited copy that stays in your browser.',
+      adminLabel: 'Admin code',
+      adminNote: 'Teachers only: with the admin code, Apply rewrites this sample file on the server for everyone. Without it, Apply makes a copy in your browser.',
+      restoreServer: 'Restore server original',
+      adminNeeded: 'Enter the admin code first.',
+      serverDone: 'The file on the server was changed.',
+      serverRestored: 'The original file on the server was restored.',
       eFilename: 'Filename',
       eMake: 'Camera make',
       eModel: 'Camera model',
@@ -145,11 +151,12 @@
 
   async function loadBundled(m) {
     let raw = null;
-    try { raw = await exifr.parse('images/' + m.file, OPTS); } catch (err) { console.warn(tr('unreadable'), m.file, err); }
+    const q = m.bust ? '?v=' + m.bust : '';
+    try { raw = await exifr.parse('images/' + m.file + q, OPTS); } catch (err) { console.warn(tr('unreadable'), m.file, err); }
     let avg = [128, 128, 128];
-    try { avg = averageColor(await loadImg(m.thumb)); } catch (err) { /* keep grey */ }
+    try { avg = averageColor(await loadImg(m.thumb + q)); } catch (err) { /* keep grey */ }
     return {
-      id: m.file, source: 'bundled', name: m.file, thumbUrl: m.thumb, fullUrl: 'images/' + m.file,
+      id: m.file, source: 'bundled', m, name: m.file, thumbUrl: m.thumb + q, fullUrl: 'images/' + m.file + q,
       raw, avgColor: avg, actuallyAI: m.actuallyAI, ov: {},
       base: Core.derive(raw, { filename: m.file, width: m.width, height: m.height, likes: m.likes, comments: m.comments })
     };
@@ -492,9 +499,26 @@
     return 'shared:' + res.handle + '/' + res.file;
   }
   // Write the form values into the JPEG, then read the new file again.
+  // Admin only: change or restore a sample file in images/ on the server, then read it again.
+  let adminCode = '';
+  async function sampleCall(it, fd) {
+    if (!adminCode) throw new Error(tr('adminNeeded'));
+    fd.append('file', it.name);
+    const { body: res } = await api('api/sample.php', { method: 'POST', body: fd, headers: { 'X-Admin-Code': adminCode } });
+    if (!res.ok) throw new Error(res.error || tr('editFail'));
+    const fresh = await loadBundled(Object.assign({}, it.m, { bust: res.v }));
+    fresh.ov = it.ov;
+    items = items.map((i) => (i === it ? fresh : i));
+    return fresh.id;
+  }
   async function applyEdit(it, v) {
     const bytes = await bytesOf(it);
     const out = JpegEdit.edit(bytes, v.fields);
+    if (it.source === 'bundled' && adminCode) {
+      const fd = new FormData();
+      fd.append('image', new Blob([out], { type: 'image/jpeg' }), it.name);
+      return sampleCall(it, fd);
+    }
     if (it.source === 'shared' && canEditInPlace(it)) {
       if (!origCache.has(it.id)) origCache.set(it.id, new Blob([bytes], { type: 'image/jpeg' }));
       return putShared(it, new Blob([out], { type: 'image/jpeg' }), v.likes, v.comments);
@@ -537,6 +561,12 @@
       b.append(el('h4', { text: tr('editHeading') }));
       b.append(el('p', { class: 'small', text: tr('editNote') }));
       if (!inPlace) b.append(el('p', { class: 'small', text: tr('copyNote') }));
+      if (it.source === 'bundled') {
+        const code = el('input', { type: 'password', value: adminCode, autocomplete: 'off' });
+        code.addEventListener('input', () => { adminCode = code.value; });
+        b.append(el('div', { class: 'editform' }, field(tr('adminLabel'), code)));
+        b.append(el('p', { class: 'small', text: tr('adminNote') }));
+      }
 
       if (it.source === 'upload' || !inPlace) add(form, 'filename', tr('eFilename'), text(inPlace ? it.name : it.name.replace(/(\.jpe?g)?$/i, '-edit.jpg')));
       add(form, 'title', tr('fTitle'), text(base.title));
@@ -553,10 +583,6 @@
       ai.checked = aiSet;
       add(form, 'ai', tr('eAI'), ai, true);
       form.append(el('p', { class: 'small', text: tr('aiNote') }));
-      form.append(el('p', { class: 'small', text: tr('likesNote') }));
-      form.append(el('div', { class: 'two' },
-        field(tr('eLikes'), inputs.likes = el('input', { type: 'number', min: 0, value: base.likes })),
-        field(tr('eComments'), inputs.comments = el('input', { type: 'number', min: 0, value: base.comments }))));
 
       const msg = el('p', { class: 'small', role: 'status', id: 'editStatus' });
       const run = (fn) => async () => {
@@ -568,7 +594,7 @@
       const apply = el('button', { type: 'button', text: tr('apply') });
       apply.addEventListener('click', run(() => applyEdit(it, {
         filename: inputs.filename ? inputs.filename.value : it.name,
-        likes: Math.max(0, parseInt(inputs.likes.value, 10) || 0), comments: Math.max(0, parseInt(inputs.comments.value, 10) || 0),
+        likes: Core.effective(it.base, it.ov).likes, comments: Core.effective(it.base, it.ov).comments,
         fields: {
           title: inputs.title.value, description: inputs.description.value,
           keywords: inputs.keywords.value.split(/[,;]/).map((k) => k.trim()).filter(Boolean),
@@ -585,9 +611,15 @@
         rs.addEventListener('click', run(() => restoreOriginal(it)));
         row.append(rs);
       }
+      if (it.source === 'bundled') {
+        const rsv = el('button', { type: 'button', text: tr('restoreServer') });
+        rsv.addEventListener('click', run(() => { const f = new FormData(); f.append('action', 'restore'); return sampleCall(it, f); }));
+        row.append(rsv);
+      }
       form.append(row, msg);
       b.append(form);
-    } else {
+    }
+    {
       // likes and comments: one click each per image, until the page is reloaded
       const engage = (key, label, done) => {
         const btn = el('button', { type: 'button', text: it.ov[key] != null ? done : label });
@@ -602,7 +634,7 @@
       };
       const dl = el('button', { type: 'button', text: tr('download') });
       dl.addEventListener('click', () => download(it));
-      b.append(el('div', { class: 'buttons engage' }, engage('likes', tr('likeBtn'), tr('liked')), engage('comments', tr('commentBtn'), tr('commented')), dl));
+      b.append(el('div', { class: 'buttons engage' }, engage('likes', tr('likeBtn'), tr('liked')), engage('comments', tr('commentBtn'), tr('commented')), ...(ENABLE_FILE_EDIT ? [] : [dl])));
       b.append(el('p', { class: 'small', text: tr('engageNote') }));
     }
     const raw = el('details', { class: 'raw' }, el('summary', { text: tr('raw') }),

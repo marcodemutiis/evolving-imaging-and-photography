@@ -55,7 +55,7 @@ No database is needed: images are saved as plain files in `shared/<student>/` an
 
 What the server does: accepts only real JPEG files (checks the content, not just the name), cleans the filename,
 stores the file byte for byte (so the metadata stays intact), makes a 480 px display copy without metadata (needs
-the PHP GD extension; without it the original is shown), and limits uploads per student (12) and in total (400).
+the PHP GD extension; without it the original is shown), and limits uploads per student (99) and in total (400).
 Both limits and the file size are in `config.php`.
 
 **GPS:** before upload, the page removes the GPS location from the EXIF block (checked by default; if removal fails,
@@ -80,12 +80,18 @@ upload any JPEG, so the class code is the moderation.
 - `tools/make-placeholders.py`: generates the placeholder images with varied real metadata (only needed once, you can delete it)
 - `images/`, `thumbs/`, `manifest.json`, `ground-truth.json`: sample content
 
-## Editing a file in the page (switched off)
+## Editing a file in the page
 
-The editor below is built but hidden: the point of the exercise is that students change the metadata with ExifTool.
-The inspector shows a **+1 like** and a **+1 comment** button instead (one click each per image, reset when the page is
-reloaded) and a **Download file** button, so students can take a sample image and work on it. To switch the editor on,
-add `<script>window.IMAGE_INDEX_EDIT = true;</script>` before `app.js` in `index.html`.
+The inspector has an editor that writes values into the JPEG itself. Under the form, the **+1 like** and **+1 comment**
+buttons add one each per image (reset when the page is reloaded). Likes and comments are not in the form, so nobody can type in 5000.
+**Sample images (teachers only).** For a sample file in `images/`, the inspector has an **Admin code** field. With the code
+from `api/config.php` (`ADMIN_CODE`), **Apply to file** rewrites the real file on the server for everyone, and
+**Restore server original** puts it back. Without the code, Apply makes a copy in the student's browser. The first time a
+file is changed, the original is saved in `images-orig/`. `images/`, `thumbs/` and `images-orig/` must be writable by the web
+server (`api/sample.php` says so if not). The page reads the metadata from the files directly, so you do not need to re-run
+`make-manifest.py` after an edit.
+
+To hide the editor again (students then use only ExifTool), add `<script>window.IMAGE_INDEX_EDIT = false;</script>` before `app.js` in `index.html`.
 
 Click an image to see what the index read from it. Under the table, the form writes the values into the JPEG itself
 (camera, date, GPS, software, author, copyright as EXIF; title, description, keywords and the AI flag as XMP),
