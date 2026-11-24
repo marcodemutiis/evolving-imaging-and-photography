@@ -293,51 +293,51 @@ Ich möchte, dass Studierende mit allen Hintergründen und Perspektiven in diese
 ## Studierende
 </div>
 
-- Grellert Anna vvvvv
+- Grellert Anna vvvvvv
 
-- Grill Louis vxvvv
+- Grill Louis vxvvvv
 
-- Schewz Christina vvxvv
+- Schewz Christina vvxvvv
 
-- Veljkovic Adrijana vxvvx
+- Veljkovic Adrijana vxvvxv
 
-- Schindel Emily vvvvv
+- Schindel Emily vvvvvv
 
-- Schubert Alexander vvxvx
+- Schubert Alexander vvxvxv
 
-- Burgard Hanna vvxvv
+- Burgard Hanna vvxvvx
 
-- Studt Janne vvxxv
+- Studt Janne vvxxvx
 
-- Parkhidko Kateryna vvvvv
+- Parkhidko Kateryna vvvvvx
 
-- Schmitt Alexandra vvvvv
+- Schmitt Alexandra vvvvvv
 
-- Kinast Jule vvvvv
+- Kinast Jule vvvvvv
 
-- Schmotz Hanna vxvvv
+- Schmotz Hanna vxvvvx
 
-- Lobo de Macedo Rosa vvvvx
+- Lobo de Macedo Rosa vvvvxv
 
-- Weinzierl Paula vvvvx
+- Weinzierl Paula vvvvxv
 
-- Hunstein Hanna vvvvx
+- Hunstein Hanna vvvvxv
 
-- Lickert Michaela vvvvv
+- Lickert Michaela vvvvvx
 
-- Schiechtele Natalie vvvvv
+- Schiechtele Natalie vvvvvv
 
-- Dogru Medine vvvvv
+- Dogru Medine vvvvvx
 
-- Kilic Merve vvvvv
+- Kilic Merve vvvvvx
 
-- Yong Sihavann (Vann) vvvxx
+- Yong Sihavann (Vann) vvvxxx
 
-- Grünewald Janne vvvvx
+- Grünewald Janne vvvvxv
 
-- Homberg Lilly xvxvv
+- Homberg Lilly xvxvvx
 
-- Hampp Dalina vvvvv
+- Hampp Dalina vvvvvx
 
 
 <!--

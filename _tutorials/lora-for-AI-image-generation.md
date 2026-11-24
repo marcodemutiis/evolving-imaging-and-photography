@@ -82,6 +82,8 @@ These platforms offer similar LoRA training, with different interfaces and prici
 
 ## Train your own LoRA
 
+Follow this page to train your LoRA: [https://replicate.com/replicate/fast-flux-trainer/train](https://replicate.com/replicate/fast-flux-trainer/train)
+
 This section follows and paraphrases Replicate's own guide, [Fine-tune an image model](https://replicate.com/docs/get-started/fine-tune-with-flux), which uses the FLUX model family. Replicate describes fine-tuning as a way to get a version of an image model that consistently produces a particular **style**, or always includes a specific character or **subject**. No deep technical knowledge is needed: the whole process can be done in the browser.
 
 ### 1. Prepare your dataset
@@ -307,6 +309,8 @@ Alternativen:
 Diese Plattformen bieten ein ähnliches LoRA-Training mit anderen Oberflächen und Preisen.
 
 ## Euer eigenes LoRA trainieren
+
+Follow this page to train your LoRA: [https://replicate.com/replicate/fast-flux-trainer/train](https://replicate.com/replicate/fast-flux-trainer/train)
 
 Dieser Abschnitt folgt der Anleitung von Replicate, [Fine-tune an image model](https://replicate.com/docs/get-started/fine-tune-with-flux), und gibt sie sinngemäß wieder. Sie verwendet die FLUX-Modellfamilie. Replicate beschreibt Fine-Tuning als Möglichkeit, eine Version eines Bildmodells zu erhalten, die durchgehend einen bestimmten Stil erzeugt oder immer eine bestimmte Figur oder ein bestimmtes Motiv enthält. Dafür braucht es kein tiefes technisches Wissen: Der gesamte Prozess lässt sich im Browser durchführen.
 
