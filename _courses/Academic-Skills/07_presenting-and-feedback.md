@@ -11,6 +11,9 @@ published: true
 
 <div class="lang-en" markdown="1">
 
+## Submission deadline: 16 December 2026. upload your final text to the [PRESENTATIONS](https://drive.google.com/drive/folders/1AZnjwpgMXLnROMTJfZu9sEAXesSv-oLe?usp=drive_link) shared folder with name, surname and title in the filename. 
+
+
 ## Introduction
 This last session is about sharing your text: presenting it briefly to others, receiving their feedback, and using it to revise. Presenting is not a different skill from writing, because it asks the same question again in a new form: what do you want people to remember, and why should they believe it? Feedback is the other half of research. A text that has never been read by anyone else usually contains problems its author cannot see.
 
@@ -54,7 +57,7 @@ Submit the revised text as your final project, following the instructions on the
 3. **Citations:** in-text citations in Chicago author-date style
 4. **Images:** if you include any, with captions and references
 5. **AI use:** a one-sentence note on whether and how you used AI tools
-6. **Deadline:** [DATE TBD]
+6. **Deadline:** 16 December 2026. upload your final text to the shared folder with name, surname and title in the filename. 
 
 Upload your final project as a folder with your name and surname, using the link on the course overview page.
 
@@ -65,6 +68,8 @@ Upload your final project as a folder with your name and surname, using the link
 </div>
 
 <div class="lang-de" markdown="1">
+
+## Submission deadline: 16 December 2026. upload your final text to the [PRESENTATIONS](https://drive.google.com/drive/folders/1AZnjwpgMXLnROMTJfZu9sEAXesSv-oLe?usp=drive_link) shared folder with name, surname and title in the filename. 
 
 ## Einführung
 In dieser letzten Sitzung geht es darum, euren Text mit anderen zu teilen: ihn kurz vorzustellen, Feedback zu erhalten und es für die Überarbeitung zu nutzen. Präsentieren ist keine andere Fähigkeit als Schreiben, denn es stellt dieselbe Frage in neuer Form: Was sollen sich die Leute merken, und warum sollten sie es glauben? Feedback ist die andere Hälfte der Forschung. Ein Text, den noch nie jemand anderes gelesen hat, enthält meist Probleme, die seine Autorin oder sein Autor nicht sehen kann.
@@ -109,7 +114,7 @@ Reicht den überarbeiteten Text als Abschlussprojekt ein und folgt dabei den Hin
 3. **Belege:** Belege im Text im Chicago-Stil (Author-Date)
 4. **Bilder:** falls ihr welche einfügt, mit Bildunterschriften und Referenzen
 5. **KI-Einsatz:** ein Satz dazu, ob und wie ihr KI-Tools verwendet habt
-6. **Abgabetermin:** [DATUM TBD]
+6. **Abgabetermin:** 16 December 2026. upload your final text to the shared folder with name, surname and title in the filename. 
 
 Ladet euer Abschlussprojekt als Ordner mit eurem Vor- und Nachnamen hoch, über den Link auf der Seite mit dem Kursüberblick.
 
