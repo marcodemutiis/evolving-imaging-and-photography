@@ -49,11 +49,11 @@ The project must contain:
 | 4.11.2026   | -Workshop Week - no class-	       |
 | 11.11.2026  | -Self Study-                       |
 | 18.11.2026  | 4. The Screen Body Double          | <!-- Cooper, Lu Yang, Nina Davies -> avatars and metahuman -->
-| 25.11.2026  | 5. The Networked Body              | <!-- Alina Frieske, Jenny Rova Tinder, Tom Galle Tinder VR -> digital collage -->
-| 2.12.2026   | MID TERM PRESENTATIONS             |
-| 9.12.2026  | 6. The Captured Body               | <!-- Granular Synthesis Modell 5, Elisa Hampe -> Photogrammetry -->
-| 16.12.2026  | 7. The Augmented Body              | <!-- Ines ALpha -> Face Filters -->
-| 6.1.2027    | Project Development                |
+| 25.11.2026  |             | <!-- Alina Frieske, Jenny Rova Tinder, Tom Galle Tinder VR -> digital collage -->
+| 2.12.2026   | 5. The Networked Body              | 
+| 9.12.2026  | MID TERM PRESENTATIONS               | 
+| 16.12.2026  | 6. The Captured Body              | <!-- Granular Synthesis Modell 5, Elisa Hampe -> Photogrammetry -->
+| 6.1.2027    | 7. The Augmented Body                | <!-- Ines ALpha -> Face Filters -->
 | 13.1.2027   | Project Development                |
 | 20.1.2027   | FINAL PRESENTATIONS                |
 
@@ -128,11 +128,11 @@ Das Projekt muss folgendes enthalten:
 | 4.11.2026   | -Workshoptage - kein Unterricht-   |
 | 11.11.2026  | -Selbststudium-                    |
 | 18.11.2026  | 4. The Screen Body Double     |
-| 25.11.2026  | 5. The Networked Body              |
-| 2.12.2026   | MIDTERMS                           |
-| 9.12.2026  | 6. The Captured Body               |
-| 16.12.2026  | 7. The Augmented Body              |
-| 6.1.2027    | Projektentwicklung                 |
+| 25.11.2026  |              |
+| 2.12.2026   | 5. The Networked Body                           |
+| 9.12.2026  | MIDTERMS              |
+| 16.12.2026  | 6. The Captured Body               |
+| 6.1.2027    | 7. The Augmented Body                 |
 | 13.1.2027   | Projektentwicklung                 |
 | 20.1.2027   | ABSCHLUSSPRÄSENTATIONEN            |
 
