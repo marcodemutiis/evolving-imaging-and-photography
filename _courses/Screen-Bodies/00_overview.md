@@ -155,57 +155,57 @@ Ich möchte, dass Studierende mit unterschiedlichen Hintergründen und Perspekti
 
 [BKD]
 
-- Franke, Sarah xxv
+- Franke, Sarah xxvv
 
-- Höninger Nina vvv
+- Höninger Nina vvvv
 
-- Thiemann Felina vvv
+- Thiemann Felina vvvv
 
-- Willenbrink Nele vvv
+- Willenbrink Nele vvvv
 
-- Le Hong Tuan vxv
+- Le Hong Tuan vxvv
 
-- Bröde Julia vxv
+- Bröde Julia vxvv
 
-- Wegst Emily vvv
+- Wegst Emily vvvv
 
-- Bruckner Mona vvv
+- Bruckner Mona vvvv
 
-- Frisch Ursula vvv
+- Frisch Ursula vvvv
 
-- Avilov Amalia vvx
+- Avilov Amalia vvxv
 
-- Waller Dominique xxv 
+- Waller Dominique xxvv 
 
-- Seydel Lotta vvv
+- Seydel Lotta vvvx
 
-- Schmelzer Clara vv
+- Schmelzer Clara vvv
 
-- Binner Sunari vvv
+- Binner Sunari vvvv
 
 [MKD]
 
 - <del>Lickert Michaela v</del>
 
-- Kilic Merve vvv
+- Kilic Merve vvvx
 
-- Semmelroggen Stina vvv
+- Semmelroggen Stina vvvv
 
-- Dogru Medine vvx
+- Dogru Medine vvxx
 
-- Schmitt Alexandra vvx
+- Schmitt Alexandra vvxv
 
-- Polat Sümeyre vvv
+- Polat Sümeyre vvvv
 
-- Grünewald Janne vvv
+- Grünewald Janne vvvv
 
 - <del>Fuchs Giuliana vv</del>
 
-- Späth Tessa vvv
+- Späth Tessa vvvv
 
-- Basica Sophie vvv
+- Basica Sophie vvvv
 
-- Weber Moritz vvv
+- Weber Moritz vvvv
 
 - <del>Weil Sophie</del>
 

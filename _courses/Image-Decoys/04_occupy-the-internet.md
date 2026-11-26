@@ -37,7 +37,7 @@ Zoé Aubry's project #Ingrid takes its name from Ingrid Escamilla Vargas, a 25-y
 This tactic exploits the same operational logic as the #proudboys occupation: feed and search-ranking algorithms weight visibility by recency, volume, and engagement, so a sufficient influx of new, positively-engaged images under a tag can computationally outrank and suppress earlier content in what most users are shown, not deleting the leaked photographs, but algorithmically burying them beneath a flood of counter-images. Aubry works with friends of the victim to gather this collective, algorithmically-directed outpouring of images and print them, extending the work from the internet to the exhibition space as well as public spaces, through a participatory postering campaign. Her project – while actually de-operationalising the networked images in their original form – makes visible, and physically durable, a tactic that would otherwise dissolve back into the feed as quickly as it emerged.
 
 ## David Horvitz, [*241543903*](https://knowyourmeme.com/memes/241543903-heads-in-freezers), 2009 – ongoing 
-![David Horvitz]({{ site.baseurl }}/courses/Image-Decoys/assets/img/horvitz.png)
+![David Horvitz]({{ site.baseurl }}/courses/Image-Decoys/assets/img/horvitz.jpg)
 <figcaption>David Horvitz, image and message posted by the artist</figcaption>
 
 Another form of algorithmic circulation operates through image tagging and metadata, which determine how images surface not only across social platforms but in search engines such as Google Image Search. David Horvitz's ongoing conceptual project 241543903 (also known as Head in a Freezer) mobilises image circulation as a strategy of resistance, albeit in a more playful and absurdist tone.
